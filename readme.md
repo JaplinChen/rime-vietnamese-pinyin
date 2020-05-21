@@ -1,6 +1,6 @@
 # Rime-Vietnamese-Pinyin
 
-### Rime 越南拼音輸入法
+## Rime 越南拼音輸入法
 
 `這是一個一言不合就動手修改輪子的自用學習越南語小工具。`
 
@@ -17,13 +17,14 @@
 
 
 
-### 安裝：
+## 安裝：
 
-#### Step 1. 安裝輸入法引擎：[Rime 小狼毫輸入法](https://rime.im/)
+### Step 1. 安裝輸入法引擎：[Rime 小狼毫輸入法](https://rime.im/)
 
+   爲什麼選擇 Rime ? 1.無廣告 2.免費 3.可以修改
    請按照官方網站的說明安裝吧.
 
-#### Step 2. 下載 [rime-vietnamese](https://github.com/gkovacs/rime-vietnamese) 及解壓縮之後, 
+### Step 2. 下載 [rime-vietnamese](https://github.com/gkovacs/rime-vietnamese) 及解壓縮之後, 
 
    將 4個 .yaml copy 到 [Rime 的用戶文件夾] 內, 如下圖.
 
@@ -33,11 +34,11 @@
 
 
 
-### 如何<u>手動</u>增加越南詞匯:
+## 如何<u>手動</u>增加越南詞匯:
 
 
 
-#### Step 1. 將越南字詞轉成拼音字母：
+### Step 1. 將越南字詞轉成拼音字母：
 
    使用 Excel 整理, 便於以後增加詞匯
 
@@ -81,7 +82,7 @@
 
    
 
-#### Step 2. 修改
+### Step 2. 修改
 
    將新增的詞匯, 依照 vn.dict.yaml 和 vn_han.dict.yaml 格式, 
 
@@ -89,7 +90,7 @@
 
 
 
-#### 參考：
+### 參考：
 
 1. 越南詞匯來源：
    1. [越南常用字 7184 字](https://gist.github.com/hieuthi/1f5d80fca871f3642f61f7e3de883f3a) 保留 Telex, 並增加拼音
