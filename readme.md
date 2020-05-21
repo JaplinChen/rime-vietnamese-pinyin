@@ -21,15 +21,15 @@
 
 #### Step 1. 安裝輸入法引擎：[Rime 小狼毫輸入法](https://rime.im/)
 
-請按照官方網站的說明安裝吧.
+   請按照官方網站的說明安裝吧.
 
 #### Step 2. 下載 [rime-vietnamese](https://github.com/gkovacs/rime-vietnamese) 及解壓縮之後, 
 
-將 4個 .yaml copy 到 [Rime 的用戶文件夾] 內, 如下圖.
+   將 4個 .yaml copy 到 [Rime 的用戶文件夾] 內, 如下圖.
 
-![打開 Rime 用戶資料夾](readme.assets/Rime 用戶資料夾.png)
+   ![打開 Rime 用戶資料夾](readme.assets/Rime 用戶資料夾.png)
 
-Copy 好之後, 按 [重新部署] 即可.
+   Copy 好之後, 按 [重新部署] 即可.
 
 
 
@@ -39,41 +39,41 @@ Copy 好之後, 按 [重新部署] 即可.
 
 #### Step 1. 將越南字詞轉成拼音字母：
 
-使用 Excel 整理, 便於以後增加詞匯
+   使用 Excel 整理, 便於以後增加詞匯
 
-不想寫 VBA, 所以使用 **SUBSTITUTE** Function, 嗯, 很愚笨的方法
+   不想寫 VBA, 所以使用 **SUBSTITUTE** Function, 嗯, 很愚笨的方法
 
-1. áàãảạâẩậấầăắặẳẫẵằ –> a,  儲存格 F1 的公式如下:
+   1. áàãảạâẩậấầăắặẳẫẵằ –> a,  儲存格 F1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1,"á","a"),"à","a"),"ã","a"),"ả","a"),"ạ","a"),"â","a"),"ẩ","a"),"ậ","a"),"ấ","a"),"ầ","a"),"ă","a"),"ắ","a"),"ặ","a"),"ẳ","a"),"ẫ","a"),"ẵ","a"),"ằ","a")
    ```
 
-2. éèêễểẽẻẹệếề –> e,  儲存格 G1 的公式如下:
+   2. éèêễểẽẻẹệếề –> e,  儲存格 G1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(F1,"é","e"),"è","e"),"ê","e"),"ễ","e"),"ể","e"),"ẽ","e"),"ẻ","e"),"ẹ","e"),"ệ","e"),"ế","e"),"ề","e")
    ```
 
-3. íìỉịĩ –> i,  儲存格 H1 的公式如下:
+   3. íìỉịĩ –> i,  儲存格 H1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(G1,"í","i"),"ì","i"),"ỉ","i"),"ị","i"),"ĩ","i")
    ```
 
-4. óớòờôốồổõỏơởợọộỡỗ –> o,  儲存格 I1 的公式如下:
+   4. óớòờôốồổõỏơởợọộỡỗ –> o,  儲存格 I1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(H1,"ó","o"),"ớ","o"),"ò","o"),"ờ","o"),"ô","o"),"ố","o"),"ồ","o"),"ổ","o"),"õ","o"),"ỏ","o"),"ơ","o"),"ở","o"),"ợ","o"),"ọ","o"),"ộ","o"),"ỡ","o"),"ỗ","o")
    ```
 
-5. úứùừũủưữửựụ – u,  儲存格 J1 的公式如下:
+   5. úứùừũủưữửựụ – u,  儲存格 J1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(I1,"ú","u"),"ứ","u"),"ù","u"),"ừ","u"),"ũ","u"),"ủ","u"),"ư","u"),"ữ","u"),"ử","u"),"ự","u"),"ụ","u")
    ```
 
-6. ýỳỹỷỵ –> y
+   6. ýỳỹỷỵ –> y
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(J1,"ý","y"),"ỳ","y"),"ỹ","y"),"ỷ","y"),"ỵ","y")
@@ -83,9 +83,9 @@ Copy 好之後, 按 [重新部署] 即可.
 
 #### Step 2. 修改
 
-將新增的詞匯, 依照 vn.dict.yaml 和 vn_han.dict.yaml 格式, 
+   將新增的詞匯, 依照 vn.dict.yaml 和 vn_han.dict.yaml 格式, 
 
-按照上面 [安裝 Step 2] 的步驟, 打開文件夾和檔案+貼上, [重新部署] 即可.
+   按照上面 [安裝 Step 2] 的步驟, 打開文件夾和檔案+貼上, [重新部署] 即可.
 
 
 
