@@ -21,16 +21,16 @@
 
 ### Step 1. 安裝輸入法引擎：[Rime 小狼毫輸入法](https://rime.im/)
 
-   爲什麼選擇 Rime ? 1.無廣告 2.免費 3.可以修改
+   爲什麼選擇 Rime ? **1.無廣告 2.免費 3.可以修改**
    請按照官方網站的說明安裝吧.
 
 ### Step 2. 下載 [rime-vietnamese-pinyin](https://github.com/JaplinChen/rime-vietnamese-pinyin) 及解壓縮之後, 
 
-   將 **4 個 .yaml copy** 到 [Rime 的用戶文件夾] 內, 如下圖.
+   將 **4 個 .yaml copy** 到 **[Rime 的用戶文件夾]** 內, 如下圖.
 
-   ![打開 Rime 用戶資料夾](readme.assets/Rime 用戶資料夾.png)
+   ![打開 Rime 用戶資料夾](Rime 用戶資料夾.png)
 
-   Copy 好之後, 按 [重新部署] 即可.
+   Copy 好之後, 按 **[重新部署]** 即可.
 
 
 
