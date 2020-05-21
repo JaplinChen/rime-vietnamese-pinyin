@@ -49,37 +49,37 @@
    
    嗯, 很愚笨的方法
 
-   1. ** áàãảạâẩậấầăắặẳẫẵằ ** –> a,  儲存格 F1 的公式如下:
+   1. **áàãảạâẩậấầăắặẳẫẵằ ** –> a,  儲存格 F1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(A1,"á","a"),"à","a"),"ã","a"),"ả","a"),"ạ","a"),"â","a"),"ẩ","a"),"ậ","a"),"ấ","a"),"ầ","a"),"ă","a"),"ắ","a"),"ặ","a"),"ẳ","a"),"ẫ","a"),"ẵ","a"),"ằ","a")
    ```
 
-   2. ** éèêễểẽẻẹệếề ** –> e,  儲存格 G1 的公式如下:
+   2. **éèêễểẽẻẹệếề ** –> e,  儲存格 G1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(F1,"é","e"),"è","e"),"ê","e"),"ễ","e"),"ể","e"),"ẽ","e"),"ẻ","e"),"ẹ","e"),"ệ","e"),"ế","e"),"ề","e")
    ```
 
-   3. ** íìỉịĩ ** –> i,  儲存格 H1 的公式如下:
+   3. **íìỉịĩ ** –> i,  儲存格 H1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(G1,"í","i"),"ì","i"),"ỉ","i"),"ị","i"),"ĩ","i")
    ```
 
-   4. ** óớòờôốồổõỏơởợọộỡỗ ** –> o,  儲存格 I1 的公式如下:
+   4. **óớòờôốồổõỏơởợọộỡỗ ** –> o,  儲存格 I1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(H1,"ó","o"),"ớ","o"),"ò","o"),"ờ","o"),"ô","o"),"ố","o"),"ồ","o"),"ổ","o"),"õ","o"),"ỏ","o"),"ơ","o"),"ở","o"),"ợ","o"),"ọ","o"),"ộ","o"),"ỡ","o"),"ỗ","o")
    ```
 
-   5. ** úứùừũủưữửựụ ** – u,  儲存格 J1 的公式如下:
+   5. **úứùừũủưữửựụ ** – u,  儲存格 J1 的公式如下:
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(I1,"ú","u"),"ứ","u"),"ù","u"),"ừ","u"),"ũ","u"),"ủ","u"),"ư","u"),"ữ","u"),"ử","u"),"ự","u"),"ụ","u")
    ```
 
-   6. ** ýỳỹỷỵ ** –> y
+   6. **ýỳỹỷỵ ** –> y
 
    ```
    =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(J1,"ý","y"),"ỳ","y"),"ỹ","y"),"ỷ","y"),"ỵ","y")
