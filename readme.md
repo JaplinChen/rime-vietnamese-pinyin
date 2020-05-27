@@ -32,14 +32,26 @@
 
    Copy 好之後, 按 **[重新部署]** 即可.
 
+### 如何新增詞匯整理到 Rime: 
 
+1. Pinyin 字詞
+   1. 將需要增加的越南字詞, 放到 WordList.txt
+   2. 可使用 ![vn_to_telex.py](vn_to_telex.py) 將 WordList.txt 的越南字詞轉成 vn_pinyin.txt 越南字詞+pinyin
+   3. 再將 vn_pinyin.txt 的內容 copy 到 ![vn.dict.yaml](vn.dict.yaml) 檔案最後面
+   4. Rime 重新部署
 
-### 參考：
+2.越中字詞
+   1. 網路上可以蒐集到很多越中的字詞教學, 可以先整理在 Excel
+   2. 格式可以參考 ![越南語基本詞匯3600.xlsx](越南語基本詞匯3600.xlsx)
+   3. 再將相關內容 copy 到 ![vn_han.dict.yaml](vn_han.dict.yaml) 檔案最後面. 格式如: A1=中文 B1=越南文 C1=權值
+   4. Rime 重新部署
+
+### 現有越南詞匯參考：
 
 1. 越南詞匯來源：
    1. [越南常用字 7184 字](https://gist.github.com/hieuthi/1f5d80fca871f3642f61f7e3de883f3a) 保留 Telex, 並增加拼音
-   2. 網路上找到+整理的 越南語基本詞匯3600.xlsx
+   2. 網路上找到+整理的 ![越南語基本詞匯3600.xlsx](越南語基本詞匯3600.xlsx)
 2. 修改自 [rime-vietnamese](https://github.com/gkovacs/rime-vietnamese)
 3. 越南字庫基礎：[越南常用字 7184 字](https://gist.github.com/hieuthi/1f5d80fca871f3642f61f7e3de883f3a)
 4. [漢喃字輸入法](https://chinese.com.vn/phan-mem-viet-chu-han-nom-weasel-hannom-mien-phi.html)
-5. 詞匯整理: 越南字整理.xlsx
+
