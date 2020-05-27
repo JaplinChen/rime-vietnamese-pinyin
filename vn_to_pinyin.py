@@ -24,12 +24,12 @@ a=open('./vn_pinyin.txt','w',encoding="utf-8")
 SourceText = ''
 for i in f:
     # Fix Other UTF8 vietnamese character
-    for UTF8regex, UTF8replace in UTF8Char.items():
-        SourceText = re.sub(UTF8regex, UTF8replace, i)
+    ##for UTF8regex, UTF8replace in UTF8Char.items():
+    ##    SourceText = re.sub(UTF8regex, UTF8replace, i)
     # Fix Tone position
-    #Clean_Tone_Text = visen.clean_tone(SourceText)
+    Clean_Tone_Text = visen.clean_tone(i)
     # Get pure English Character => PinYin key
-    NoToneText = visen.remove_tone(SourceText).strip()
+    NoToneText = visen.remove_tone(Clean_Tone_Text).strip()
     # Get the Telex of every vietnamese word
     '''
     TelexText = ''
@@ -39,7 +39,7 @@ for i in f:
         TelexText += TempTelexText + ' '
     '''
     # Save to file
-    print(SourceText.strip() + '	' + NoToneText, file=a)
+    print(Clean_Tone_Text.strip() + '	' + NoToneText + '	' + '30000', file=a)
     #a.write(i.strip() + ' ' + convert(i) )
 
 a.close()
