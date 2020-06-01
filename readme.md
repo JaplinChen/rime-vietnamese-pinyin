@@ -34,20 +34,18 @@
 
 ### 如何新增詞匯整理到 Rime: 
 
-1. Pinyin 字詞
-   1. 將需要增加的越南字詞, 放到 WordList.txt
-   2. 可使用 [vn_to_telex.py](vn_to_telex.py) 將 WordList.txt 的越南字詞轉成 vn_pinyin.txt 越南字詞+pinyin
-   3. 再將 vn_pinyin.txt 的內容 copy 到 [vn.dict.yaml](vn.dict.yaml) 檔案最後面
-   4. Rime 重新部署
+1. 將平日從網路上學習 or 整理的越南字詞, 儲存在 **make_dict\VietnameseWordList.xlsx**。![image-20200601095206012](readme.assets/image-20200601095206012.png)
 
-2.越中字詞
+2. 可使用 [excel_to_vndict.py](excel_to_vndict.py) 將 **VietnameseWordList.xlsx** 的越南字詞，重新產生 **vn.dict.yaml** 和 **vn_han.dict.yaml。**
 
-   1. 網路上可以蒐集到很多越中的字詞教學, 可以先整理在 Excel
-   2. 格式可以參考 [越南語基本詞匯3600.xlsx](越南語基本詞匯3600.xlsx)
-   3. 再將相關內容 copy 到 [vn_han.dict.yaml](vn_han.dict.yaml) 檔案最後面. 格式如: A1=中文 B1=越南文 C1=權值
-   4. Rime 重新部署
+   **`python excel_to_vndict.py`**
 
-### 現有越南詞匯參考：
+3. 再將 **vn.dict.yaml** 和 **vn_han.dict.yaml** 這二個檔案，如**安裝->Step2* copy 到 **[Rime 的用戶文件夾]** 內。
+
+4. Rime **重新部署**。
+
+
+### 參考：
 
 1. 越南詞匯來源：
    1. [越南常用字 7184 字](https://gist.github.com/hieuthi/1f5d80fca871f3642f61f7e3de883f3a) 保留 Telex, 並增加拼音
