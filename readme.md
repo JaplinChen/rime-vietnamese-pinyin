@@ -44,7 +44,10 @@
 
 ### 如何新增詞匯整理到 Rime: 
 
-1. 將平日從網路上學習 or 整理的越南字詞, 儲存在 **[make_dict\VietnameseWordList.xlsx](make_dict\VietnameseWordList.xlsx)**。![image-20200601095206012](readme.assets/image-20200601095206012.png)
+1. 將平日從網路上學習 or 整理的越南字詞, 儲存在 **[make_dict\VietnameseWordList.xlsx](make_dict\VietnameseWordList.xlsx)**。
+
+   PS、只需要更新 A :Vietnamese 和 B :Chinese 欄位即可。C、D、E 內容會自動產生。
+   ![image-20200601095206012](readme.assets/image-20200601095206012.png)
 
 2. 可使用 [excel_to_vndict.py](excel_to_vndict.py) 將 **[VietnameseWordList.xlsx](make_dict\VietnameseWordList.xlsx)** 的越南字詞，重新產生 **vn.dict.yaml** 和 **vn_han.dict.yaml。**
 
