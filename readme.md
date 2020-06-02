@@ -76,24 +76,29 @@
 ### Step 2. 增加此[越南拼音輸入法](https://github.com/JaplinChen/rime-vietnamese-pinyin) 
 
 1. 下載 [rime-vietnamese-pinyin](https://github.com/JaplinChen/rime-vietnamese-pinyin) 及解壓縮。
+
 2. 將 **4 個 .yaml copy** 到 **[Rime 的用戶文件夾]** 內, 如下圖.
-
-![打開 Rime 用戶資料夾](readme.assets/Rime 用戶資料夾.png)
-
-2. Copy 好之後, 按 **[重新部署]** 即可.
+   
+    ![打開 Rime 用戶資料夾](readme.assets/Rime 用戶資料夾.png)
+    
+    
+    
+3. Copy 好之後, 按 **[重新部署]** 即可.
 
     - 在「**輸入法設定**」中，可以選擇各種中文輸入法。
     
     - 紅色框是此方案「**越南拼音**」輸入法。
-       ![image-20200602075505838](readme.assets/image-20200602075505838.png)
-   
-       
-       
-    - 切換輸入法：<kbd>Ctrl</kbd> + <kbd>~</kbd>
     
-      ![image-20200602114507368](readme.assets/image-20200602114507368.png) 
+    
+
+  ![image-20200602075505838](readme.assets/image-20200602075505838.png)
+
+  - 切換輸入法：<kbd>Ctrl</kbd> + <kbd>~</kbd>
+  
+    ![image-20200602114507368](readme.assets/image-20200602114507368.png) 
 
    
+
 
 ## 如何新增詞匯整理到 Rime: 
 
