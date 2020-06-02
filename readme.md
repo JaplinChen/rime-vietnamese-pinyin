@@ -40,15 +40,15 @@
 
 2. Copy 好之後, 按 **[重新部署]** 即可.
 
-  - 在「**輸入法設定**」中，可以選擇各種中文輸入法。
-  - 紅色框是此方案「**越南拼音**」輸入法。
-  - 切換輸入法：<button>Ctrl</button> + <button>~</button>
+    - 在「**輸入法設定**」中，可以選擇各種中文輸入法。
+    - 紅色框是此方案「**越南拼音**」輸入法。
+    - 切換輸入法：<button>Ctrl</button> + <button>~</button>
 
-  ![image-20200602075505838](readme.assets/image-20200602075505838.png)
+    ![image-20200602075505838](readme.assets/image-20200602075505838.png)
 
    
 
-### 如何新增詞匯整理到 Rime: 
+## 如何新增詞匯整理到 Rime: 
 
 1. 將平日從網路上學習 or 整理的越南字詞, 儲存在 **[make_dict\VietnameseWordList.xlsx](make_dict\VietnameseWordList.xlsx)**。
 
