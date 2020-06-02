@@ -32,6 +32,7 @@
       ![image-20200602092014729](readme.assets/image-20200602092014729.png) 
 
     **拼音**
+    
       ![image-20200602092113378](readme.assets/image-20200602092113378.png) 
 
     **Telex** 
@@ -44,6 +45,7 @@
 
    - 使用 <kbd>&#8592;</kbd> <kbd>&#8594;</kbd> 切換顯示頁面，如下圖。
       ![image-20200602092924410](readme.assets/image-20200602092924410.png) 
+      
 - 如果使用 Telex 輸入，則如上圖會直接顯示詞彙的中文意義。
             ![image-20200602104210967](readme.assets/image-20200602104210967.png) 
 
