@@ -41,19 +41,18 @@
 
     
 
-2. 輸入時，可以查詢整理過的越南詞彙(中文 越文)。
-
-   - 使用 <kbd>&#8592;</kbd> <kbd>&#8594;</kbd> 切換顯示頁面，如下圖。
+2. 拼音輸入時，可以查詢整理過的越南詞彙(中文 越文)。使用 <kbd>&#8592;</kbd> <kbd>&#8594;</kbd> 切換顯示頁面，如下圖。
    
       ![image-20200602092924410](readme.assets/image-20200602092924410.png) 
-      
-- 如果使用 Telex 輸入，則如上圖會直接顯示詞彙的中文意義。
+   
+3. 如果使用 Telex 輸入，可以直接顯示詞彙的中文意義。
 
-      ![image-20200602104210967](readme.assets/image-20200602104210967.png) 
+   ![image-20200602104210967](readme.assets/image-20200602104210967.png) 
 
-   - Telex 輸入方式，可以參考 越南阿旺的介紹
+4. Telex 輸入方式，可以參考 越南阿旺的介紹
 
-      [【一定要會】越南Telex輸入法，手機上輕鬆輸入標準越南文](http://chanywang.blogspot.com/2014/07/telex.html)
+   [【一定要會】越南Telex輸入法，手機上輕鬆輸入標準越南文](http://chanywang.blogspot.com/2014/07/telex.html)
+
 
 
 ## 安裝：
@@ -70,7 +69,7 @@
 
 1. 將 **4 個 .yaml copy** 到 **[Rime 的用戶文件夾]** 內, 如下圖.
 
-![打開 Rime 用戶資料夾](Rime 用戶資料夾.png)
+![打開 Rime 用戶資料夾](readme.assets/Rime 用戶資料夾.png)
 
 2. Copy 好之後, 按 **[重新部署]** 即可.
 
