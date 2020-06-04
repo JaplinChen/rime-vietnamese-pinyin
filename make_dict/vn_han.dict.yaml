@@ -45,8 +45,6 @@ use_preset_vocabulary: false
 擴音機	aam li	20000
 {陰曆} 陰曆、農曆	âm lịch	30000
 {陰曆} 陰曆、農曆	aam lichj	20000
-陰曆	âm lịch	30000
-陰曆	aam lichj	20000
 {陰謀} 陰謀	âm mưu	30000
 {陰謀} 陰謀	aam muwu	20000
 音樂	âm nhạc	30000
@@ -93,8 +91,6 @@ use_preset_vocabulary: false
 吃太多鹽	awn quas nhieeuf muoois	20000
 吃太多肉	ăn quá nhiều thịt	30000
 吃太多肉	awn quas nhieeuf thitj	20000
-吃早飯	ăn sáng	30000
-吃早飯	awn sangs	20000
 吃早餐	ăn sáng	30000
 吃早餐	awn sangs	20000
 過年	ăn tết	30000
@@ -133,8 +129,6 @@ use_preset_vocabulary: false
 英雄	anh hungf	20000
 {影響} 影響	ảnh hưởng	30000
 {影響} 影響	anhr huwowngr	20000
-影響	ảnh hưởng	30000
-影響	anhr huwowngr	20000
 英語	Anh ngữ	30000
 英語	Anh nguwx	20000
 英國	Anh quốc	30000
@@ -151,12 +145,8 @@ use_preset_vocabulary: false
 我愛你	Anh yeeu em	20000
 池塘	ao	30000
 池塘	ao	20000
-上衣	áo	30000
-上衣	aos	20000
-衣; 上衣	áo	30000
-衣; 上衣	aos	20000
-衣服	áo	30000
-衣服	aos	20000
+衣; 上衣; 衣服	áo	30000
+衣; 上衣; 衣服	aos	20000
 針保工作服	áo bảo trì may	30000
 針保工作服	aos baor trif may	20000
 幹部工作服	áo cán bộ	30000
@@ -199,10 +189,8 @@ use_preset_vocabulary: false
 酸	axits	20000
 局促不安	áy náy	30000
 局促不安	ays nays	20000
-3	ba	30000
-3	ba	20000
-三	ba	30000
-三	ba	20000
+3, 三	ba	30000
+3, 三	ba	20000
 婆, 女士, 年長的女性	bà	30000
 婆, 女士, 年長的女性	baf	20000
 她	bà ấy	30000
@@ -225,8 +213,6 @@ use_preset_vocabulary: false
 外祖父	baf ngoaij	20000
 祖母	bà nội	30000
 祖母	baf nooij	20000
-大伯	bác	30000
-大伯	bacs	20000
 伯父	bác	30000
 伯父	bacs	20000
 北	bắc	30000
@@ -281,8 +267,6 @@ use_preset_vocabulary: false
 紙牌, 撲克牌	baif tulowkhow	20000
 社論	bài xã luận	30000
 社論	baif xax luaanj	20000
-賣	bán	30000
-賣	bans	20000
 賣, 出售	bán	30000
 賣, 出售	bans	20000
 桌子	bàn	30000
@@ -293,8 +277,6 @@ use_preset_vocabulary: false
 汙物, 汙	baanr	20000
 你/妳	bạn	30000
 你/妳	banj	20000
-朋友	bạn	30000
-朋友	banj	20000
 朋友, 您	bạn	30000
 朋友, 您	banj	20000
 忙	bận	30000
@@ -307,8 +289,6 @@ use_preset_vocabulary: false
 搓衣板	banf chaf giawtj ddoof	20000
 你肯定嗎？	Bạn chắc chắn không	30000
 你肯定嗎？	Banj chawcs chawns khoong	20000
-牙刷	Bàn chải	30000
-牙刷	Banf chair	20000
 刷子	bàn chải	30000
 刷子	banf chair	20000
 牙刷	bàn chải đánh răng	30000
@@ -317,8 +297,8 @@ use_preset_vocabulary: false
 鞋刷	banf chair giayf	20000
 擦膠刷	bàn chải quét keo	30000
 擦膠刷	banf chair quets keo	20000
-電動牙刷	Bàn chải sạc điện	30000
-電動牙刷	Banf chair sacj ddieenj	20000
+電動牙刷	bàn chải sạc điện	30000
+電動牙刷	banf chair sacj ddieenj	20000
 足 	bàn chân	30000
 足 	banf chaan	20000
 你肯定嗎！	Bạn có chắc không	30000
@@ -363,10 +343,6 @@ use_preset_vocabulary: false
 減價出售	bans giamr	20000
 {頒行} 頒布、頒行	ban hành	30000
 {頒行} 頒布、頒行	ban hanhf	20000
-頒行	ban hành	30000
-頒行	ban hanhf	20000
-同學	Bạn học	30000
-同學	Banj hocj	20000
 同學, 校友	bạn học	30000
 同學, 校友	banj hocj	20000
 同桌	Bạn học cùng bàn	30000
@@ -409,8 +385,6 @@ use_preset_vocabulary: false
 手	banf tay	20000
 本身, 自己, 我本身	bản thân	30000
 本身, 自己, 我本身	banr thaan	20000
-自己	bản thân	30000
-自己	banr thaan	20000
 你呢！	Bạn thì sao	30000
 你呢！	Banj thif sao	20000
 大斬板	bàn thớt to	30000
@@ -501,8 +475,6 @@ use_preset_vocabulary: false
 報表	baos bieeur	20000
 {報告} 報告、匯報、通報	báo cáo	30000
 {報告} 報告、匯報、通報	baos caos	20000
-報告	báo cáo	30000
-報告	baos caos	20000
 保險套	bao cao su	30000
 保險套	bao cao su	20000
 報章雜誌	báo chí	30000
@@ -533,8 +505,6 @@ use_preset_vocabulary: false
 網路風暴	baox mangj	20000
 多少	bao nhiêu	30000
 多少	bao nhieeu	20000
-多少錢	bao nhiêu	30000
-多少錢	bao nhieeu	20000
 透明膠袋	bao nilong pe	30000
 透明膠袋	bao nilong pe	20000
 黑塑膠袋	bao nylon đen	30000
@@ -583,8 +553,6 @@ use_preset_vocabulary: false
 高麗菜	bawps cair	20000
 (量)碗	bát	30000
 (量)碗	bats	20000
-一碗	bát	30000
-一碗	bats	20000
 八	bát	30000
 八	bats	20000
 泰銖	bạt	30000
@@ -597,10 +565,8 @@ use_preset_vocabulary: false
 不管, 不拘	baats cuws	20000
 不論	bất cứ	30000
 不論	baats cuws	20000
-始,  起頭	bắt đầu	30000
-始,  起頭	bawts ddaauf	20000
-開始	bắt đầu	30000
-開始	bawts ddaauf	20000
+開始,  起頭	bắt đầu	30000
+開始,  起頭	bawts ddaauf	20000
 不同	bất đồng	30000
 不同	baats ddoongf	20000
 不動產	bất động sản	30000
@@ -645,8 +611,6 @@ use_preset_vocabulary: false
 天空	baauf trowif	20000
 陳列; 展示	bày	30000
 陳列; 展示	bayf	20000
-7	bảy	30000
-7	bayr	20000
 7, 七	bảy	30000
 7, 七	bayr	20000
 展售	bày bán	30000
@@ -671,10 +635,8 @@ use_preset_vocabulary: false
 邊(方位, 方向)	been	20000
 賣方	bên bán	30000
 賣方	been bans	20000
-身邊	bên cạnh	30000
-身邊	been canhj	20000
-旁邊	bên cạnh	30000
-旁邊	been canhj	20000
+身邊; 旁邊	bên cạnh	30000
+身邊; 旁邊	been canhj	20000
 下面; 下邊	bên dưới	30000
 下面; 下邊	been duwowis	20000
 那邊	bên kia	30000
@@ -693,8 +655,6 @@ use_preset_vocabulary: false
 渡船頭; 渡口	beens phaf	20000
 右邊	bên phải	30000
 右邊	been phair	20000
-左邊	bên phải	30000
-左邊	been phair	20000
 左邊	bên trái	30000
 左邊	been trais	20000
 公車站	bến xa buýt	30000
@@ -715,14 +675,14 @@ use_preset_vocabulary: false
 心血管疾病	beenhj tim machj	20000
 傳染病	bệnh truyền nhiễm	30000
 傳染病	beenhj truyeenf nhieemx	20000
-病院; 醫院	bệnh viêm	30000
-病院; 醫院	beenhj vieem	20000
+炎症	bệnh viêm	30000
+炎症	beenhj vieem	20000
+肝炎	bệnh viêm gan	30000
+肝炎	beenhj vieem gan	20000
+脊髓灰質炎	bệnh viêm tủy xám	30000
+脊髓灰質炎	beenhj vieem tuyr xams	20000
 {病院} 醫院	bệnh viện	30000
 {病院} 醫院	beenhj vieenj	20000
-醫院	bệnh viện	30000
-醫院	beenhj vieenj	20000
-胖	béo	30000
-胖	beos	20000
 胖; 肥	béo	30000
 胖; 肥	beos	20000
 癡肥; 肥胖, 肥	béo phì	30000
@@ -731,10 +691,8 @@ use_preset_vocabulary: false
 廚房	beeps	20000
 廚房	bếp núc	30000
 廚房	beeps nucs	20000
-被	bị	30000
-被	bij	20000
-遭到、被	bị	30000
-遭到、被	bij	20000
+被, 遭到	bị	30000
+被, 遭到	bij	20000
 被逮捕	bị bắt	30000
 被逮捕	bij bawts	20000
 被禁	bị cấm	30000
@@ -779,8 +737,8 @@ use_preset_vocabulary: false
 公文夾	biaf congf	20000
 西卡紙	bìa cứng	30000
 西卡紙	biaf cuwngs	20000
-夾式書寫板	bìa cứng	30000
-夾式書寫板	biaf cuwngs	20000
+紙板	bìa cứng	30000
+紙板	biaf cuwngs	20000
 石碑	bia đá	30000
 石碑	bia ddas	20000
 塑膠套	bìa ép	30000
@@ -789,8 +747,6 @@ use_preset_vocabulary: false
 材料夾	biaf las	20000
 資料夾	bìa lò xo	30000
 資料夾	biaf lof xo	20000
-海	biển	30000
-海	bieenr	20000
 海; 牌(如車牌)	biển	30000
 海; 牌(如車牌)	bieenr	20000
 滾開	Biến đi ngay	30000
@@ -825,6 +781,8 @@ use_preset_vocabulary: false
 表像	bieeur tuwowngj	20000
 丙	bính	30000
 丙	binhs	20000
+拼音	bính âm	30000
+拼音	binhs aam	20000
 瓶	bình	30000
 瓶	binhf	20000
 電瓶	bình ắc qui	30000
@@ -839,8 +797,6 @@ use_preset_vocabulary: false
 白色大膠瓶	binhf keo lowns	20000
 小膠壺	bình keo xanh nhỏ	30000
 小膠壺	binhf keo xanh nhor	20000
-評論	bình luận	30000
-評論	binhf luaanj	20000
 評論(留言)	bình luận	30000
 評論(留言)	binhf luaanj	20000
 黎明	bình minh	30000
@@ -863,8 +819,6 @@ use_preset_vocabulary: false
 牛排	bits teets	20000
 束(花)	bó	30000
 束(花)	bos	20000
-牛	bò	30000
-牛	bof	20000
 牛 🐮	bò	30000
 牛 🐮	bof	20000
 爸	bố	30000
@@ -943,18 +897,12 @@ use_preset_vocabulary: false
 游泳	bowi looij	20000
 補償	bồi thường	30000
 補償	booif thuwowngf	20000
-因此	bởi vậy	30000
-因此	bowir vaayj	20000
-所以 	bởi vậy	30000
-所以 	bowir vaayj	20000
+因此, 所以 	bởi vậy	30000
+因此, 所以 	bowir vaayj	20000
 因為	bởi vì	30000
 因為	bowir vif	20000
-因爲	bởi vì	30000
-因爲	bowir vif	20000
-4	bốn	30000
-4	boons	20000
-四	bốn	30000
-四	boons	20000
+4, 四	bốn	30000
+4, 四	boons	20000
 馬桶 🚽	bồn cầu	30000
 馬桶 🚽	boonf caauf	20000
 40	bốn mươi	30000
@@ -995,10 +943,8 @@ use_preset_vocabulary: false
 晚餐	buwax toois	20000
 午餐	bữa trưa	30000
 午餐	buwax truwa	20000
-(量)…封、…張(照片)	bức	30000
-(量)…封、…張(照片)	buwcs	20000
-幅(畫, 照片), 封(信), 張(報紙)	bức	30000
-幅(畫, 照片), 封(信), 張(報紙)	buwcs	20000
+(量) 幅(畫), 封(信), 張(報紙, 照片)	bức	30000
+(量) 幅(畫), 封(信), 張(報紙, 照片)	buwcs	20000
 照片	bức ảnh	30000
 照片	buwcs anhr	20000
 催促	bức xúc	30000
@@ -1013,8 +959,8 @@ use_preset_vocabulary: false
 步	buwowcs	20000
 步入	bước vào	30000
 步入	buwowcs vaof	20000
-班、趟次、時期	buổi	30000
-班、趟次、時期	buooir	20000
+班, 趟, 次, 時期	buổi	30000
+班, 趟, 次, 時期	buooir	20000
 期間; 一次	buổi	30000
 期間; 一次	buooir	20000
 下午	buổi chiều	30000
@@ -1071,14 +1017,12 @@ use_preset_vocabulary: false
 郵品	buwu phaamr	20000
 明信片	bưu thiếp	30000
 明信片	buwu thieeps	20000
-例; 病例	ca	30000
-例; 病例	ca	20000
-班	ca	30000
-班	ca	20000
+公車, 客車; 總線, 匯排流	buýt	30000
+公車, 客車; 總線, 匯排流	buyts	20000
+班; 例, 病例	ca	30000
+班; 例, 病例	ca	20000
 個	cá	30000
 個	cas	20000
-魚	cá	30000
-魚	cas	20000
 魚 🐟	cá	30000
 魚 🐟	cas	20000
 茄子	cà	30000
@@ -1089,10 +1033,8 @@ use_preset_vocabulary: false
 伯, 大, 長, 全	car	20000
 蹭, 擦	cạ	30000
 蹭, 擦	caj	20000
-兩者…和…	cả ... Lẫn ...	30000
-兩者…和…	car ... Laanx ...	20000
-兩者	cả 2	30000
-兩者	car 2	20000
+兩者…和…	cả ... lẫn ...	30000
+兩者…和…	car ... laanx ...	20000
 番茄	cà chua	30000
 番茄	caf chua	20000
 兩者	cả hai	30000
@@ -1113,8 +1055,8 @@ use_preset_vocabulary: false
 全國	car nuwowcs	20000
 咖啡	cà phê	30000
 咖啡	caf phee	20000
-黑咖啡	cà phê đe	30000
-黑咖啡	caf phee dde	20000
+黑咖啡	cà phê đen	30000
+黑咖啡	caf phee dden	20000
 紅蘿蔔	cà rốt	30000
 紅蘿蔔	caf roots	20000
 歌星	ca sĩ	30000
@@ -1125,8 +1067,6 @@ use_preset_vocabulary: false
 鯨魚	cas voi	20000
 {各} 各	các	30000
 {各} 各	cacs	20000
-各	các	30000
-各	cacs	20000
 各位	các vị	30000
 各位	cacs vij	20000
 方法, 距, 距離, 方式	cách	30000
@@ -1185,10 +1125,8 @@ use_preset_vocabulary: false
 尺	cais thuwowcs ker	20000
 統治	cai trị	30000
 統治	cai trij	20000
-柳丁	cam	30000
-柳丁	cam	20000
-柳橙 🍊	cam	30000
-柳橙 🍊	cam	20000
+甘; 柳橙 🍊	cam	30000
+甘; 柳橙 🍊	cam	20000
 禁止	cấm	30000
 禁止	caams	20000
 持著; 拿著, 持有	cầm	30000
@@ -1207,12 +1145,8 @@ use_preset_vocabulary: false
 感冒、受寒	camr lanhj	20000
 謝謝; 感恩	cảm ơn	30000
 謝謝; 感恩	camr own	20000
-謝謝; 感恩	xin cảm ơn	30000
-謝謝; 感恩	xin camr own	20000
-感覺	cảm thấy	30000
-感覺	camr thaays	20000
-覺得	cảm thấy	30000
-覺得	camr thaays	20000
+感覺, 覺得	cảm thấy	30000
+感覺, 覺得	camr thaays	20000
 營	cắm trại	30000
 營	cawms traij	20000
 柬埔寨	Cam-pu-chia	30000
@@ -1247,8 +1181,6 @@ use_preset_vocabulary: false
 小心; 謹慎	caanr thaanj	20000
 小心一點。	Cẩn thận một chút	30000
 小心一點。	Caanr thaanj mootj chuts	20000
-小心點	Cẩn thận một chút	30000
-小心點	Caanr thaanj mootj chuts	20000
 干涉	can thiệp	30000
 干涉	can thieepj	20000
 需要; 須要, 必要	cần thiết	30000
@@ -1269,14 +1201,10 @@ use_preset_vocabulary: false
 緊張	cawng thawngr	20000
 湯	canh	30000
 湯	canh	20000
-旁邊	cạnh	30000
-旁邊	canhj	20000
-鄰近	cạnh	30000
-鄰近	canhj	20000
+旁邊, 鄰近	cạnh	30000
+旁邊, 鄰近	canhj	20000
 {警報} 警示、警告	cảnh báo	30000
 {警報} 警示、警告	canhr baos	20000
-警告	cảnh cáo	30000
-警告	canhr caos	20000
 樹枝	cành cây	30000
 樹枝	canhf caay	20000
 花瓣	cánh hoa	30000
@@ -1287,8 +1215,6 @@ use_preset_vocabulary: false
 員警	canhr sats	20000
 手臂	cánh tay	30000
 手臂	canhs tay	20000
-臂	cánh tay	30000
-臂	canhs tay	20000
 競爭	cạnh tranh	30000
 競爭	canhj tranh	20000
 鈣	can-xi	30000
@@ -1435,8 +1361,6 @@ use_preset_vocabulary: false
 慢	chaamj	20000
 勤勉, 努力, 勤勞, 認真	chăm chỉ	30000
 勤勉, 努力, 勤勞, 認真	chawm chir	20000
-認真	chăm chỉ	30000
-認真	chawm chir	20000
 結束	chấm dứt	30000
 結束	chaams duwts	20000
 用功	chăm học	30000
@@ -1497,6 +1421,8 @@ use_preset_vocabulary: false
 同意	chaaps thuaanj	20000
 澀🍏	chát	30000
 澀🍏	chats	20000
+質; 堆	chất	30000
+質; 堆	chaats	20000
 窄,緊	chật	30000
 窄,緊	chaatj	20000
 脂肪	chất béo	30000
@@ -1581,6 +1507,8 @@ use_preset_vocabulary: false
 錢(黃金單位)	chir	20000
 姐; 妳	chị	30000
 姐; 妳	chij	20000
+只, 只…罷了	chỉ … thôi	30000
+只, 只…罷了	chir … thooi	20000
 她	chị ấy	30000
 她	chij aays	20000
 只要	chỉ cần	30000
@@ -1609,8 +1537,6 @@ use_preset_vocabulary: false
 指標	chir tieeu	20000
 {指摘} 指責	chỉ trích	30000
 {指摘} 指責	chir trichs	20000
-只, 只…罷了	chỉ … thôi	30000
-只, 只…罷了	chir … thooi	20000
 鑰匙	chìa khóa	30000
 鑰匙	chiaf khoas	20000
 分割; 分擔, 分享	chia sẻ	30000
@@ -1875,8 +1801,6 @@ use_preset_vocabulary: false
 生日快樂	chucs muwngf sinh nhaatj	20000
 職能; 效能	chức năng	30000
 職能; 效能	chuwcs nawng	20000
-晚安！	chúc ngủ ngon	30000
-晚安！	chucs ngur ngon	20000
 晚安！	Chúc ngủ ngon !	30000
 晚安！	Chucs ngur ngon !	20000
 晚安，做個好夢	Chúc ngủ ngon và những giấc mơ ngọt ngào !	30000
@@ -1941,8 +1865,8 @@ use_preset_vocabulary: false
 照相	chupj hinhf	20000
 專	chuyên	30000
 專	chuyeen	20000
-班次	chuyến	30000
-班次	chuyeens	20000
+旅行; 班車, 班機, 班, 次, 趟	chuyến	30000
+旅行; 班車, 班機, 班, 次, 趟	chuyeens	20000
 話兒, 故事, 事, 事情	chuyện	30000
 話兒, 故事, 事, 事情	chuyeenj	20000
 班機班次	chuyến bay	30000
@@ -1989,6 +1913,8 @@ use_preset_vocabulary: false
 旗	cowf	20000
 尺寸(衣服)	cỡ	30000
 尺寸(衣服)	cowx	20000
+有…什麼	có ... gì	30000
+有…什麼	cos ... gif	20000
 她	cô ấy	30000
 她	coo aays	20000
 基本	cơ bản	30000
@@ -2097,8 +2023,6 @@ use_preset_vocabulary: false
 西洋棋	cowf vua	20000
 故意; 有意	cố ý	30000
 故意; 有意	coos ys	20000
-有…什麼	có ... gì	30000
-有…什麼	cos ... gif	20000
 杯子; 一杯	cốc	30000
 杯子; 一杯	coocs	20000
 定金; 訂金	cọc	30000
@@ -2167,6 +2091,8 @@ use_preset_vocabulary: false
 水牛	con traau	20000
 蟲,昆蟲	côn trùng	30000
 蟲,昆蟲	coon trungf	20000
+彎	cong	30000
+彎	cong	20000
 門(大型的門, 如拱門, 入場所的門); 埠	cổng	30000
 門(大型的門, 如拱門, 入場所的門); 埠	coongr	20000
 共, 總計	cộng	30000
@@ -2237,8 +2163,6 @@ use_preset_vocabulary: false
 欲從事工作	coong vieecj mong muoons	20000
 公園	công viên	30000
 公園	coong vieen	20000
-開關	công-tắc	30000
-開關	coong-tawcs	20000
 老虎 🐯	cọp	30000
 老虎 🐯	copj	20000
 旗杆	cột cờ	30000
@@ -2269,8 +2193,6 @@ use_preset_vocabulary: false
 具體	cuj theer	20000
 居住	cư trú	30000
 居住	cuw trus	20000
-住址	địa chỉ	30000
-住址	ddiaj chir	20000
 住所; 住宿	cư xá	30000
 住所; 住宿	cuw xas	20000
 螃蟹	cua	30000
@@ -2343,8 +2265,8 @@ use_preset_vocabulary: false
 比賽	cuoocj thi	20000
 末; 底, 尾	cuối	30000
 末; 底, 尾	cuoois	20000
-結婚	cưới	30000
-結婚	cuwowis	20000
+娶; 結婚	cưới	30000
+娶; 結婚	cuwowis	20000
 笑	cười	30000
 笑	cuwowif	20000
 最後	cuối cùng	30000
@@ -2361,8 +2283,10 @@ use_preset_vocabulary: false
 獎杯, 杯 (指比賽)	cups	20000
 世界杯	cúp bóng đá thế giới	30000
 世界杯	cups bongs ddas thees giowis	20000
-滾開	Cút đi, xéo đi	30000
-滾開	Cuts ddi, xeos ddi	20000
+出去	cút đi	30000
+出去	cuts ddi	20000
+走開	xéo đi	30000
+走開	xeos ddi	20000
 救	cứu	30000
 救	cuwus	20000
 羊	cừu	30000
@@ -2395,8 +2319,6 @@ use_preset_vocabulary: false
 綜合(醫院)	dda khoa	20000
 大叻市	Đà Lạt	30000
 大叻市	DDaf Latj	20000
-大勒; 大叻(越南南部高原上的避暑勝地)	Ðà Lạt	30000
-大勒; 大叻(越南南部高原上的避暑勝地)	Ðaf Latj	20000
 硯港市	Đà Nẵng	30000
 硯港市	DDaf Nawngx	20000
 {打女} 女打仔	đả nữ	30000
@@ -2623,8 +2545,6 @@ use_preset_vocabulary: false
 訂, 預訂, 訂金; 設定, 設置, 裝置	ddawtj	20000
 訂房	đặt chỗ	30000
 訂房	ddawtj choox	20000
-交押	đặt cọc	30000
-交押	ddawtj cocj	20000
 交訂金; 交押金	đặt cọc	30000
 交訂金; 交押金	ddawtj cocj	20000
 獲獎情況	đạt được khen thưởng	30000
@@ -2745,12 +2665,12 @@ use_preset_vocabulary: false
 試題	ddeef thi	20000
 可愛	dễ thương	30000
 可愛	deex thuwowng	20000
-讓我想想	Để tôi nghĩ đã	30000
-讓我想想	DDeer tooi nghix ddax	20000
 讓我來	Để tôi	30000
 讓我來	DDeer tooi	20000
 讓我來	để tôi làm	30000
 讓我來	ddeer tooi lamf	20000
+讓我想想	Để tôi nghĩ đã	30000
+讓我想想	DDeer tooi nghix ddax	20000
 停放車子	để xe	30000
 停放車子	ddeer xe	20000
 提出	đề xuất	30000
@@ -2779,18 +2699,18 @@ use_preset_vocabulary: false
 到現在	ddeens baay giowf	20000
 路燈	đèn đường	30000
 路燈	ddenf dduwowngf	20000
+紅綠燈	đèn giao thông	30000
+紅綠燈	ddenf giao thoong	20000
 到…的程度	đến mức	30000
 到…的程度	ddeens muwcs	20000
 霓虹燈	đèn nê-ô	30000
 霓虹燈	ddenf nee-oo	20000
 手電筒	đèn pin	30000
 手電筒	ddenf pin	20000
-來越南	đến việt nam	30000
-來越南	ddeens vieetj nam	20000
+來越南	đến Việt Nam	30000
+來越南	ddeens Vieetj Nam	20000
 紅綠燈	đèn xanh đỏ	30000
 紅綠燈	ddenf xanh ddor	20000
-紅綠燈	đèn giao thông	30000
-紅綠燈	ddenf giao thoong	20000
 穿(鞋類)	đeo	30000
 穿(鞋類)	ddeo	20000
 戴上(飾品)	đeo	30000
@@ -2875,8 +2795,8 @@ use_preset_vocabulary: false
 遺傳	di truyeenf	20000
 過敏	dị ứng	30000
 過敏	dij uwngs	20000
-沙發	đi văng	30000
-沙發	ddi vawng	20000
+長椅; 沙發	đi văng	30000
+長椅; 沙發	ddi vawng	20000
 外出; 不在家	đi vắng	30000
 外出; 不在家	ddi vawngs	20000
 走進去	đi vào trong	30000
@@ -3031,8 +2951,6 @@ use_preset_vocabulary: false
 機會; 期間	dipj	20000
 溫柔; 柔善	dịu dàng	30000
 溫柔; 柔善	diuj dangf	20000
-由, 由於	do	30000
-由, 由於	do	20000
 因為、由於	do	30000
 因為、由於	do	20000
 差勁、糊塗	dở	30000
@@ -3061,10 +2979,8 @@ use_preset_vocabulary: false
 舊貨; 二手貨	ddoof cux	20000
 長度	độ dài	30000
 長度	ddooj daif	20000
-因此	do đó	30000
-因此	do ddos	20000
-所以, 以便	do đó	30000
-所以, 以便	do ddos	20000
+所以, 因此, 以便	do đó	30000
+所以, 因此, 以便	do ddos	20000
 那麼	đó đó	30000
 那麼	ddos ddos	20000
 用品; 用具	đồ dùng	30000
@@ -3083,8 +2999,6 @@ use_preset_vocabulary: false
 這是她的本行。	DDos laf chuyeen moon cuar coo ta	20000
 拖把	đồ lau	30000
 拖把	ddoof lau	20000
-墩布	đồ lau	30000
-墩布	ddoof lau	20000
 紀念品	đồ lưu niệm	30000
 紀念品	ddoof luwu nieemj	20000
 花痴	đồ mê trai	30000
@@ -3129,10 +3043,8 @@ use_preset_vocabulary: false
 沿著	docj	20000
 讀	đọc	30000
 讀	ddocj	20000
-看報紙	đọc báo	30000
-看報紙	ddocj baos	20000
-讀報紙	đọc báo	30000
-讀報紙	ddocj baos	20000
+看報紙, 讀報紙	đọc báo	30000
+看報紙, 讀報紙	ddocj baos	20000
 獨到	độc đá	30000
 獨到	ddoocj ddas	20000
 獨斷; 獨裁	độc đóa	30000
@@ -3143,12 +3055,8 @@ use_preset_vocabulary: false
 獨立	ddoocj laapj	20000
 讀書	đọc sách	30000
 讀書	ddocj sachs	20000
-單身	độc thân	30000
-單身	ddoocj thaan	20000
-單身	độc thân	30000
-單身	ddoocj thaan	20000
-獨身	độc thân	30000
-獨身	ddoocj thaan	20000
+單身, 獨身	độc thân	30000
+單身, 獨身	ddoocj thaan	20000
 讀看看	đọc thử xem	30000
 讀看看	ddocj thuwr xem	20000
 改變; 轉移	dời	30000
@@ -3161,8 +3069,6 @@ use_preset_vocabulary: false
 變動; 兌換, 變換, 更換	ddooir	20000
 戴 (帽); 隊伍, 隊	đội	30000
 戴 (帽); 隊伍, 隊	ddooij	20000
-等	đợi	30000
-等	ddowij	20000
 等待; 等	đợi	30000
 等待; 等	ddowij	20000
 雙方	đôi bê	30000
@@ -3173,24 +3079,18 @@ use_preset_vocabulary: false
 救護隊	ddooij cuwus hooj	20000
 {對頭} 對抗、正面迎擊	đối đầu	30000
 {對頭} 對抗、正面迎擊	ddoois ddaauf	20000
-對面	đối diệ	30000
-對面	ddoois dieej	20000
-對方	đối diện	30000
-對方	ddoois dieenj	20000
+對面; 對方	đối diện	30000
+對面; 對方	ddoois dieenj	20000
 重新換貨	đổi hàng lại	30000
 重新換貨	ddooir hangf laij	20000
 偶爾; 有時候	đôi khi	30000
 偶爾; 有時候	ddooi khi	20000
 革新, 換新	đổi mới	30000
 革新, 換新	ddooir mowis	20000
-戴上帽子	đội mũ	30000
-戴上帽子	ddooij mux	20000
 戴帽子	đội mũ	30000
 戴帽子	ddooij mux	20000
 人生	đời người	30000
 人生	ddowif nguwowif	20000
-戴上斗笠	đội nón	30000
-戴上斗笠	ddooij nons	20000
 戴帽子	đội nón	30000
 戴帽子	ddooij nons	20000
 對付	đối phó	30000
@@ -3229,8 +3129,6 @@ use_preset_vocabulary: false
 收到	ddons nhaanj	20000
 {單位} 單位	đơn vị	30000
 {單位} 單位	ddown vij	20000
-單位	đơn vị	30000
-單位	ddown vij	20000
 應聘單位	đơn vị ứng tuyển	30000
 應聘單位	ddown vij uwngs tuyeenr	20000
 繳納	đóng	30000
@@ -3259,10 +3157,10 @@ use_preset_vocabulary: false
 蓋章	ddongs daaus	20000
 貢獻	đóng gó	30000
 貢獻	ddongs gos	20000
-時鐘, 時段	đồng hồ	30000
-時鐘, 時段	ddoongf hoof	20000
-鐘錶	đồng hồ	30000
-鐘錶	ddoongf hoof	20000
+時鐘, 鐘錶	đồng hồ	30000
+時鐘, 鐘錶	ddoongf hoof	20000
+時段	đồng hồ	30000
+時段	ddoongf hoof	20000
 手錶	đồng hồ đeo tay	30000
 手錶	ddoongf hoof ddeo tay	20000
 罐裝	đóng hộp	30000
@@ -3281,8 +3179,6 @@ use_preset_vocabulary: false
 破銅爛鐵	ddoongf nats sawts vunj	20000
 同行	đồng ngành	30000
 同行	ddoongf nganhf	20000
-同事	đồng nghiệp	30000
-同事	ddoongf nghieepj	20000
 同事, 同行	đồng nghiệp	30000
 同事, 同行	ddoongf nghieepj	20000
 人很多	đông người	30000
@@ -3309,10 +3205,8 @@ use_preset_vocabulary: false
 動物	ddoongj vaatj	20000
 東醫(越南傳統醫術)	đông y	30000
 東醫(越南傳統醫術)	ddoong y	20000
-同意	đồng ý	30000
-同意	ddoongf ys	20000
-贊成	đồng ý	30000
-贊成	ddoongf ys	20000
+同意, 贊成	đồng ý	30000
+同意, 贊成	ddoongf ys	20000
 突然	đột ngột	30000
 突然	ddootj ngootj	20000
 突入; 侵入(網路)	đột nhập	30000
@@ -3349,10 +3243,8 @@ use_preset_vocabulary: false
 預防; 備用	duwj phongf	20000
 夠了	đủ rồi	30000
 夠了	ddur rooif	20000
-{與試} 參賽	dự thi	30000
-{與試} 參賽	duwj thi	20000
-應考	Dự thi	30000
-應考	Duwj thi	20000
+{與試} 參賽; 應考	dự thi	30000
+{與試} 參賽; 應考	duwj thi	20000
 性交樂趣	đủ thứ	30000
 性交樂趣	ddur thuws	20000
 遊船, 遊艇	du thuyền	30000
@@ -3373,8 +3265,6 @@ use_preset_vocabulary: false
 遞, 交, 送; 刊登	dduwa	20000
 小黃瓜	dưa chuột	30000
 小黃瓜	duwa chuootj	20000
-西瓜	dưa hấu	30000
-西瓜	duwa haaus	20000
 西瓜 🍉	dưa hấu	30000
 西瓜 🍉	duwa haaus	20000
 賽馬	đua ngựa	30000
@@ -3391,8 +3281,8 @@ use_preset_vocabulary: false
 自行車賽	ddua xe ddapj	20000
 渾濁(水)	đục	30000
 渾濁(水)	dducj	20000
-德; 德國	đức	30000
-德; 德國	dduwcs	20000
+德; 德國	Đức	30000
+德; 德國	DDuwcs	20000
 雞腿	đùi gà	30000
 雞腿	dduif gaf	20000
 燒開	đun	30000
@@ -3461,20 +3351,18 @@ use_preset_vocabulary: false
 可以嗎? 好嗎?	dduwowcj khoong	20000
 下面  	dưới	30000
 下面  	duwowis	20000
+趕走	đuổi	30000
+趕走	dduooir	20000
 姨父	dượng	30000
 姨父	duwowngj	20000
-路	đường	30000
-路	dduwowngf	20000
-糖	đường	30000
-糖	dduwowngf	20000
+路, 街; 糖	đường	30000
+路, 街; 糖	dduwowngf	20000
 {陽曆} 陽曆、國曆	dương lịch	30000
 {陽曆} 陽曆、國曆	duwowng lichj	20000
 街道	đường phố	30000
 街道	dduwowngf phoos	20000
 {唯一} 唯一	duy nhất	30000
 {唯一} 唯一	duy nhaats	20000
-唯一	duy nhất	30000
-唯一	duy nhaats	20000
 娉婷、綽約、窕窈、淑女	duyên dáng	30000
 娉婷、綽約、窕窈、淑女	duyeen dangs	20000
 單身(流行語)	ế	30000
@@ -3495,8 +3383,6 @@ use_preset_vocabulary: false
 和緩(音樂)	eem diuj	20000
 妹妹	em gái	30000
 妹妹	em gais	20000
-表弟表妹	em họ	30000
-表弟表妹	em hoj	20000
 堂/表兄弟, 堂/表姊妹	em họ	30000
 堂/表兄弟, 堂/表姊妹	em hoj	20000
 妹夫	em rể	30000
@@ -3511,8 +3397,6 @@ use_preset_vocabulary: false
 腰	eo	20000
 榨(果汁); 強迫	ép	30000
 榨(果汁); 強迫	eps	20000
-雞	gà	30000
-雞	gaf	20000
 雞 🐔	gà	30000
 雞 🐔	gaf	20000
 炸雞	gà chiên	30000
@@ -3527,8 +3411,8 @@ use_preset_vocabulary: false
 夾層	gacs luwngr	20000
 磚	gạch	30000
 磚	gachj	20000
-針眼	Gai nhỏ	30000
-針眼	Gai nhor	20000
+針眼	gai nhỏ	30000
+針眼	gai nhor	20000
 刺	găm	30000
 刺	gawm	20000
 底下	gầm	30000
@@ -3541,10 +3425,10 @@ use_preset_vocabulary: false
 近; 將近	gaanf	20000
 和…緊密相連	gắn bó với	30000
 和…緊密相連	gawns bos vowis	20000
-近	gần chỗ	30000
-近	gaanf choox	20000
-近	gần đây	30000
-近	gaanf ddaay	20000
+附近	gần chỗ	30000
+附近	gaanf choox	20000
+最近; 附近	gần đây	30000
+最近; 附近	gaanf ddaay	20000
 角逐; 爭	ganh đua	30000
 角逐; 爭	ganh ddua	20000
 擔得起	gánh vác	30000
@@ -3575,16 +3459,14 @@ use_preset_vocabulary: false
 患病	gaay beenhj	20000
 不得了	gay go rồi	30000
 不得了	gay go rooif	20000
-引起	gây ra	30000
-引起	gaay ra	20000
-造成	gây ra	30000
-造成	gaay ra	20000
+引起, 造成	gây ra	30000
+引起, 造成	gaay ra	20000
 椅子	ghế	30000
 椅子	ghees	20000
 凳子	ghế con	30000
 凳子	ghees con	20000
-沙發	ghế trường kỷ	30000
-沙發	ghees truwowngf kyr	20000
+長椅, 沙發	ghế trường kỷ	30000
+長椅, 沙發	ghees truwowngf kyr	20000
 沙發	ghế xôfa	30000
 沙發	ghees xoofa	20000
 結合	ghép	30000
@@ -3597,8 +3479,6 @@ use_preset_vocabulary: false
 記名	ghi danh	20000
 什麼	gì	30000
 什麼	gif	20000
-甚麼	gì	30000
-甚麼	gif	20000
 幹嘛！	Gì thế	30000
 幹嘛！	Gif thees	20000
 價; 價格	giá	30000
@@ -3615,8 +3495,6 @@ use_preset_vocabulary: false
 加工	gia coong	20000
 地價	giá đất	30000
 地價	gias ddaats	20000
-家庭	gia đình	30000
-家庭	gia ddinhf	20000
 家庭👨‍👩‍👦‍👦	gia đình	30000
 家庭👨‍👩‍👦‍👦	gia ddinhf	20000
 簸箕	giá đựng rác	30000
@@ -3647,10 +3525,8 @@ use_preset_vocabulary: false
 手紙架	gias treo giaays veej sinh	20000
 毛巾架	giá treo khăn	30000
 毛巾架	gias treo khawn	20000
-{價值} 價值	giá trị	30000
-{價值} 價值	gias trij	20000
-價值; 值錢	giá trị	30000
-價值; 值錢	gias trij	20000
+{價值} 價值; 值錢	giá trị	30000
+{價值} 價值; 值錢	gias trij	20000
 調味品	gia vị	30000
 調味品	gia vij	20000
 (睡)一覺	giấc	30000
@@ -3665,10 +3541,8 @@ use_preset_vocabulary: false
 解渴	giair khats	20000
 二獎	giải nhì	30000
 二獎	giair nhif	20000
-{解法} 解決方法	giải pháp	30000
-{解法} 解決方法	giair phaps	20000
-方案; 方法	giải pháp	30000
-方案; 方法	giair phaps	20000
+{解法} 方案; 方法; 解決方法	giải pháp	30000
+{解法} 方案; 方法; 解決方法	giair phaps	20000
 解放	giải phóng	30000
 解放	giair phongs	20000
 解決	giải quyết	30000
@@ -3717,8 +3591,6 @@ use_preset_vocabulary: false
 使性子; 嘔氣	giaanj dooix	20000
 作弊	gian lận	30000
 作弊	gian laanj	20000
-作弊	Gian lận, quay cóp	30000
-作弊	Gian laan,j quay cops	20000
 氣得要死	giận muốn chết	30000
 氣得要死	giaanj muoons cheets	20000
 講解; 演講	giảng	30000
@@ -3751,22 +3623,16 @@ use_preset_vocabulary: false
 公關; 交際	giao tieeps	20000
 教程	giáo trình	30000
 教程	giaos trinhf	20000
-老師	giáo viên	30000
-老師	giaos vieen	20000
 教員; 教師, 老師	giáo viên	30000
 教員; 教師, 老師	giaos vieen	20000
-教師	Giáo viên	30000
-教師	Giaos vieen	20000
-高級講師	Giáo viên cao cấp	30000
-高級講師	Giaos vieen cao caaps	20000
+高級講師	giáo viên cao cấp	30000
+高級講師	giaos vieen cao caaps	20000
 幼師	giáo viên nhà trẻ	30000
 幼師	giaos vieen nhaf trer	20000
 鄰近; 靠近	giáp	30000
 鄰近; 靠近	giaps	20000
-(兩國之間)…交界	giáp ranh giữa....	30000
-(兩國之間)…交界	giaps ranh giuwa....x	20000
-洗	giặt	30000
-洗	giawtj	20000
+(兩國之間)…交界	giáp ranh giữa ...	30000
+(兩國之間)…交界	giaps ranh giuwax ...	20000
 洗滌	giặt	30000
 洗滌	giawtj	20000
 洗濯, 洗衣	giặt giạ	30000
@@ -3781,8 +3647,6 @@ use_preset_vocabulary: false
 富有	giauf cos	20000
 鞋	giày	30000
 鞋	giayf	20000
-鞋子	giày	30000
-鞋子	giayf	20000
 秒	giây	30000
 秒	giaay	20000
 紙	giấy	30000
@@ -3841,10 +3705,8 @@ use_preset_vocabulary: false
 相似	gioongs	20000
 唱歌的噪子	giọng hát	30000
 唱歌的噪子	giongj hats	20000
-好像	giống như	30000
-好像	gioongs nhuw	20000
-如同; 形同, 相同	giống như	30000
-如同; 形同, 相同	gioongs nhuw	20000
+好像, 如同, 形同, 相同	giống như	30000
+好像, 如同, 形同, 相同	gioongs nhuw	20000
 說話的口音	giọng nói	30000
 說話的口音	giongj nois	20000
 保存; 照顧, 維護, 捍衛	giữ gìn	30000
@@ -3859,8 +3721,6 @@ use_preset_vocabulary: false
 之際、之間, 在…中間	giuwax	20000
 床	giường	30000
 床	giuwowngf	20000
-床 🛏️	giường	30000
-床 🛏️	giuwowngf	20000
 幫助	giúp	30000
 幫助	giups	20000
 幫忙; 幫助	gIúp đỡ	30000
@@ -3923,14 +3783,8 @@ use_preset_vocabulary: false
 下龍(越南名勝之一)	Haj Long	20000
 {河內} 河內	Hà Nội	30000
 {河內} 河內	Haf Nooij	20000
-河內市(越南首都)	Hà Nội	30000
-河內市(越南首都)	Haf Nooij	20000
-下層; 基礎	hạ tầng	30000
-下層; 基礎	haj taangf	20000
-基礎設施	hạ tầng	30000
-基礎設施	haj taangf	20000
-2	hai	30000
-2	hai	20000
+下層; 基礎; 基礎設施	hạ tầng	30000
+下層; 基礎; 基礎設施	haj taangf	20000
 2, 二; 兩	hai	30000
 2, 二; 兩	hai	20000
 害	hại	30000
@@ -3945,10 +3799,8 @@ use_preset_vocabulary: false
 滿意	haif longf	20000
 二十一	hai mốt	30000
 二十一	hai moots	20000
-20	hai mươi	30000
-20	hai muwowi	20000
-二十	hai mươi	30000
-二十	hai muwowi	20000
+20, 二十	hai mươi	30000
+20, 二十	hai muwowi	20000
 22	hai mươi hai	30000
 22	hai muwowi hai	20000
 25	hai mươi lăm (nhăm)	30000
@@ -4023,8 +3875,6 @@ use_preset_vocabulary: false
 蔥	hanhf	20000
 行政	hành chính	30000
 行政	hanhf chinhs	20000
-電子化行政	hành chính điện t	30000
-電子化行政	hanhf chinhs ddieenj t	20000
 行動	hành động	30000
 行動	hanhf ddoongj	20000
 旅客	hành khách	30000
@@ -4071,12 +3921,8 @@ use_preset_vocabulary: false
 幾乎如同	haauf nhuw	20000
 {後果} 後果	hậu quả	30000
 {後果} 後果	haauj quar	20000
-後果	hậu quả	30000
-後果	haauj quar	20000
 好, 妙, 或, 常常, 經常, 高, 愛好(哭, 笑, 使性子, 開玩笑)	hay	30000
 好, 妙, 或, 常常, 經常, 高, 愛好(哭, 笑, 使性子, 開玩笑)	hay	20000
-很常	hay	30000
-很常	hay	20000
 請, 還, 再 (句首語助詞)	hãy	30000
 請, 還, 再 (句首語助詞)	hayx	20000
 愛笑	hay cười	30000
@@ -4131,8 +3977,8 @@ use_preset_vocabulary: false
 完; 盡, 全部, 總共	heets	20000
 時間快到了。	Hết giờ	30000
 時間快到了。	Heets giowf	20000
-沒錢; 錢用光	hết tiền	30000
-沒錢; 錢用光	heets tieenf	20000
+沒錢; 錢用光	Hết tiền	30000
+沒錢; 錢用光	Heets tieenf	20000
 罕有; 少有	hiếm có	30000
 罕有; 少有	hieems cos	20000
 和善; 善良, 賢	hiền	30000
@@ -4165,18 +4011,16 @@ use_preset_vocabulary: false
 效力	hieeuj luwcj	20000
 療效	hiệu lực điều trị	30000
 療效	hieeuj luwcj ddieeuf trij	20000
-有效	hiệu quả	30000
-有效	hieeuj quar	20000
-效果	hiệu quả	30000
-效果	hieeuj quar	20000
+效果, 有效	hiệu quả	30000
+效果, 有效	hieeuj quar	20000
 了解；理解	hiểu rõ	30000
 了解；理解	hieeur rox	20000
 書店; 書局	hiệu sách	30000
 書店; 書局	hieeuj sachs	20000
 爭強好勝	hiếu thắng	30000
 爭強好勝	hieeus thawngs	20000
-孝順…於	hiếu thảo(với)	30000
-孝順…於	hieeus thao(vowi)s	20000
+孝順	hiếu thảo	30000
+孝順	hieeus thaor	20000
 吃透了；看透了	hiểu thấu	30000
 吃透了；看透了	hieeur thaaus	20000
 藥房	hiệu thuốc	30000
@@ -4185,10 +4029,8 @@ use_preset_vocabulary: false
 效應	hieeuj uwngs	20000
 {形} 形狀、照片	hình	30000
 {形} 形狀、照片	hinhf	20000
-圖片	hình ảnh	30000
-圖片	hinhf anhr	20000
-影像	hình ảnh	30000
-影像	hinhf anhr	20000
+圖片, 影像	hình ảnh	30000
+圖片, 影像	hinhf anhr	20000
 婚紗照	hình cưới	30000
 婚紗照	hinhf cuwowis	20000
 似乎是; 好像是	hình như	30000
@@ -4201,10 +4043,8 @@ use_preset_vocabulary: false
 愛滋病	HIV	20000
 湖	hồ	30000
 湖	hoof	20000
-老虎 🐯	hổ	30000
-老虎 🐯	hoor	20000
-虎; 老虎	hổ	30000
-虎; 老虎	hoor	20000
+虎; 老虎 🐯	hổ	30000
+虎; 老虎 🐯	hoor	20000
 他們; 姓	họ	30000
 他們; 姓	hoj	20000
 戶	hộ	30000
@@ -4275,26 +4115,20 @@ use_preset_vocabulary: false
 完美	hoanf myx	20000
 {完成} 完成	hoàn thành	30000
 {完成} 完成	hoanf thanhf	20000
-完成	hoàn thành	30000
-完成	hoanf thanhf	20000
 緩刑	hoãn thi hành án	30000
 緩刑	hoanx thi hanhf ans	20000
 完善	hoàn thiện	30000
 完善	hoanf thieenj	20000
-善; 完善	hoàn thiện	30000
-善; 完善	hoanf thieenj	20000
 完全	hoàn toàn	30000
 完全	hoanf toanf	20000
 日落	hoàng hôn	30000
 日落	hoangf hoon	20000
-荒漠 🏜️	hoang mạc	30000
-荒漠 🏜️	hoang macj	20000
+荒漠	hoang mạc	30000
+荒漠	hoang macj	20000
 活潑	hoạt bát	30000
 活潑	hoatj bats	20000
 活動	hoạt động	30000
 活動	hoatj ddoongj	20000
-教學	học	30000
-教學	hocj	20000
 學; 學習	học	30000
 學; 學習	hocj	20000
 獎學金	học bổng	30000
@@ -4357,10 +4191,8 @@ use_preset_vocabulary: false
 戲劇學院	hocj vieenj saan khaaus	20000
 臭	hôi	30000
 臭	hooi	20000
-問	hỏi	30000
-問	hoir	20000
-詢問	hỏi	30000
-詢問	hoir	20000
+問, 詢問	hỏi	30000
+問, 詢問	hoir	20000
 稍; 稍微	hơi	30000
 稍; 稍微	howi	20000
 回音	hồi âm	30000
@@ -4429,12 +4261,10 @@ use_preset_vocabulary: false
 糟了	hongr rooif	20000
 壞了；吹了	Hỏng rồi	30000
 壞了；吹了	Hongr rooif	20000
-荷爾蒙; 激素	hoóc-môn	30000
-荷爾蒙; 激素	hooc-moons	20000
-開會	họp	30000
-開會	hopj	20000
-會議	họp	30000
-會議	hopj	20000
+荷爾蒙; 激素	hoóc môn	30000
+荷爾蒙; 激素	hoocs moon	20000
+開會, 會議	họp	30000
+開會, 會議	hopj	20000
 罐; 盒, 罐裝	hộp	30000
 罐; 盒, 罐裝	hoopj	20000
 合同	hợp đồng	30000
@@ -4489,10 +4319,8 @@ use_preset_vocabulary: false
 香味、口味	huwowng vij	20000
 鹿	hươu	30000
 鹿	huwowu	20000
-吸塵	hút bụi	30000
-吸塵	huts buij	20000
-排煙	hút bụi	30000
-排煙	huts buij	20000
+排煙, 吸塵	hút bụi	30000
+排煙, 吸塵	huts buij	20000
 抽菸	hút thuốc	30000
 抽菸	huts thuoocs	20000
 抽煙	hút thuốc	30000
@@ -4517,6 +4345,8 @@ use_preset_vocabulary: false
 縣	huyeenj	20000
 平川縣	huyện Bình Xuyên	30000
 平川縣	huyeenj Binhf Xuyeen	20000
+血	huyết	30000
+血	huyeets	20000
 血壓	huyết áp	30000
 血壓	huyeets aps	20000
 高血壓	huyết áp cao	30000
@@ -4531,16 +4361,14 @@ use_preset_vocabulary: false
 印	in	20000
 伊拉克	Iraq	30000
 伊拉克	Iraq	20000
-少	ít	30000
-少	its	20000
 少; 少量, 一點	ít	30000
 少; 少量, 一點	its	20000
 至少	ít nhất	30000
 至少	its nhaats	20000
 話少	ít nói	30000
 話少	its nois	20000
-雖然…但是…	iuy.......... nhưng....	30000
-雖然…但是…	iuy.......... nhuwng....	20000
+雖然…但是…	iuy ... nhưng ...	30000
+雖然…但是…	iuy ... nhuwng ...	20000
 傢伙	kẻ	30000
 傢伙	ker	20000
 計; 計算, 告知	kể	30000
@@ -4581,16 +4409,12 @@ use_preset_vocabulary: false
 延長	keos daif	20000
 夾	kẹp	30000
 夾	kepj	20000
-判刑	kết án	30000
-判刑	keets ans	20000
-判決	kết án	30000
-判決	keets ans	20000
+判刑, 判決	kết án	30000
+判刑, 判決	keets ans	20000
 交朋友	kết bạn	30000
 交朋友	keets banj	20000
-已婚	kết hôn	30000
-已婚	keets hoon	20000
-結婚	kết hôn	30000
-結婚	keets hoon	20000
+結婚; 已婚	kết hôn	30000
+結婚; 已婚	keets hoon	20000
 結論	kết luận	30000
 結論	keets luaanj	20000
 眼結膜	kết mạc mắt	30000
@@ -4609,8 +4433,6 @@ use_preset_vocabulary: false
 相當, 還可以, 不錯	khas	20000
 小康	khá giả	30000
 小康	khas giar	20000
-可能	khả năng	30000
-可能	khar nawng	20000
 能力; 可能	khả năng	30000
 能力; 可能	khar nawng	20000
 其它; 別的	khác	30000
@@ -4623,18 +4445,12 @@ use_preset_vocabulary: false
 克服	khawcs phucj	20000
 {客} 客人	khách	30000
 {客} 客人	khachs	20000
-賓客	khách	30000
-賓客	khachs	20000
-客人	khách hàng	30000
-客人	khachs hangf	20000
-客戶	khách hàng	30000
-客戶	khachs hangf	20000
+客人, 客戶	khách hàng	30000
+客人, 客戶	khachs hangf	20000
 客觀	khách quan	30000
 客觀	khachs quan	20000
-旅館	khách sạn	30000
-旅館	khachs sanj	20000
-飯店	khách sạn	30000
-飯店	khachs sanj	20000
+旅館, 飯店	khách sạn	30000
+旅館, 飯店	khachs sanj	20000
 申報	khai báo	30000
 申報	khai baos	20000
 {開講} 開學	khai giảng	30000
@@ -4683,8 +4499,8 @@ use_preset_vocabulary: false
 縫紉	khaau	20000
 口號	khẩu hiệu	30000
 口號	khaaur hieeuj	20000
-口罩	Khẩu trang	30000
-口罩	Khaaur trang	20000
+口罩	khẩu trang	30000
+口罩	khaaur trang	20000
 口味	khẩu vị	30000
 口味	khaaur vij	20000
 獎勵	khen	30000
@@ -4695,24 +4511,18 @@ use_preset_vocabulary: false
 個人榮譽	khen thuwowngr cas nhaan	20000
 當	khi	30000
 當	khi	20000
-猴子	khỉ	30000
-猴子	khir	20000
 猴子 🐵	khỉ	30000
 猴子 🐵	khir	20000
 氣候	khí hậu	30000
 氣候	khis haauj	20000
 什麼時候？	khi nào	30000
 什麼時候？	khi naof	20000
-甚麼時候	khi nào	30000
-甚麼時候	khi naof	20000
 欠缺	khiếm khuyết	30000
 欠缺	khieems khuyeets	20000
 使、讓	khiến	30000
 使、讓	khieens	20000
 不由得	khiến không thể	30000
 不由得	khieens khoong theer	20000
-跳舞	khiêu vũ	30000
-跳舞	khieeu vux	20000
 舞蹈 跳舞	khiêu vũ	30000
 舞蹈 跳舞	khieeu vux	20000
 輕視; 瞧不起, 看不起	khinh thường	30000
@@ -4727,18 +4537,20 @@ use_preset_vocabulary: false
 公庫; 國庫	kho bacj	20000
 難受	khó chịu	30000
 難受	khos chiuj	20000
-幅度大小小如紙張, 如A4大小等等	khổ giấy	30000
-幅度大小小如紙張, 如A4大小等等	khoor giaays	20000
+紙張尺寸, 如A4大小等等	khổ giấy	30000
+紙張尺寸, 如A4大小等等	khoor giaays	20000
 困難	khó khăn	30000
 困難	khos khawn	20000
-係	Khoa	30000
-係	Khoa	20000
-科; 學科, 鎖, 閉, 年度	khóa	30000
-科; 學科, 鎖, 閉, 年度	khoas	20000
+科系, 科目	khoa	30000
+科系, 科目	khoa	20000
+鎖, 閉, 關鍵值, 機碼, 索引碼	khóa	30000
+鎖, 閉, 關鍵值, 機碼, 索引碼	khoas	20000
 科學	khoa học	30000
 科學	khoa hocj	20000
 課程	khóa học	30000
 課程	khoas hocj	20000
+地瓜	khoai	30000
+地瓜	khoai	20000
 快感	khoái cảm	30000
 快感	khoais camr	20000
 番薯	khoai tây	30000
@@ -4785,8 +4597,6 @@ use_preset_vocabulary: false
 聰明	khoon	20000
 {空} 不、沒; 嗎?; 0, 零	không	30000
 {空} 不、沒; 嗎?; 0, 零	khoong	20000
-不，不是的	không	30000
-不，不是的	khoong	20000
 没有人知道。	Không ai biết	30000
 没有人知道。	Khoong ai bieets	20000
 不吃早飯	không ăn sáng	30000
@@ -4865,8 +4675,6 @@ use_preset_vocabulary: false
 別站着；不停；不懈	khoong nguwngs	20000
 捨不得	không nỡ	30000
 捨不得	khoong nowx	20000
-不是	không phải	30000
-不是	khoong phair	20000
 不是; 不必	không phải	30000
 不是; 不必	khoong phair	20000
 不是	không phải là	30000
@@ -4879,10 +4687,8 @@ use_preset_vocabulary: false
 沒關係！	khoong sao aj	20000
 無所謂	không sao cả	30000
 無所謂	khoong sao car	20000
-不見; 未見	không thấy	30000
-不見; 未見	khoong thaays	20000
-看不到	Không thấy	30000
-看不到	Khoong thaays	20000
+看不到	không thấy	30000
+看不到	khoong thaays	20000
 不能夠	không thể	30000
 不能夠	khoong theer	20000
 無所謂	không thể nói là	30000
@@ -4903,12 +4709,8 @@ use_preset_vocabulary: false
 區; 區域	Khu	20000
 工業區	khu công nghiệp	30000
 工業區	khu coong nghieepj	20000
-{區域} 區域	khu vực	30000
-{區域} 區域	khu vuwcj	20000
-區域; 地區	khu vực	30000
-區域; 地區	khu vuwcj	20000
-區域; 地區, 地帶	khu vực	30000
-區域; 地區, 地帶	khu vuwcj	20000
+{區域} 地區, 地帶	khu vực	30000
+{區域} 地區, 地帶	khu vuwcj	20000
 一段, 一節(木頭)	khúc	30000
 一段, 一節(木頭)	khucs	20000
 擴張	khuếch trương	30000
@@ -4951,8 +4753,6 @@ use_preset_vocabulary: false
 稽查; 稽核, 檢查	kieemr soats	20000
 {檢查} 檢查	kiểm tra	30000
 {檢查} 檢查	kieemr tra	20000
-檢查	kiểm tra	30000
-檢查	kieemr tra	20000
 螞蟻	kiến	30000
 螞蟻	kieens	20000
 堅定	kiên định	30000
@@ -4987,20 +4787,16 @@ use_preset_vocabulary: false
 公里	ki-loo-mets	20000
 鑽石	kim cương	30000
 鑽石	kim cuwowng	20000
-眼鏡	kính	30000
-眼鏡	kinhs	20000
 眼鏡👓	kính	30000
 眼鏡👓	kinhs	20000
 經營	kinh doanh	30000
 經營	kinh doanh	20000
 經驗	kinh nghiệm	30000
 經驗	kinh nghieemj	20000
-工作經歷	kinh nghiệm làm việc	30000
-工作經歷	kinh nghieemj lamf vieecj	20000
 工作經驗	kinh nghiệm làm việc	30000
 工作經驗	kinh nghieemj lamf vieecj	20000
-經曆	kinh nghiệm từng trải	30000
-經曆	kinh nghieemj tuwngf trair	20000
+經驗豐富	kinh nghiệm từng trải	30000
+經驗豐富	kinh nghieemj tuwngf trair	20000
 月經	kinh nguyệt	30000
 月經	kinh nguyeetj	20000
 經費	kinh phí	30000
@@ -5023,8 +4819,6 @@ use_preset_vocabulary: false
 期限	kyf hanj	20000
 簽合同	ký hợp đồng	30000
 簽合同	kys howpj ddoongf	20000
-紀錄	kỷ lục	30000
-紀錄	kyr lucj	20000
 記錄; 紀錄	kỷ lục	30000
 記錄; 紀錄	kyr lucj	20000
 技能	kỹ năng	30000
@@ -5045,12 +4839,8 @@ use_preset_vocabulary: false
 簽名	kys teen	20000
 {技術} 技術	kỹ thuật	30000
 {技術} 技術	kyx thuaatj	20000
-技術	Kỹ thuật	30000
-技術	Kyx thuaatj	20000
 字	ký tự	30000
 字	kys tuwj	20000
-宿舍	ký túc x	30000
-宿舍	kys tucs x	20000
 宿舍	Ký túc xá	30000
 宿舍	Kys tucs xas	20000
 期望	kỳ vọng	30000
@@ -5061,8 +4851,6 @@ use_preset_vocabulary: false
 面 (旗子), 封, 樹葉, 一封 (信)	las	20000
 是	là	30000
 是	laf	20000
-是 	là	30000
-是 	laf	20000
 熨	là	30000
 熨	laf	20000
 樹葉	lá cây	30000
@@ -5087,18 +4875,16 @@ use_preset_vocabulary: false
 利率	laix suaats	20000
 開車; 司機	lái xe	30000
 開車; 司機	lais xe	20000
-使	làm	30000
-使	lamf	20000
-做	làm	30000
-做	lamf	20000
+做, 使	làm	30000
+做, 使	lamf	20000
 五 (用在 十五, 二十五…的五)	lăm	30000
 五 (用在 十五, 二十五…的五)	lawm	20000
 很	lắm	30000
 很	lawms	20000
 做功課	làm bài tập	30000
 做功課	lamf baif taapj	20000
-使	làm cho	30000
-使	lamf cho	20000
+使, 爲…而做	làm cho	30000
+使, 爲…而做	lamf cho	20000
 證明, 證實	làm chứng	30000
 證明, 證實	lamf chuwngs	20000
 做飯	làm cơm	30000
@@ -5133,8 +4919,6 @@ use_preset_vocabulary: false
 做完	lamf xong	20000
 次	lần	30000
 次	laanf	20000
-次數	lần	30000
-次數	laanf	20000
 混雜	lẫn	30000
 混雜	laanx	20000
 最後一次	lần cuối cùng	30000
@@ -5189,10 +4973,8 @@ use_preset_vocabulary: false
 跳躍	lao vaof	20000
 組立(電腦)	lắp đặt	30000
 組立(電腦)	lawps ddawtj	20000
-成家	lập gia đình	30000
-成家	laapj gia ddinhf	20000
-結婚	lập gia đình	30000
-結婚	laapj gia ddinhf	20000
+成家, 結婚	lập gia đình	30000
+成家, 結婚	laapj gia ddinhf	20000
 立論	lập luận	30000
 立論	laapj luaanj	20000
 立法	lập pháp	30000
@@ -5223,8 +5005,8 @@ use_preset_vocabulary: false
 擦玻璃	lau kinhs	20000
 許久; 很久	lâu lắm	30000
 許久; 很久	laau lawms	20000
-二樓	lầu một	30000
-二樓	laauf mootj	20000
+第一層, 二樓	lầu một	30000
+第一層, 二樓	laauf mootj	20000
 拖地	lau nhà	30000
 拖地	lau nhaf	20000
 底樓; 地面層	lầu trệt	30000
@@ -5271,8 +5053,6 @@ use_preset_vocabulary: false
 登上; 登	leen	20000
 漲價	lên giá	30000
 漲價	leen gias	20000
-上去床上	lên giường	30000
-上去床上	leen giuwowngf	20000
 上床	lên giường	30000
 上床	leen giuwowngf	20000
 上課	lên lớp	30000
@@ -5329,8 +5109,6 @@ use_preset_vocabulary: false
 領域	linhx vuwcj	20000
 公升	lít	30000
 公升	lits	20000
-升	lít	30000
-升	lits	20000
 小瓶(如化妝品的小瓶)	lọ	30000
 小瓶(如化妝品的小瓶)	loj	20000
 錯	lỡ	30000
@@ -5363,8 +5141,6 @@ use_preset_vocabulary: false
 旋風	loocs xoays	20000
 路; 徑, 途徑	lối	30000
 路; 徑, 途徑	loois	20000
-過失	lỗi	30000
-過失	looix	20000
 過失; 錯	lỗi	30000
 過失; 錯	looix	20000
 言; 話	lời	30000
@@ -5381,8 +5157,6 @@ use_preset_vocabulary: false
 廢話	lowif voo ichs	20000
 大(南)	lớn	30000
 大(南)	lowns	20000
-豬	lợn	30000
-豬	lownj	20000
 豬 🐷	lợn	30000
 豬 🐷	lownj	20000
 大為進步; 長進	lớn lên	30000
@@ -5407,10 +5181,8 @@ use_preset_vocabulary: false
 蛋白	longf trawngs	20000
 年級, 班級, 班	lớp	30000
 年級, 班級, 班	lowps	20000
-教室	lớp học	30000
-教室	lowps hocj	20000
-課, 功課	lớp học	30000
-課, 功課	lowps hocj	20000
+課, 功課; 教室	lớp học	30000
+課, 功課; 教室	lowps hocj	20000
 學前班	lớp mầm non	30000
 學前班	lowps maamf non	20000
 稻	lúa	30000
@@ -5481,10 +5253,8 @@ use_preset_vocabulary: false
 經常; 總是	luoon luoon	20000
 薪水; 薪資	lương	30000
 薪水; 薪資	luwowng	20000
-{量} 量	lượng	30000
-{量} 量	luwowngj	20000
-兩	lượng	30000
-兩	luwowngj	20000
+{量} 量; 兩	lượng	30000
+{量} 量; 兩	luwowngj	20000
 善良	lương thiện	30000
 善良	luwowng thieenj	20000
 糧食	lương thực	30000
@@ -5515,12 +5285,10 @@ use_preset_vocabulary: false
 理由	lys do	20000
 離婚	ly hôn	30000
 離婚	ly hoon	20000
-履曆	lý lịch	30000
-履曆	lys lichj	20000
 履歷	lý lịch	30000
 履歷	lys lichj	20000
-工作簡曆	lý lịch công tác	30000
-工作簡曆	lys lichj coong tacs	20000
+工作簡歷	lý lịch công tác	30000
+工作簡歷	lys lichj coong tacs	20000
 有趣	lý thú	30000
 有趣	lys thus	20000
 媽	má	30000
@@ -5547,8 +5315,6 @@ use_preset_vocabulary: false
 貴(南)	mawcs	20000
 罹患	mắc	30000
 罹患	mawcs	20000
-穿	mặc	30000
-穿	mawcj	20000
 穿(衣類)	mặc	30000
 穿(衣類)	mawcj	20000
 穿上衣  	mặc áo	30000
@@ -5577,18 +5343,16 @@ use_preset_vocabulary: false
 賣淫	maix daam	20000
 馬來西亞	Malaysia	30000
 馬來西亞	Malaysia	20000
-幕; 蛟帳	màn	30000
-幕; 蛟帳	manf	20000
+幕; 帳; 蚊帳	màn	30000
+幕; 帳; 蚊帳	manf	20000
 鹹	mặn	30000
 鹹	mawnj	20000
 顯示器; 電腦螢幕	màn hình	30000
 顯示器; 電腦螢幕	manf hinhf	20000
 停經	mãn kinh	30000
 停經	manx kinh	20000
-穿(衣類)	mang	30000
-穿(衣類)	mang	20000
-穿(鞋類)	mang	30000
-穿(鞋類)	mang	20000
+穿(衣類, 鞋類)	mang	30000
+穿(衣類, 鞋類)	mang	20000
 戴(飾品)	mang	30000
 戴(飾品)	mang	20000
 攜帶	mang	30000
@@ -5601,8 +5365,6 @@ use_preset_vocabulary: false
 罵	mawngs	20000
 網; 網路	mạng	30000
 網; 網路	mangj	20000
-網路	mạng	30000
-網路	mangj	20000
 穿鞋	mang giày	30000
 穿鞋	mang giayf	20000
 拿過來	mang lại	30000
@@ -5623,8 +5385,6 @@ use_preset_vocabulary: false
 攜帶	mang theo	20000
 出色	mạnh	30000
 出色	manhj	20000
-大膽	mạnh dạn	30000
-大膽	manhj danj	20000
 放膽、大膽	mạnh dạn	30000
 放膽、大膽	manhj danj	20000
 陸地	mảnh đất	30000
@@ -5643,8 +5403,6 @@ use_preset_vocabulary: false
 涼快	mats	20000
 花費 (時間); 死亡, 逝世	mất	30000
 花費 (時間); 死亡, 逝世	maats	20000
-眼 👁️	mắt	30000
-眼 👁️	mawts	20000
 眼睛	mắt	30000
 眼睛	mawts	20000
 臉, 面; 表面, 款式, 現(金)	mặt	30000
@@ -5671,20 +5429,14 @@ use_preset_vocabulary: false
 愁眉苦臉	mawtj mayf ur rux	20000
 涼快	mát mẽ	30000
 涼快	mats mex	20000
-涼的	mát mẻ	30000
-涼的	mats mer	20000
 涼爽	mát mẻ	30000
 涼爽	mats mer	20000
 單眼皮	mắt một mí	30000
 單眼皮	mawts mootj mis	20000
 面罩、面具、面膜	mặt nạ	30000
 面罩、面具、面膜	mawtj naj	20000
-面膜	mặt nạ	30000
-面膜	mawtj naj	20000
 眼淚	mất nước	30000
 眼淚	maats nuwowcs	20000
-蜂蜜	mật ong	30000
-蜂蜜	maatj ong	20000
 蜂蜜🍯	mật ong	30000
 蜂蜜🍯	maatj ong	20000
 面朝道路	mặt tiền đường	30000
@@ -5741,20 +5493,14 @@ use_preset_vocabulary: false
 水彩	mauf nuwowcs	20000
 顏色	màu sắc	30000
 顏色	mauf sawcs	20000
-顏色	mầu sắc	30000
-顏色	maauf sawcs	20000
 巧克力色	màu sôcôla	30000
 巧克力色	mauf soocoola	20000
 紫色	màu tím	30000
 紫色	mauf tims	20000
 白色	màu trắng	30000
 白色	mauf trawngs	20000
-金色	màu vàng	30000
-金色	mauf vangf	20000
-黃色	màu vàng	30000
-黃色	mauf vangf	20000
-黃色(小雞黃)	màu vàng	30000
-黃色(小雞黃)	mauf vangf	20000
+金色, 黃色(小雞黃)	màu vàng	30000
+金色, 黃色(小雞黃)	mauf vangf	20000
 檸檬黃	màu vàng nhạt	30000
 檸檬黃	mauf vangf nhatj	20000
 灰色	màu xám	30000
@@ -5769,8 +5515,8 @@ use_preset_vocabulary: false
 淡藍	mauf xanh nhatj	20000
 深藍	màu xanh sẫm	30000
 深藍	mauf xanh saamx	20000
-幸運	may	30000
-幸運	may	20000
+縫; 湊巧; 幸運	may	30000
+縫; 湊巧; 幸運	may	20000
 機器	máy	30000
 機器	mays	20000
 你	mày	30000
@@ -5791,8 +5537,8 @@ ATM 機	mays ATM	20000
 你敢?	mayf dams	20000
 釘書機	máy dập ghim	30000
 釘書機	mays daapj ghim	20000
-釘書機	máy đóng sá	30000
-釘書機	mays ddongs sas	20000
+釘書機	máy đóng sách	30000
+釘書機	mays ddongs sachs	20000
 答錄機	máy ghi âm	30000
 答錄機	mays ghi aam	20000
 洗衣機	máy giặt	30000
@@ -5847,8 +5593,6 @@ MP3 機	mays nghe nhacj MP3	20000
 電腦	mays vi tinhs	20000
 母; 母親	mẹ	30000
 母; 母親	mej	20000
-婆婆	mẹ chồng	30000
-婆婆	mej choongf	20000
 婆婆(丈夫的母親)	mẹ chồng	30000
 婆婆(丈夫的母親)	mej choongf	20000
 繼母	mẹ kế	30000
@@ -5867,8 +5611,6 @@ MP3 機	mays nghe nhacj MP3	20000
 被子	meenf ddawps	20000
 命名	mệnh danh	30000
 命名	meenhj danh	20000
-貓	mèo	30000
-貓	meof	20000
 貓 🐱	mèo	30000
 貓 🐱	meof	20000
 橘貓	mèo màu cam	30000
@@ -5877,8 +5619,6 @@ MP3 機	mays nghe nhacj MP3	20000
 公尺; 米	mets	20000
 累	mệt	30000
 累	meetj	20000
-疲乏	mệt mỏi	30000
-疲乏	meetj moir	20000
 疲勞; 勞累	mệt mỏi	30000
 疲勞; 勞累	meetj moir	20000
 平方公尺	mét vuông	30000
@@ -5905,16 +5645,12 @@ MP3 機	mays nghe nhacj MP3	20000
 越南南部, 南方	mieenf Nam	20000
 {免費} 免費	miễn phí	30000
 {免費} 免費	mieenx phis	20000
-免費	miễn phí	30000
-免費	mieenx phis	20000
 免稅	miễn thuế	30000
 免稅	mieenx thuees	20000
 越南中部	miền Trung	30000
 越南中部	mieenf Trung	20000
 一塊(地)	miếng	30000
 一塊(地)	mieengs	20000
-嘴巴	miệng	30000
-嘴巴	mieengj	20000
 嘴巴 👄	miệng	30000
 嘴巴 👄	mieengj	20000
 描寫	miêu tả	30000
@@ -6015,10 +5751,6 @@ MP3 機	mays nghe nhacj MP3	20000
 希望待遇	mong muoons ddaix ngooj	20000
 指甲	móng tay	30000
 指甲	mongs tay	20000
-一	một	30000
-一	mootj	20000
-一、0	một	30000
-一、0	mootj	20000
 一、1	một	30000
 一、1	mootj	20000
 一公斤	một cân	30000
@@ -6067,8 +5799,6 @@ MP3 機	mays nghe nhacj MP3	20000
 十億	mootj tyr	20000
 一些	một vài	30000
 一些	mootj vaif	20000
-帽子	mũ	30000
-帽子	mux	20000
 帽子 👒	mũ	30000
 帽子 👒	mux	20000
 色盲	mù màu	30000
@@ -6095,12 +5825,8 @@ MP3 機	mays nghe nhacj MP3	20000
 夏季	muaf haj	20000
 購物	mua hàng	30000
 購物	mua hangf	20000
-夏	mùa hè	30000
-夏	muaf hef	20000
 夏天; 夏季	mùa hè	30000
 夏天; 夏季	muaf hef	20000
-夏季	mùa hè	30000
-夏季	muaf hef	20000
 幹季	mùa khô	30000
 幹季	muaf khoo	20000
 大雨	mưa lớn	30000
@@ -6113,14 +5839,10 @@ MP3 機	mays nghe nhacj MP3	20000
 購物	mua sawms	20000
 打獵季節	mùa săn bắn	30000
 打獵季節	muaf sawn bawns	20000
-秋	mùa thu	30000
-秋	muaf thu	20000
 秋天; 秋季	mùa thu	30000
 秋天; 秋季	muaf thu	20000
 大雨	mưa to	30000
 大雨	muwa to	20000
-春  	mùa xuân	30000
-春  	muaf xuaan	20000
 春天; 春季	mùa xuân	30000
 春天; 春季	muaf xuaan	20000
 春雨	mưa xuân	30000
@@ -6133,8 +5855,6 @@ MP3 機	mays nghe nhacj MP3	20000
 目的	mucj ddichs	20000
 目標	mục tiêu	30000
 目標	mucj tieeu	20000
-鼻子	mũi	30000
-鼻子	muix	20000
 鼻子 👃	mũi	30000
 鼻子 👃	muix	20000
 高鼻子	mũi cao	30000
@@ -6149,34 +5869,26 @@ MP3 機	mays nghe nhacj MP3	20000
 一號; 初一	mungf mootj	20000
 六號(日期)	mùng sáu	30000
 六號(日期)	mungf saus	20000
-盐	muối	30000
-盐	muoois	20000
 鹽	muối	30000
 鹽	muoois	20000
 蚊子	muỗi	30000
 蚊子	muooix	20000
-10	mười	30000
-10	muwowif	20000
-十	mười	30000
-十	muwowif	20000
+10, 十	mười	30000
+10, 十	muwowif	20000
 13	mười ba	30000
 13	muwowif ba	20000
 17	mười bảy	30000
 17	muwowif bayr	20000
 14	mười bốn	30000
 14	muwowif boons	20000
-19	mười chín	30000
-19	muwowif chins	20000
-十九	mười chín	30000
-十九	muwowif chins	20000
+19, 十九	mười chín	30000
+19, 十九	muwowif chins	20000
 12	mười hai	30000
 12	muwowif hai	20000
 15	mười lăm	30000
 15	muwowif lawm	20000
-11	mười một	30000
-11	muwowif mootj	20000
-十一	mười một	30000
-十一	muwowif mootj	20000
+11, 十一	mười một	30000
+11, 十一	muwowif mootj	20000
 一萬	mười nghìn	30000
 一萬	muwowif nghinf	20000
 16	mười sáu	30000
@@ -6187,8 +5899,6 @@ MP3 機	mays nghe nhacj MP3	20000
 要	muoons	20000
 想	muốn	30000
 想	muoons	20000
-晚	muộn	30000
-晚	muoonj	20000
 遲; 晚	muộn	30000
 遲; 晚	muoonj	20000
 借	mượn	30000
@@ -6263,8 +5973,8 @@ MP3 機	mays nghe nhacj MP3	20000
 能力	nawng luwcj	20000
 個人能力	năng lực cá nhân	30000
 個人能力	nawng luwcj cas nhaan	20000
-語言能力	năng lực ngoại ngữ	30000
-語言能力	nawng luwcj ngoaij nguwx	20000
+外語能力	năng lực ngoại ngữ	30000
+外語能力	nawng luwcj ngoaij nguwx	20000
 語言能力	năng lực ngôn ngữ	30000
 語言能力	nawng luwcj ngoon nguwx	20000
 計算機應用能力	năng lực ứng dụng máy tính	30000
@@ -6325,8 +6035,6 @@ MP3 機	mays nghe nhacj MP3	20000
 教育背景	neenf tangr giaos ducj	20000
 如; 如果	nếu	30000
 如; 如果	neeus	20000
-如果	nếu	30000
-如果	neeus	20000
 否則	nếu không	30000
 否則	neeus khoong	20000
 假設	nếu là	30000
@@ -6379,8 +6087,6 @@ MP3 機	mays nghe nhacj MP3	20000
 立刻; 馬上, 正好	ngay	20000
 天, 日	ngày	30000
 天, 日	ngayf	20000
-日	ngày	30000
-日	ngayf	20000
 一天又一天; 與日俱增	ngày càng	30000
 一天又一天; 與日俱增	ngayf cangf	20000
 日夜	ngày đê	30000
@@ -6445,8 +6151,6 @@ MP3 機	mays nghe nhacj MP3	20000
 接電話	nghe ddieenj thoaij	20000
 職業	nghề nghiệp	30000
 職業	ngheef nghieepj	20000
-職業的	nghề nghiệp	30000
-職業的	ngheef nghieepj	20000
 聽音樂	nghe nhạc	30000
 聽音樂	nghe nhacj	20000
 藝術家	nghệ nhân	30000
@@ -6471,8 +6175,6 @@ MP3 機	mays nghe nhacj MP3	20000
 聲音梗塞不順	nghetj	20000
 想, 思考	nghĩ	30000
 想, 思考	nghix	20000
-想、思考	nghĩ	30000
-想、思考	nghix	20000
 休息	nghỉ	30000
 休息	nghir	20000
 {疑案} 懸案	nghi án	30000
@@ -6489,8 +6191,6 @@ MP3 機	mays nghe nhacj MP3	20000
 退休	nghir huwu	20000
 避暑	nghỉ mát	30000
 避暑	nghir mats	20000
-休息	nghỉ ngơi	30000
-休息	nghir ngowi	20000
 休息, 放鬆	nghỉ ngơi	30000
 休息, 放鬆	nghir ngowi	20000
 早點休息	Nghỉ ngơi và thư giãn đi nhé !	30000
@@ -6599,14 +6299,10 @@ MP3 機	mays nghe nhacj MP3	20000
 小指	ngons tay uts	20000
 鵝	ngỗng	30000
 鵝	ngoongx	20000
-甜	ngọt	30000
-甜	ngotj	20000
 甜🍯	ngọt	30000
 甜🍯	ngotj	20000
 五	ngũ	30000
 五	ngux	20000
-睡	ngủ	30000
-睡	ngur	20000
 睡覺	ngủ	30000
 睡覺	ngur	20000
 五穀	ngũ cốc	30000
@@ -6625,8 +6321,6 @@ MP3 機	mays nghe nhacj MP3	20000
 住在	nguj taij	20000
 睡午覺	ngủ trưa	30000
 睡午覺	ngur truwa	20000
-馬	ngựa	30000
-馬	nguwaj	20000
 馬 🐴	ngựa	30000
 馬 🐴	nguwaj	20000
 胸	ngực	30000
@@ -6709,8 +6403,8 @@ MP3 機	mays nghe nhacj MP3	20000
 我周圍的人	nguwowif quanh ta	20000
 熟人	người quen	30000
 熟人	nguwowif quen	20000
-迷	người say mê...	30000
-迷	nguwowif say mee...	20000
+迷	người say mê	30000
+迷	nguwowif say mee	20000
 主管、上司	người sếp	30000
 主管、上司	nguwowif seeps	20000
 人家	người ta	30000
@@ -6733,10 +6427,8 @@ MP3 機	mays nghe nhacj MP3	20000
 申請人	nguwowif vieets ddown	20000
 申請人簽名	người viết đơn ký tên	30000
 申請人簽名	nguwowif vieets ddown kys teen	20000
-情侶, 情人	người yêu	30000
-情侶, 情人	nguwowif yeeu	20000
-愛人	người yêu	30000
-愛人	nguwowif yeeu	20000
+情侶, 情人, 愛人	người yêu	30000
+情侶, 情人, 愛人	nguwowif yeeu	20000
 源	nguồn	30000
 源	nguoonf	20000
 污染源	nguồn ô nhiễm	30000
@@ -6883,8 +6575,6 @@ MP3 機	mays nghe nhacj MP3	20000
 閑	nhanf	20000
 標籤	nhãn	30000
 標籤	nhanx	20000
-戒指	nhẫn	30000
-戒指	nhaanx	20000
 戒指 💍	nhẫn	30000
 戒指 💍	nhaanx	20000
 接受; 收(信)	nhận	30000
@@ -6943,8 +6633,6 @@ MP3 機	mays nghe nhacj MP3	20000
 一	nhaats	20000
 最	nhất	30000
 最	nhaats	20000
-淡	nhạt	30000
-淡	nhatj	20000
 淡; 味淡, 淡而無味	nhạt	30000
 淡; 味淡, 淡而無味	nhatj	20000
 淡的, 淺的	nhạt	30000
@@ -6953,8 +6641,6 @@ MP3 機	mays nghe nhacj MP3	20000
 日本(簡稱)	Nhaatj	20000
 {日本} 日本	Nhật Bản	30000
 {日本} 日本	Nhaatj Banr	20000
-日本	Nhật Bản	30000
-日本	Nhaatj Banr	20000
 日報	nhật báo	30000
 日報	nhaatj baos	20000
 一定	nhất định	30000
@@ -6995,8 +6681,6 @@ MP3 機	mays nghe nhacj MP3	20000
 熱量	nhieetj luwowngj	20000
 熱情	nhiệt tình	30000
 熱情	nhieetj tinhf	20000
-多	nhiều	30000
-多	nhieeuf	20000
 許多	nhiều	30000
 許多	nhieeuf	20000
 刺蝟	nhím gai	30000
@@ -7013,8 +6697,6 @@ MP3 機	mays nghe nhacj MP3	20000
 心跳	nhipj tim	20000
 葡萄 🍇	nho	30000
 葡萄 🍇	nho	20000
-葡蔔; 儒	nho	30000
-葡蔔; 儒	nho	20000
 小(北)	nhỏ	30000
 小(北)	nhor	20000
 記得	nhớ	30000
@@ -7051,8 +6733,6 @@ MP3 機	mays nghe nhacj MP3	20000
 可是	nhuwng	20000
 但, 但是, 仍然,  還	nhưng	30000
 但, 但是, 仍然,  還	nhuwng	20000
-但是	nhưng	30000
-但是	nhuwng	20000
 各; 那些	những	30000
 各; 那些	nhuwngx	20000
 畏怯; 膽怯	nhút nhát	30000
@@ -7107,8 +6787,6 @@ MP3 機	mays nghe nhacj MP3	20000
 市內	nooij ddoo	20000
 {內容} 內容	nội dung	30000
 {內容} 內容	nooij dung	20000
-內容	nội dung	30000
-內容	nooij dung	20000
 培訓內容	nội dung bồi dưỡng đào tạo	30000
 培訓內容	nooij dung booif duwowngx ddaof taoj	20000
 火葬場	nơi hỏa táng	30000
@@ -7177,8 +6855,6 @@ MP3 機	mays nghe nhacj MP3	20000
 半夜	nuwar ddeem	20000
 半個月	nửa năm	30000
 半個月	nuwar nawm	20000
-山	núi	30000
-山	nuis	20000
 山 ⛰️	núi	30000
 山 ⛰️	nuis	20000
 乳頭	núm vú	30000
@@ -7205,8 +6881,6 @@ MP3 機	mays nghe nhacj MP3	20000
 地板蠟	nuwowcs lau sanf	20000
 鱼露🐟	nước mắm	30000
 鱼露🐟	nuwowcs mawms	20000
-魚露	nước mắm	30000
-魚露	nuwowcs mawms	20000
 國外; 外國	nước ngoài	30000
 國外; 外國	nuwowcs ngoaif	20000
 汽水	nước ngọt	30000
@@ -7251,8 +6925,6 @@ MP3 機	mays nghe nhacj MP3	20000
 在; 於	owr	20000
 哪裡	ở đâu	30000
 哪裡	owr ddaau	20000
-哪裡？	Ở đâu	30000
-哪裡？	OWr ddaau	20000
 在底部	ở đáy	30000
 在底部	owr ddays	20000
 這裡	ở đây	30000
@@ -7353,8 +7025,8 @@ DVD 光碟機	oor ddocj ddiax DVD	20000
 部份; 一份	phaanf	20000
 分別	phân biệt	30000
 分別	phaan bieetj	20000
-分別、區分	phân biệt	30000
-分別、區分	phaan bieetj	20000
+區分	phân biệt	30000
+區分	phaan bieetj	20000
 振奮	phấn chấn	30000
 振奮	phaans chaans	20000
 硬體	phần cứng	30000
@@ -7543,8 +7215,6 @@ DVD 光碟機	oor ddocj ddiax DVD	20000
 工作室	phongf lamf vieecj	20000
 臥房; 臥室	phòng ngủ	30000
 臥房; 臥室	phongf ngur	20000
-臥室	phòng ngủ	30000
-臥室	phongf ngur	20000
 防止	phòng ngừa	30000
 防止	phongf nguwaf	20000
 人力資源部	phòng nhân sự	30000
@@ -7731,6 +7401,8 @@ DVD 光碟機	oor ddocj ddiax DVD	20000
 櫃檯	quaayf	20000
 掙扎(內心)	quậy	30000
 掙扎(內心)	quaayj	20000
+作弊	quay cóp	30000
+作弊	quay cops	20000
 再迴轉	quay lại	30000
 再迴轉	quay laij	20000
 重訪; 再來	quay lại	30000
@@ -8683,6 +8355,8 @@ DVD 光碟機	oor ddocj ddiax DVD	20000
 勝利	thawngs	20000
 贏	thắng	30000
 贏	thawngs	20000
+直	thẳng	30000
+直	thawngr	20000
 三月	tháng ba	30000
 三月	thangs ba	20000
 七月	tháng bảy	30000
@@ -10327,10 +10001,10 @@ DVD 光碟機	oor ddocj ddiax DVD	20000
 子宮內膜肌瘤	u thitj nooij macj tuwr cung	20000
 子宮纖瘤	u xơ tử cung	30000
 子宮纖瘤	u xow tuwr cung	20000
-喜好; 喜愛	ưa chuộng	30000
-喜好; 喜愛	uwa chuoongj	20000
 比較喜愛	ưa ... hơn	30000
 比較喜愛	uwa ... hown	20000
+喜好; 喜愛	ưa chuộng	30000
+喜好; 喜愛	uwa chuoongj	20000
 澳洲	Úc	30000
 澳洲	Ucs	20000
 熨	ủi	30000
@@ -10651,6 +10325,8 @@ A型肝炎	vieem gan A	20000
 國王, 皇帝	vua	20000
 才, 剛, 恰好的, 適中的, 恰到好處的	vừa	30000
 才, 剛, 恰好的, 適中的, 恰到好處的	vuwaf	20000
+兩者…都; 又…又…	vừa ... vừa	30000
+兩者…都; 又…又…	vuwaf ... vuwaf	20000
 正好; 不多不少	vừa đủ	30000
 正好; 不多不少	vuwaf ddur	20000
 才, 僅僅, 只是	vừa mới	30000
@@ -10659,8 +10335,6 @@ A型肝炎	vieem gan A	20000
 剛過	vuwaf qua	20000
 一般	vừa vừa	30000
 一般	vuwaf vuwaf	20000
-兩者…都; 又…又…	vừa ... vừa	30000
-兩者…都; 又…又…	vuwaf ... vuwaf	20000
 快樂; 高興	vui	30000
 快樂; 高興	vui	20000
 歡欣; 樂意	vui lòng	30000
@@ -10823,6 +10497,8 @@ A型肝炎	vieem gan A	20000
 馬戲團	xieecs	20000
 請	xin	30000
 請	xin	20000
+謝謝; 感恩	xin cảm ơn	30000
+謝謝; 感恩	xin camr own	20000
 你好！	xin chào	30000
 你好！	xin chaof	20000
 早安！	xin chào buổi sáng	30000
@@ -10961,11 +10637,3 @@ A型肝炎	vieem gan A	20000
 要素	yeeus toos	20000
 零	zêrô	30000
 零	zeeroo	20000
-地瓜	khoai	30000
-地瓜	khoai	20000
-直	thẳng	30000
-直	thawngr	20000
-彎	cong	30000
-彎	cong	20000
-趕走	đuổi	30000
-趕走	dduooir	20000

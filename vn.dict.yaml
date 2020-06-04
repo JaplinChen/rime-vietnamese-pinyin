@@ -99,8 +99,6 @@ am hiểu 	am hieu	10000
 âm li 	am li	10000
 âm lịch 	aam lichj	20000
 âm lịch 	am lich	10000
-âm lịch 	aam lichj	20000
-âm lịch 	am lich	10000
 âm mưu 	aam muwu	20000
 âm mưu 	am muu	10000
 âm nhạc 	aam nhacj	20000
@@ -119,10 +117,6 @@ an 	an	10000
 ân 	an	10000
 ăn 	awn	20000
 ăn 	an	10000
-ăn 	awn	20000
-ăn 	an	10000
-ấn 	aans	20000
-ấn 	an	10000
 ấn 	aans	20000
 ấn 	an	10000
 ần 	aanf	20000
@@ -165,8 +159,6 @@ an ninh 	an ninh	10000
 ăn quá nhiều muối 	an qua nhieu muoi	10000
 ăn quá nhiều thịt 	awn quas nhieeuf thitj	20000
 ăn quá nhiều thịt 	an qua nhieu thit	10000
-ăn sáng 	awn sangs	20000
-ăn sáng 	an sang	10000
 ăn sáng 	awn sangs	20000
 ăn sáng 	an sang	10000
 ăn tết 	awn teets	20000
@@ -229,8 +221,6 @@ anh hùng 	anh hungf	20000
 anh hùng 	anh hung	10000
 ảnh hưởng 	anhr huwowngr	20000
 ảnh hưởng 	anh huong	10000
-ảnh hưởng 	anhr huwowngr	20000
-ảnh hưởng 	anh huong	10000
 Anh ngữ 	Anh nguwx	20000
 Anh ngữ 	Anh ngu	10000
 Anh quốc 	Anh quoocs	20000
@@ -249,10 +239,6 @@ ao 	ao	20000
 ao 	ao	10000
 ao 	ao	20000
 ao 	ao	10000
-áo 	aos	20000
-áo 	ao	10000
-áo 	aos	20000
-áo 	ao	10000
 áo 	aos	20000
 áo 	ao	10000
 ào 	aof	20000
@@ -339,8 +325,6 @@ ay 	ay	10000
 áy náy 	ay nay	10000
 ba 	ba	20000
 ba 	ba	10000
-ba 	ba	20000
-ba 	ba	10000
 bá 	bas	20000
 bá 	ba	10000
 bà 	baf	20000
@@ -371,8 +355,6 @@ bà ngoại 	baf ngoaij	20000
 bà ngoại 	ba ngoai	10000
 bà nội 	baf nooij	20000
 bà nội 	ba noi	10000
-bác 	bacs	20000
-bác 	bac	10000
 bác 	bacs	20000
 bác 	bac	10000
 bấc 	baacs	20000
@@ -481,8 +463,6 @@ ban 	ban	20000
 ban 	ban	10000
 bán 	bans	20000
 bán 	ban	10000
-bán 	bans	20000
-bán 	ban	10000
 bàn 	banf	20000
 bàn 	ban	10000
 bân 	baan	20000
@@ -509,8 +489,6 @@ bạn 	banj	20000
 bạn 	ban	10000
 bạn 	banj	20000
 bạn 	ban	10000
-bạn 	banj	20000
-bạn 	ban	10000
 bận 	baanj	20000
 bận 	ban	10000
 bạn bè 	banj bef	20000
@@ -521,8 +499,6 @@ bàn chà giặt đồ 	banf chaf giawtj ddoof	20000
 bàn chà giặt đồ 	ban cha giat do	10000
 Bạn chắc chắn không 	Banj chawcs chawns khoong	20000
 Bạn chắc chắn không 	Ban chac chan khong	10000
-Bàn chải 	Banf chair	20000
-Bàn chải 	Ban chai	10000
 bàn chải 	banf chair	20000
 bàn chải 	ban chai	10000
 bàn chải đánh răng 	banf chair ddanhs rawng	20000
@@ -531,8 +507,8 @@ bàn chải giày 	banf chair giayf	20000
 bàn chải giày 	ban chai giay	10000
 bàn chải quét keo 	banf chair quets keo	20000
 bàn chải quét keo 	ban chai quet keo	10000
-Bàn chải sạc điện 	Banf chair sacj ddieenj	20000
-Bàn chải sạc điện 	Ban chai sac dien	10000
+bàn chải sạc điện 	banf chair sacj ddieenj	20000
+bàn chải sạc điện 	ban chai sac dien	10000
 bàn chân 	banf chaan	20000
 bàn chân 	ban chan	10000
 Bạn có chắc không 	Banj cos chawcs khoong	20000
@@ -577,10 +553,6 @@ bán giảm 	bans giamr	20000
 bán giảm 	ban giam	10000
 ban hành 	ban hanhf	20000
 ban hành 	ban hanh	10000
-ban hành 	ban hanhf	20000
-ban hành 	ban hanh	10000
-Bạn học 	Banj hocj	20000
-Bạn học 	Ban hoc	10000
 bạn học 	banj hocj	20000
 bạn học 	ban hoc	10000
 Bạn học cùng bàn 	Banj hocj cungf banf	20000
@@ -621,8 +593,6 @@ bản sao 	banr sao	20000
 bản sao 	ban sao	10000
 bàn tay 	banf tay	20000
 bàn tay 	ban tay	10000
-bản thân 	banr thaan	20000
-bản thân 	ban than	10000
 bản thân 	banr thaan	20000
 bản thân 	ban than	10000
 Bạn thì sao 	Banj thif sao	20000
@@ -753,8 +723,6 @@ báo biểu 	baos bieeur	20000
 báo biểu 	bao bieu	10000
 báo cáo 	baos caos	20000
 báo cáo 	bao cao	10000
-báo cáo 	baos caos	20000
-báo cáo 	bao cao	10000
 bao cao su 	bao cao su	20000
 bao cao su 	bao cao su	10000
 báo chí 	baos chis	20000
@@ -783,8 +751,6 @@ bao lâu 	bao laau	20000
 bao lâu 	bao lau	10000
 bão mạng 	baox mangj	20000
 bão mạng 	bao mang	10000
-bao nhiêu 	bao nhieeu	20000
-bao nhiêu 	bao nhieu	10000
 bao nhiêu 	bao nhieeu	20000
 bao nhiêu 	bao nhieu	10000
 bao nilong pe 	bao nilong pe	20000
@@ -845,8 +811,6 @@ bát 	bats	20000
 bát 	bat	10000
 bát 	bats	20000
 bát 	bat	10000
-bát 	bats	20000
-bát 	bat	10000
 bất 	baats	20000
 bất 	bat	10000
 bắt 	bawts	20000
@@ -865,8 +829,6 @@ bất cứ 	baats cuws	20000
 bất cứ 	bat cu	10000
 bất cứ 	baats cuws	20000
 bất cứ 	bat cu	10000
-bắt đầu 	bawts ddaauf	20000
-bắt đầu 	bat dau	10000
 bắt đầu 	bawts ddaauf	20000
 bắt đầu 	bat dau	10000
 bất đồng 	baats ddoongf	20000
@@ -947,8 +909,6 @@ bẫy 	baayx	20000
 bẫy 	bay	10000
 bảy 	bayr	20000
 bảy 	bay	10000
-bảy 	bayr	20000
-bảy 	bay	10000
 bẩy 	baayr	20000
 bẩy 	bay	10000
 bậy 	baayj	20000
@@ -1025,8 +985,6 @@ bên bán 	been bans	20000
 bên bán 	ben ban	10000
 bên cạnh 	been canhj	20000
 bên cạnh 	ben canh	10000
-bên cạnh 	been canhj	20000
-bên cạnh 	ben canh	10000
 bên dưới 	been duwowis	20000
 bên dưới 	ben duoi	10000
 bên kia 	been kia	20000
@@ -1043,8 +1001,6 @@ bên ngoài 	been ngoaif	20000
 bên ngoài 	ben ngoai	10000
 bến phà 	beens phaf	20000
 bến phà 	ben pha	10000
-bên phải 	been phair	20000
-bên phải 	ben phai	10000
 bên phải 	been phair	20000
 bên phải 	ben phai	10000
 bên trái 	been trais	20000
@@ -1081,14 +1037,14 @@ bệnh truyền nhiễm 	beenhj truyeenf nhieemx	20000
 bệnh truyền nhiễm 	benh truyen nhiem	10000
 bệnh viêm 	beenhj vieem	20000
 bệnh viêm 	benh viem	10000
-bệnh viện 	beenhj vieenj	20000
-bệnh viện 	benh vien	10000
+bệnh viêm gan 	beenhj vieem gan	20000
+bệnh viêm gan 	benh viem gan	10000
+bệnh viêm tủy xám 	beenhj vieem tuyr xams	20000
+bệnh viêm tủy xám 	benh viem tuy xam	10000
 bệnh viện 	beenhj vieenj	20000
 bệnh viện 	benh vien	10000
 beo 	beo	20000
 beo 	beo	10000
-béo 	beos	20000
-béo 	beo	10000
 béo 	beos	20000
 béo 	beo	10000
 bèo 	beof	20000
@@ -1133,8 +1089,6 @@ bĩ 	bix	20000
 bĩ 	bi	10000
 bỉ 	bir	20000
 bỉ 	bi	10000
-bị 	bij	20000
-bị 	bi	10000
 bị 	bij	20000
 bị 	bi	10000
 bị bắt 	bij bawts	20000
@@ -1223,8 +1177,6 @@ biễn 	bieenx	20000
 biễn 	bien	10000
 biển 	bieenr	20000
 biển 	bien	10000
-biển 	bieenr	20000
-biển 	bien	10000
 biện 	bieenj	20000
 biện 	bien	10000
 Biến đi ngay 	Bieens ddi ngay	20000
@@ -1293,6 +1245,8 @@ binh 	binh	20000
 binh 	binh	10000
 bính 	binhs	20000
 bính 	binh	10000
+bính âm 	binhs aam	20000
+bính âm 	binh am	10000
 bình 	binhf	20000
 bình 	binh	10000
 bĩnh 	binhx	20000
@@ -1313,8 +1267,6 @@ bình keo lớn 	binhf keo lowns	20000
 bình keo lớn 	binh keo lon	10000
 bình keo xanh nhỏ 	binhf keo xanh nhor	20000
 bình keo xanh nhỏ 	binh keo xanh nho	10000
-bình luận 	binhf luaanj	20000
-bình luận 	binh luan	10000
 bình luận 	binhf luaanj	20000
 bình luận 	binh luan	10000
 bình minh 	binhf minh	20000
@@ -1359,8 +1311,6 @@ bo 	bo	20000
 bo 	bo	10000
 bó 	bos	20000
 bó 	bo	10000
-bò 	bof	20000
-bò 	bo	10000
 bò 	bof	20000
 bò 	bo	10000
 bô 	boo	20000
@@ -1457,8 +1407,6 @@ bốc 	boocs	20000
 bốc 	boc	10000
 bọc 	bocj	20000
 bọc 	boc	10000
-bọc 	bocj	20000
-bọc 	boc	10000
 bộc 	boocj	20000
 bộc 	boc	10000
 boe 	boe	20000
@@ -1469,8 +1417,6 @@ bói 	bois	20000
 bói 	boi	10000
 bòi 	boif	20000
 bòi 	boi	10000
-bôi 	booi	20000
-bôi 	boi	10000
 bôi 	booi	20000
 bôi 	boi	10000
 bối 	boois	20000
@@ -1503,10 +1449,6 @@ bồi thường 	booif thuwowngf	20000
 bồi thường 	boi thuong	10000
 bởi vậy 	bowir vaayj	20000
 bởi vậy 	boi vay	10000
-bởi vậy 	bowir vaayj	20000
-bởi vậy 	boi vay	10000
-bởi vì 	bowir vif	20000
-bởi vì 	boi vi	10000
 bởi vì 	bowir vif	20000
 bởi vì 	boi vi	10000
 bom 	bom	20000
@@ -1533,8 +1475,6 @@ bòn 	bonf	20000
 bòn 	bon	10000
 bôn 	boon	20000
 bôn 	bon	10000
-bốn 	boons	20000
-bốn 	bon	10000
 bốn 	boons	20000
 bốn 	bon	10000
 bồn 	boonf	20000
@@ -1677,8 +1617,6 @@ bục 	bucj	20000
 bục 	buc	10000
 bức 	buwcs	20000
 bức 	buc	10000
-bức 	buwcs	20000
-bức 	buc	10000
 bực 	buwcj	20000
 bực 	buc	10000
 bức ảnh 	buwcs anhr	20000
@@ -1777,12 +1715,8 @@ bươm 	buwowm	20000
 bươm 	buom	10000
 bướm 	buwowms	20000
 bướm 	buom	10000
-bướm 	buwowms	20000
-bướm 	buom	10000
 buôn 	buoon	20000
 buôn 	buon	10000
-buồn 	buoonf	20000
-buồn 	buon	10000
 buồn 	buoonf	20000
 buồn 	buon	10000
 bươn 	buwown	20000
@@ -1855,18 +1789,10 @@ bưu phẩm 	buwu phaamr	20000
 bưu phẩm 	buu pham	10000
 bưu thiếp 	buwu thieeps	20000
 bưu thiếp 	buu thiep	10000
-buy 	buy	20000
-buy 	buy	10000
 buýt 	buyts	20000
 buýt 	buyt	10000
-by 	by	20000
-by 	by	10000
 ca 	ca	20000
 ca 	ca	10000
-ca 	ca	20000
-ca 	ca	10000
-cá 	cas	20000
-cá 	ca	10000
 cá 	cas	20000
 cá 	ca	10000
 cá 	cas	20000
@@ -1879,10 +1805,8 @@ cả 	car	20000
 cả 	ca	10000
 cạ 	caj	20000
 cạ 	ca	10000
-cả ... Lẫn ... 	car ... Laanx ...	20000
-cả ... Lẫn ... 	ca ... Lan ...	10000
-cả 2 	car 2	20000
-cả 2 	ca 2	10000
+cả ... lẫn ... 	car ... laanx ...	20000
+cả ... lẫn ... 	ca ... lan ...	10000
 cà chua 	caf chua	20000
 cà chua 	ca chua	10000
 cả hai 	car hai	20000
@@ -1903,8 +1827,8 @@ cả nước 	car nuwowcs	20000
 cả nước 	ca nuoc	10000
 cà phê 	caf phee	20000
 cà phê 	ca phe	10000
-cà phê đe 	caf phee dde	20000
-cà phê đe 	ca phe de	10000
+cà phê đen 	caf phee dden	20000
+cà phê đen 	ca phe den	10000
 cà rốt 	caf roots	20000
 cà rốt 	ca rot	10000
 ca sĩ 	ca six	20000
@@ -1913,8 +1837,6 @@ cả thế giới 	car thees giowis	20000
 cả thế giới 	ca the gioi	10000
 cá voi 	cas voi	20000
 cá voi 	ca voi	10000
-các 	cacs	20000
-các 	cac	10000
 các 	cacs	20000
 các 	cac	10000
 cấc 	caacs	20000
@@ -1995,8 +1917,6 @@ cai trị 	cai trij	20000
 cai trị 	cai tri	10000
 cam 	cam	20000
 cam 	cam	10000
-cam 	cam	20000
-cam 	cam	10000
 cám 	cams	20000
 cám 	cam	10000
 càm 	camf	20000
@@ -2039,10 +1959,6 @@ cảm lạnh 	camr lanhj	20000
 cảm lạnh 	cam lanh	10000
 cảm ơn 	camr own	20000
 cảm ơn 	cam on	10000
-xin cảm ơn 	xin camr own	20000
-xin cảm ơn 	xin cam on	10000
-cảm thấy 	camr thaays	20000
-cảm thấy 	cam thay	10000
 cảm thấy 	camr thaays	20000
 cảm thấy 	cam thay	10000
 cắm trại 	cawms traij	20000
@@ -2101,8 +2017,6 @@ cẩn thận 	caanr thaanj	20000
 cẩn thận 	can than	10000
 Cẩn thận một chút 	Caanr thaanj mootj chuts	20000
 Cẩn thận một chút 	Can than mot chut	10000
-Cẩn thận một chút 	Caanr thaanj mootj chuts	20000
-Cẩn thận một chút 	Can than mot chut	10000
 can thiệp 	can thieepj	20000
 can thiệp 	can thiep	10000
 cần thiết 	caanf thieets	20000
@@ -2149,12 +2063,8 @@ cảnh 	canhr	20000
 cảnh 	canh	10000
 cạnh 	canhj	20000
 cạnh 	canh	10000
-cạnh 	canhj	20000
-cạnh 	canh	10000
 cảnh báo 	canhr baos	20000
 cảnh báo 	canh bao	10000
-cảnh cáo 	canhr caos	20000
-cảnh cáo 	canh cao	10000
 cành cây 	canhf caay	20000
 cành cây 	canh cay	10000
 cánh hoa 	canhs hoa	20000
@@ -2163,8 +2073,6 @@ cảnh quan 	canhr quan	20000
 cảnh quan 	canh quan	10000
 cảnh sát 	canhr sats	20000
 cảnh sát 	canh sat	10000
-cánh tay 	canhs tay	20000
-cánh tay 	canh tay	10000
 cánh tay 	canhs tay	20000
 cánh tay 	canh tay	10000
 cạnh tranh 	canhj tranh	20000
@@ -2411,8 +2319,6 @@ chậm 	chaamj	20000
 chậm 	cham	10000
 chặm 	chawmj	20000
 chặm 	cham	10000
-chăm chỉ 	chawm chir	20000
-chăm chỉ 	cham chi	10000
 chăm chỉ 	chawm chir	20000
 chăm chỉ 	cham chi	10000
 chấm dứt 	chaams duwts	20000
@@ -2757,6 +2663,8 @@ chỉ 	chir	20000
 chỉ 	chi	10000
 chị 	chij	20000
 chị 	chi	10000
+chỉ … thôi 	chir … thooi	20000
+chỉ … thôi 	chi … thoi	10000
 chị ấy 	chij aays	20000
 chị ấy 	chi ay	10000
 chỉ cần 	chir caanf	20000
@@ -2785,8 +2693,6 @@ chỉ tiêu 	chir tieeu	20000
 chỉ tiêu 	chi tieu	10000
 chỉ trích 	chir trichs	20000
 chỉ trích 	chi trich	10000
-chỉ … thôi 	chir … thooi	20000
-chỉ … thôi 	chi … thoi	10000
 chia 	chia	20000
 chia 	chia	10000
 chía 	chias	20000
@@ -3089,8 +2995,6 @@ chơi 	chowi	20000
 chơi 	choi	10000
 chổi 	chooir	20000
 chổi 	choi	10000
-chổi 	chooir	20000
-chổi 	choi	10000
 chọi 	choij	20000
 chọi 	choi	10000
 chới 	chowis	20000
@@ -3349,8 +3253,6 @@ chúc mừng sinh nhật 	chucs muwngf sinh nhaatj	20000
 chúc mừng sinh nhật 	chuc mung sinh nhat	10000
 chức năng 	chuwcs nawng	20000
 chức năng 	chuc nang	10000
-chúc ngủ ngon 	chucs ngur ngon	20000
-chúc ngủ ngon 	chuc ngu ngon	10000
 Chúc ngủ ngon ! 	Chucs ngur ngon !	20000
 Chúc ngủ ngon ! 	Chuc ngu ngon !	10000
 Chúc ngủ ngon và những giấc mơ ngọt ngào ! 	Chucs ngur ngon vaf nhuwngx giaacs mow ngotj ngaof !	20000
@@ -3615,6 +3517,8 @@ cộ 	cooj	20000
 cộ 	co	10000
 cở 	cowr	20000
 cở 	co	10000
+có ... gì 	cos ... gif	20000
+có ... gì 	co ... gi	10000
 cô ấy 	coo aays	20000
 cô ấy 	co ay	10000
 cơ bản 	cow banr	20000
@@ -3723,12 +3627,8 @@ cờ vua 	cowf vua	20000
 cờ vua 	co vua	10000
 cố ý 	coos ys	20000
 cố ý 	co y	10000
-có ... gì 	cos ... gif	20000
-có ... gì 	co ... gi	10000
 coa 	coa	20000
 coa 	coa	10000
-coan 	coan	20000
-coan 	coan	10000
 cóc 	cocs	20000
 cóc 	coc	10000
 cốc 	coocs	20000
@@ -3875,6 +3775,8 @@ côn trùng 	coon trungf	20000
 côn trùng 	con trung	10000
 cong 	cong	20000
 cong 	cong	10000
+cong 	cong	20000
+cong 	cong	10000
 cóng 	congs	20000
 cóng 	cong	10000
 còng 	congf	20000
@@ -3961,8 +3863,6 @@ công việc mong muốn 	coong vieecj mong muoons	20000
 công việc mong muốn 	cong viec mong muon	10000
 công viên 	coong vieen	20000
 công viên 	cong vien	10000
-công-tắc 	coong-tawcs	20000
-công-tắc 	cong-tac	10000
 cóp 	cops	20000
 cóp 	cop	10000
 cốp 	coops	20000
@@ -4025,8 +3925,6 @@ cụ thể 	cuj theer	20000
 cụ thể 	cu the	10000
 cư trú 	cuw trus	20000
 cư trú 	cu tru	10000
-địa chỉ 	ddiaj chir	20000
-địa chỉ 	dia chi	10000
 cư xá 	cuw xas	20000
 cư xá 	cu xa	10000
 cua 	cua	20000
@@ -4227,8 +4125,10 @@ cụt 	cutj	20000
 cụt 	cut	10000
 cứt 	cuwts	20000
 cứt 	cut	10000
-Cút đi, xéo đi 	Cuts ddi, xeos ddi	20000
-Cút đi, xéo đi 	Cut di, xeo di	10000
+cút đi 	cuts ddi	20000
+cút đi 	cut di	10000
+xéo đi 	xeos ddi	20000
+xéo đi 	xeo di	10000
 cưu 	cuwu	20000
 cưu 	cuu	10000
 cứu 	cuwus	20000
@@ -4281,8 +4181,6 @@ dạ 	da	10000
 đa khoa 	da khoa	10000
 Đà Lạt 	DDaf Latj	20000
 Đà Lạt 	Da Lat	10000
-Ðà Lạt 	Ðaf Latj	20000
-Ðà Lạt 	Ða Lat	10000
 Đà Nẵng 	DDaf Nawngx	20000
 Đà Nẵng 	Da Nang	10000
 đả nữ 	ddar nuwx	20000
@@ -4549,8 +4447,6 @@ dân tộc 	daan toocj	20000
 dân tộc 	dan toc	10000
 dang 	dang	20000
 dang 	dang	10000
-dang 	dang	20000
-dang 	dang	10000
 dáng 	dangs	20000
 dáng 	dang	10000
 dàng 	dangf	20000
@@ -4759,8 +4655,6 @@ dặt 	dat	10000
 đặt chỗ 	dat cho	10000
 đặt cọc 	ddawtj cocj	20000
 đặt cọc 	dat coc	10000
-đặt cọc 	ddawtj cocj	20000
-đặt cọc 	dat coc	10000
 đạt được khen thưởng 	ddatj dduwowcj khen thuwowngr	20000
 đạt được khen thưởng 	dat duoc khen thuong	10000
 đặt hàng 	ddawtj hangf	20000
@@ -4965,12 +4859,12 @@ dễ gần 	de gan	10000
 đề thi 	de thi	10000
 dễ thương 	deex thuwowng	20000
 dễ thương 	de thuong	10000
-Để tôi nghĩ đã 	DDeer tooi nghix ddax	20000
-Để tôi nghĩ đã 	De toi nghi da	10000
 Để tôi 	DDeer tooi	20000
 Để tôi 	De toi	10000
 để tôi làm 	ddeer tooi lamf	20000
 để tôi làm 	de toi lam	10000
+Để tôi nghĩ đã 	DDeer tooi nghix ddax	20000
+Để tôi nghĩ đã 	De toi nghi da	10000
 để xe 	ddeer xe	20000
 để xe 	de xe	10000
 đề xuất 	ddeef xuaats	20000
@@ -5045,18 +4939,18 @@ dện 	den	10000
 đến bây giờ 	den bay gio	10000
 đèn đường 	ddenf dduwowngf	20000
 đèn đường 	den duong	10000
+đèn giao thông 	ddenf giao thoong	20000
+đèn giao thông 	den giao thong	10000
 đến mức 	ddeens muwcs	20000
 đến mức 	den muc	10000
 đèn nê-ô 	ddenf nee-oo	20000
 đèn nê-ô 	den ne-o	10000
 đèn pin 	ddenf pin	20000
 đèn pin 	den pin	10000
-đến việt nam 	ddeens vieetj nam	20000
-đến việt nam 	den viet nam	10000
+đến Việt Nam 	ddeens Vieetj Nam	20000
+đến Việt Nam 	den Viet Nam	10000
 đèn xanh đỏ 	ddenf xanh ddor	20000
 đèn xanh đỏ 	den xanh do	10000
-đèn giao thông 	ddenf giao thoong	20000
-đèn giao thông 	den giao thong	10000
 deng 	deng	20000
 deng 	deng	10000
 đeng 	ddeng	20000
@@ -5549,8 +5443,6 @@ dịu dàng 	diuj dangf	20000
 dịu dàng 	diu dang	10000
 do 	do	20000
 do 	do	10000
-do 	do	20000
-do 	do	10000
 dó 	dos	20000
 dó 	do	10000
 dò 	dof	20000
@@ -5577,8 +5469,6 @@ dỡ 	dowx	20000
 dỡ 	do	10000
 dộ 	dooj	20000
 dộ 	do	10000
-dở 	dowr	20000
-dở 	do	10000
 dở 	dowr	20000
 dở 	do	10000
 dợ 	dowj	20000
@@ -5635,8 +5525,6 @@ do … cơ quan công an thành phố tỉnh cấp 	do … co quan cong an thanh
 độ dài 	do dai	10000
 do đó 	do ddos	20000
 do đó 	do do	10000
-do đó 	do ddos	20000
-do đó 	do do	10000
 đó đó 	ddos ddos	20000
 đó đó 	do do	10000
 đồ dùng 	ddoof dungf	20000
@@ -5653,8 +5541,6 @@ do đó 	do do	10000
 đồ họa máy tín 	do hoa may tin	10000
 Đó là chuyên môn của cô ta 	DDos laf chuyeen moon cuar coo ta	20000
 Đó là chuyên môn của cô ta 	Do la chuyen mon cua co ta	10000
-đồ lau 	ddoof lau	20000
-đồ lau 	do lau	10000
 đồ lau 	ddoof lau	20000
 đồ lau 	do lau	10000
 đồ lưu niệm 	ddoof luwu nieemj	20000
@@ -5691,8 +5577,6 @@ dọa 	doaj	20000
 dọa 	doa	10000
 đoa 	ddoa	20000
 đoa 	doa	10000
-đóa 	ddoas	20000
-đóa 	doa	10000
 đóa 	ddoas	20000
 đóa 	doa	10000
 đòa 	ddoaf	20000
@@ -5771,8 +5655,6 @@ dộc 	doc	10000
 độc 	doc	10000
 đọc báo 	ddocj baos	20000
 đọc báo 	doc bao	10000
-đọc báo 	ddocj baos	20000
-đọc báo 	doc bao	10000
 độc đá 	ddoocj ddas	20000
 độc đá 	doc da	10000
 độc đóa 	ddoocj ddoas	20000
@@ -5783,10 +5665,6 @@ dộc 	doc	10000
 độc lập 	doc lap	10000
 đọc sách 	ddocj sachs	20000
 đọc sách 	doc sach	10000
-độc thân 	ddoocj thaan	20000
-độc thân 	doc than	10000
-độc thân 	ddoocj thaan	20000
-độc thân 	doc than	10000
 độc thân 	ddoocj thaan	20000
 độc thân 	doc than	10000
 đọc thử xem 	ddocj thuwr xem	20000
@@ -5847,8 +5725,6 @@ dợi 	doi	10000
 đội 	doi	10000
 đợi 	ddowij	20000
 đợi 	doi	10000
-đợi 	ddowij	20000
-đợi 	doi	10000
 đôi bê 	ddooi bee	20000
 đôi bê 	doi be	10000
 đội bóng đ 	ddooij bongs dd	20000
@@ -5857,8 +5733,6 @@ dợi 	doi	10000
 đội cứu hộ 	doi cuu ho	10000
 đối đầu 	ddoois ddaauf	20000
 đối đầu 	doi dau	10000
-đối diệ 	ddoois dieej	20000
-đối diệ 	doi die	10000
 đối diện 	ddoois dieenj	20000
 đối diện 	doi dien	10000
 đổi hàng lại 	ddooir hangf laij	20000
@@ -5869,12 +5743,8 @@ dợi 	doi	10000
 đổi mới 	doi moi	10000
 đội mũ 	ddooij mux	20000
 đội mũ 	doi mu	10000
-đội mũ 	ddooij mux	20000
-đội mũ 	doi mu	10000
 đời người 	ddowif nguwowif	20000
 đời người 	doi nguoi	10000
-đội nón 	ddooij nons	20000
-đội nón 	doi non	10000
 đội nón 	ddooij nons	20000
 đội nón 	doi non	10000
 đối phó 	ddoois phos	20000
@@ -5991,8 +5861,6 @@ dọn nhà 	don nha	10000
 đón nhận 	don nhan	10000
 đơn vị 	ddown vij	20000
 đơn vị 	don vi	10000
-đơn vị 	ddown vij	20000
-đơn vị 	don vi	10000
 đơn vị ứng tuyển 	ddown vij uwngs tuyeenr	20000
 đơn vị ứng tuyển 	don vi ung tuyen	10000
 dong 	dong	20000
@@ -6079,8 +5947,6 @@ dộng 	dong	10000
 đồng ngành 	dong nganh	10000
 đồng nghiệp 	ddoongf nghieepj	20000
 đồng nghiệp 	dong nghiep	10000
-đồng nghiệp 	ddoongf nghieepj	20000
-đồng nghiệp 	dong nghiep	10000
 đông người 	ddoong nguwowif	20000
 đông người 	dong nguoi	10000
 động phòng 	ddoongj phongf	20000
@@ -6105,8 +5971,6 @@ dòng sông 	dong song	10000
 động vật 	dong vat	10000
 đông y 	ddoong y	20000
 đông y 	dong y	10000
-đồng ý 	ddoongf ys	20000
-đồng ý 	dong y	10000
 đồng ý 	ddoongf ys	20000
 đồng ý 	dong y	10000
 dốp 	doops	20000
@@ -6219,8 +6083,6 @@ dự phòng 	du phong	10000
 đủ rồi 	du roi	10000
 dự thi 	duwj thi	20000
 dự thi 	du thi	10000
-Dự thi 	Duwj thi	20000
-Dự thi 	Du thi	10000
 đủ thứ 	ddur thuws	20000
 đủ thứ 	du thu	10000
 du thuyền 	du thuyeenf	20000
@@ -6265,8 +6127,6 @@ dưa chuột 	duwa chuootj	20000
 dưa chuột 	dua chuot	10000
 dưa hấu 	duwa haaus	20000
 dưa hấu 	dua hau	10000
-dưa hấu 	duwa haaus	20000
-dưa hấu 	dua hau	10000
 đua ngựa 	ddua nguwaj	20000
 đua ngựa 	dua ngua	10000
 đưa ra 	dduwa ra	20000
@@ -6303,8 +6163,8 @@ dực 	duc	10000
 đúc 	duc	10000
 đục 	dducj	20000
 đục 	duc	10000
-đức 	dduwcs	20000
-đức 	duc	10000
+Đức 	DDuwcs	20000
+Đức 	Duc	10000
 đực 	dduwcj	20000
 đực 	duc	10000
 duế 	duees	20000
@@ -6363,8 +6223,6 @@ dún 	duns	20000
 dún 	dun	10000
 dùn 	dunf	20000
 dùn 	dun	10000
-đun 	ddun	20000
-đun 	dun	10000
 đun 	ddun	20000
 đun 	dun	10000
 đún 	dduns	20000
@@ -6501,6 +6359,8 @@ dượi 	duoi	10000
 đuối 	duoi	10000
 đuổi 	dduooir	20000
 đuổi 	duoi	10000
+đuổi 	dduooir	20000
+đuổi 	duoi	10000
 đươi 	dduwowi	20000
 đươi 	duoi	10000
 đưới 	dduwowis	20000
@@ -6537,8 +6397,6 @@ dượng 	duong	10000
 đương 	duong	10000
 đướng 	dduwowngs	20000
 đướng 	duong	10000
-đường 	dduwowngf	20000
-đường 	duong	10000
 đường 	dduwowngf	20000
 đường 	duong	10000
 đưỡng 	dduwowngx	20000
@@ -6585,8 +6443,6 @@ dụy 	duyj	20000
 dụy 	duy	10000
 duy nhất 	duy nhaats	20000
 duy nhất 	duy nhat	10000
-duy nhất 	duy nhaats	20000
-duy nhất 	duy nhat	10000
 duyên 	duyeen	20000
 duyên 	duyen	10000
 duyền 	duyeenf	20000
@@ -6615,8 +6471,6 @@ e 	e	10000
 è 	e	10000
 ê 	ee	20000
 ê 	e	10000
-ế 	ees	20000
-ế 	e	10000
 ế 	ees	20000
 ế 	e	10000
 ề 	eef	20000
@@ -6653,8 +6507,6 @@ em dâu 	em dau	10000
 êm dịu 	em diu	10000
 em gái 	em gais	20000
 em gái 	em gai	10000
-em họ 	em hoj	20000
-em họ 	em ho	10000
 em họ 	em hoj	20000
 em họ 	em ho	10000
 em rể 	em reer	20000
@@ -6715,8 +6567,6 @@ gá 	gas	20000
 gá 	ga	10000
 gà 	gaf	20000
 gà 	ga	10000
-gà 	gaf	20000
-gà 	ga	10000
 gã 	gax	20000
 gã 	ga	10000
 gả 	gar	20000
@@ -6755,8 +6605,8 @@ gải 	gair	20000
 gải 	gai	10000
 gại 	gaij	20000
 gại 	gai	10000
-Gai nhỏ 	Gai nhor	20000
-Gai nhỏ 	Gai nho	10000
+gai nhỏ 	gai nhor	20000
+gai nhỏ 	gai nho	10000
 gam 	gam	20000
 gam 	gam	10000
 gám 	gams	20000
@@ -6843,8 +6693,6 @@ gáp 	gaps	20000
 gáp 	gap	10000
 gấp 	gaaps	20000
 gấp 	gap	10000
-gấp 	gaaps	20000
-gấp 	gap	10000
 gắp 	gawps	20000
 gắp 	gap	10000
 gập 	gaapj	20000
@@ -6889,8 +6737,6 @@ gày 	gayf	20000
 gày 	gay	10000
 gây 	gaay	20000
 gây 	gay	10000
-gây 	gaay	20000
-gây 	gay	10000
 gãy 	gayx	20000
 gãy 	gay	10000
 gấy 	gaays	20000
@@ -6911,8 +6757,6 @@ gây bệnh 	gaay beenhj	20000
 gây bệnh 	gay benh	10000
 gay go rồi 	gay go rooif	20000
 gay go rồi 	gay go roi	10000
-gây ra 	gaay ra	20000
-gây ra 	gay ra	10000
 gây ra 	gaay ra	20000
 gây ra 	gay ra	10000
 gềnh 	geenhf	20000
@@ -6985,8 +6829,6 @@ gí 	gis	20000
 gí 	gi	10000
 gì 	gif	20000
 gì 	gi	10000
-gì 	gif	20000
-gì 	gi	10000
 gỉ 	gir	20000
 gỉ 	gi	10000
 Gì thế 	Gif thees	20000
@@ -6997,8 +6839,6 @@ giá 	gias	20000
 giá 	gia	10000
 giá 	gias	20000
 giá 	gia	10000
-già 	giaf	20000
-già 	gia	10000
 già 	giaf	20000
 già 	gia	10000
 giã 	giax	20000
@@ -7017,8 +6857,6 @@ gia công 	gia coong	20000
 gia công 	gia cong	10000
 giá đất 	gias ddaats	20000
 giá đất 	gia dat	10000
-gia đình 	gia ddinhf	20000
-gia đình 	gia dinh	10000
 gia đình 	gia ddinhf	20000
 gia đình 	gia dinh	10000
 giá đựng rác 	gias dduwngj racs	20000
@@ -7049,8 +6887,6 @@ giá treo giấy vệ sinh 	gias treo giaays veej sinh	20000
 giá treo giấy vệ sinh 	gia treo giay ve sinh	10000
 giá treo khăn 	gias treo khawn	20000
 giá treo khăn 	gia treo khan	10000
-giá trị 	gias trij	20000
-giá trị 	gia tri	10000
 giá trị 	gias trij	20000
 giá trị 	gia tri	10000
 gia vị 	gia vij	20000
@@ -7085,8 +6921,6 @@ giải nhì 	giair nhif	20000
 giải nhì 	giai nhi	10000
 giải pháp 	giair phaps	20000
 giải pháp 	giai phap	10000
-giải pháp 	giair phaps	20000
-giải pháp 	giai phap	10000
 giải phóng 	giair phongs	20000
 giải phóng 	giai phong	10000
 giải quyết 	giair quyeets	20000
@@ -7107,8 +6941,6 @@ giâm 	giaam	20000
 giâm 	giam	10000
 giăm 	giawm	20000
 giăm 	giam	10000
-giấm 	giaams	20000
-giấm 	giam	10000
 giấm 	giaams	20000
 giấm 	giam	10000
 giầm 	giaamf	20000
@@ -7175,8 +7007,6 @@ giận dỗi 	giaanj dooix	20000
 giận dỗi 	gian doi	10000
 gian lận 	gian laanj	20000
 gian lận 	gian lan	10000
-Gian lận, quay cóp 	Gian laan,j quay cops	20000
-Gian lận, quay cóp 	Gian lan, quay cop	10000
 giận muốn chết 	giaanj muoons cheets	20000
 giận muốn chết 	gian muon chet	10000
 giang 	giang	20000
@@ -7243,12 +7073,8 @@ giáo trình 	giaos trinhf	20000
 giáo trình 	giao trinh	10000
 giáo viên 	giaos vieen	20000
 giáo viên 	giao vien	10000
-giáo viên 	giaos vieen	20000
-giáo viên 	giao vien	10000
-Giáo viên 	Giaos vieen	20000
-Giáo viên 	Giao vien	10000
-Giáo viên cao cấp 	Giaos vieen cao caaps	20000
-Giáo viên cao cấp 	Giao vien cao cap	10000
+giáo viên cao cấp 	giaos vieen cao caaps	20000
+giáo viên cao cấp 	giao vien cao cap	10000
 giáo viên nhà trẻ 	giaos vieen nhaf trer	20000
 giáo viên nhà trẻ 	giao vien nha tre	10000
 giáp 	giaps	20000
@@ -7259,8 +7085,8 @@ giập 	giaapj	20000
 giập 	giap	10000
 giặp 	giawpj	20000
 giặp 	giap	10000
-giáp ranh giữa.... 	giaps ranh giuwa....x	20000
-giáp ranh giữa.... 	giap ranh giua....	10000
+giáp ranh giữa ... 	giaps ranh giuwax ...	20000
+giáp ranh giữa ... 	giap ranh giua ...	10000
 giát 	giats	20000
 giát 	giat	10000
 giắt 	giawts	20000
@@ -7269,8 +7095,6 @@ giạt 	giatj	20000
 giạt 	giat	10000
 giật 	giaatj	20000
 giật 	giat	10000
-giặt 	giawtj	20000
-giặt 	giat	10000
 giặt 	giawtj	20000
 giặt 	giat	10000
 giặt giạ 	giawtj giaj	20000
@@ -7297,8 +7121,6 @@ giay 	giay	20000
 giay 	giay	10000
 giáy 	giays	20000
 giáy 	giay	10000
-giày 	giayf	20000
-giày 	giay	10000
 giày 	giayf	20000
 giày 	giay	10000
 giây 	giaay	20000
@@ -7519,8 +7341,6 @@ giọng hát 	giongj hats	20000
 giọng hát 	giong hat	10000
 giống như 	gioongs nhuw	20000
 giống như 	giong nhu	10000
-giống như 	gioongs nhuw	20000
-giống như 	giong nhu	10000
 giọng nói 	giongj nois	20000
 giọng nói 	giong noi	10000
 giộp 	gioopj	20000
@@ -7595,8 +7415,6 @@ giương 	giuwowng	20000
 giương 	giuong	10000
 giường 	giuwowngf	20000
 giường 	giuong	10000
-giường 	giuwowngf	20000
-giường 	giuong	10000
 giúp 	giups	20000
 giúp 	giup	10000
 gIúp đỡ 	gIups ddowx	20000
@@ -7669,8 +7487,6 @@ gọi 	goij	20000
 gọi 	goi	10000
 gới 	gowis	20000
 gới 	goi	10000
-gội 	gooij	20000
-gội 	goi	10000
 gội 	gooij	20000
 gội 	goi	10000
 gởi 	gowir	20000
@@ -7827,10 +7643,6 @@ Hạ Long 	Haj Long	20000
 Hạ Long 	Ha Long	10000
 Hà Nội 	Haf Nooij	20000
 Hà Nội 	Ha Noi	10000
-Hà Nội 	Haf Nooij	20000
-Hà Nội 	Ha Noi	10000
-hạ tầng 	haj taangf	20000
-hạ tầng 	ha tang	10000
 hạ tầng 	haj taangf	20000
 hạ tầng 	ha tang	10000
 hác 	hacs	20000
@@ -7847,8 +7659,6 @@ hách 	hachs	20000
 hách 	hach	10000
 hạch 	hachj	20000
 hạch 	hach	10000
-hai 	hai	20000
-hai 	hai	10000
 hai 	hai	20000
 hai 	hai	10000
 hái 	hais	20000
@@ -7871,8 +7681,6 @@ hài lòng 	haif longf	20000
 hài lòng 	hai long	10000
 hai mốt 	hai moots	20000
 hai mốt 	hai mot	10000
-hai mươi 	hai muwowi	20000
-hai mươi 	hai muoi	10000
 hai mươi 	hai muwowi	20000
 hai mươi 	hai muoi	10000
 hai mươi hai 	hai muwowi hai	20000
@@ -8031,8 +7839,6 @@ hạnh 	hanhj	20000
 hạnh 	hanh	10000
 hành chính 	hanhf chinhs	20000
 hành chính 	hanh chinh	10000
-hành chính điện t 	hanhf chinhs ddieenj t	20000
-hành chính điện t 	hanh chinh dien t	10000
 hành động 	hanhf ddoongj	20000
 hành động 	hanh dong	10000
 hành khách 	hanhf khachs	20000
@@ -8121,10 +7927,6 @@ hầu như 	haauf nhuw	20000
 hầu như 	hau nhu	10000
 hậu quả 	haauj quar	20000
 hậu quả 	hau qua	10000
-hậu quả 	haauj quar	20000
-hậu quả 	hau qua	10000
-hay 	hay	20000
-hay 	hay	10000
 hay 	hay	20000
 hay 	hay	10000
 háy 	hays	20000
@@ -8265,8 +8067,8 @@ hệt 	heetj	20000
 hệt 	het	10000
 Hết giờ 	Heets giowf	20000
 Hết giờ 	Het gio	10000
-hết tiền 	heets tieenf	20000
-hết tiền 	het tien	10000
+Hết tiền 	Heets tieenf	20000
+Hết tiền 	Het tien	10000
 hêu 	heeu	20000
 hêu 	heu	10000
 hếu 	heeus	20000
@@ -8367,16 +8169,14 @@ hiệu lực điều trị 	hieeuj luwcj ddieeuf trij	20000
 hiệu lực điều trị 	hieu luc dieu tri	10000
 hiệu quả 	hieeuj quar	20000
 hiệu quả 	hieu qua	10000
-hiệu quả 	hieeuj quar	20000
-hiệu quả 	hieu qua	10000
 hiểu rõ 	hieeur rox	20000
 hiểu rõ 	hieu ro	10000
 hiệu sách 	hieeuj sachs	20000
 hiệu sách 	hieu sach	10000
 hiếu thắng 	hieeus thawngs	20000
 hiếu thắng 	hieu thang	10000
-hiếu thảo(với) 	hieeus thao(vowi)s	20000
-hiếu thảo(với) 	hieu thao(voi)	10000
+hiếu thảo 	hieeus thaor	20000
+hiếu thảo 	hieu thao	10000
 hiểu thấu 	hieeur thaaus	20000
 hiểu thấu 	hieu thau	10000
 hiệu thuốc 	hieeuj thuoocs	20000
@@ -8399,8 +8199,6 @@ hĩnh 	hinhx	20000
 hĩnh 	hinh	10000
 hỉnh 	hinhr	20000
 hỉnh 	hinh	10000
-hình ảnh 	hinhf anhr	20000
-hình ảnh 	hinh anh	10000
 hình ảnh 	hinhf anhr	20000
 hình ảnh 	hinh anh	10000
 hình cưới 	hinhf cuwowis	20000
@@ -8435,8 +8233,6 @@ hỗ 	hoox	20000
 hỗ 	ho	10000
 hơ 	how	20000
 hơ 	ho	10000
-hổ 	hoor	20000
-hổ 	ho	10000
 hổ 	hoor	20000
 hổ 	ho	10000
 họ 	hoj	20000
@@ -8563,12 +8359,8 @@ hoàn mỹ 	hoanf myx	20000
 hoàn mỹ 	hoan my	10000
 hoàn thành 	hoanf thanhf	20000
 hoàn thành 	hoan thanh	10000
-hoàn thành 	hoanf thanhf	20000
-hoàn thành 	hoan thanh	10000
 hoãn thi hành án 	hoanx thi hanhf ans	20000
 hoãn thi hành án 	hoan thi hanh an	10000
-hoàn thiện 	hoanf thieenj	20000
-hoàn thiện 	hoan thien	10000
 hoàn thiện 	hoanf thieenj	20000
 hoàn thiện 	hoan thien	10000
 hoàn toàn 	hoanf toanf	20000
@@ -8619,8 +8411,6 @@ hóc 	hocs	20000
 hóc 	hoc	10000
 hốc 	hoocs	20000
 hốc 	hoc	10000
-học 	hocj	20000
-học 	hoc	10000
 học 	hocj	20000
 học 	hoc	10000
 hộc 	hoocj	20000
@@ -8713,8 +8503,6 @@ hối 	hoois	20000
 hối 	hoi	10000
 hồi 	hooif	20000
 hồi 	hoi	10000
-hỏi 	hoir	20000
-hỏi 	hoi	10000
 hỏi 	hoir	20000
 hỏi 	hoi	10000
 hơi 	howi	20000
@@ -8859,12 +8647,10 @@ hỏng rồi 	hongr rooif	20000
 hỏng rồi 	hong roi	10000
 Hỏng rồi 	Hongr rooif	20000
 Hỏng rồi 	Hong roi	10000
-hoóc-môn 	hooc-moons	20000
-hoóc-môn 	hooc-mon	10000
+hoóc môn 	hoocs moon	20000
+hoóc môn 	hooc mon	10000
 hóp 	hops	20000
 hóp 	hop	10000
-họp 	hopj	20000
-họp 	hop	10000
 họp 	hopj	20000
 họp 	hop	10000
 hớp 	howps	20000
@@ -9103,8 +8889,6 @@ hụt 	hutj	20000
 hụt 	hut	10000
 hút bụi 	huts buij	20000
 hút bụi 	hut bui	10000
-hút bụi 	huts buij	20000
-hút bụi 	hut bui	10000
 hút thuốc 	huts thuoocs	20000
 hút thuốc 	hut thuoc	10000
 hút thuốc 	huts thuoocs	20000
@@ -9231,8 +9015,6 @@ Iraq 	Iraq	20000
 Iraq 	Iraq	10000
 ít 	its	20000
 ít 	it	10000
-ít 	its	20000
-ít 	it	10000
 ịt 	itj	20000
 ịt 	it	10000
 ít nhất 	its nhaats	20000
@@ -9243,8 +9025,8 @@ iu 	iu	20000
 iu 	iu	10000
 ỉu 	iur	20000
 ỉu 	iu	10000
-iuy.......... nhưng.... 	iuy.......... nhuwng....	20000
-iuy.......... nhưng.... 	iuy.......... nhung....	10000
+iuy ... nhưng ... 	iuy ... nhuwng ...	20000
+iuy ... nhưng ... 	iuy ... nhung ...	10000
 ke 	ke	20000
 ke 	ke	10000
 ké 	kes	20000
@@ -9361,12 +9143,8 @@ kẹt 	ketj	20000
 kẹt 	ket	10000
 kết án 	keets ans	20000
 kết án 	ket an	10000
-kết án 	keets ans	20000
-kết án 	ket an	10000
 kết bạn 	keets banj	20000
 kết bạn 	ket ban	10000
-kết hôn 	keets hoon	20000
-kết hôn 	ket hon	10000
 kết hôn 	keets hoon	20000
 kết hôn 	ket hon	10000
 kết luận 	keets luaanj	20000
@@ -9399,8 +9177,6 @@ khá giả 	khas giar	20000
 khá giả 	kha gia	10000
 khả năng 	khar nawng	20000
 khả năng 	kha nang	10000
-khả năng 	khar nawng	20000
-khả năng 	kha nang	10000
 khác 	khacs	20000
 khác 	khac	10000
 khấc 	khaacs	20000
@@ -9419,16 +9195,10 @@ khắc phục 	khawcs phucj	20000
 khắc phục 	khac phuc	10000
 khách 	khachs	20000
 khách 	khach	10000
-khách 	khachs	20000
-khách 	khach	10000
-khách hàng 	khachs hangf	20000
-khách hàng 	khach hang	10000
 khách hàng 	khachs hangf	20000
 khách hàng 	khach hang	10000
 khách quan 	khachs quan	20000
 khách quan 	khach quan	10000
-khách sạn 	khachs sanj	20000
-khách sạn 	khach san	10000
 khách sạn 	khachs sanj	20000
 khách sạn 	khach san	10000
 khai 	khai	20000
@@ -9469,8 +9239,6 @@ khắm 	khawms	20000
 khắm 	kham	10000
 khằm 	khawmf	20000
 khằm 	kham	10000
-khảm 	khamr	20000
-khảm 	kham	10000
 khảm 	khamr	20000
 khảm 	kham	10000
 khẩm 	khaamr	20000
@@ -9595,8 +9363,8 @@ khẩu 	khaaur	20000
 khẩu 	khau	10000
 khẩu hiệu 	khaaur hieeuj	20000
 khẩu hiệu 	khau hieu	10000
-Khẩu trang 	Khaaur trang	20000
-Khẩu trang 	Khau trang	10000
+khẩu trang 	khaaur trang	20000
+khẩu trang 	khau trang	10000
 khẩu vị 	khaaur vij	20000
 khẩu vị 	khau vi	10000
 khay 	khay	20000
@@ -9685,14 +9453,10 @@ khì 	khif	20000
 khì 	khi	10000
 khỉ 	khir	20000
 khỉ 	khi	10000
-khỉ 	khir	20000
-khỉ 	khi	10000
 khị 	khij	20000
 khị 	khi	10000
 khí hậu 	khis haauj	20000
 khí hậu 	khi hau	10000
-khi nào 	khi naof	20000
-khi nào 	khi nao	10000
 khi nào 	khi naof	20000
 khi nào 	khi nao	10000
 khía 	khias	20000
@@ -9739,8 +9503,6 @@ khiếu 	khieeus	20000
 khiếu 	khieu	10000
 khiểu 	khieeur	20000
 khiểu 	khieu	10000
-khiêu vũ 	khieeu vux	20000
-khiêu vũ 	khieu vu	10000
 khiêu vũ 	khieeu vux	20000
 khiêu vũ 	khieu vu	10000
 khim 	khim	20000
@@ -9795,8 +9557,6 @@ khổ giấy 	khoor giaays	20000
 khổ giấy 	kho giay	10000
 khó khăn 	khos khawn	20000
 khó khăn 	kho khan	10000
-Khoa 	Khoa	20000
-Khoa 	Khoa	10000
 khoa 	khoa	20000
 khoa 	khoa	10000
 khóa 	khoas	20000
@@ -9813,6 +9573,8 @@ khoắc 	khoawcs	20000
 khoắc 	khoac	10000
 khoách 	khoachs	20000
 khoách 	khoach	10000
+khoai 	khoai	20000
+khoai 	khoai	10000
 khoai 	khoai	20000
 khoai 	khoai	10000
 khoái 	khoais	20000
@@ -9875,8 +9637,6 @@ khoe 	khoe	20000
 khoe 	khoe	10000
 khóe 	khoes	20000
 khóe 	khoe	10000
-khỏe 	khoer	20000
-khỏe 	khoe	10000
 khỏe 	khoer	20000
 khỏe 	khoe	10000
 khỏe mạnh 	khoer manhj	20000
@@ -9955,8 +9715,6 @@ khờn 	khownf	20000
 khờn 	khon	10000
 khong 	khong	20000
 khong 	khong	10000
-không 	khoong	20000
-không 	khong	10000
 không 	khoong	20000
 không 	khong	10000
 khống 	khoongs	20000
@@ -10049,8 +9807,6 @@ không nỡ 	khoong nowx	20000
 không nỡ 	khong no	10000
 không phải 	khoong phair	20000
 không phải 	khong phai	10000
-không phải 	khoong phair	20000
-không phải 	khong phai	10000
 không phải là 	khoong phair laf	20000
 không phải là 	khong phai la	10000
 không phân biệt 	khoong phaan bieetj	20000
@@ -10063,8 +9819,6 @@ không sao cả 	khoong sao car	20000
 không sao cả 	khong sao ca	10000
 không thấy 	khoong thaays	20000
 không thấy 	khong thay	10000
-Không thấy 	Khoong thaays	20000
-Không thấy 	Khong thay	10000
 không thể 	khoong theer	20000
 không thể 	khong the	10000
 không thể nói là 	khoong theer nois laf	20000
@@ -10111,10 +9865,6 @@ khử 	khuwr	20000
 khử 	khu	10000
 khu công nghiệp 	khu coong nghieepj	20000
 khu công nghiệp 	khu cong nghiep	10000
-khu vực 	khu vuwcj	20000
-khu vực 	khu vuc	10000
-khu vực 	khu vuwcj	20000
-khu vực 	khu vuc	10000
 khu vực 	khu vuwcj	20000
 khu vực 	khu vuc	10000
 khua 	khua	20000
@@ -10309,8 +10059,6 @@ kiểm soát 	kieemr soats	20000
 kiểm soát 	kiem soat	10000
 kiểm tra 	kieemr tra	20000
 kiểm tra 	kiem tra	10000
-kiểm tra 	kieemr tra	20000
-kiểm tra 	kiem tra	10000
 kiên 	kieen	20000
 kiên 	kien	10000
 kiến 	kieens	20000
@@ -10395,8 +10143,6 @@ kinh 	kinh	20000
 kinh 	kinh	10000
 kính 	kinhs	20000
 kính 	kinh	10000
-kính 	kinhs	20000
-kính 	kinh	10000
 kình 	kinhf	20000
 kình 	kinh	10000
 kĩnh 	kinhx	20000
@@ -10407,8 +10153,6 @@ kinh doanh 	kinh doanh	20000
 kinh doanh 	kinh doanh	10000
 kinh nghiệm 	kinh nghieemj	20000
 kinh nghiệm 	kinh nghiem	10000
-kinh nghiệm làm việc 	kinh nghieemj lamf vieecj	20000
-kinh nghiệm làm việc 	kinh nghiem lam viec	10000
 kinh nghiệm làm việc 	kinh nghieemj lamf vieecj	20000
 kinh nghiệm làm việc 	kinh nghiem lam viec	10000
 kinh nghiệm từng trải 	kinh nghieemj tuwngf trair	20000
@@ -10457,8 +10201,6 @@ ký hợp đồng 	kys howpj ddoongf	20000
 ký hợp đồng 	ky hop dong	10000
 kỷ lục 	kyr lucj	20000
 kỷ lục 	ky luc	10000
-kỷ lục 	kyr lucj	20000
-kỷ lục 	ky luc	10000
 kỹ năng 	kyx nawng	20000
 kỹ năng 	ky nang	10000
 kỹ năng nghề nghiệp 	kyx nawng ngheef nghieepj	20000
@@ -10477,24 +10219,16 @@ ký tên 	kys teen	20000
 ký tên 	ky ten	10000
 kỹ thuật 	kyx thuaatj	20000
 kỹ thuật 	ky thuat	10000
-Kỹ thuật 	Kyx thuaatj	20000
-Kỹ thuật 	Ky thuat	10000
 ký tự 	kys tuwj	20000
 ký tự 	ky tu	10000
-ký túc x 	kys tucs x	20000
-ký túc x 	ky tuc x	10000
 Ký túc xá 	Kys tucs xas	20000
 Ký túc xá 	Ky tuc xa	10000
 kỳ vọng 	kyf vongj	20000
 kỳ vọng 	ky vong	10000
 la 	la	20000
 la 	la	10000
-la 	la	20000
-la 	la	10000
 lá 	las	20000
 lá 	la	10000
-là 	laf	20000
-là 	la	10000
 là 	laf	20000
 là 	la	10000
 là 	laf	20000
@@ -10555,8 +10289,6 @@ lam 	lam	20000
 lam 	lam	10000
 lám 	lams	20000
 lám 	lam	10000
-làm 	lamf	20000
-làm 	lam	10000
 làm 	lamf	20000
 làm 	lam	10000
 lâm 	laam	20000
@@ -10637,8 +10369,6 @@ lãn 	lanx	20000
 lãn 	lan	10000
 lấn 	laans	20000
 lấn 	lan	10000
-lần 	laanf	20000
-lần 	lan	10000
 lần 	laanf	20000
 lần 	lan	10000
 lằn 	lawnf	20000
@@ -10765,8 +10495,6 @@ lặp 	lawpj	20000
 lặp 	lap	10000
 lắp đặt 	lawps ddawtj	20000
 lắp đặt 	lap dat	10000
-lập gia đình 	laapj gia ddinhf	20000
-lập gia đình 	lap gia dinh	10000
 lập gia đình 	laapj gia ddinhf	20000
 lập gia đình 	lap gia dinh	10000
 lập luận 	laapj luaanj	20000
@@ -10941,8 +10669,6 @@ lẹn 	lenj	20000
 lẹn 	len	10000
 lên giá 	leen gias	20000
 lên giá 	len gia	10000
-lên giường 	leen giuwowngf	20000
-lên giường 	len giuong	10000
 lên giường 	leen giuwowngf	20000
 lên giường 	len giuong	10000
 lên lớp 	leen lowps	20000
@@ -11139,8 +10865,6 @@ líp 	lips	20000
 líp 	lip	10000
 lít 	lits	20000
 lít 	lit	10000
-lít 	lits	20000
-lít 	lit	10000
 lịt 	litj	20000
 lịt 	lit	10000
 liu 	liu	20000
@@ -11295,8 +11019,6 @@ lồi 	looif	20000
 lồi 	loi	10000
 lỗi 	looix	20000
 lỗi 	loi	10000
-lỗi 	looix	20000
-lỗi 	loi	10000
 lỏi 	loir	20000
 lỏi 	loi	10000
 lơi 	lowi	20000
@@ -11381,8 +11103,6 @@ lởn 	lownr	20000
 lởn 	lon	10000
 lợn 	lownj	20000
 lợn 	lon	10000
-lợn 	lownj	20000
-lợn 	lon	10000
 lớn lên 	lowns leen	20000
 lớn lên 	lon len	10000
 lớn nhất 	lowns nhaats	20000
@@ -11423,8 +11143,6 @@ lóng ngóng 	longs ngongs	20000
 lóng ngóng 	long ngong	10000
 lòng trắng 	longf trawngs	20000
 lòng trắng 	long trang	10000
-loỏng 	loongr	20000
-loỏng 	loong	10000
 lóp 	lops	20000
 lóp 	lop	10000
 lốp 	loops	20000
@@ -11437,8 +11155,6 @@ lộp 	loopj	20000
 lộp 	lop	10000
 lợp 	lowpj	20000
 lợp 	lop	10000
-lớp học 	lowps hocj	20000
-lớp học 	lop hoc	10000
 lớp học 	lowps hocj	20000
 lớp học 	lop hoc	10000
 lớp mầm non 	lowps maamf non	20000
@@ -11497,8 +11213,6 @@ lữa 	luwax	20000
 lữa 	lua	10000
 lửa 	luwar	20000
 lửa 	lua	10000
-lựa 	luwaj	20000
-lựa 	lua	10000
 lựa 	luwaj	20000
 lựa 	lua	10000
 lừa bịp 	luwaf bipj	20000
@@ -11681,8 +11395,6 @@ lưởng 	luwowngr	20000
 lưởng 	luong	10000
 lượng 	luwowngj	20000
 lượng 	luong	10000
-lượng 	luwowngj	20000
-lượng 	luong	10000
 lương thiện 	luwowng thieenj	20000
 lương thiện 	luong thien	10000
 lương thực 	luwowng thuwcj	20000
@@ -11771,8 +11483,6 @@ ly hôn 	ly hoon	20000
 ly hôn 	ly hon	10000
 lý lịch 	lys lichj	20000
 lý lịch 	ly lich	10000
-lý lịch 	lys lichj	20000
-lý lịch 	ly lich	10000
 lý lịch công tác 	lys lichj coong tacs	20000
 lý lịch công tác 	ly lich cong tac	10000
 lý thú 	lys thus	20000
@@ -11809,8 +11519,6 @@ mắc 	mawcs	20000
 mắc 	mac	10000
 mạc 	macj	20000
 mạc 	mac	10000
-mặc 	mawcj	20000
-mặc 	mac	10000
 mặc 	mawcj	20000
 mặc 	mac	10000
 mặc áo 	mawcj aos	20000
@@ -11913,8 +11621,6 @@ mang 	mang	20000
 mang 	mang	10000
 mang 	mang	20000
 mang 	mang	10000
-mang 	mang	20000
-mang 	mang	10000
 máng 	mangs	20000
 máng 	mang	10000
 màng 	mangf	20000
@@ -11931,8 +11637,6 @@ mằng 	mawngf	20000
 mằng 	mang	10000
 mảng 	mangr	20000
 mảng 	mang	10000
-mạng 	mangj	20000
-mạng 	mang	10000
 mạng 	mangj	20000
 mạng 	mang	10000
 mặng 	mawngj	20000
@@ -11967,8 +11671,6 @@ mảnh 	manhr	20000
 mảnh 	manh	10000
 mạnh 	manhj	20000
 mạnh 	manh	10000
-mạnh dạn 	manhj danj	20000
-mạnh dạn 	manh dan	10000
 mạnh dạn 	manhj danj	20000
 mạnh dạn 	manh dan	10000
 mảnh đất 	manhr ddaats	20000
@@ -12009,8 +11711,6 @@ mất 	maats	20000
 mất 	mat	10000
 mắt 	mawts	20000
 mắt 	mat	10000
-mắt 	mawts	20000
-mắt 	mat	10000
 mạt 	matj	20000
 mạt 	mat	10000
 mật 	maatj	20000
@@ -12041,18 +11741,12 @@ mát mẽ 	mats mex	20000
 mát mẽ 	mat me	10000
 mát mẻ 	mats mer	20000
 mát mẻ 	mat me	10000
-mát mẻ 	mats mer	20000
-mát mẻ 	mat me	10000
 mắt một mí 	mawts mootj mis	20000
 mắt một mí 	mat mot mi	10000
 mặt nạ 	mawtj naj	20000
 mặt nạ 	mat na	10000
-mặt nạ 	mawtj naj	20000
-mặt nạ 	mat na	10000
 mất nước 	maats nuwowcs	20000
 mất nước 	mat nuoc	10000
-mật ong 	maatj ong	20000
-mật ong 	mat ong	10000
 mật ong 	maatj ong	20000
 mật ong 	mat ong	10000
 mặt tiền đường 	mawtj tieenf dduwowngf	20000
@@ -12127,10 +11821,6 @@ màu trắng 	mauf trawngs	20000
 màu trắng 	mau trang	10000
 màu vàng 	mauf vangf	20000
 màu vàng 	mau vang	10000
-màu vàng 	mauf vangf	20000
-màu vàng 	mau vang	10000
-màu vàng 	mauf vangf	20000
-màu vàng 	mau vang	10000
 màu vàng nhạt 	mauf vangf nhatj	20000
 màu vàng nhạt 	mau vang nhat	10000
 màu xám 	mauf xams	20000
@@ -12149,8 +11839,6 @@ may 	may	20000
 may 	may	10000
 máy 	mays	20000
 máy 	may	10000
-mày 	mayf	20000
-mày 	may	10000
 mày 	mayf	20000
 mày 	may	10000
 mây 	maay	20000
@@ -12177,8 +11865,8 @@ mày dám 	mayf dams	20000
 mày dám 	may dam	10000
 máy dập ghim 	mays daapj ghim	20000
 máy dập ghim 	may dap ghim	10000
-máy đóng sá 	mays ddongs sas	20000
-máy đóng sá 	may dong sa	10000
+máy đóng sách 	mays ddongs sachs	20000
+máy đóng sách 	may dong sach	10000
 máy ghi âm 	mays ghi aam	20000
 máy ghi âm 	may ghi am	10000
 máy giặt 	mays giawtj	20000
@@ -12257,8 +11945,6 @@ mệ 	meej	20000
 mệ 	me	10000
 mẹ chồng 	mej choongf	20000
 mẹ chồng 	me chong	10000
-mẹ chồng 	mej choongf	20000
-mẹ chồng 	me chong	10000
 mẹ kế 	mej kees	20000
 mẹ kế 	me ke	10000
 mẹ vợ 	mej vowj	20000
@@ -12313,8 +11999,6 @@ méo 	meos	20000
 méo 	meo	10000
 mèo 	meof	20000
 mèo 	meo	10000
-mèo 	meof	20000
-mèo 	meo	10000
 mẻo 	meor	20000
 mẻo 	meo	10000
 mẹo 	meoj	20000
@@ -12333,8 +12017,6 @@ mẹt 	metj	20000
 mẹt 	met	10000
 mệt 	meetj	20000
 mệt 	met	10000
-mệt mỏi 	meetj moir	20000
-mệt mỏi 	met moi	10000
 mệt mỏi 	meetj moir	20000
 mệt mỏi 	met moi	10000
 mét vuông 	mets vuoong	20000
@@ -12391,8 +12073,6 @@ miền Nam 	mieenf Nam	20000
 miền Nam 	mien Nam	10000
 miễn phí 	mieenx phis	20000
 miễn phí 	mien phi	10000
-miễn phí 	mieenx phis	20000
-miễn phí 	mien phi	10000
 miễn thuế 	mieenx thuees	20000
 miễn thuế 	mien thue	10000
 miền Trung 	mieenf Trung	20000
@@ -12405,8 +12085,6 @@ miềng 	mieengf	20000
 miềng 	mieng	10000
 miểng 	mieengr	20000
 miểng 	mieng	10000
-miệng 	mieengj	20000
-miệng 	mieng	10000
 miệng 	mieengj	20000
 miệng 	mieng	10000
 miết 	mieets	20000
@@ -12523,8 +12201,6 @@ moa 	moa	20000
 moa 	moa	10000
 moan 	moan	20000
 moan 	moan	10000
-móc 	mocs	20000
-móc 	moc	10000
 móc 	mocs	20000
 móc 	moc	10000
 mốc 	moocs	20000
@@ -12675,10 +12351,6 @@ mọt 	motj	20000
 mọt 	mot	10000
 một 	mootj	20000
 một 	mot	10000
-một 	mootj	20000
-một 	mot	10000
-một 	mootj	20000
-một 	mot	10000
 một cân 	mootj caan	20000
 một cân 	mot can	10000
 một chiều 	mootj chieeuf	20000
@@ -12733,8 +12405,6 @@ mù 	muf	20000
 mù 	mu	10000
 mũ 	mux	20000
 mũ 	mu	10000
-mũ 	mux	20000
-mũ 	mu	10000
 mủ 	mur	20000
 mủ 	mu	10000
 mụ 	muj	20000
@@ -12781,10 +12451,6 @@ mua hàng 	mua hangf	20000
 mua hàng 	mua hang	10000
 mùa hè 	muaf hef	20000
 mùa hè 	mua he	10000
-mùa hè 	muaf hef	20000
-mùa hè 	mua he	10000
-mùa hè 	muaf hef	20000
-mùa hè 	mua he	10000
 mùa khô 	muaf khoo	20000
 mùa khô 	mua kho	10000
 mưa lớn 	muwa lowns	20000
@@ -12799,12 +12465,8 @@ mùa săn bắn 	muaf sawn bawns	20000
 mùa săn bắn 	mua san ban	10000
 mùa thu 	muaf thu	20000
 mùa thu 	mua thu	10000
-mùa thu 	muaf thu	20000
-mùa thu 	mua thu	10000
 mưa to 	muwa to	20000
 mưa to 	mua to	10000
-mùa xuân 	muaf xuaan	20000
-mùa xuân 	mua xuan	10000
 mùa xuân 	muaf xuaan	20000
 mùa xuân 	mua xuan	10000
 mưa xuân 	muwa xuaan	20000
@@ -12827,8 +12489,6 @@ múi 	muis	20000
 múi 	mui	10000
 mùi 	muif	20000
 mùi 	mui	10000
-mũi 	muix	20000
-mũi 	mui	10000
 mũi 	muix	20000
 mũi 	mui	10000
 mủi 	muir	20000
@@ -12875,8 +12535,6 @@ muôi 	muooi	20000
 muôi 	muoi	10000
 muối 	muoois	20000
 muối 	muoi	10000
-muối 	muoois	20000
-muối 	muoi	10000
 muồi 	muooif	20000
 muồi 	muoi	10000
 muỗi 	muooix	20000
@@ -12889,8 +12547,6 @@ mươi 	muwowi	20000
 mươi 	muoi	10000
 mười 	muwowif	20000
 mười 	muoi	10000
-mười 	muwowif	20000
-mười 	muoi	10000
 mười ba 	muwowif ba	20000
 mười ba 	muoi ba	10000
 mười bảy 	muwowif bayr	20000
@@ -12899,14 +12555,10 @@ mười bốn 	muwowif boons	20000
 mười bốn 	muoi bon	10000
 mười chín 	muwowif chins	20000
 mười chín 	muoi chin	10000
-mười chín 	muwowif chins	20000
-mười chín 	muoi chin	10000
 mười hai 	muwowif hai	20000
 mười hai 	muoi hai	10000
 mười lăm 	muwowif lawm	20000
 mười lăm 	muoi lam	10000
-mười một 	muwowif mootj	20000
-mười một 	muoi mot	10000
 mười một 	muwowif mootj	20000
 mười một 	muoi mot	10000
 mười nghìn 	muwowif nghinf	20000
@@ -12923,8 +12575,6 @@ muốn 	muoons	20000
 muốn 	muon	10000
 muốn 	muoons	20000
 muốn 	muon	10000
-muộn 	muoonj	20000
-muộn 	muon	10000
 muộn 	muoonj	20000
 muộn 	muon	10000
 mươn 	muwown	20000
@@ -13133,8 +12783,6 @@ nãng 	nangx	20000
 nãng 	nang	10000
 nấng 	naangs	20000
 nấng 	nang	10000
-nắng 	nawngs	20000
-nắng 	nang	10000
 nắng 	nawngs	20000
 nắng 	nang	10000
 nằng 	nawngf	20000
@@ -13349,8 +12997,6 @@ nêu 	neeu	20000
 nêu 	neu	10000
 nếu 	neeus	20000
 nếu 	neu	10000
-nếu 	neeus	20000
-nếu 	neu	10000
 nếu không 	neeus khoong	20000
 nếu không 	neu khong	10000
 nếu là 	neeus laf	20000
@@ -13549,8 +13195,6 @@ ngáy 	ngays	20000
 ngáy 	ngay	10000
 ngày 	ngayf	20000
 ngày 	ngay	10000
-ngày 	ngayf	20000
-ngày 	ngay	10000
 ngây 	ngaay	20000
 ngây 	ngay	10000
 ngấy 	ngaays	20000
@@ -13647,8 +13291,6 @@ nghe điện thoại 	nghe ddieenj thoaij	20000
 nghe điện thoại 	nghe dien thoai	10000
 nghề nghiệp 	ngheef nghieepj	20000
 nghề nghiệp 	nghe nghiep	10000
-nghề nghiệp 	ngheef nghieepj	20000
-nghề nghiệp 	nghe nghiep	10000
 nghe nhạc 	nghe nhacj	20000
 nghe nhạc 	nghe nhac	10000
 nghệ nhân 	ngheej nhaan	20000
@@ -13731,8 +13373,6 @@ nghì 	nghif	20000
 nghì 	nghi	10000
 nghĩ 	nghix	20000
 nghĩ 	nghi	10000
-nghĩ 	nghix	20000
-nghĩ 	nghi	10000
 nghỉ 	nghir	20000
 nghỉ 	nghi	10000
 nghị 	nghij	20000
@@ -13751,8 +13391,6 @@ nghỉ hưu 	nghir huwu	20000
 nghỉ hưu 	nghi huu	10000
 nghỉ mát 	nghir mats	20000
 nghỉ mát 	nghi mat	10000
-nghỉ ngơi 	nghir ngowi	20000
-nghỉ ngơi 	nghi ngoi	10000
 nghỉ ngơi 	nghir ngowi	20000
 nghỉ ngơi 	nghi ngoi	10000
 Nghỉ ngơi và thư giãn đi nhé ! 	Nghir ngowi vaf thuw gianx ddi nhes !	20000
@@ -14007,8 +13645,6 @@ ngõi 	ngoix	20000
 ngõi 	ngoi	10000
 ngồi 	ngooif	20000
 ngồi 	ngoi	10000
-ngồi 	ngooif	20000
-ngồi 	ngoi	10000
 ngơi 	ngowi	20000
 ngơi 	ngoi	10000
 ngời 	ngowif	20000
@@ -14129,8 +13765,6 @@ ngốt 	ngoots	20000
 ngốt 	ngot	10000
 ngọt 	ngotj	20000
 ngọt 	ngot	10000
-ngọt 	ngotj	20000
-ngọt 	ngot	10000
 ngớt 	ngowts	20000
 ngớt 	ngot	10000
 ngột 	ngootj	20000
@@ -14141,8 +13775,6 @@ ngù 	nguf	20000
 ngù 	ngu	10000
 ngũ 	ngux	20000
 ngũ 	ngu	10000
-ngủ 	ngur	20000
-ngủ 	ngu	10000
 ngủ 	ngur	20000
 ngủ 	ngu	10000
 ngư 	nguw	20000
@@ -14185,8 +13817,6 @@ ngữa 	nguwax	20000
 ngữa 	ngua	10000
 ngửa 	nguwar	20000
 ngửa 	ngua	10000
-ngựa 	nguwaj	20000
-ngựa 	ngua	10000
 ngựa 	nguwaj	20000
 ngựa 	ngua	10000
 nguây 	nguaay	20000
@@ -14335,8 +13965,8 @@ người quanh ta 	nguwowif quanh ta	20000
 người quanh ta 	nguoi quanh ta	10000
 người quen 	nguwowif quen	20000
 người quen 	nguoi quen	10000
-người say mê... 	nguwowif say mee...	20000
-người say mê... 	nguoi say me...	10000
+người say mê 	nguwowif say mee	20000
+người say mê 	nguoi say me	10000
 người sếp 	nguwowif seeps	20000
 người sếp 	nguoi sep	10000
 người ta 	nguwowif ta	20000
@@ -14359,8 +13989,6 @@ người viết đơn 	nguwowif vieets ddown	20000
 người viết đơn 	nguoi viet don	10000
 người viết đơn ký tên 	nguwowif vieets ddown kys teen	20000
 người viết đơn ký tên 	nguoi viet don ky ten	10000
-người yêu 	nguwowif yeeu	20000
-người yêu 	nguoi yeu	10000
 người yêu 	nguwowif yeeu	20000
 người yêu 	nguoi yeu	10000
 ngườm 	nguwowmf	20000
@@ -14625,8 +14253,6 @@ nhằn 	nhawnf	20000
 nhằn 	nhan	10000
 nhẫn 	nhaanx	20000
 nhẫn 	nhan	10000
-nhẫn 	nhaanx	20000
-nhẫn 	nhan	10000
 nhẵn 	nhawnx	20000
 nhẵn 	nhan	10000
 nhản 	nhanr	20000
@@ -14753,16 +14379,12 @@ nhạt 	nhatj	20000
 nhạt 	nhat	10000
 nhạt 	nhatj	20000
 nhạt 	nhat	10000
-nhạt 	nhatj	20000
-nhạt 	nhat	10000
 Nhật 	Nhaatj	20000
 Nhật 	Nhat	10000
 nhật 	nhaatj	20000
 nhật 	nhat	10000
 nhặt 	nhawtj	20000
 nhặt 	nhat	10000
-Nhật Bản 	Nhaatj Banr	20000
-Nhật Bản 	Nhat Ban	10000
 Nhật Bản 	Nhaatj Banr	20000
 Nhật Bản 	Nhat Ban	10000
 nhật báo 	nhaatj baos	20000
@@ -14951,8 +14573,6 @@ nhiếu 	nhieeus	20000
 nhiếu 	nhieu	10000
 nhiều 	nhieeuf	20000
 nhiều 	nhieu	10000
-nhiều 	nhieeuf	20000
-nhiều 	nhieu	10000
 nhiễu 	nhieeux	20000
 nhiễu 	nhieu	10000
 nhiểu 	nhieeur	20000
@@ -15001,8 +14621,6 @@ nhìu 	nhiuf	20000
 nhìu 	nhiu	10000
 nhịu 	nhiuj	20000
 nhịu 	nhiu	10000
-nho 	nho	20000
-nho 	nho	10000
 nho 	nho	20000
 nho 	nho	10000
 nhó 	nhos	20000
@@ -15277,8 +14895,6 @@ nhưng 	nhuwng	20000
 nhưng 	nhung	10000
 nhưng 	nhuwng	20000
 nhưng 	nhung	10000
-nhưng 	nhuwng	20000
-nhưng 	nhung	10000
 nhụng 	nhungj	20000
 nhụng 	nhung	10000
 nhứng 	nhuwngs	20000
@@ -15451,8 +15067,6 @@ nờ 	nowf	20000
 nờ 	no	10000
 nỡ 	nowx	20000
 nỡ 	no	10000
-nỡ 	nowx	20000
-nỡ 	no	10000
 nộ 	nooj	20000
 nộ 	no	10000
 nở 	nowr	20000
@@ -15531,8 +15145,6 @@ nội địa 	nooij ddiaj	20000
 nội địa 	noi dia	10000
 nội đô 	nooij ddoo	20000
 nội đô 	noi do	10000
-nội dung 	nooij dung	20000
-nội dung 	noi dung	10000
 nội dung 	nooij dung	20000
 nội dung 	noi dung	10000
 nội dung bồi dưỡng đào tạo 	nooij dung booif duwowngx ddaof taoj	20000
@@ -15687,8 +15299,6 @@ nữa 	nuwax	20000
 nữa 	nua	10000
 nửa 	nuwar	20000
 nửa 	nua	10000
-nửa 	nuwar	20000
-nửa 	nua	10000
 nửa đêm 	nuwar ddeem	20000
 nửa đêm 	nua dem	10000
 nửa năm 	nuwar nawm	20000
@@ -15705,8 +15315,6 @@ nực 	nuwcj	20000
 nực 	nuc	10000
 nui 	nui	20000
 nui 	nui	10000
-núi 	nuis	20000
-núi 	nui	10000
 núi 	nuis	20000
 núi 	nui	10000
 nùi 	nuif	20000
@@ -15765,8 +15373,6 @@ nưỡc hoa 	nuwowcx hoa	20000
 nưỡc hoa 	nuoc hoa	10000
 nước lau sàn 	nuwowcs lau sanf	20000
 nước lau sàn 	nuoc lau san	10000
-nước mắm 	nuwowcs mawms	20000
-nước mắm 	nuoc mam	10000
 nước mắm 	nuwowcs mawms	20000
 nước mắm 	nuoc mam	10000
 nước ngoài 	nuwowcs ngoaif	20000
@@ -15883,8 +15489,6 @@ o 	o	10000
 ợ 	o	10000
 ở đâu 	owr ddaau	20000
 ở đâu 	o dau	10000
-Ở đâu 	OWr ddaau	20000
-Ở đâu 	O dau	10000
 ở đáy 	owr ddays	20000
 ở đáy 	o day	10000
 ở đây 	owr ddaay	20000
@@ -16741,8 +16345,6 @@ phòng làm việc 	phongf lamf vieecj	20000
 phòng làm việc 	phong lam viec	10000
 phòng ngủ 	phongf ngur	20000
 phòng ngủ 	phong ngu	10000
-phòng ngủ 	phongf ngur	20000
-phòng ngủ 	phong ngu	10000
 phòng ngừa 	phongf nguwaf	20000
 phòng ngừa 	phong ngua	10000
 phòng nhân sự 	phongf nhaan suwj	20000
@@ -17269,6 +16871,8 @@ quẩy 	quaayr	20000
 quẩy 	quay	10000
 quậy 	quaayj	20000
 quậy 	quay	10000
+quay cóp 	quay cops	20000
+quay cóp 	quay cop	10000
 quay lại 	quay laij	20000
 quay lại 	quay lai	10000
 quay lại 	quay laij	20000
@@ -19889,6 +19493,8 @@ thằng 	thawngf	20000
 thằng 	thang	10000
 thảng 	thangr	20000
 thảng 	thang	10000
+thẳng 	thawngr	20000
+thẳng 	thang	10000
 thẳng 	thawngr	20000
 thẳng 	thang	10000
 thặng 	thawngj	20000
@@ -23063,10 +22669,10 @@ ua 	ua	10000
 ừa 	ua	10000
 ựa 	uwaj	20000
 ựa 	ua	10000
-ưa chuộng 	uwa chuoongj	20000
-ưa chuộng 	ua chuong	10000
 ưa ... hơn 	uwa ... hown	20000
 ưa ... hơn 	ua ... hon	10000
+ưa chuộng 	uwa chuoongj	20000
+ưa chuộng 	ua chuong	10000
 uân 	uaan	20000
 uân 	uan	10000
 uấn 	uaans	20000
@@ -23939,6 +23545,8 @@ vửa 	vuwar	20000
 vửa 	vua	10000
 vựa 	vuwaj	20000
 vựa 	vua	10000
+vừa ... vừa 	vuwaf ... vuwaf	20000
+vừa ... vừa 	vua ... vua	10000
 vừa đủ 	vuwaf ddur	20000
 vừa đủ 	vua du	10000
 vừa mới 	vuwaf mowis	20000
@@ -23947,8 +23555,6 @@ vừa qua 	vuwaf qua	20000
 vừa qua 	vua qua	10000
 vừa vừa 	vuwaf vuwaf	20000
 vừa vừa 	vua vua	10000
-vừa ... vừa 	vuwaf ... vuwaf	20000
-vừa ... vừa 	vua ... vua	10000
 vục 	vucj	20000
 vục 	vuc	10000
 vức 	vuwcs	20000
@@ -24437,6 +24043,8 @@ xỉn 	xinr	20000
 xỉn 	xin	10000
 xịn 	xinj	20000
 xịn 	xin	10000
+xin cảm ơn 	xin camr own	20000
+xin cảm ơn 	xin cam on	10000
 xin chào 	xin chaof	20000
 xin chào 	xin chao	10000
 xin chào buổi sáng 	xin chaof buooir sangs	20000
@@ -24951,11 +24559,3 @@ yếu tố 	yeeus toos	20000
 yếu tố 	yeu to	10000
 zêrô 	zeeroo	20000
 zêrô 	zero	10000
-khoai 	khoai	20000
-khoai 	khoai	10000
-thẳng 	thawngr	20000
-thẳng 	thang	10000
-cong 	cong	20000
-cong 	cong	10000
-đuổi 	dduooir	20000
-đuổi 	duoi	10000
