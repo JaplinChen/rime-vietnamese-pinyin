@@ -59,13 +59,15 @@ for column in list(sheet.columns)[0]:
             sheet.cell(row=count,column=5).value = TelexText
 
             # -- save to 'vn.dict.yaml'
-            print(Clean_Tone_Text+' 	'+TelexText+'	20000', file=vn_file)
-            print(Clean_Tone_Text+' 	'+NoToneText+'	10000', file=vn_file)
+            print(Clean_Tone_Text+' 	'+TelexText+'	50000', file=vn_file)
+            print(Clean_Tone_Text+' 	'+NoToneText+'	40000', file=vn_file)
 
             if sheet.cell(row=count,column=2).value is not None:
                 Chinese_Text = sheet.cell(row=count,column=2).value
                 print(Chinese_Text+'	'+Clean_Tone_Text+'	30000', file=vnhan_file)
                 print(Chinese_Text+'	'+TelexText+'	20000', file=vnhan_file)
+                print(Chinese_Text+'	'+NoToneText+'	10000', file=vnhan_file)
+
                 #print(str(count)+'	'+column.value+'	'+Chinese_Text+'	'+Clean_Tone_Text+'	'+NoToneText+'	'+TelexText)
 
     count += 1
