@@ -76,9 +76,15 @@ use_preset_vocabulary: false
 聲響	âm thanh	30000
 聲響	aam thanh	20000
 聲響	am thanh	10000
+美食	Ẩm thực	30000
+美食	AAmr thuwcj	20000
+美食	Am thuc	10000
 潮濕	ẩm ướt	30000
 潮濕	aamr uowts	20000
 潮濕	am uot	10000
+濕滑、潮濕	ẩm ướt	30000
+濕滑、潮濕	aamr uowts	20000
+濕滑、潮濕	am uot	10000
 吃	ăn	30000
 吃	awn	20000
 吃	an	10000
@@ -148,6 +154,9 @@ use_preset_vocabulary: false
 過年	ăn tết	30000
 過年	awn teets	20000
 過年	an tet	10000
+宣誓、發誓	ăn thề	30000
+宣誓、發誓	awn theef	20000
+宣誓、發誓	an the	10000
 吃看看	ăn thử xem	30000
 吃看看	awn thuwr xem	20000
 吃看看	an thu xem	10000
@@ -199,6 +208,9 @@ use_preset_vocabulary: false
 {影響} 影響	ảnh hưởng	30000
 {影響} 影響	anhr huowngr	20000
 {影響} 影響	anh huong	10000
+影響	ảnh hưởng	30000
+影響	anhr huowngr	20000
+影響	anh huong	10000
 英語	Anh ngữ	30000
 英語	Anh nguwx	20000
 英語	Anh ngu	10000
@@ -256,6 +268,9 @@ use_preset_vocabulary: false
 睡衣	áo ngủ	30000
 睡衣	aos ngur	20000
 睡衣	ao ngu	10000
+棺材	áo quan	30000
+棺材	aos quan	20000
+棺材	ao quan	10000
 襯衫	áo sơ mi	30000
 襯衫	aos sow mi	20000
 襯衫	ao so mi	10000
@@ -529,6 +544,9 @@ use_preset_vocabulary: false
 減價出售	bán giảm	30000
 減價出售	bans giamr	20000
 減價出售	ban giam	10000
+交接	bàn giao	30000
+交接	banf giao	20000
+交接	ban giao	10000
 {頒行} 頒布、頒行	ban hành	30000
 {頒行} 頒布、頒行	ban hanhf	20000
 {頒行} 頒布、頒行	ban hanh	10000
@@ -562,6 +580,9 @@ use_preset_vocabulary: false
 零售	bán lẻ	30000
 零售	bans ler	20000
 零售	ban le	10000
+本領	bản lĩnh	30000
+本領	banr linhx	20000
+本領	ban linh	10000
 技術桌	bàn lừa	30000
 技術桌	banf luwaf	20000
 技術桌	ban lua	10000
@@ -583,6 +604,9 @@ use_preset_vocabulary: false
 你說什麼？	Bạn nói gì vậy?	30000
 你說什麼？	Banj nois gif vaay?j	20000
 你說什麼？	Ban noi gi vay?	10000
+鍵盤	bàn phím	30000
+鍵盤	banf phims	20000
+鍵盤	ban phim	10000
 鍵盤	bàn phím	30000
 鍵盤	banf phims	20000
 鍵盤	ban phim	10000
@@ -628,6 +652,9 @@ use_preset_vocabulary: false
 英磅	bảng Anh	30000
 英磅	bangr Anh	20000
 英磅	bang Anh	10000
+報表	bảng biểu	30000
+報表	bangr bieeur	20000
+報表	bang bieu	10000
 證書	bằng cấp giấy chứng nhận	30000
 證書	bawngf caaps giaays chuwngs nhaanj	20000
 證書	bang cap giay chung nhan	10000
@@ -715,6 +742,9 @@ use_preset_vocabulary: false
 包子	bánh bao	30000
 包子	banhs bao	20000
 包子	banh bao	10000
+越式粽子	bánh giò	30000
+越式粽子	banhs giof	20000
+越式粽子	banh gio	10000
 生日蛋糕	bánh kem sinh nhật	30000
 生日蛋糕	banhs kem sinh nhaatj	20000
 生日蛋糕	banh kem sinh nhat	10000
@@ -733,12 +763,18 @@ use_preset_vocabulary: false
 颱風	bão	30000
 颱風	baox	20000
 颱風	bao	10000
+膽大	bạo	30000
+膽大	baoj	20000
+膽大	bao	10000
 報表	báo biểu	30000
 報表	baos bieeur	20000
 報表	bao bieu	10000
 {報告} 報告、匯報、通報	báo cáo	30000
 {報告} 報告、匯報、通報	baos caos	20000
 {報告} 報告、匯報、通報	bao cao	10000
+週報、週工作報告	Báo cáo công việc tuần	30000
+週報、週工作報告	Baos caos coong vieecj tuaanf	20000
+週報、週工作報告	Bao cao cong viec tuan	10000
 保險套	bao cao su	30000
 保險套	bao cao su	20000
 保險套	bao cao su	10000
@@ -757,6 +793,9 @@ use_preset_vocabulary: false
 垃圾袋	bao đựng rác	30000
 垃圾袋	bao dduwngj racs	20000
 垃圾袋	bao dung rac	10000
+保養	bảo dưỡng	30000
+保養	baor duowngx	20000
+保養	bao duong	10000
 何時	bao giờ	30000
 何時	bao giowf	20000
 何時	bao gio	10000
@@ -784,6 +823,9 @@ use_preset_vocabulary: false
 多少	bao nhiêu	30000
 多少	bao nhieeu	20000
 多少	bao nhieu	10000
+多少錢?	Bao nhiêu tiền	30000
+多少錢?	Bao nhieeu tieenf	20000
+多少錢?	Bao nhieu tien	10000
 透明膠袋	bao nilong pe	30000
 透明膠袋	bao nilong pe	20000
 透明膠袋	bao nilong pe	10000
@@ -832,6 +874,9 @@ use_preset_vocabulary: false
 保治	bảo trị	30000
 保治	baor trij	20000
 保治	bao tri	10000
+保重!	Bảo trọng nhé	30000
+保重!	Baor trongj nhes	20000
+保重!	Bao trong nhe	10000
 保衛, 守衛, 保護	bảo vệ	30000
 保衛, 守衛, 保護	baor veej	20000
 保衛, 守衛, 保護	bao ve	10000
@@ -865,9 +910,15 @@ use_preset_vocabulary: false
 不平, 不公	bất bình	30000
 不平, 不公	baats binhf	20000
 不平, 不公	bat binh	10000
+(一碗)米線	bát bún	30000
+(一碗)米線	bats buns	20000
+(一碗)米線	bat bun	10000
 不得不, 強迫, 強制	bắt buộc	30000
 不得不, 強迫, 強制	bawts buoocj	20000
 不得不, 強迫, 強制	bat buoc	10000
+搭話	bắt chuyện	30000
+搭話	bawts chuyeenj	20000
+搭話	bat chuyen	10000
 不管, 不拘	bất cứ	30000
 不管, 不拘	baats cuws	20000
 不管, 不拘	bat cu	10000
@@ -904,6 +955,9 @@ use_preset_vocabulary: false
 不計	bất kể	30000
 不計	baats keer	20000
 不計	bat ke	10000
+電源無法打開	bật không lên nguồn	30000
+電源無法打開	baatj khoong leen nguoonf	20000
+電源無法打開	bat khong len nguon	10000
 不計, 不拘	bất kỳ	30000
 不計, 不拘	baats kyf	20000
 不計, 不拘	bat ky	10000
@@ -1009,6 +1063,9 @@ use_preset_vocabulary: false
 這一邊	bên này	30000
 這一邊	been nayf	20000
 這一邊	ben nay	10000
+這邊	Bên này	30000
+這邊	Been nayf	20000
+這邊	Ben nay	10000
 外面	bên ngoài	30000
 外面	been ngoaif	20000
 外面	ben ngoai	10000
@@ -1096,6 +1153,9 @@ use_preset_vocabulary: false
 冬瓜	bí đao	30000
 冬瓜	bis ddao	20000
 冬瓜	bi dao	10000
+被鎖	bị khóa	30000
+被鎖	bij khoas	20000
+被鎖	bi khoa	10000
 迷路	bị lạc đường	30000
 迷路	bij lacj dduowngf	20000
 迷路	bi lac duong	10000
@@ -1204,6 +1264,9 @@ use_preset_vocabulary: false
 表達	biểu đạt	30000
 表達	bieeur ddatj	20000
 表達	bieu dat	10000
+表單	biểu đơn	30000
+表單	bieeur ddown	20000
+表單	bieu don	10000
 表示	biểu thị	30000
 表示	bieeur thij	20000
 表示	bieu thi	10000
@@ -1306,6 +1369,9 @@ use_preset_vocabulary: false
 母牛, 牛, 牝牛, 黃牛	bò cái	30000
 母牛, 牛, 牝牛, 黃牛	bof cais	20000
 母牛, 牛, 牝牛, 黃牛	bo cai	10000
+逃跑	bỏ chạy	30000
+逃跑	bor chayj	20000
+逃跑	bo chay	10000
 公公	bố chồng	30000
 公公	boos choongf	20000
 公公	bo chong	10000
@@ -1408,6 +1474,9 @@ use_preset_vocabulary: false
 偶然	bởi cơ hội	30000
 偶然	bowir cow hooij	20000
 偶然	boi co hoi	10000
+充實	bồi đắp	30000
+充實	booif ddawps	20000
+充實	boi dap	10000
 因為, 由於	bởi do	30000
 因為, 由於	bowir do	20000
 因為, 由於	boi do	10000
@@ -1441,6 +1510,9 @@ use_preset_vocabulary: false
 桌球	bóng bàn	30000
 桌球	bongs banf	20000
 桌球	bong ban	10000
+炫、潮(形容打扮)	bóng bẩy	30000
+炫、潮(形容打扮)	bongs baayr	20000
+炫、潮(形容打扮)	bong bay	10000
 撞球	bóng bi-a	30000
 撞球	bongs bi-a	20000
 撞球	bong bi-a	10000
@@ -1501,9 +1573,15 @@ use_preset_vocabulary: false
 自助餐	buffet	30000
 自助餐	buffet	20000
 自助餐	buffet	10000
+浪子	Bụi đời	30000
+浪子	Buij ddowif	20000
+浪子	Bui doi	10000
 米粉	bún	30000
 米粉	buns	20000
 米粉	bun	10000
+猛然打開、放開、張開	Bung	30000
+猛然打開、放開、張開	Bung	20000
+猛然打開、放開、張開	Bung	10000
 肚子	bụng	30000
 肚子	bungj	20000
 肚子	bung	10000
@@ -1516,9 +1594,15 @@ use_preset_vocabulary: false
 班, 趟, 次, 時期	buổi	30000
 班, 趟, 次, 時期	buooir	20000
 班, 趟, 次, 時期	buoi	10000
+班、趟次、時期	buổi	30000
+班、趟次、時期	buooir	20000
+班、趟次、時期	buoi	10000
 期間; 一次	buổi	30000
 期間; 一次	buooir	20000
 期間; 一次	buoi	10000
+柚子	Bưởi	30000
+柚子	Buowir	20000
+柚子	Buoi	10000
 下午	buổi chiều	30000
 下午	buooir chieeuf	20000
 下午	buoi chieu	10000
@@ -1549,6 +1633,9 @@ use_preset_vocabulary: false
 悲傷; 煩惱	buồn	30000
 悲傷; 煩惱	buoonf	20000
 悲傷; 煩惱	buon	10000
+難過、哀愁	buồn	30000
+難過、哀愁	buoonf	20000
+難過、哀愁	buon	10000
 買賣	buôn bán	30000
 買賣	buoon bans	20000
 買賣	buon ban	10000
@@ -1654,6 +1741,9 @@ use_preset_vocabulary: false
 個人	cá nhân	30000
 個人	cas nhaan	20000
 個人	ca nhan	10000
+個人	cá nhân	30000
+個人	cas nhaan	20000
+個人	ca nhan	10000
 確診(例)	ca nhiễm	30000
 確診(例)	ca nhieemx	20000
 確診(例)	ca nhiem	10000
@@ -1690,6 +1780,9 @@ use_preset_vocabulary: false
 方法, 距, 距離, 方式	cách	30000
 方法, 距, 距離, 方式	cachs	20000
 方法, 距, 距離, 方式	cach	10000
+方式	cách	30000
+方式	cachs	20000
+方式	cach	10000
 距今	cách đâ	30000
 距今	cachs ddaa	20000
 距今	cach da	10000
@@ -1699,6 +1792,9 @@ use_preset_vocabulary: false
 {隔離} 隔離	cách ly	30000
 {隔離} 隔離	cachs ly	20000
 {隔離} 隔離	cach ly	10000
+如何增加	cách thêm	30000
+如何增加	cachs theem	20000
+如何增加	cach them	10000
 個	cái	30000
 個	cais	20000
 個	cai	10000
@@ -1753,6 +1849,12 @@ use_preset_vocabulary: false
 設置(網頁)	cài đặt	30000
 設置(網頁)	caif ddawtj	20000
 設置(網頁)	cai dat	10000
+安裝	cài đặt	30000
+安裝	caif ddawtj	20000
+安裝	cai dat	10000
+打印尺寸設置	cái đặt khổ in	30000
+打印尺寸設置	cais ddawtj khoor in	20000
+打印尺寸設置	cai dat kho in	10000
 那是...	cái đấy	30000
 那是...	cais ddaays	20000
 那是...	cai day	10000
@@ -1816,6 +1918,9 @@ use_preset_vocabulary: false
 火爐, 爐	cái lò	30000
 火爐, 爐	cais lof	20000
 火爐, 爐	cai lo	10000
+錯誤	cái lỗi	30000
+錯誤	cais looix	20000
+錯誤	cai loi	10000
 梳子	cái lược	30000
 梳子	cais luowcj	20000
 梳子	cai luoc	10000
@@ -1834,6 +1939,9 @@ use_preset_vocabulary: false
 橡皮擦	cái tẩy	30000
 橡皮擦	cais taayr	20000
 橡皮擦	cai tay	10000
+改善	cải thiện	30000
+改善	cair thieenj	20000
+改善	cai thien	10000
 改善	cải thiện	30000
 改善	cair thieenj	20000
 改善	cai thien	10000
@@ -1876,6 +1984,9 @@ use_preset_vocabulary: false
 感冒、受寒	cảm lạnh	30000
 感冒、受寒	camr lanhj	20000
 感冒、受寒	cam lanh	10000
+閉嘴!	Câm mồm	30000
+閉嘴!	Caam moomf	20000
+閉嘴!	Cam mom	10000
 謝謝	cảm ơn	30000
 謝謝	camr own	20000
 謝謝	cam on	10000
@@ -1903,6 +2014,9 @@ use_preset_vocabulary: false
 要; 需要	cần	30000
 要; 需要	caanf	20000
 要; 需要	can	10000
+阻擋	cản	30000
+阻擋	canr	20000
+阻擋	can	10000
 淺	cạn	30000
 淺	canj	20000
 淺	can	10000
@@ -1924,6 +2038,9 @@ use_preset_vocabulary: false
 公寓; 套房; 住戶; 住屋	căn hộ	30000
 公寓; 套房; 住戶; 住屋	cawn hooj	20000
 公寓; 套房; 住戶; 住屋	can ho	10000
+乾杯	Cạn ly	30000
+乾杯	Canj ly	20000
+乾杯	Can ly	10000
 體重	cân nặng	30000
 體重	caan nawngj	20000
 體重	can nang	10000
@@ -1933,6 +2050,9 @@ use_preset_vocabulary: false
 豪宅	căn nhà siêu sang	30000
 豪宅	cawn nhaf sieeu sang	20000
 豪宅	can nha sieu sang	10000
+小心	Cẩn thận	30000
+小心	Caanr thaanj	20000
+小心	Can than	10000
 小心; 謹慎	cẩn thận	30000
 小心; 謹慎	caanr thaanj	20000
 小心; 謹慎	can than	10000
@@ -2074,15 +2194,27 @@ use_preset_vocabulary: false
 急救	cấp cứu	30000
 急救	caaps cuwus	20000
 急救	cap cuu	10000
+HDMI 線	cáp HDMI	30000
+HDMI 線	caps HDMI	20000
+HDMI 線	cap HDMI	10000
+更新	cập nhật	30000
+更新	caapj nhaatj	20000
+更新	cap nhat	10000
 供水; 給水	cấp nước	30000
 供水; 給水	caaps nuowcs	20000
 供水; 給水	cap nuoc	10000
 發給許可	cấp phép	30000
 發給許可	caaps pheps	20000
 發給許可	cap phep	10000
+光纖	cáp quang	30000
+光纖	caps quang	20000
+光纖	cap quang	10000
 光纜	cáp quang tốc	30000
 光纜	caps quang toocs	20000
 光纜	cap quang toc	10000
+給予權限	cấp quyền	30000
+給予權限	caaps quyeenf	20000
+給予權限	cap quyen	10000
 書包	cặp sách	30000
 書包	cawpj sachs	20000
 書包	cap sach	10000
@@ -2104,6 +2236,9 @@ use_preset_vocabulary: false
 收藏	cất	30000
 收藏	caats	20000
 收藏	cat	10000
+割	cắt	30000
+割	cawts	20000
+割	cat	10000
 腎	cật	30000
 腎	caatj	20000
 腎	cat	10000
@@ -2242,6 +2377,9 @@ use_preset_vocabulary: false
 慢	chậm	30000
 慢	chaamj	20000
 慢	cham	10000
+緩慢	chậm	30000
+緩慢	chaamj	20000
+緩慢	cham	10000
 勤快	chăm chỉ	30000
 勤快	chawm chir	20000
 勤快	cham chi	10000
@@ -2251,6 +2389,9 @@ use_preset_vocabulary: false
 認真	chăm chỉ	30000
 認真	chawm chir	20000
 認真	cham chi	10000
+考勤	chấm công	30000
+考勤	chaams coong	20000
+考勤	cham cong	10000
 結束	chấm dứt	30000
 結束	chaams duwts	20000
 結束	cham dut	10000
@@ -2263,6 +2404,9 @@ use_preset_vocabulary: false
 照料, 照顧, 護(膚)	chăm sóc	30000
 照料, 照顧, 護(膚)	chawm socs	20000
 照料, 照顧, 護(膚)	cham soc	10000
+照顧	chăm sóc	30000
+照顧	chawm socs	20000
+照顧	cham soc	10000
 護膚	chăm sóc da	30000
 護膚	chawm socs da	20000
 護膚	cham soc da	10000
@@ -2344,6 +2488,12 @@ use_preset_vocabulary: false
 晚安	chào buổi tối	30000
 晚安	chaof buooir toois	20000
 晚安	chao buoi toi	10000
+歡迎	chào đón	30000
+歡迎	chaof ddons	20000
+歡迎	chao don	10000
+歡迎、迎接	chào đón	30000
+歡迎、迎接	chaof ddons	20000
+歡迎、迎接	chao don	10000
 向...打招呼	chào hỏi	30000
 向...打招呼	chaof hoir	20000
 向...打招呼	chao hoi	10000
@@ -2452,15 +2602,24 @@ use_preset_vocabulary: false
 失火	cháy nổ	30000
 失火	chays noor	20000
 失火	chay no	10000
+跑錯流程	chạy sai lưu trình	30000
+跑錯流程	chayj sai luwu trinhf	20000
+跑錯流程	chay sai luu trinh	10000
 茶	chè	30000
 茶	chef	20000
 茶	che	10000
+越式甜湯	chè	30000
+越式甜湯	chef	20000
+越式甜湯	che	10000
 加工	chế biến	30000
 加工	chees bieens	20000
 加工	che bien	10000
 製作	chế biến	30000
 製作	chees bieens	20000
 製作	che bien	10000
+制度	chế độ	30000
+制度	chees ddooj	20000
+制度	che do	10000
 制度	chế độ	30000
 制度	chees ddooj	20000
 制度	che do	10000
@@ -2629,6 +2788,9 @@ use_preset_vocabulary: false
 政策	chính sách	30000
 政策	chinhs sachs	20000
 政策	chinh sach	10000
+整修	chỉnh sửa	30000
+整修	chinhr suwar	20000
+整修	chinh sua	10000
 正式	chính thức	30000
 正式	chinhs thuwcs	20000
 正式	chinh thuc	10000
@@ -2737,6 +2899,9 @@ use_preset_vocabulary: false
 空格	chỗ trống	30000
 空格	choox troongs	20000
 空格	cho trong	10000
+等一等。	Chờ tý	30000
+等一等。	Chowf tys	20000
+等一等。	Cho ty	10000
 貸款	cho vay	30000
 貸款	cho vay	20000
 貸款	cho vay	10000
@@ -2770,6 +2935,9 @@ use_preset_vocabulary: false
 做運動	chơi thể thao	30000
 做運動	chowi theer thao	20000
 做運動	choi the thao	10000
+玩得開心!	Chơi vui nhé	30000
+玩得開心!	Chowi vui nhes	20000
+玩得開心!	Choi vui nhe	10000
 玩得開心	Chơi vui vẻ	30000
 玩得開心	Chowi vui ver	20000
 玩得開心	Choi vui ve	10000
@@ -2779,6 +2947,9 @@ use_preset_vocabulary: false
 星座	chòm sao	30000
 星座	chomf sao	20000
 星座	chom sao	10000
+地點、處所	chốn	30000
+地點、處所	choons	20000
+地點、處所	chon	10000
 選擇	chọn	30000
 選擇	chonj	20000
 選擇	chon	10000
@@ -2815,6 +2986,9 @@ use_preset_vocabulary: false
 保險閂、門閂(在此應該是指一個關口、檢查哨)	chốt	30000
 保險閂、門閂(在此應該是指一個關口、檢查哨)	choots	20000
 保險閂、門閂(在此應該是指一個關口、檢查哨)	chot	10000
+突然、靈機一動	chợt	30000
+突然、靈機一動	chowtj	20000
+突然、靈機一動	chot	10000
 叔	chú	30000
 叔	chus	20000
 叔	chu	10000
@@ -2842,6 +3016,9 @@ use_preset_vocabulary: false
 簽名(指提款時提示的簽章)	chữ ký	30000
 簽名(指提款時提示的簽章)	chuwx kys	20000
 簽名(指提款時提示的簽章)	chu ky	10000
+簽字、簽名	chữ ký	30000
+簽字、簽名	chuwx kys	20000
+簽字、簽名	chu ky	10000
 簽名樣式(銀行開戶時)	chữ ký mẫu	30000
 簽名樣式(銀行開戶時)	chuwx kys maaux	20000
 簽名樣式(銀行開戶時)	chu ky mau	10000
@@ -2962,6 +3139,9 @@ use_preset_vocabulary: false
 職稱	chức danh	30000
 職稱	chuwcs danh	20000
 職稱	chuc danh	10000
+祝好運!	Chúc may mắn	30000
+祝好運!	Chucs may mawns	20000
+祝好運!	Chuc may man	10000
 祝你好運！	chúc may mắn	30000
 祝你好運！	chucs may mawns	20000
 祝你好運！	chuc may man	10000
@@ -3004,18 +3184,27 @@ use_preset_vocabulary: false
 申請職位	chức vụ xin tuyển	30000
 申請職位	chuwcs vuj xin tuyeenr	20000
 申請職位	chuc vu xin tuyen	10000
+混入、逃竄	Chui	30000
+混入、逃竄	Chui	20000
+混入、逃竄	Chui	10000
 它們; 眾	chúng	30000
 它們; 眾	chungs	20000
 它們; 眾	chung	10000
 大約	chừng	30000
 大約	chuwngf	20000
 大約	chung	10000
+血友病	chứng bệnh máu không đông	30000
+血友病	chuwngs beenhj maus khoong ddoong	20000
+血友病	chung benh mau khong dong	10000
 證件	chứng chỉ	30000
 證件	chuwngs chir	20000
 證件	chung chi	10000
 公寓	chung cư	30000
 公寓	chung cuw	20000
 公寓	chung cu	10000
+作證	chứng giám	30000
+作證	chuwngs giams	20000
+作證	chung giam	10000
 證券	chứng khoán	30000
 證券	chuwngs khoans	20000
 證券	chung khoan	10000
@@ -3064,9 +3253,15 @@ use_preset_vocabulary: false
 節目，流程	chương trình	30000
 節目，流程	chuowng trinhf	20000
 節目，流程	chuong trinh	10000
+程式、程序	chương trình	30000
+程式、程序	chuowng trinhf	20000
+程式、程序	chuong trinh	10000
 鼠; 老鼠  🐁	chuột	30000
 鼠; 老鼠  🐁	chuootj	20000
 鼠; 老鼠  🐁	chuot	10000
+滑鼠	chuột	30000
+滑鼠	chuootj	20000
+滑鼠	chuot	10000
 照相, 攝影	chụp ảnh	30000
 照相, 攝影	chupj anhr	20000
 照相, 攝影	chup anh	10000
@@ -3088,8 +3283,14 @@ use_preset_vocabulary: false
 班機班次	chuyến bay	30000
 班機班次	chuyeens bay	20000
 班機班次	chuyen bay	10000
+轉換	chuyển đổi	30000
+轉換	chuyeenr ddooir	20000
+轉換	chuyen doi	10000
 專用	chuyên dùng	30000
 專用	chuyeen dungf	20000
+專用	chuyen dung	10000
+專用	chuyện dụng	30000
+專用	chuyeenj dungj	20000
 專用	chuyen dung	10000
 專家	chuyên gia	30000
 專家	chuyeen gia	20000
@@ -3121,12 +3322,18 @@ use_preset_vocabulary: false
 潛在、冷門	chuyên sâu	30000
 潛在、冷門	chuyeen saau	20000
 潛在、冷門	chuyen sau	10000
+專心	chuyên tâm	30000
+專心	chuyeen taam	20000
+專心	chuyen tam	10000
 匯錢; 匯款	chuyển tiền	30000
 匯錢; 匯款	chuyeenr tieenf	20000
 匯錢; 匯款	chuyen tien	10000
 (Mail)轉發	chuyển tiếp	30000
 (Mail)轉發	chuyeenr tieeps	20000
 (Mail)轉發	chuyen tiep	10000
+轉回	chuyển về	30000
+轉回	chuyeenr veef	20000
+轉回	chuyen ve	10000
 轉診	chuyển viện	30000
 轉診	chuyeenr vieenj	20000
 轉診	chuyen vien	10000
@@ -3325,15 +3532,24 @@ use_preset_vocabulary: false
 股息; 股利	cổ tức	30000
 股息; 股利	coor tuwcs	20000
 股息; 股利	co tuc	10000
+顧問	cố vấn	30000
+顧問	coos vaans	20000
+顧問	co van	10000
 古物	cổ vật	30000
 古物	coor vaatj	20000
 古物	co vat	10000
+有什麼事嗎?	Có việc gì thế	30000
+有什麼事嗎?	Cos vieecj gif thees	20000
+有什麼事嗎?	Co viec gi the	10000
 西洋棋	cờ vua	30000
 西洋棋	cowf vua	20000
 西洋棋	co vua	10000
 故意; 有意	cố ý	30000
 故意; 有意	coos ys	20000
 故意; 有意	co y	10000
+一杯	cốc	30000
+一杯	coocs	20000
+一杯	coc	10000
 杯子; 一杯	cốc	30000
 杯子; 一杯	coocs	20000
 杯子; 一杯	coc	10000
@@ -3358,6 +3574,9 @@ use_preset_vocabulary: false
 脫褲子	cởi quần	30000
 脫褲子	cowir quaanf	20000
 脫褲子	coi quan	10000
+一絲不掛	cởi trần	30000
+一絲不掛	cowir traanf	20000
+一絲不掛	coi tran	10000
 飯	cơm	30000
 飯	cowm	20000
 飯	com	10000
@@ -3424,6 +3643,9 @@ use_preset_vocabulary: false
 人	con người	30000
 人	con nguowif	20000
 人	con nguoi	10000
+老饕	con người sành ăn	30000
+老饕	con nguowif sanhf awn	20000
+老饕	con nguoi sanh an	10000
 蜘蛛 	con nhện	30000
 蜘蛛 	con nheenj	20000
 蜘蛛 	con nhen	10000
@@ -3460,6 +3682,9 @@ use_preset_vocabulary: false
 {公布} 公布、公開	công bố	30000
 {公布} 公布、公開	coong boos	20000
 {公布} 公布、公開	cong bo	10000
+公主	công chúa	30000
+公主	coong chuas	20000
+公主	cong chua	10000
 公職; 公務	công chức	30000
 公職; 公務	coong chuwcs	20000
 公職; 公務	cong chuc	10000
@@ -3661,6 +3886,9 @@ use_preset_vocabulary: false
 極其; 極為	cực kỳ	30000
 極其; 極為	cuwcj kyf	20000
 極其; 極為	cuc ky	10000
+肉塊	cùi	30000
+肉塊	cuif	20000
+肉塊	cui	10000
 叢	cụm	30000
 叢	cumj	20000
 叢	cum	10000
@@ -3679,6 +3907,9 @@ use_preset_vocabulary: false
 硬	cứng	30000
 硬	cuwngs	20000
 硬	cung	10000
+供給、提供	cung cấp	30000
+供給、提供	cung caaps	20000
+供給、提供	cung cap	10000
 宮庭	cung đình	30000
 宮庭	cung ddinhf	20000
 宮庭	cung dinh	10000
@@ -3715,12 +3946,18 @@ use_preset_vocabulary: false
 會議	cuộc họp	30000
 會議	cuoocj hopj	20000
 會議	cuoc hop	10000
+會議	cuộc họp	30000
+會議	cuoocj hopj	20000
+會議	cuoc hop	10000
 公用事業費用(如電話費, 郵資)	cước phí	30000
 公用事業費用(如電話費, 郵資)	cuowcs phis	20000
 公用事業費用(如電話費, 郵資)	cuoc phi	10000
 生命、生活	cuộc sống	30000
 生命、生活	cuoocj soongs	20000
 生命、生活	cuoc song	10000
+生活	cuộc sống	30000
+生活	cuoocj soongs	20000
+生活	cuoc song	10000
 比賽	cuộc thi	30000
 比賽	cuoocj thi	20000
 比賽	cuoc thi	10000
@@ -3748,6 +3985,9 @@ use_preset_vocabulary: false
 強度	cường độ	30000
 強度	cuowngf ddooj	20000
 強度	cuong do	10000
+爭奪	cướp	30000
+爭奪	cuowps	20000
+爭奪	cuop	10000
 獎杯, 杯 (指比賽)	cúp	30000
 獎杯, 杯 (指比賽)	cups	20000
 獎杯, 杯 (指比賽)	cup	10000
@@ -3799,6 +4039,9 @@ use_preset_vocabulary: false
 多樣	đa dạng	30000
 多樣	dda dangj	20000
 多樣	da dang	10000
+鴕鳥	đà điểu	30000
+鴕鳥	ddaf ddieeur	20000
+鴕鳥	da dieu	10000
 {多科} 多科、綜合	đa khoa	30000
 {多科} 多科、綜合	dda khoa	20000
 {多科} 多科、綜合	da khoa	10000
@@ -3886,6 +4129,9 @@ use_preset_vocabulary: false
 代理	đại lý	30000
 代理	ddaij lys	20000
 代理	dai ly	10000
+念佛機、唱佛機	đài niệm	30000
+念佛機、唱佛機	ddaif nieemj	20000
+念佛機、唱佛機	dai niem	10000
 分隔帶(指道路)	dải phân cách	30000
 分隔帶(指道路)	dair phaan cachs	20000
 分隔帶(指道路)	dai phan cach	10000
@@ -3913,6 +4159,9 @@ use_preset_vocabulary: false
 堆(草), 群(人), 朵(雲)	đám	30000
 堆(草), 群(人), 朵(雲)	ddams	20000
 堆(草), 群(人), 朵(雲)	dam	10000
+搗碎、插話、碰撞	đâm	30000
+搗碎、插話、碰撞	ddaam	20000
+搗碎、插話、碰撞	dam	10000
 濃	đậm	30000
 濃	ddaamj	20000
 濃	dam	10000
@@ -3925,6 +4174,9 @@ use_preset_vocabulary: false
 婚禮	đám cưới	30000
 婚禮	ddams cuowis	20000
 婚禮	dam cuoi	10000
+迷人	đậm đà	30000
+迷人	ddaamj ddaf	20000
+迷人	dam da	10000
 沈溺; 沈醉	đắm đuối	30000
 沈溺; 沈醉	ddawms dduoois	20000
 沈溺; 沈醉	dam duoi	10000
@@ -4030,12 +4282,21 @@ use_preset_vocabulary: false
 登記	đăng ký	30000
 登記	ddawng kys	20000
 登記	dang ky	10000
+登記	đăng ký	30000
+登記	ddawng kys	20000
+登記	dang ky	10000
 原本，本來	đáng lẽ	30000
 原本，本來	ddangs lex	20000
 原本，本來	dang le	10000
+名符其實的	đáng mặt	30000
+名符其實的	ddangs mawtj	20000
+名符其實的	dang mat	10000
 (Mail)登入	đăng nhập	30000
 (Mail)登入	ddawng nhaapj	20000
 (Mail)登入	dang nhap	10000
+值得珍惜	đáng quý.	30000
+值得珍惜	ddangs quy.s	20000
+值得珍惜	dang quy.	10000
 後面	đằng sau	30000
 後面	ddawngf sau	20000
 後面	dang sau	10000
@@ -4075,6 +4336,9 @@ use_preset_vocabulary: false
 價 ; 評估	đánh giá	30000
 價 ; 評估	ddanhs gias	20000
 價 ; 評估	danh gia	10000
+評估	đánh giá	30000
+評估	ddanhs gias	20000
+評估	danh gia	10000
 {名諧} 知名諧星	danh hài	30000
 {名諧} 知名諧星	danh haif	20000
 {名諧} 知名諧星	danh hai	10000
@@ -4093,6 +4357,9 @@ use_preset_vocabulary: false
 名冊	danh sách	30000
 名冊	danh sachs	20000
 名冊	danh sach	10000
+清單	danh sách	30000
+清單	danh sachs	20000
+清單	danh sach	10000
 名片	danh thiếp	30000
 名片	danh thieeps	20000
 名片	danh thiep	10000
@@ -4180,6 +4447,9 @@ use_preset_vocabulary: false
 訂貨	đặt hàng	30000
 訂貨	ddawtj hangf	20000
 訂貨	dat hang	10000
+訂貨、訂購	đặt hàng	30000
+訂貨、訂購	ddawtj hangf	20000
+訂貨、訂購	dat hang	10000
 提問	đặt một câu hỏi	30000
 提問	ddawtj mootj caau hoir	20000
 提問	dat mot cau hoi	10000
@@ -4258,6 +4528,9 @@ use_preset_vocabulary: false
 哪裡	đâu phải	30000
 哪裡	ddaau phair	20000
 哪裡	dau phai	10000
+單頭、表頭	đầu phiếu	30000
+單頭、表頭	ddaauf phieeus	20000
+單頭、表頭	dau phieu	10000
 花生油	dầu phộng	30000
 花生油	daauf phoongj	20000
 花生油	dau phong	10000
@@ -4276,12 +4549,18 @@ use_preset_vocabulary: false
 原油	dầu thô	30000
 原油	daauf thoo	20000
 原油	dau tho	10000
+首先	đầu tiên	30000
+首先	ddaauf tieen	20000
+首先	dau tien	10000
 首先, 開始	đầu tiên	30000
 首先, 開始	ddaauf tieen	20000
 首先, 開始	dau tien	10000
 白眉豆	đậu trắng	30000
 白眉豆	ddaauj trawngs	20000
 白眉豆	dau trang	10000
+爭取	đấu tranh	30000
+爭取	ddaaus tranh	20000
+爭取	dau tranh	10000
 投資	đầu tư	30000
 投資	ddaauf tuw	20000
 投資	dau tu	10000
@@ -4315,6 +4594,12 @@ use_preset_vocabulary: false
 滿	đầy	30000
 滿	ddaayf	20000
 滿	day	10000
+滿	đầy	30000
+滿	ddaayf	20000
+滿	day	10000
+電纜	dây cáp	30000
+電纜	daay caps	20000
+電纜	day cap	10000
 電纜	dây cáp	30000
 電纜	daay caps	20000
 電纜	day cap	10000
@@ -4324,6 +4609,9 @@ use_preset_vocabulary: false
 這是	Đây là	30000
 這是	DDaay laf	20000
 這是	Day la	10000
+C 槽滿	đầy ổ C	30000
+C 槽滿	ddaayf oor C	20000
+C 槽滿	day o C	10000
 臍帶	dây rốn	30000
 臍帶	daay roons	20000
 臍帶	day ron	10000
@@ -4363,6 +4651,9 @@ use_preset_vocabulary: false
 {第一} 第一	đệ nhất	30000
 {第一} 第一	ddeej nhaats	20000
 {第一} 第一	de nhat	10000
+在意	để tâm	30000
+在意	ddeer taam	20000
+在意	de tam	10000
 試題	đề thi	30000
 試題	ddeef thi	20000
 試題	de thi	10000
@@ -4381,6 +4672,9 @@ use_preset_vocabulary: false
 讓我想想	Để tôi nghĩ đã	30000
 讓我想想	DDeer tooi nghix ddax	20000
 讓我想想	De toi nghi da	10000
+讓我看看。	Để tôi xem	30000
+讓我看看。	DDeer tooi xem	20000
+讓我看看。	De toi xem	10000
 停放車子	để xe	30000
 停放車子	ddeer xe	20000
 停放車子	de xe	10000
@@ -4423,6 +4717,9 @@ use_preset_vocabulary: false
 到現在	đến bây giờ	30000
 到現在	ddeens baay giowf	20000
 到現在	den bay gio	10000
+報答	đền đáp	30000
+報答	ddeenf ddaps	20000
+報答	den dap	10000
 倒黴	đen đủi	30000
 倒黴	dden dduir	20000
 倒黴	den dui	10000
@@ -4432,6 +4729,9 @@ use_preset_vocabulary: false
 紅綠燈	đèn giao thông	30000
 紅綠燈	ddenf giao thoong	20000
 紅綠燈	den giao thong	10000
+到期	đến hạn	30000
+到期	ddeens hanj	20000
+到期	den han	10000
 到…的程度	đến mức	30000
 到…的程度	ddeens muwcs	20000
 到…的程度	den muc	10000
@@ -4501,6 +4801,9 @@ use_preset_vocabulary: false
 步行; 走路	đi bộ	30000
 步行; 走路	ddi booj	20000
 步行; 走路	di bo	10000
+偏離	đi chệch	30000
+偏離	ddi cheechj	20000
+偏離	di chech	10000
 買菜, 去市場	đi chợ	30000
 買菜, 去市場	ddi chowj	20000
 買菜, 去市場	di cho	10000
@@ -4762,6 +5065,9 @@ use_preset_vocabulary: false
 調整	điều chỉnh	30000
 調整	ddieeuf chinhr	20000
 調整	dieu chinh	10000
+調控	điều hành	30000
+調控	ddieeuf hanhf	20000
+調控	dieu hanh	10000
 空調; 冷氣	điều hòa	30000
 空調; 冷氣	ddieeuf hoaf	20000
 空調; 冷氣	dieu hoa	10000
@@ -4849,6 +5155,12 @@ use_preset_vocabulary: false
 紅	đỏ	30000
 紅	ddor	20000
 紅	do	10000
+僵硬、呆板	đơ	30000
+僵硬、呆板	ddow	20000
+僵硬、呆板	do	10000
+倒、澆	Đổ	30000
+倒、澆	DDoor	20000
+倒、澆	Do	10000
 減輕(累)	đỡ	30000
 減輕(累)	ddowx	20000
 減輕(累)	do	10000
@@ -4927,6 +5239,9 @@ use_preset_vocabulary: false
 花痴	đồ mê trai	30000
 花痴	ddoof mee trai	20000
 花痴	do me trai	10000
+裝墨水	Đổ mực máy in	30000
+裝墨水	DDoor muwcj mays in	20000
+裝墨水	Do muc may in	10000
 笨蛋	Đồ ngốc	30000
 笨蛋	DDoof ngoocs	20000
 笨蛋	Do ngoc	10000
@@ -4972,9 +5287,15 @@ use_preset_vocabulary: false
 預料	đoán trước	30000
 預料	ddoans truowcs	20000
 預料	doan truoc	10000
+整面牆	đoạn tường	30000
+整面牆	ddoanj tuowngf	20000
+整面牆	doan tuong	10000
 團圓	đoàn viên	30000
 團圓	ddoanf vieen	20000
 團圓	doan vien	10000
+猜猜看?	Đoán xem	30000
+猜猜看?	DDoans xem	20000
+猜猜看?	Doan xem	10000
 企業	doanh nghiệp	30000
 企業	doanh nghieepj	20000
 企業	doanh nghiep	10000
@@ -5029,12 +5350,18 @@ use_preset_vocabulary: false
 餓	đói	30000
 餓	ddois	20000
 餓	doi	10000
+要求	đòi	30000
+要求	ddoif	20000
+要求	doi	10000
 一對; 一雙	đôi	30000
 一對; 一雙	ddooi	20000
 一對; 一雙	doi	10000
 變動; 兌換, 變換, 更換	đổi	30000
 變動; 兌換, 變換, 更換	ddooir	20000
 變動; 兌換, 變換, 更換	doi	10000
+少年先鋒隊組織	Đội	30000
+少年先鋒隊組織	DDooij	20000
+少年先鋒隊組織	Doi	10000
 戴 (帽); 隊伍, 隊	đội	30000
 戴 (帽); 隊伍, 隊	ddooij	20000
 戴 (帽); 隊伍, 隊	doi	10000
@@ -5119,6 +5446,9 @@ use_preset_vocabulary: false
 收拾整理	dọn dẹp	30000
 收拾整理	donj depj	20000
 收拾整理	don dep	10000
+單價	đơn giá	30000
+單價	ddown gias	20000
+單價	don gia	10000
 簡單	đơn giản	30000
 簡單	ddown gianr	20000
 簡單	don gian	10000
@@ -5176,6 +5506,12 @@ use_preset_vocabulary: false
 貢獻	đóng gó	30000
 貢獻	ddongs gos	20000
 貢獻	dong go	10000
+包裝	đóng gói	30000
+包裝	ddongs gois	20000
+包裝	dong goi	10000
+同行	đồng hành	30000
+同行	ddoongf hanhf	20000
+同行	dong hanh	10000
 時段	đồng hồ	30000
 時段	ddoongf hoof	20000
 時段	dong ho	10000
@@ -5203,6 +5539,9 @@ use_preset_vocabulary: false
 東南亞	Đông Nam Á	30000
 東南亞	DDoong Nam As	20000
 東南亞	Dong Nam A	10000
+動腦	động não	30000
+動腦	ddoongj naox	20000
+動腦	dong nao	10000
 破銅爛鐵	đồng nát sắt vụn	30000
 破銅爛鐵	ddoongf nats sawts vunj	20000
 破銅爛鐵	dong nat sat vun	10000
@@ -5248,12 +5587,18 @@ use_preset_vocabulary: false
 貝殼類	động vật có vỏ	30000
 貝殼類	ddoongj vaatj cos vor	20000
 貝殼類	dong vat co vo	10000
+鼓勵	động viên	30000
+鼓勵	ddoongj vieen	20000
+鼓勵	dong vien	10000
 東醫(越南傳統醫術)	đông y	30000
 東醫(越南傳統醫術)	ddoong y	20000
 東醫(越南傳統醫術)	dong y	10000
 同意, 贊成	đồng ý	30000
 同意, 贊成	ddoongf ys	20000
 同意, 贊成	dong y	10000
+蠢	dốt	30000
+蠢	doots	20000
+蠢	dot	10000
 突然	đột ngột	30000
 突然	ddootj ngootj	20000
 突然	dot ngot	10000
@@ -5305,6 +5650,9 @@ use_preset_vocabulary: false
 旅遊	du lịch	30000
 旅遊	du lichj	20000
 旅遊	du lich	10000
+資料	dữ liệu	30000
+資料	duwx lieeuj	20000
+資料	du lieu	10000
 預料	dự liệu	30000
 預料	duwj lieeuj	20000
 預料	du lieu	10000
@@ -5383,6 +5731,9 @@ use_preset_vocabulary: false
 德; 德國	Đức	30000
 德; 德國	DDuwcs	20000
 德; 德國	Duc	10000
+盲、瞎	đui	30000
+盲、瞎	ddui	20000
+盲、瞎	dui	10000
 雞腿	đùi gà	30000
 雞腿	dduif gaf	20000
 雞腿	dui ga	10000
@@ -5398,6 +5749,9 @@ use_preset_vocabulary: false
 正確	đúng	30000
 正確	ddungs	20000
 正確	dung	10000
+對	đúng	30000
+對	ddungs	20000
+對	dung	10000
 站	đứng	30000
 站	dduwngs	20000
 站	dung	10000
@@ -5491,6 +5845,9 @@ use_preset_vocabulary: false
 趕走	đuổi	30000
 趕走	dduooir	20000
 趕走	duoi	10000
+形式	dưới dạng	30000
+形式	duowis dangj	20000
+形式	duoi dang	10000
 溺水	đuối nước	30000
 溺水	dduoois nuowcs	20000
 溺水	duoi nuoc	10000
@@ -5509,9 +5866,18 @@ use_preset_vocabulary: false
 街道	đường phố	30000
 街道	dduowngf phoos	20000
 街道	duong pho	10000
+傳輸線	đường truyền	30000
+傳輸線	dduowngf truyeenf	20000
+傳輸線	duong truyen	10000
 {唯一} 唯一	duy nhất	30000
 {唯一} 唯一	duy nhaats	20000
 {唯一} 唯一	duy nhat	10000
+維持	duy trì.	30000
+維持	duy tri.f	20000
+維持	duy tri.	10000
+緣分	duyên	30000
+緣分	duyeen	20000
+緣分	duyen	10000
 娉婷、綽約、窕窈、淑女	duyên dáng	30000
 娉婷、綽約、窕窈、淑女	duyeen dangs	20000
 娉婷、綽約、窕窈、淑女	duyen dang	10000
@@ -5608,6 +5974,9 @@ use_preset_vocabulary: false
 近; 將近	gần	30000
 近; 將近	gaanf	20000
 近; 將近	gan	10000
+安裝、放置	gắn	30000
+安裝、放置	gawns	20000
+安裝、放置	gan	10000
 和…緊密相連	gắn bó với	30000
 和…緊密相連	gawns bos vowis	20000
 和…緊密相連	gan bo voi	10000
@@ -5671,9 +6040,15 @@ use_preset_vocabulary: false
 凳子	ghế con	30000
 凳子	ghees con	20000
 凳子	ghe con	10000
+冷漠	ghẻ lạnh	30000
+冷漠	gher lanhj	20000
+冷漠	ghe lanh	10000
 來我家坐坐	ghé nhà tôi chơi	30000
 來我家坐坐	ghes nhaf tooi chowi	20000
 來我家坐坐	ghe nha toi choi	10000
+塑膠椅	ghế nhựa	30000
+塑膠椅	ghees nhuwaj	20000
+塑膠椅	ghe nhua	10000
 長椅, 沙發	ghế trường kỷ	30000
 長椅, 沙發	ghees truowngf kyr	20000
 長椅, 沙發	ghe truong ky	10000
@@ -5692,9 +6067,18 @@ use_preset_vocabulary: false
 紀錄; 寫	ghi	30000
 紀錄; 寫	ghi	20000
 紀錄; 寫	ghi	10000
+記註	ghi chú	30000
+記註	ghi chus	20000
+記註	ghi chu	10000
+記註、備註	ghi chú	30000
+記註、備註	ghi chus	20000
+記註、備註	ghi chu	10000
 記名	ghi danh	30000
 記名	ghi danh	20000
 記名	ghi danh	10000
+記錄影片	ghi hình	30000
+記錄影片	ghi hinhf	20000
+記錄影片	ghi hinh	10000
 什麼	gì	30000
 什麼	gif	20000
 什麼	gi	10000
@@ -5746,6 +6130,9 @@ use_preset_vocabulary: false
 延長期限	gia hạn	30000
 延長期限	gia hanj	20000
 延長期限	gia han	10000
+延期、續約	gia hạn	30000
+延期、續約	gia hanj	20000
+延期、續約	gia han	10000
 現貨價格	giá hiện nay	30000
 現貨價格	gias hieenj nay	20000
 現貨價格	gia hien nay	10000
@@ -5785,6 +6172,9 @@ use_preset_vocabulary: false
 實際價格	giá thực	30000
 實際價格	gias thuwcj	20000
 實際價格	gia thuc	10000
+金額	giá tiền	30000
+金額	gias tieenf	20000
+金額	gia tien	10000
 手紙架	giá treo giấy vệ sinh	30000
 手紙架	gias treo giaays veej sinh	20000
 手紙架	gia treo giay ve sinh	10000
@@ -5827,6 +6217,12 @@ use_preset_vocabulary: false
 解決	giải quyết	30000
 解決	giair quyeets	20000
 解決	giai quyet	10000
+解決	giải quyết	30000
+解決	giair quyeets	20000
+解決	giai quyet	10000
+解釋	giải thích	30000
+解釋	giair thichs	20000
+解釋	giai thich	10000
 解釋	giải thích	30000
 解釋	giair thichs	20000
 解釋	giai thich	10000
@@ -6031,6 +6427,9 @@ use_preset_vocabulary: false
 出口許可證	giấy phép xuất khẩu	30000
 出口許可證	giaays pheps xuaats khaaur	20000
 出口許可證	giay phep xuat khau	10000
+片刻，時刻	giây phút	30000
+片刻，時刻	giaay phuts	20000
+片刻，時刻	giay phut	10000
 運動鞋	giày thể thao	30000
 運動鞋	giayf theer thao	20000
 運動鞋	giay the thao	10000
@@ -6070,6 +6469,9 @@ use_preset_vocabulary: false
 界	giới	30000
 界	giowis	20000
 界	gioi	10000
+界線	giới hạn	30000
+界線	giowis hanj	20000
+界線	gioi han	10000
 介紹	giới thiệu	30000
 介紹	giowis thieeuj	20000
 介紹	gioi thieu	10000
@@ -6091,6 +6493,9 @@ use_preset_vocabulary: false
 如,像是	giống như	30000
 如,像是	gioongs nhuw	20000
 如,像是	giong nhu	10000
+像	giống như	30000
+像	gioongs nhuw	20000
+像	giong nhu	10000
 說話的口音	giọng nói	30000
 說話的口音	giongj nois	20000
 說話的口音	giong noi	10000
@@ -6178,6 +6583,18 @@ use_preset_vocabulary: false
 包餃子	gói sủi cảo	30000
 包餃子	gois suir caor	20000
 包餃子	goi sui cao	10000
+噁心	gớm	30000
+噁心	gowms	20000
+噁心	gom	10000
+打包東西	gôm đồ	30000
+打包東西	goom ddoof	20000
+打包東西	gom do	10000
+給意見	góp ý cho	30000
+給意見	gops ys cho	20000
+給意見	gop y cho	10000
+愛好	gu	30000
+愛好	gu	20000
+愛好	gu	10000
 寄	gửi	30000
 寄	guwir	20000
 寄	gui	10000
@@ -6289,6 +6706,12 @@ use_preset_vocabulary: false
 最後期限	hạn chót	30000
 最後期限	hanj chots	20000
 最後期限	han chot	10000
+完全	hẳn họ	30000
+完全	hawnr hoj	20000
+完全	han ho	10000
+熔接光纖	hàn mạng cáp quang	30000
+熔接光纖	hanf mangj caps quang	20000
+熔接光纖	han mang cap quang	10000
 限額	hạn mức	30000
 限額	hanj muwcs	20000
 限額	han muc	10000
@@ -6466,6 +6889,9 @@ use_preset_vocabulary: false
 系統	hệ thống	30000
 系統	heej thoongs	20000
 系統	he thong	10000
+系統	hệ thống	30000
+系統	heej thoongs	20000
+系統	he thong	10000
 火警系統	hệ thống báo cháy	30000
 火警系統	heej thoongs baos chays	20000
 火警系統	he thong bao chay	10000
@@ -6517,6 +6943,9 @@ use_preset_vocabulary: false
 時間快到了。	Hết giờ	30000
 時間快到了。	Heets giowf	20000
 時間快到了。	Het gio	10000
+到期	hết hạn	30000
+到期	heets hanj	20000
+到期	het han	10000
 沒錢; 錢用光	Hết tiền	30000
 沒錢; 錢用光	Heets tieenf	20000
 沒錢; 錢用光	Het tien	10000
@@ -6547,6 +6976,12 @@ use_preset_vocabulary: false
 憲法	hiến pháp	30000
 憲法	hieens phaps	20000
 憲法	hien phap	10000
+顯示	hiển thị	30000
+顯示	hieenr thij	20000
+顯示	hien thi	10000
+顯示金額不對	hiển thị giá tiền không đúng	30000
+顯示金額不對	hieenr thij gias tieenf khoong ddungs	20000
+顯示金額不對	hien thi gia tien khong dung	10000
 現象	hiện tượng	30000
 現象	hieenj tuowngj	20000
 現象	hien tuong	10000
@@ -6601,6 +7036,9 @@ use_preset_vocabulary: false
 婚紗照	hình cưới	30000
 婚紗照	hinhf cuowis	20000
 婚紗照	hinh cuoi	10000
+浮水印	hình nền mờ	30000
+浮水印	hinhf neenf mowf	20000
+浮水印	hinh nen mo	10000
 似乎是; 好像是	hình như	30000
 似乎是; 好像是	hinhf nhuw	20000
 似乎是; 好像是	hinh nhu	10000
@@ -6661,6 +7099,9 @@ use_preset_vocabulary: false
 互助; 幫助	hỗ trợ	30000
 互助; 幫助	hoox trowj	20000
 互助; 幫助	ho tro	10000
+支援	hỗ trợ	30000
+支援	hoox trowj	20000
+支援	ho tro	10000
 花	hoa	30000
 花	hoa	20000
 花	hoa	10000
@@ -6718,6 +7159,9 @@ use_preset_vocabulary: false
 或	hoặc	30000
 或	hoawcj	20000
 或	hoac	10000
+懷抱	hoài bão	30000
+懷抱	hoaif baox	20000
+懷抱	hoai bao	10000
 懷疑	hoài nghi	30000
 懷疑	hoaif nghi	20000
 懷疑	hoai nghi	10000
@@ -6742,6 +7186,9 @@ use_preset_vocabulary: false
 完善	hoàn thiện	30000
 完善	hoanf thieenj	20000
 完善	hoan thien	10000
+完善	hoàn thiện	30000
+完善	hoanf thieenj	20000
+完善	hoan thien	10000
 完全	hoàn toàn	30000
 完全	hoanf toanf	20000
 完全	hoan toan	10000
@@ -6754,6 +7201,9 @@ use_preset_vocabulary: false
 荒漠	hoang mạc	30000
 荒漠	hoang macj	20000
 荒漠	hoang mac	10000
+王子	hoàng tử	30000
+王子	hoangf tuwr	20000
+王子	hoang tu	10000
 活潑	hoạt bát	30000
 活潑	hoatj bats	20000
 活潑	hoat bat	10000
@@ -6967,6 +7417,9 @@ use_preset_vocabulary: false
 年紀稍長	hơn tuổi	30000
 年紀稍長	hown tuooir	20000
 年紀稍長	hon tuoi	10000
+喉嚨	họng	30000
+喉嚨	hongj	20000
+喉嚨	hong	10000
 喉嚨, 咽喉	họng	30000
 喉嚨, 咽喉	hongj	20000
 喉嚨, 咽喉	hong	10000
@@ -6991,6 +7444,9 @@ use_preset_vocabulary: false
 罐; 盒, 罐裝	hộp	30000
 罐; 盒, 罐裝	hoopj	20000
 罐; 盒, 罐裝	hop	10000
+週第一次會議	họp đầu tuần	30000
+週第一次會議	hopj ddaauf tuaanf	20000
+週第一次會議	hop dau tuan	10000
 合同	hợp đồng	30000
 合同	howpj ddoongf	20000
 合同	hop dong	10000
@@ -7021,6 +7477,9 @@ use_preset_vocabulary: false
 信箱	hộp thư	30000
 信箱	hoopj thuw	20000
 信箱	hop thu	10000
+線上會議	họp trực tuyến	30000
+線上會議	hopj truwcj tuyeens	20000
+線上會議	hop truc tuyen	10000
 肥皂盒	hộp xà bông	30000
 肥皂盒	hoopj xaf boong	20000
 肥皂盒	hop xa bong	10000
@@ -7060,12 +7519,21 @@ use_preset_vocabulary: false
 雄王	Hùng Vương	30000
 雄王	Hungf Vuowng	20000
 雄王	Hung Vuong	10000
+香(祭拜用)	Hương	30000
+香(祭拜用)	Huowng	20000
+香(祭拜用)	Huong	10000
+方向	hướng	30000
+方向	huowngs	20000
+方向	huong	10000
 方向; 向著	hướng	30000
 方向; 向著	huowngs	20000
 方向; 向著	huong	10000
 指引; 指南, 導遊	hướng dẫn	30000
 指引; 指南, 導遊	huowngs daanx	20000
 指引; 指南, 導遊	huong dan	10000
+輔導、教導	hướng dẫn	30000
+輔導、教導	huowngs daanx	20000
+輔導、教導	huong dan	10000
 外向	hướng ngoại	30000
 外向	huowngs ngoaij	20000
 外向	huong ngoai	10000
@@ -7135,6 +7603,9 @@ use_preset_vocabulary: false
 利益	ích lợi	30000
 利益	ichs lowij	20000
 利益	ich loi	10000
+安靜	im lặng	30000
+安靜	im lawngj	20000
+安靜	im lang	10000
 沈默	im lặng	30000
 沈默	im lawngj	20000
 沈默	im lang	10000
@@ -7177,6 +7648,12 @@ use_preset_vocabulary: false
 登記; 填報	kê khai	30000
 登記; 填報	kee khai	20000
 登記; 填報	ke khai	10000
+報稅	kê khai thuế	30000
+報稅	kee khai thuees	20000
+報稅	ke khai thue	10000
+列出來	Kể ra	30000
+列出來	Keer ra	20000
+列出來	Ke ra	10000
 敵人	kẻ thù	30000
 敵人	ker thuf	20000
 敵人	ke thu	10000
@@ -7222,9 +7699,15 @@ use_preset_vocabulary: false
 延長	kéo dài	30000
 延長	keos daif	20000
 延長	keo dai	10000
+拉網線	Kéo dây mạng	30000
+拉網線	Keos daay mangj	20000
+拉網線	Keo day mang	10000
 小氣	keo kiệt	30000
 小氣	keo kieetj	20000
 小氣	keo kiet	10000
+增拉網線	kéo thêm dây mạng	30000
+增拉網線	keos theem daay mangj	20000
+增拉網線	keo them day mang	10000
 夾	kẹp	30000
 夾	kepj	20000
 夾	kep	10000
@@ -7234,6 +7717,9 @@ use_preset_vocabulary: false
 交朋友	kết bạn	30000
 交朋友	keets banj	20000
 交朋友	ket ban	10000
+卡紙、夾紙	kẹt giấy	30000
+卡紙、夾紙	ketj giaays	20000
+卡紙、夾紙	ket giay	10000
 結婚	kết hôn	30000
 結婚	keets hoon	20000
 結婚	ket hon	10000
@@ -7249,6 +7735,9 @@ use_preset_vocabulary: false
 連結	kết nối	30000
 連結	keets noois	20000
 連結	ket noi	10000
+連線	kết nối	30000
+連線	keets noois	20000
+連線	ket noi	10000
 結果	kết quả	30000
 結果	keets quar	20000
 結果	ket qua	10000
@@ -7282,6 +7771,9 @@ use_preset_vocabulary: false
 互不相同	khác nhau	30000
 互不相同	khacs nhau	20000
 互不相同	khac nhau	10000
+克服	khắc phục	30000
+克服	khawcs phucj	20000
+克服	khac phuc	10000
 克服	khắc phục	30000
 克服	khawcs phucj	20000
 克服	khac phuc	10000
@@ -7435,6 +7927,9 @@ use_preset_vocabulary: false
 難受	khó chịu	30000
 難受	khos chiuj	20000
 難受	kho chiu	10000
+儲存室	kho chứa đồ	30000
+儲存室	kho chuwas ddoof	20000
+儲存室	kho chua do	10000
 紙張尺寸, 如A4大小等等	khổ giấy	30000
 紙張尺寸, 如A4大小等等	khoor giaays	20000
 紙張尺寸, 如A4大小等等	kho giay	10000
@@ -7483,6 +7978,9 @@ use_preset_vocabulary: false
 哭	khóc	30000
 哭	khocs	20000
 哭	khoc	10000
+殘酷	khốc liệt	30000
+殘酷	khoocs lieetj	20000
+殘酷	khoc liet	10000
 炫耀; 誇耀	khoe	30000
 炫耀; 誇耀	khoe	20000
 炫耀; 誇耀	khoe	10000
@@ -7504,6 +8002,9 @@ use_preset_vocabulary: false
 啟動; 開動, 開始	khởi động	30000
 啟動; 開動, 開始	khowir ddoongj	20000
 啟動; 開動, 開始	khoi dong	10000
+啓動	khởi động	30000
+啓動	khowir ddoongj	20000
+啓動	khoi dong	10000
 啟程; 出癹	khởi hành	30000
 啟程; 出癹	khowir hanhf	20000
 啟程; 出癹	khoi hanh	10000
@@ -7558,6 +8059,9 @@ use_preset_vocabulary: false
 不講究個人衛生	không chú trọng vệ sinh cá nhân	30000
 不講究個人衛生	khoong chus trongj veej sinh cas nhaan	20000
 不講究個人衛生	khong chu trong ve sinh ca nhan	10000
+無法轉到 BPM	không chuyển sang được BPM	30000
+無法轉到 BPM	khoong chuyeenr sang dduowcj BPM	20000
+無法轉到 BPM	khong chuyen sang duoc BPM	10000
 沒有	không có	30000
 沒有	khoong cos	20000
 沒有	khong co	10000
@@ -7621,9 +8125,18 @@ use_preset_vocabulary: false
 免談	không đời nào	30000
 免談	khoong ddowif naof	20000
 免談	khong doi nao	10000
+不行!	Không được	30000
+不行!	Khoong dduowcj	20000
+不行!	Khong duoc	10000
+沒有簽名	không được kí	30000
+沒有簽名	khoong dduowcj kis	20000
+沒有簽名	khong duoc ki	10000
 不好	không được tốt lắm	30000
 不好	khoong dduowcj toots lawms	20000
 不好	khong duoc tot lam	10000
+無法錄影	không ghi hình	30000
+無法錄影	khoong ghi hinhf	20000
+無法錄影	khong ghi hinh	10000
 空間	không gian	30000
 空間	khoong gian	20000
 空間	khong gian	10000
@@ -7636,15 +8149,27 @@ use_preset_vocabulary: false
 說不來	không hợp ý nhau	30000
 說不來	khoong howpj ys nhau	20000
 說不來	khong hop y nhau	10000
+無法列印	không in được	30000
+無法列印	khoong in dduowcj	20000
+無法列印	khong in duoc	10000
 空氣	không khí	30000
 空氣	khoong khis	20000
 空氣	khong khi	10000
+無法啓動	không khởi động	30000
+無法啓動	khoong khowir ddoongj	20000
+無法啓動	khong khoi dong	10000
+無法簽名	không kí được	30000
+無法簽名	khoong kis dduowcj	20000
+無法簽名	khong ki duoc	10000
 不由得	không kim nổi	30000
 不由得	khoong kim nooir	20000
 不由得	khong kim noi	10000
 不幸地	không may	30000
 不幸地	khoong may	20000
 不幸地	khong may	10000
+不能打開	không mở dược	30000
+不能打開	khoong mowr duowcj	20000
+不能打開	khong mo duoc	10000
 不應該	không nên	30000
 不應該	khoong neen	20000
 不應該	khong nen	10000
@@ -7657,6 +8182,12 @@ use_preset_vocabulary: false
 別站着；不停；不懈	không ngứng	30000
 別站着；不停；不懈	khoong nguwngs	20000
 別站着；不停；不懈	khong ngung	10000
+否認、拒絕	không nhận	30000
+否認、拒絕	khoong nhaanj	20000
+否認、拒絕	khong nhan	10000
+無法收到郵件	không nhận được mail	30000
+無法收到郵件	khoong nhaanj dduowcj mail	20000
+無法收到郵件	khong nhan duoc mail	10000
 捨不得	không nỡ	30000
 捨不得	khoong nowx	20000
 捨不得	khong no	10000
@@ -7672,6 +8203,9 @@ use_preset_vocabulary: false
 不分	không phân biệt	30000
 不分	khoong phaan bieetj	20000
 不分	khong phan biet	10000
+無法轉到 BPM	không sang được BPM	30000
+無法轉到 BPM	khoong sang dduowcj BPM	20000
+無法轉到 BPM	khong sang duoc BPM	10000
 沒關係; 沒問題！	không sao	30000
 沒關係; 沒問題！	khoong sao	20000
 沒關係; 沒問題！	khong sao	10000
@@ -7681,6 +8215,9 @@ use_preset_vocabulary: false
 無所謂	không sao cả	30000
 無所謂	khoong sao car	20000
 無所謂	khong sao ca	10000
+不能操作	không thao tác được	30000
+不能操作	khoong thao tacs dduowcj	20000
+不能操作	khong thao tac duoc	10000
 看不到	không thấy	30000
 看不到	khoong thaays	20000
 看不到	khong thay	10000
@@ -7693,12 +8230,24 @@ use_preset_vocabulary: false
 不錯	không tồi	30000
 不錯	khoong tooif	20000
 不錯	khong toi	10000
+還不錯。	Không tồi	30000
+還不錯。	Khoong tooif	20000
+還不錯。	Khong toi	10000
 沒問題！	Không vấn đề gì	30000
 沒問題！	Khoong vaans ddeef gif	20000
 沒問題！	Khong van de gi	10000
 不運動	không vận động	30000
 不運動	khoong vaanj ddoongj	20000
 不運動	khong van dong	10000
+無法上網	không vào được mạng	30000
+無法上網	khoong vaof dduowcj mangj	20000
+無法上網	khong vao duoc mang	10000
+無法登入 Skype	không vào được SKYPE	30000
+無法登入 Skype	khoong vaof dduowcj SKYPE	20000
+無法登入 Skype	khong vao duoc SKYPE	10000
+無法進入 Windows	không vào được windows	30000
+無法進入 Windows	khoong vaof dduowcj windows	20000
+無法進入 Windows	khong vao duoc windows	10000
 對不住	không xứng đáng	30000
 對不住	khoong xuwngs ddangs	20000
 對不住	khong xung dang	10000
@@ -7717,6 +8266,12 @@ use_preset_vocabulary: false
 {區域} 地區, 地帶	khu vực	30000
 {區域} 地區, 地帶	khu vuwcj	20000
 {區域} 地區, 地帶	khu vuc	10000
+區域	khu vực	30000
+區域	khu vuwcj	20000
+區域	khu vuc	10000
+技術桌區	khu vực bàn kỹ thuật	30000
+技術桌區	khu vuwcj banf kyx thuaatj	20000
+技術桌區	khu vuc ban ky thuat	10000
 一段, 一節(木頭)	khúc	30000
 一段, 一節(木頭)	khucs	20000
 一段, 一節(木頭)	khuc	10000
@@ -7729,6 +8284,9 @@ use_preset_vocabulary: false
 恐怖	khủng bố	30000
 恐怖	khungr boos	20000
 恐怖	khung bo	10000
+黃金時段	khung giờ vàng	30000
+黃金時段	khung giowf vangf	20000
+黃金時段	khung gio vang	10000
 (身)臉	khuôn mặt	30000
 (身)臉	khuoon mawtj	20000
 (身)臉	khuon mat	10000
@@ -7771,9 +8329,15 @@ use_preset_vocabulary: false
 覓食; 謀生	kiếm ăn	30000
 覓食; 謀生	kieems awn	20000
 覓食; 謀生	kiem an	10000
+驗證	kiểm chứng	30000
+驗證	kieemr chuwngs	20000
+驗證	kiem chung	10000
 檢定	Kiểm định	30000
 檢定	Kieemr ddinhj	20000
 檢定	Kiem dinh	10000
+盤點	kiểm kê	30000
+盤點	kieemr kee	20000
+盤點	kiem ke	10000
 檢查	kiểm lại	30000
 檢查	kieemr laij	20000
 檢查	kiem lai	10000
@@ -7795,6 +8359,9 @@ use_preset_vocabulary: false
 建議	kiến nghị	30000
 建議	kieens nghij	20000
 建議	kien nghi	10000
+堅忍	Kiên nhẫn	30000
+堅忍	Kieen nhaanx	20000
+堅忍	Kien nhan	10000
 堅決	kiên quyết	30000
 堅決	kieen quyeets	20000
 堅決	kien quyet	10000
@@ -7933,6 +8500,9 @@ use_preset_vocabulary: false
 {技術} 技術	kỹ thuật	30000
 {技術} 技術	kyx thuaatj	20000
 {技術} 技術	ky thuat	10000
+技術	kỹ thuật	30000
+技術	kyx thuaatj	20000
+技術	ky thuat	10000
 字	ký tự	30000
 字	kys tuwj	20000
 字	ky tu	10000
@@ -7957,6 +8527,12 @@ use_preset_vocabulary: false
 樹葉	lá cây	30000
 樹葉	las caay	20000
 樹葉	la cay	10000
+無花果葉	lá sung	30000
+無花果葉	las sung	20000
+無花果葉	la sung	10000
+不可思議，稀奇	lạ thường	30000
+不可思議，稀奇	laj thuowngf	20000
+不可思議，稀奇	la thuong	10000
 茶葉	lá trà	30000
 茶葉	las traf	20000
 茶葉	la tra	10000
@@ -7975,6 +8551,9 @@ use_preset_vocabulary: false
 樂觀	lạc quan	30000
 樂觀	lacj quan	20000
 樂觀	lac quan	10000
+炒花生	Lạc rang	30000
+炒花生	Lacj rang	20000
+炒花生	Lac rang	10000
 樂園; 遊樂園	lạc viên	30000
 樂園; 遊樂園	lacj vieen	20000
 樂園; 遊樂園	lac vien	10000
@@ -8005,6 +8584,9 @@ use_preset_vocabulary: false
 做功課	làm bài tập	30000
 做功課	lamf baif taapj	20000
 做功課	lam bai tap	10000
+做什麼	làm chi	30000
+做什麼	lamf chi	20000
+做什麼	lam chi	10000
 使	làm cho	30000
 使	lamf cho	20000
 使	lam cho	10000
@@ -8020,9 +8602,15 @@ use_preset_vocabulary: false
 作媳婦	làm dâu	30000
 作媳婦	lamf daau	20000
 作媳婦	lam dau	10000
+做媳婦	làm dâu	30000
+做媳婦	lamf daau	20000
+做媳婦	lam dau	10000
 美身	làm đẹp	30000
 美身	lamf ddepj	20000
 美身	lam dep	10000
+打單	làm đơn	30000
+打單	lamf ddown	20000
+打單	lam don	10000
 濫用	lạm dụng	30000
 濫用	lamj dungj	20000
 濫用	lam dung	10000
@@ -8053,6 +8641,9 @@ use_preset_vocabulary: false
 做得好	Làm tốt lắm	30000
 做得好	Lamf toots lawms	20000
 做得好	Lam tot lam	10000
+做得好!	Làm tốt lắm	30000
+做得好!	Lamf toots lawms	20000
+做得好!	Lam tot lam	10000
 算一個單位(如電話費計時)	làm tròn	30000
 算一個單位(如電話費計時)	lamf tronf	20000
 算一個單位(如電話費計時)	lam tron	10000
@@ -8155,12 +8746,21 @@ use_preset_vocabulary: false
 組立(電腦)	lắp đặt	30000
 組立(電腦)	lawps ddawtj	20000
 組立(電腦)	lap dat	10000
+安裝	lắp đặt	30000
+安裝	lawps ddawtj	20000
+安裝	lap dat	10000
+安裝和設定	lắp đặt và cài	30000
+安裝和設定	lawps ddawtj vaf caif	20000
+安裝和設定	lap dat va cai	10000
 成家, 結婚	lập gia đình	30000
 成家, 結婚	laapj gia ddinhf	20000
 成家, 結婚	lap gia dinh	10000
 立論	lập luận	30000
 立論	laapj luaanj	20000
 立論	lap luan	10000
+建立編號	lập mã	30000
+建立編號	laapj max	20000
+建立編號	lap ma	10000
 立法	lập pháp	30000
 立法	laapj phaps	20000
 立法	lap phap	10000
@@ -8179,6 +8779,9 @@ use_preset_vocabulary: false
 一下子; 片, 薄片(如地磚)	lát	30000
 一下子; 片, 薄片(如地磚)	lats	20000
 一下子; 片, 薄片(如地磚)	lat	10000
+雜、混合	lặt	30000
+雜、混合	lawtj	20000
+雜、混合	lat	10000
 擦	lau	30000
 擦	lau	20000
 擦	lau	10000
@@ -8323,6 +8926,9 @@ use_preset_vocabulary: false
 連系	liên hệ	30000
 連系	lieen heej	20000
 連系	lien he	10000
+聯繫	liên hệ	30000
+聯繫	lieen heej	20000
+聯繫	lien he	10000
 聯歡	liên hoan	30000
 聯歡	lieen hoan	20000
 聯歡	lien hoan	10000
@@ -8341,6 +8947,9 @@ use_preset_vocabulary: false
 關連; 相關	liên quan	30000
 關連; 相關	lieen quan	20000
 關連; 相關	lien quan	10000
+關聯	liên quan	30000
+關聯	lieen quan	20000
+關聯	lien quan	10000
 連接詞	liên từ	30000
 連接詞	lieen tuwf	20000
 連接詞	lien tu	10000
@@ -8437,6 +9046,9 @@ use_preset_vocabulary: false
 問候	lời hỏi thăm	30000
 問候	lowif hoir thawm	20000
 問候	loi hoi tham	10000
+忠告	Lời khuyên	30000
+忠告	Lowif khuyeen	20000
+忠告	Loi khuyen	10000
 利潤	lợi nhuận	30000
 利潤	lowij nhuaanj	20000
 利潤	loi nhuan	10000
@@ -8488,12 +9100,18 @@ use_preset_vocabulary: false
 年級, 班級, 班	lớp	30000
 年級, 班級, 班	lowps	20000
 年級, 班級, 班	lop	10000
+班級	lớp	30000
+班級	lowps	20000
+班級	lop	10000
 課, 功課; 教室	lớp học	30000
 課, 功課; 教室	lowps hocj	20000
 課, 功課; 教室	lop hoc	10000
 學前班	lớp mầm non	30000
 學前班	lowps maamf non	20000
 學前班	lop mam non	10000
+旅行	lữ hành	30000
+旅行	luwx hanhf	20000
+旅行	lu hanh	10000
 稻	lúa	30000
 稻	luas	20000
 稻	lua	10000
@@ -8512,6 +9130,9 @@ use_preset_vocabulary: false
 欺騙、拐騙	lừa đảo	30000
 欺騙、拐騙	luwaf ddaor	20000
 欺騙、拐騙	lua dao	10000
+論點	luận điểm	30000
+論點	luaanj ddieemr	20000
+論點	luan diem	10000
 倫敦(英國首都)	Luân Đôn	30000
 倫敦(英國首都)	Luaan DDoon	20000
 倫敦(英國首都)	Luan Don	10000
@@ -8572,6 +9193,9 @@ use_preset_vocabulary: false
 矮	lùn	30000
 矮	lunf	20000
 矮	lun	10000
+矮小	lùn	30000
+矮小	lunf	20000
+矮小	lun	10000
 (身)後背	lưng	30000
 (身)後背	luwng	20000
 (身)後背	lung	10000
@@ -8647,6 +9271,12 @@ use_preset_vocabulary: false
 留信	lưu thư	30000
 留信	luwu thuw	20000
 留信	luu thu	10000
+流程	lưu trình	30000
+流程	luwu trinhf	20000
+流程	luu trinh	10000
+簽核流程	lưu trình ký	30000
+簽核流程	luwu trinhf kys	20000
+簽核流程	luu trinh ky	10000
 居留	lưu trú	30000
 居留	luwu trus	20000
 居留	luu tru	10000
@@ -8755,6 +9385,9 @@ use_preset_vocabulary: false
 馬來西亞	Malaysia	30000
 馬來西亞	Malaysia	20000
 馬來西亞	Malaysia	10000
+蝦醬	mắm tôm	30000
+蝦醬	mawms toom	20000
+蝦醬	mam tom	10000
 幕; 帳; 蚊帳	màn	30000
 幕; 帳; 蚊帳	manf	20000
 幕; 帳; 蚊帳	man	10000
@@ -8764,6 +9397,9 @@ use_preset_vocabulary: false
 顯示器; 電腦螢幕	màn hình	30000
 顯示器; 電腦螢幕	manf hinhf	20000
 顯示器; 電腦螢幕	man hinh	10000
+屏幕	màn hình	30000
+屏幕	manf hinhf	20000
+屏幕	man hinh	10000
 停經	mãn kinh	30000
 停經	manx kinh	20000
 停經	man kinh	10000
@@ -8818,6 +9454,9 @@ use_preset_vocabulary: false
 攜帶	mang theo	30000
 攜帶	mang theo	20000
 攜帶	mang theo	10000
+片、塊	mảnh	30000
+片、塊	manhr	20000
+片、塊	manh	10000
 出色	mạnh	30000
 出色	manhj	20000
 出色	manh	10000
@@ -8839,6 +9478,9 @@ use_preset_vocabulary: false
 高瘦	mảnh Khảnh	30000
 高瘦	manhr Khanhr	20000
 高瘦	manh Khanh	10000
+強大	mạnh mẽ	30000
+強大	manhj mex	20000
+強大	manh me	10000
 強大; 巨大	mạnh mẽ	30000
 強大; 巨大	manhj mex	20000
 強大; 巨大	manh me	10000
@@ -8884,12 +9526,18 @@ use_preset_vocabulary: false
 湖面	mặt hồ	30000
 湖面	mawtj hoof	20000
 湖面	mat ho	10000
+斷網	mất kết nối mạng	30000
+斷網	maats keets noois mangj	20000
+斷網	mat ket noi mang	10000
 密碼	mật khẩu	30000
 密碼	maatj khaaur	20000
 密碼	mat khau	10000
 密碼	mật mã	30000
 密碼	maatj max	20000
 密碼	mat ma	10000
+斷網	mất mạng	30000
+斷網	maats mangj	20000
+斷網	mat mang	10000
 愁眉苦臉	mặt mày ủ rũ	30000
 愁眉苦臉	mawtj mayf ur rux	20000
 愁眉苦臉	mat may u ru	10000
@@ -8926,6 +9574,9 @@ use_preset_vocabulary: false
 太陽	mặt trời	30000
 太陽	mawtj trowif	20000
 太陽	mat troi	10000
+日上三竿	mặt trời đến ba sào	30000
+日上三竿	mawtj trowif ddeens ba saof	20000
+日上三竿	mat troi den ba sao	10000
 日落	mặt trời lặn	30000
 日落	mawtj trowif lawnj	20000
 日落	mat troi lan	10000
@@ -8938,6 +9589,9 @@ use_preset_vocabulary: false
 (身)血液	máu	30000
 (身)血液	maus	20000
 (身)血液	mau	10000
+血	máu	30000
+血	maus	20000
+血	mau	10000
 血, 血液	máu	30000
 血, 血液	maus	20000
 血, 血液	mau	10000
@@ -9061,6 +9715,9 @@ ATM 機	may ATM	10000
 拖拉機	máy cày	30000
 拖拉機	mays cayf	20000
 拖拉機	may cay	10000
+投影機	máy chiếu	30000
+投影機	mays chieeus	20000
+投影機	may chieu	10000
 你敢?	mày dám	30000
 你敢?	mayf dams	20000
 你敢?	may dam	10000
@@ -9091,6 +9748,9 @@ ATM 機	may ATM	10000
 印表機	máy in chữ	30000
 印表機	mays in chuwx	20000
 印表機	may in chu	10000
+點矩陣打印機	máy in kim	30000
+點矩陣打印機	mays in kim	20000
+點矩陣打印機	may in kim	10000
 冷氣機	máy lạnh	30000
 冷氣機	mays lanhj	20000
 冷氣機	may lanh	10000
@@ -9145,9 +9805,15 @@ MP3 機	may nghe nhac MP3	10000
 吹風機	máy sấy tóc	30000
 吹風機	mays saays tocs	20000
 吹風機	may say toc	10000
+測漏機	máy thử khí	30000
+測漏機	mays thuwr khis	20000
+測漏機	may thu khi	10000
 計算器	máy tính	30000
 計算器	mays tinhs	20000
 計算器	may tinh	10000
+電腦	máy tính	30000
+電腦	mays tinhs	20000
+電腦	may tinh	10000
 筆記型電腦	máy tính xách ta	30000
 筆記型電腦	mays tinhs xachs ta	20000
 筆記型電腦	may tinh xach ta	10000
@@ -9163,6 +9829,9 @@ MP3 機	may nghe nhac MP3	10000
 裝載機	máy xúc	30000
 裝載機	mays xucs	20000
 裝載機	may xuc	10000
+殘缺、殘破	mẻ	30000
+殘缺、殘破	mer	20000
+殘缺、殘破	me	10000
 母; 母親	mẹ	30000
 母; 母親	mej	20000
 母; 母親	me	10000
@@ -9199,6 +9868,9 @@ MP3 機	may nghe nhac MP3	10000
 橘貓	mèo màu cam	30000
 橘貓	meof mauf cam	20000
 橘貓	meo mau cam	10000
+牆邊緣	mép tường	30000
+牆邊緣	meps tuowngf	20000
+牆邊緣	mep tuong	10000
 公尺; 米	mét	30000
 公尺; 米	mets	20000
 公尺; 米	met	10000
@@ -9304,9 +9976,15 @@ MP3 機	may nghe nhac MP3	10000
 剖腹生產	mổ lấy thai	30000
 剖腹生產	moor laays thai	20000
 剖腹生產	mo lay thai	10000
+仿造、模仿	Mô phỏng	30000
+仿造、模仿	Moo phongr	20000
+仿造、模仿	Mo phong	10000
 模仿；模擬	mô phỏng	30000
 模仿；模擬	moo phongr	20000
 模仿；模擬	mo phong	10000
+開放權限	mở quyền	30000
+開放權限	mowr quyeenf	20000
+開放權限	mo quyen	10000
 加大; 加寬	mở rộng	30000
 加大; 加寬	mowr roongj	20000
 加大; 加寬	mo rong	10000
@@ -9448,6 +10126,9 @@ MP3 機	may nghe nhac MP3	10000
 一路；一口氣；一個勁兒	một mạch	30000
 一路；一口氣；一個勁兒	mootj machj	20000
 一路；一口氣；一個勁兒	mot mach	10000
+自己一人	một mình	30000
+自己一人	mootj minhf	20000
+自己一人	mot minh	10000
 1000	một ngàn	30000
 1000	mootj nganf	20000
 1000	mot ngan	10000
@@ -9664,6 +10345,9 @@ MP3 機	may nghe nhac MP3	10000
 美國	Mỹ	30000
 美國	Myx	20000
 美國	My	10000
+美麗、景色宜人	mỹ miều	30000
+美麗、景色宜人	myx mieeuf	20000
+美麗、景色宜人	my mieu	10000
 化妝品	mỹ phẩm	30000
 化妝品	myx phaamr	20000
 化妝品	my pham	10000
@@ -9766,9 +10450,18 @@ MP3 機	may nghe nhac MP3	10000
 升綠; 升等	nâng cấp	30000
 升綠; 升等	naang caaps	20000
 升綠; 升等	nang cap	10000
+升級	nâng cấp	30000
+升級	naang caaps	20000
+升級	nang cap	10000
 媳婦	nàng dâu	30000
 媳婦	nangf daau	20000
 媳婦	nang dau	10000
+活力	năng động	30000
+活力	nawng ddoongj	20000
+活力	nang dong	10000
+能力	năng lực	30000
+能力	nawng luwcj	20000
+能力	nang luc	10000
 能力	năng lực	30000
 能力	nawng luwcj	20000
 能力	nang luc	10000
@@ -9865,6 +10558,9 @@ MP3 機	may nghe nhac MP3	10000
 整好的地	nền	30000
 整好的地	neenf	20000
 整好的地	nen	10000
+土地	nền đất	30000
+土地	neenf ddaats	20000
+土地	nen dat	10000
 路基	nền đường	30000
 路基	neenf dduowngf	20000
 路基	nen duong	10000
@@ -9907,6 +10603,9 @@ MP3 機	may nghe nhac MP3	10000
 暗的, 深的	ngăm đen	30000
 暗的, 深的	ngawm dden	20000
 暗的, 深的	ngam den	10000
+回想	ngẫm lại	30000
+回想	ngaamx laij	20000
+回想	ngam lai	10000
 鑒賞	ngắm nhìn	30000
 鑒賞	ngawms nhinf	20000
 鑒賞	ngam nhin	10000
@@ -9934,6 +10633,9 @@ MP3 機	may nghe nhac MP3	10000
 井井有條	ngăn nắp	30000
 井井有條	ngawn nawps	20000
 井井有條	ngan nap	10000
+猶豫	ngần ngại	30000
+猶豫	ngaanf ngaij	20000
+猶豫	ngan ngai	10000
 防範; 防止	ngăn ngừa	30000
 防範; 防止	ngawn nguwaf	20000
 防範; 防止	ngan ngua	10000
@@ -9970,6 +10672,9 @@ MP3 機	may nghe nhac MP3	10000
 日	ngày	30000
 日	ngayf	20000
 日	ngay	10000
+日、天	ngày	30000
+日、天	ngayf	20000
+日、天	ngay	10000
 一天又一天; 與日俱增	ngày càng	30000
 一天又一天; 與日俱增	ngayf cangf	20000
 一天又一天; 與日俱增	ngay cang	10000
@@ -10138,6 +10843,12 @@ MP3 機	may nghe nhac MP3	10000
 早點休息	Nghỉ ngơi và thư giãn đi nhé !	30000
 早點休息	Nghir ngowi vaf thuw gianx ddi nhes !	20000
 早點休息	Nghi ngoi va thu gian di nhe !	10000
+請假	nghỉ phép	30000
+請假	nghir pheps	20000
+請假	nghi phep	10000
+請年假	nghỉ phép năm	30000
+請年假	nghir pheps nawm	20000
+請年假	nghi phep nam	10000
 想	nghĩ rằng	30000
 想	nghix rawngf	20000
 想	nghi rang	10000
@@ -10159,12 +10870,18 @@ MP3 機	may nghe nhac MP3	10000
 嚴整; 嚴肅端整	nghiêm chỉnh	30000
 嚴整; 嚴肅端整	nghieem chinhr	20000
 嚴整; 嚴肅端整	nghiem chinh	10000
+嚴格	nghiêm khắc	30000
+嚴格	nghieem khawcs	20000
+嚴格	nghiem khac	10000
 嚴重	nghiêm trọng	30000
 嚴重	nghieem trongj	20000
 嚴重	nghiem trong	10000
 嚴肅	nghiêm túc	30000
 嚴肅	nghieem tucs	20000
 嚴肅	nghiem tuc	10000
+研究	nghiên cứu	30000
+研究	nghieen cuwus	20000
+研究	nghien cuu	10000
 研究	nghiên cứu	30000
 研究	nghieen cuwus	20000
 研究	nghien cuu	10000
@@ -10180,9 +10897,15 @@ MP3 機	may nghe nhac MP3	10000
 千	nghìn	30000
 千	nghinf	20000
 千	nghin	10000
+巷	ngõ	30000
+巷	ngox	20000
+巷	ngo	10000
 中毒	ngộ độc	30000
 中毒	ngooj ddoocj	20000
 中毒	ngo doc	10000
+回頭	ngoái	30000
+回頭	ngoais	20000
+回頭	ngoai	10000
 外	ngoài	30000
 外	ngoaif	20000
 外	ngoai	10000
@@ -10288,6 +11011,9 @@ MP3 機	may nghe nhac MP3	10000
 很好吃	ngon lắm	30000
 很好吃	ngon lawms	20000
 很好吃	ngon lam	10000
+雜亂無章	ngổn ngang	30000
+雜亂無章	ngoonr ngang	20000
+雜亂無章	ngon ngang	10000
 語言	ngôn ngữ	30000
 語言	ngoon nguwx	20000
 語言	ngon ngu	10000
@@ -10321,6 +11047,9 @@ MP3 機	may nghe nhac MP3	10000
 鵝	ngỗng	30000
 鵝	ngoongx	20000
 鵝	ngong	10000
+收縮	ngót	30000
+收縮	ngots	20000
+收縮	ngot	10000
 甜	ngọt	30000
 甜	ngotj	20000
 甜	ngot	10000
@@ -10357,9 +11086,15 @@ MP3 機	may nghe nhac MP3	10000
 睡午覺	ngủ trưa	30000
 睡午覺	ngur truwa	20000
 睡午覺	ngu trua	10000
+賴床	ngủ trưa trời trưa trật	30000
+賴床	ngur truwa trowif truwa traatj	20000
+賴床	ngu trua troi trua trat	10000
 馬 🐴	ngựa	30000
 馬 🐴	nguwaj	20000
 馬 🐴	ngua	10000
+獄牢	ngục	30000
+獄牢	ngucj	20000
+獄牢	nguc	10000
 胸	ngực	30000
 胸	nguwcj	20000
 胸	nguc	10000
@@ -10405,6 +11140,9 @@ MP3 機	may nghe nhac MP3	10000
 美人	người đẹp	30000
 美人	nguowif ddepj	20000
 美人	nguoi dep	10000
+用戶、使用者	người dùng	30000
+用戶、使用者	nguowif dungf	20000
+用戶、使用者	nguoi dung	10000
 被雇用者、員工	người được tuyển dụng	30000
 被雇用者、員工	nguowif dduowcj tuyeenr dungj	20000
 被雇用者、員工	nguoi duoc tuyen dung	10000
@@ -10531,6 +11269,9 @@ MP3 機	may nghe nhac MP3	10000
 源	nguồn	30000
 源	nguoonf	20000
 源	nguon	10000
+電源	nguồn	30000
+電源	nguoonf	20000
+電源	nguon	10000
 污染源	nguồn ô nhiễm	30000
 污染源	nguoonf oo nhieemx	20000
 污染源	nguon o nhiem	10000
@@ -10723,12 +11464,21 @@ MP3 機	may nghe nhac MP3	10000
 輕音樂	nhạc nhẹ	30000
 輕音樂	nhacj nhej	20000
 輕音樂	nhac nhe	10000
+提醒	nhắc nhở	30000
+提醒	nhawcs nhowr	20000
+提醒	nhac nho	10000
 音樂家	nhạc sĩ	30000
 音樂家	nhacj six	20000
 音樂家	nhac si	10000
+仿冒、仿製	nhái	30000
+仿冒、仿製	nhais	20000
+仿冒、仿製	nhai	10000
 錯; 誤	nhầm	30000
 錯; 誤	nhaamf	20000
 錯; 誤	nham	10000
+閉眼	nhắm	30000
+閉眼	nhawms	20000
+閉眼	nham	10000
 為了要	nhằm	30000
 為了要	nhawmf	20000
 為了要	nham	10000
@@ -10852,15 +11602,27 @@ MP3 機	may nghe nhac MP3	10000
 一定	nhất định	30000
 一定	nhaats ddinhj	20000
 一定	nhat dinh	10000
+怕女生的	nhát gái	30000
+怕女生的	nhats gais	20000
+怕女生的	nhat gai	10000
 尤其是; 特別是	nhất là	30000
 尤其是; 特別是	nhaats laf	20000
 尤其是; 特別是	nhat la	10000
+乏味	nhạt nhẽo	30000
+乏味	nhatj nheox	20000
+乏味	nhat nheo	10000
 一致	nhất trí	30000
 一致	nhaats tris	20000
 一致	nhat tri	10000
 相互; 互相	nhau	30000
 相互; 互相	nhau	20000
 相互; 互相	nhau	10000
+喝酒	nhậu	30000
+喝酒	nhaauj	20000
+喝酒	nhau	10000
+跳	nhảy	30000
+跳	nhayr	20000
+跳	nhay	10000
 跳高	nhảy cao	30000
 跳高	nhayr cao	20000
 跳高	nhay cao	10000
@@ -10969,6 +11731,9 @@ MP3 機	may nghe nhac MP3	10000
 要求; 需要	nhu cầu	30000
 要求; 需要	nhu caauf	20000
 要求; 需要	nhu cau	10000
+需求	nhu cầu	30000
+需求	nhu caauf	20000
+需求	nhu cau	10000
 如此; 如同這樣子	như thế	30000
 如此; 如同這樣子	nhuw thees	20000
 如此; 如同這樣子	nhu the	10000
@@ -10993,6 +11758,9 @@ MP3 機	may nghe nhac MP3	10000
 各; 那些	những	30000
 各; 那些	nhuwngx	20000
 各; 那些	nhung	10000
+路邊攤	những hàng quán bên ven đường	30000
+路邊攤	nhuwngx hangf quans been ven dduowngf	20000
+路邊攤	nhung hang quan ben ven duong	10000
 畏怯; 膽怯	nhút nhát	30000
 畏怯; 膽怯	nhuts nhats	20000
 畏怯; 膽怯	nhut nhat	10000
@@ -11065,6 +11833,9 @@ MP3 機	may nghe nhac MP3	10000
 生氣,發怒	nổi cáu	30000
 生氣,發怒	nooir caus	20000
 生氣,發怒	noi cau	10000
+總而言之	Nói chung	30000
+總而言之	Nois chung	20000
+總而言之	Noi chung	10000
 談話; 談天	nói chuyện	30000
 談話; 談天	nois chuyeenj	20000
 談話; 談天	noi chuyen	10000
@@ -11077,6 +11848,9 @@ MP3 機	may nghe nhac MP3	10000
 {內容} 內容	nội dung	30000
 {內容} 內容	nooij dung	20000
 {內容} 內容	noi dung	10000
+內容	nội dung	30000
+內容	nooij dung	20000
+內容	noi dung	10000
 培訓內容	nội dung bồi dưỡng đào tạo	30000
 培訓內容	nooij dung booif duowngx ddaof taoj	20000
 培訓內容	noi dung boi duong dao tao	10000
@@ -11101,6 +11875,9 @@ MP3 機	may nghe nhac MP3	10000
 校規	Nội quy nhà trường	30000
 校規	Nooij quy nhaf truowngf	20000
 校規	Noi quy nha truong	10000
+說的理想	nói suông	30000
+說的理想	nois suoong	20000
+說的理想	noi suong	10000
 內心	nội tâm	30000
 內心	nooij taam	20000
 內心	noi tam	10000
@@ -11290,9 +12067,15 @@ MP3 機	may nghe nhac MP3	10000
 按鈕	nút	30000
 按鈕	nuts	20000
 按鈕	nut	10000
+槽、巢	ổ	30000
+槽、巢	oor	20000
+槽、巢	o	10000
 在; 於	ở	30000
 在; 於	owr	20000
 在; 於	o	10000
+硬碟、硬盤	ổ cứng	30000
+硬碟、硬盤	oor cuwngs	20000
+硬碟、硬盤	o cung	10000
 哪裡	ở đâu	30000
 哪裡	owr ddaau	20000
 哪裡	o dau	10000
@@ -11344,6 +12127,12 @@ DVD 光碟機	o doc dia DVD	10000
 (發語詞)啊	ơi	30000
 (發語詞)啊	owi	20000
 (發語詞)啊	oi	10000
+天啊!	Ôi chúa ơi	30000
+天啊!	OOi chuas owi	20000
+天啊!	Oi chua oi	10000
+抱	ôm	30000
+抱	oom	20000
+抱	om	10000
 擁抱	ôm	30000
 擁抱	oom	20000
 擁抱	om	10000
@@ -11431,6 +12220,9 @@ DVD 光碟機	o doc dia DVD	10000
 草稿	phác thảo	30000
 草稿	phacs thaor	20000
 草稿	phac thao	10000
+草擬	phác thảo	30000
+草擬	phacs thaor	20000
+草擬	phac thao	10000
 是	phải	30000
 是	phair	20000
 是	phai	10000
@@ -11449,6 +12241,9 @@ DVD 光碟機	o doc dia DVD	10000
 犯罪	phạm tội	30000
 犯罪	phamj tooij	20000
 犯罪	pham toi	10000
+種類	phạm trù	30000
+種類	phamj truf	20000
+種類	pham tru	10000
 範圍	phạm vi	30000
 範圍	phamj vi	20000
 範圍	pham vi	10000
@@ -11479,6 +12274,12 @@ DVD 光碟機	o doc dia DVD	10000
 反對	phản đối	30000
 反對	phanr ddoois	20000
 反對	phan doi	10000
+價格部分	phần giá	30000
+價格部分	phaanf gias	20000
+價格部分	phan gia	10000
+單價部分	phần giá đơn	30000
+單價部分	phaanf gias ddown	20000
+單價部分	phan gia don	10000
 反饋；回應	phản hồi	30000
 反饋；回應	phanr hooif	20000
 反饋；回應	phan hoi	10000
@@ -11488,6 +12289,9 @@ DVD 光碟機	o doc dia DVD	10000
 電腦軟體	phần mềm	30000
 電腦軟體	phaanf meemf	20000
 電腦軟體	phan mem	10000
+軟體、軟件	phần mềm	30000
+軟體、軟件	phaanf meemf	20000
+軟體、軟件	phan mem	10000
 墳墓	phần mộ, mồ mả	30000
 墳墓	phaanf moo,j moof mar	20000
 墳墓	phan mo, mo ma	10000
@@ -11500,9 +12304,18 @@ DVD 光碟機	o doc dia DVD	10000
 禮品	phần quà	30000
 禮品	phaanf quaf	20000
 禮品	phan qua	10000
+分權	phân quyền	30000
+分權	phaan quyeenf	20000
+分權	phan quyen	10000
+增加部分	phần thêm	30000
+增加部分	phaanf theem	20000
+增加部分	phan them	10000
 獎品	phần thưởng	30000
 獎品	phaanf thuowngr	20000
 獎品	phan thuong	10000
+分析	phân tích	30000
+分析	phaan tichs	20000
+分析	phan tich	10000
 分析	phân tích	30000
 分析	phaan tichs	20000
 分析	phan tich	10000
@@ -11518,6 +12331,9 @@ DVD 光碟機	o doc dia DVD	10000
 猶豫	phân vân	30000
 猶豫	phaan vaan	20000
 猶豫	phan van	10000
+遲疑	Phân vân	30000
+遲疑	Phaan vaan	20000
+遲疑	Phan van	10000
 鞭炮	pháo	30000
 鞭炮	phaos	20000
 鞭炮	phao	10000
@@ -11572,6 +12388,9 @@ DVD 光碟機	o doc dia DVD	10000
 發揮	phát huy	30000
 發揮	phats huy	20000
 發揮	phat huy	10000
+發生	phát sinh	30000
+發生	phats sinh	20000
+發生	phat sinh	10000
 發生	phát sinh	30000
 發生	phats sinh	20000
 發生	phat sinh	10000
@@ -11653,6 +12472,9 @@ DVD 光碟機	o doc dia DVD	10000
 票	phiếu	30000
 票	phieeus	20000
 票	phieu	10000
+表	phiếu	30000
+表	phieeus	20000
+表	phieu	10000
 冒險	phiêu lưu	30000
 冒險	phieeu luwu	20000
 冒險	phieu luu	10000
@@ -11698,6 +12520,9 @@ DVD 光碟機	o doc dia DVD	10000
 普及	phổ cập	30000
 普及	phoor caapj	20000
 普及	pho cap	10000
+老街	phố phường	30000
+老街	phoos phuowngf	20000
+老街	pho phuong	10000
 鋪張	phô trương	30000
 鋪張	phoo truowng	20000
 鋪張	pho truong	10000
@@ -11707,6 +12532,9 @@ DVD 光碟機	o doc dia DVD	10000
 肺	phổi	30000
 肺	phooir	20000
 肺	phoi	10000
+配合	phối hợp	30000
+配合	phoois howpj	20000
+配合	phoi hop	10000
 配合	phối hợp	30000
 配合	phoois howpj	20000
 配合	phoi hop	10000
@@ -11755,6 +12583,9 @@ DVD 光碟機	o doc dia DVD	10000
 工作室	phòng làm việc	30000
 工作室	phongf lamf vieecj	20000
 工作室	phong lam viec	10000
+機房	phòng máy chủ	30000
+機房	phongf mays chur	20000
+機房	phong may chu	10000
 臥房; 臥室	phòng ngủ	30000
 臥房; 臥室	phongf ngur	20000
 臥房; 臥室	phong ngu	10000
@@ -11836,6 +12667,9 @@ DVD 光碟機	o doc dia DVD	10000
 服務	phục vụ	30000
 服務	phucj vuj	20000
 服務	phuc vu	10000
+弔唁	phúng	30000
+弔唁	phungs	20000
+弔唁	phung	10000
 坊	phường	30000
 坊	phuowngf	20000
 坊	phuong	10000
@@ -11854,12 +12688,18 @@ DVD 光碟機	o doc dia DVD	10000
 聯繫方式	phương thức liên hệ	30000
 聯繫方式	phuowng thuwcs lieen heej	20000
 聯繫方式	phuong thuc lien he	10000
+聯絡方式	phương thức liên lạc	30000
+聯絡方式	phuowng thuwcs lieen lacj	20000
+聯絡方式	phuong thuc lien lac	10000
 方便; 方法	phương tiện	30000
 方便; 方法	phuowng tieenj	20000
 方便; 方法	phuong tien	10000
 分鐘	phút	30000
 分鐘	phuts	20000
 分鐘	phut	10000
+電池	pin	30000
+電池	pin	20000
+電池	pin	10000
 電池	pin	30000
 電池	pin	20000
 電池	pin	10000
@@ -11998,6 +12838,9 @@ DVD 光碟機	o doc dia DVD	10000
 監控; 觀察	quan sát	30000
 監控; 觀察	quan sats	20000
 監控; 觀察	quan sat	10000
+觀察	quan sát	30000
+觀察	quan sats	20000
+觀察	quan sat	10000
 棺材	quan tài	30000
 棺材	quan taif	20000
 棺材	quan tai	10000
@@ -12031,6 +12874,9 @@ DVD 光碟機	o doc dia DVD	10000
 扇子	quạt	30000
 扇子	quatj	20000
 扇子	quat	10000
+風扇	quạt CHIP	30000
+風扇	quatj CHIP	20000
+風扇	quat CHIP	10000
 電扇	quạt điện	30000
 電扇	quatj ddieenj	20000
 電扇	quat dien	10000
@@ -12055,6 +12901,9 @@ DVD 光碟機	o doc dia DVD	10000
 重訪; 再來	quay lại	30000
 重訪; 再來	quay laij	20000
 重訪; 再來	quay lai	10000
+在...周圍	quây quần	30000
+在...周圍	quaay quaanf	20000
+在...周圍	quay quan	10000
 抽獎	quay số	30000
 抽獎	quay soos	20000
 抽獎	quay so	10000
@@ -12127,6 +12976,9 @@ DVD 光碟機	o doc dia DVD	10000
 季; 貴	quý	30000
 季; 貴	quys	20000
 季; 貴	quy	10000
+珍貴	quý	30000
+珍貴	quys	20000
+珍貴	quy	10000
 基金	quỹ	30000
 基金	quyx	20000
 基金	quy	10000
@@ -12154,6 +13006,9 @@ DVD 光碟機	o doc dia DVD	10000
 珍惜	quý trọng	30000
 珍惜	quys trongj	20000
 珍惜	quy trong	10000
+權限	quyền	30000
+權限	quyeenf	20000
+權限	quyen	10000
 書,  筆記本, 卷, 本 (書, 日曆)	quyển	30000
 書,  筆記本, 卷, 本 (書, 日曆)	quyeenr	20000
 書,  筆記本, 卷, 本 (書, 日曆)	quyen	10000
@@ -12163,6 +13018,9 @@ DVD 光碟機	o doc dia DVD	10000
 許可權	quyền hạn	30000
 許可權	quyeenf hanj	20000
 許可權	quyen han	10000
+權限	quyền hạn	30000
+權限	quyeenf hanj	20000
+權限	quyen han	10000
 權力	quyền lực	30000
 權力	quyeenf luwcj	20000
 權力	quyen luc	10000
@@ -12214,12 +13072,18 @@ DVD 光碟機	o doc dia DVD	10000
 出門	ra ngoài	30000
 出門	ra ngoaif	20000
 出門	ra ngoai	10000
+修正	rà soát	30000
+修正	raf soats	20000
+修正	ra soat	10000
 上法院	ra tòa	30000
 上法院	ra toaf	20000
 上法院	ra toa	10000
 床單	ra trải giường	30000
 床單	ra trair giuowngf	20000
 床單	ra trai giuong	10000
+進出	ra vào	30000
+進出	ra vaof	20000
+進出	ra vao	10000
 茫無頭緒	rắc rối	30000
 茫無頭緒	rawcs roois	20000
 茫無頭緒	rac roi	10000
@@ -12268,6 +13132,9 @@ DVD 光碟機	o doc dia DVD	10000
 有空兒嗎	rảnh không	30000
 有空兒嗎	ranhr khoong	20000
 有空兒嗎	ranh khong	10000
+圍著(柵欄、籬笆)	rào	30000
+圍著(柵欄、籬笆)	raof	20000
+圍著(柵欄、籬笆)	rao	10000
 電影院	rạp	30000
 電影院	rapj	20000
 電影院	rap	10000
@@ -12340,6 +13207,9 @@ DVD 光碟機	o doc dia DVD	10000
 左轉	rẽ trái	30000
 左轉	rex trais	20000
 左轉	re trai	10000
+簾子	rèm	30000
+簾子	remf	20000
+簾子	rem	10000
 冷	rét	30000
 冷	rets	20000
 冷	ret	10000
@@ -12361,6 +13231,9 @@ DVD 光碟機	o doc dia DVD	10000
 清楚	rõ	30000
 清楚	rox	20000
 清楚	ro	10000
+愚蠢//瘋狂	rồ	30000
+愚蠢//瘋狂	roof	20000
+愚蠢//瘋狂	ro	10000
 清楚; 明白	rõ ràng	30000
 清楚; 明白	rox rangf	20000
 清楚; 明白	ro rang	10000
@@ -12382,6 +13255,9 @@ DVD 光碟機	o doc dia DVD	10000
 離開(國境)	rời khỏi	30000
 離開(國境)	rowif khoir	20000
 離開(國境)	roi khoi	10000
+掉下	rơi xuống	30000
+掉下	rowi xuoongs	20000
+掉下	roi xuong	10000
 肚臍	rốn	30000
 肚臍	roons	20000
 肚臍	ron	10000
@@ -12430,6 +13306,9 @@ DVD 光碟機	o doc dia DVD	10000
 洗手	rửa tay	30000
 洗手	ruwar tay	20000
 洗手	rua tay	10000
+風險	rủi ro	30000
+風險	ruir ro	20000
+風險	rui ro	10000
 倒楣; 厄運, 不幸	rủi ro	30000
 倒楣; 厄運, 不幸	ruir ro	20000
 倒楣; 厄運, 不幸	rui ro	10000
@@ -12439,6 +13318,9 @@ DVD 光碟機	o doc dia DVD	10000
 排卵	rụng trứng	30000
 排卵	rungj truwngs	20000
 排卵	rung trung	10000
+蒼蠅	ruồi	30000
+蒼蠅	ruooif	20000
+蒼蠅	ruoi	10000
 半	rưỡi	30000
 半	ruowix	20000
 半	ruoi	10000
@@ -12547,6 +13429,9 @@ DVD 光碟機	o doc dia DVD	10000
 準備好	sẵn sàng	30000
 準備好	sawnx sangf	20000
 準備好	san sang	10000
+隨時準備好	sẵn sàng	30000
+隨時準備好	sawnx sangf	20000
+隨時準備好	san sang	10000
 後院	sân sau	30000
 後院	saan sau	20000
 後院	san sau	10000
@@ -12577,6 +13462,9 @@ DVD 光碟機	o doc dia DVD	10000
 過渡; 到, 變成為, 成為, 去到	sang	30000
 過渡; 到, 變成為, 成為, 去到	sang	20000
 過渡; 到, 變成為, 成為, 去到	sang	10000
+到、過	sang	30000
+到、過	sang	20000
+到、過	sang	10000
 早上; 亮	sáng	30000
 早上; 亮	sangs	20000
 早上; 亮	sang	10000
@@ -12643,6 +13531,9 @@ DVD 光碟機	o doc dia DVD	10000
 安排	sắp xếp	30000
 安排	sawps xeeps	20000
 安排	sap xep	10000
+整理	sắp xếp	30000
+整理	sawps xeeps	20000
+整理	sap xep	10000
 {擦} 貼近、貼合	sát	30000
 {擦} 貼近、貼合	sats	20000
 {擦} 貼近、貼合	sat	10000
@@ -12670,6 +13561,9 @@ DVD 光碟機	o doc dia DVD	10000
 接著, 隨後, 在…之後	sau khi	30000
 接著, 隨後, 在…之後	sau khi	20000
 接著, 隨後, 在…之後	sau khi	10000
+之後	sau khi	30000
+之後	sau khi	20000
+之後	sau khi	10000
 60	sáu mươi	30000
 60	saus muowi	20000
 60	sau muoi	10000
@@ -12865,6 +13759,9 @@ DVD 光碟機	o doc dia DVD	10000
 嘗好; 興趣	sở thích	30000
 嘗好; 興趣	sowr thichs	20000
 嘗好; 興趣	so thich	10000
+興趣	Sở thích	30000
+興趣	Sowr thichs	20000
+興趣	So thich	10000
 興趣愛好	sở thích	30000
 興趣愛好	sowr thichs	20000
 興趣愛好	so thich	10000
@@ -12961,6 +13858,9 @@ DVD 光碟機	o doc dia DVD	10000
 發燒	sốt	30000
 發燒	soots	20000
 發燒	sot	10000
+著急	sốt ruột	30000
+著急	soots ruootj	20000
+著急	sot ruot	10000
 登革熱	sốt xuất huyết	30000
 登革熱	soots xuaats huyeets	20000
 登革熱	sot xuat huyet	10000
@@ -12970,6 +13870,12 @@ DVD 光碟機	o doc dia DVD	10000
 死亡	sự chết	30000
 死亡	suwj cheets	20000
 死亡	su chet	10000
+事故	sự cố	30000
+事故	suwj coos	20000
+事故	su co	10000
+使用	sử dụng	30000
+使用	suwr dungj	20000
+使用	su dung	10000
 使用	sử dụng	30000
 使用	suwr dungj	20000
 使用	su dung	10000
@@ -12997,6 +13903,9 @@ DVD 光碟機	o doc dia DVD	10000
 修理	sửa chữa	30000
 修理	suwar chuwax	20000
 修理	sua chua	10000
+修正	sửa chữa	30000
+修正	suwar chuwax	20000
+修正	sua chua	10000
 剛修繕	sửa mới	30000
 剛修繕	suwar mowis	20000
 剛修繕	sua moi	10000
@@ -13030,6 +13939,9 @@ DVD 光碟機	o doc dia DVD	10000
 生命力; 活力	sức sống	30000
 生命力; 活力	suwcs soongs	20000
 生命力; 活力	suc song	10000
+快樂，暢快	sướng	30000
+快樂，暢快	suowngs	20000
+快樂，暢快	suong	10000
 霧	sương mù	30000
 霧	suowng muf	20000
 霧	suong mu	10000
@@ -13045,6 +13957,9 @@ DVD 光碟機	o doc dia DVD	10000
 倒塌、崩塌	sụp đổ	30000
 倒塌、崩塌	supj ddoor	20000
 倒塌、崩塌	sup do	10000
+殘缺	sứt	30000
+殘缺	suwts	20000
+殘缺	sut	10000
 跌價	sụt giá	30000
 跌價	sutj gias	20000
 跌價	sut gia	10000
@@ -13114,6 +14029,9 @@ DVD 光碟機	o doc dia DVD	10000
 戶頭	tài khoản	30000
 戶頭	taif khoanr	20000
 戶頭	tai khoan	10000
+帳戶	tài khoản	30000
+帳戶	taif khoanr	20000
+帳戶	tai khoan	10000
 教材	Tài liệu giảng dạy	30000
 教材	Taif lieeuj giangr dayj	20000
 教材	Tai lieu giang day	10000
@@ -13126,6 +14044,9 @@ DVD 光碟機	o doc dia DVD	10000
 財產	tài sản	30000
 財產	taif sanr	20000
 財產	tai san	10000
+財產、資產	tài sản	30000
+財產、資產	taif sanr	20000
+財產、資產	tai san	10000
 為什麼	tại sao	30000
 為什麼	taij sao	20000
 為什麼	tai sao	10000
@@ -13165,6 +14086,9 @@ DVD 光碟機	o doc dia DVD	10000
 心靈	tâm hồn	30000
 心靈	taam hoonf	20000
 心靈	tam hon	10000
+靈魂	Tâm hồn	30000
+靈魂	Taam hoonf	20000
+靈魂	Tam hon	10000
 心理	tâm lý	30000
 心理	taam lys	20000
 心理	tam ly	10000
@@ -13198,6 +14122,9 @@ DVD 光碟機	o doc dia DVD	10000
 淋浴	tắm vòi sen	30000
 淋浴	tawms voif sen	20000
 淋浴	tam voi sen	10000
+牙籤	tăm xỉa răng	30000
+牙籤	tawm xiar rawng	20000
+牙籤	tam xia rang	10000
 公噸	tấn	30000
 公噸	taans	20000
 公噸	tan	10000
@@ -13234,6 +14161,9 @@ DVD 光碟機	o doc dia DVD	10000
 贈送	tặng	30000
 贈送	tawngj	20000
 贈送	tang	10000
+加班	tăng ca	30000
+加班	tawng ca	20000
+加班	tang ca	10000
 增強; 強化	tăng cường	30000
 增強; 強化	tawng cuowngf	20000
 增強; 強化	tang cuong	10000
@@ -13309,6 +14239,9 @@ DVD 光碟機	o doc dia DVD	10000
 襪子; 所有	tất	30000
 襪子; 所有	taats	20000
 襪子; 所有	tat	10000
+潑	tạt	30000
+潑	tatj	20000
+潑	tat	10000
 所有	tất cả	30000
 所有	taats car	20000
 所有	tat ca	10000
@@ -13372,6 +14305,9 @@ DVD 光碟機	o doc dia DVD	10000
 耐人尋味; 雋永	tế nhị	30000
 耐人尋味; 雋永	tees nhij	20000
 耐人尋味; 雋永	te nhi	10000
+拉肚子	té re	30000
+拉肚子	tes re	20000
+拉肚子	te re	10000
 穿山甲	tê tê	30000
 穿山甲	tee tee	20000
 穿山甲	te te	10000
@@ -13399,9 +14335,15 @@ DVD 光碟機	o doc dia DVD	10000
 功能變數名稱	tên miền	30000
 功能變數名稱	teen mieenf	20000
 功能變數名稱	ten mien	10000
+標題	tên tiêu đề	30000
+標題	teen tieeu ddeef	20000
+標題	ten tieu de	10000
 春節; 舊曆新年	tết	30000
 春節; 舊曆新年	teets	20000
 春節; 舊曆新年	tet	10000
+端午節	Tết Đoan ngọ	30000
+端午節	Teets DDoan ngoj	20000
+端午節	Tet Doan ngo	10000
 農曆新年	Tết Nguyên Đán	30000
 農曆新年	Teets Nguyeen DDans	20000
 農曆新年	Tet Nguyen Dan	10000
@@ -13414,12 +14356,18 @@ DVD 光碟機	o doc dia DVD	10000
 放誘餌;搭訕、討拍、釣馬子、釣帥哥、放電	thả thính	30000
 放誘餌;搭訕、討拍、釣馬子、釣帥哥、放電	thar thinhs	20000
 放誘餌;搭訕、討拍、釣馬子、釣帥哥、放電	tha thinh	10000
+疑問	thắc mắc	30000
+疑問	thawcs mawcs	20000
+疑問	thac mac	10000
 碩士	thạc sĩ	30000
 碩士	thacj six	20000
 碩士	thac si	10000
 碩士	thạc sỹ	30000
 碩士	thacj syx	20000
 碩士	thac sy	10000
+石膏	thạch cao	30000
+石膏	thachj cao	20000
+石膏	thach cao	10000
 挑戰	thách thức	30000
 挑戰	thachs thuwcs	20000
 挑戰	thach thuc	10000
@@ -13444,6 +14392,9 @@ DVD 光碟機	o doc dia DVD	10000
 探; 訪, 看望	thăm	30000
 探; 訪, 看望	thawm	20000
 探; 訪, 看望	tham	10000
+吸收	thấm	30000
+吸收	thaams	20000
+吸收	tham	10000
 私下; 內心裡, 暗地裡	thầm	30000
 私下; 內心裡, 暗地裡	thaamf	20000
 私下; 內心裡, 暗地裡	tham	10000
@@ -13462,6 +14413,9 @@ DVD 光碟機	o doc dia DVD	10000
 訪問; 探視	thăm hỏi	30000
 訪問; 探視	thawm hoir	20000
 訪問; 探視	tham hoi	10000
+參考	tham khảo	30000
+參考	tham khaor	20000
+參考	tham khao	10000
 參考	tham khảo	30000
 參考	tham khaor	20000
 參考	tham khao	10000
@@ -13534,6 +14488,9 @@ DVD 光碟機	o doc dia DVD	10000
 親屬	thân thuộc	30000
 親屬	thaan thuoocj	20000
 親屬	than thuoc	10000
+慎重	thận trọng	30000
+慎重	thaanj trongj	20000
+慎重	than trong	10000
 月	tháng	30000
 月	thangs	20000
 月	thang	10000
@@ -13597,6 +14554,9 @@ DVD 光碟機	o doc dia DVD	10000
 直率; 坦率, 直爽	thẳng thắn	30000
 直率; 坦率, 直爽	thawngr thawns	20000
 直率; 坦率, 直爽	thang than	10000
+直率	thẳng thắng	30000
+直率	thawngr thawngs	20000
+直率	thang thang	10000
 下個月	tháng tới	30000
 下個月	thangs towis	20000
 下個月	thang toi	10000
@@ -13648,6 +14608,9 @@ DVD 光碟機	o doc dia DVD	10000
 結算; 結帳	thanh toán	30000
 結算; 結帳	thanh toans	20000
 結算; 結帳	thanh toan	10000
+支付、報銷	thanh toán	30000
+支付、報銷	thanh toans	20000
+支付、報銷	thanh toan	10000
 毛巾杆	thanh treo khăn	30000
 毛巾杆	thanh treo khawn	20000
 毛巾杆	thanh treo khan	10000
@@ -13663,15 +14626,24 @@ DVD 光碟機	o doc dia DVD	10000
 摘下	tháo	30000
 摘下	thaos	20000
 摘下	thao	10000
+拆、去掉	Tháo	30000
+拆、去掉	Thaos	20000
+拆、去掉	Thao	10000
 摘下眼鏡	tháo kính	30000
 摘下眼鏡	thaos kinhs	20000
 摘下眼鏡	thao kinh	10000
 討論	thảo luận	30000
 討論	thaor luaanj	20000
 討論	thao luan	10000
+討論	thảo luận	30000
+討論	thaor luaanj	20000
+討論	thao luan	10000
 怪不得	thảo nào	30000
 怪不得	thaor naof	20000
 怪不得	thao nao	10000
+操作	thao tác	30000
+操作	thao tacs	20000
+操作	thao tac	10000
 操作	thao tác	30000
 操作	thao tacs	20000
 操作	thao tac	10000
@@ -13738,6 +14710,9 @@ DVD 光碟機	o doc dia DVD	10000
 洗衣盆	thau giặt đồ	30000
 洗衣盆	thau giawtj ddoof	20000
 洗衣盆	thau giat do	10000
+完全理解、深知	thấu hiểu	30000
+完全理解、深知	thaaus hieeur	20000
+完全理解、深知	thau hieu	10000
 理解	thấu hiểu	30000
 理解	thaaus hieeur	20000
 理解	thau hieu	10000
@@ -13750,6 +14725,9 @@ DVD 光碟機	o doc dia DVD	10000
 換燈泡	thay bóng đèn	30000
 換燈泡	thay bongs ddenf	20000
 換燈泡	thay bong den	10000
+更換網路線	thay dây mạng	30000
+更換網路線	thay daay mangj	20000
+更換網路線	thay day mang	10000
 (句)好點了嗎！	Thấy đỡ hơn chưa	30000
 (句)好點了嗎！	Thaays ddowx hown chuwa	20000
 (句)好點了嗎！	Thay do hon chua	10000
@@ -13774,6 +14752,9 @@ DVD 光碟機	o doc dia DVD	10000
 換床單	thay ra giường	30000
 換床單	thay ra giuowngf	20000
 換床單	thay ra giuong	10000
+更換網路線	Thay thế dây mạng	30000
+更換網路線	Thay thees daay mangj	20000
+更換網路線	Thay the day mang	10000
 反而	thay vì	30000
 反而	thay vif	20000
 反而	thay vi	10000
@@ -13837,6 +14818,9 @@ DVD 光碟機	o doc dia DVD	10000
 依照; 依, 根據, 隨著	theo	30000
 依照; 依, 根據, 隨著	theo	20000
 依照; 依, 根據, 隨著	theo	10000
+追蹤	theo dõi	30000
+追蹤	theo doix	20000
+追蹤	theo doi	10000
 追	theo đuổi	30000
 追	theo dduooir	20000
 追	theo duoi	10000
@@ -13912,6 +14896,9 @@ DVD 光碟機	o doc dia DVD	10000
 設備	thiết bị	30000
 設備	thieets bij	20000
 設備	thiet bi	10000
+設備	thiết bị	30000
+設備	thieets bij	20000
+設備	thiet bi	10000
 監控設備	thiết bị quan sát	30000
 監控設備	thieets bij quan sats	20000
 監控設備	thiet bi quan sat	10000
@@ -13921,9 +14908,15 @@ DVD 光碟機	o doc dia DVD	10000
 設計	thiết kế	30000
 設計	thieets kees	20000
 設計	thiet ke	10000
+設計	thiết kế	30000
+設計	thieets kees	20000
+設計	thiet ke	10000
 設計主複本, 設計母版	thiết kế cái	30000
 設計主複本, 設計母版	thieets kees cais	20000
 設計主複本, 設計母版	thiet ke cai	10000
+設立	thiết lập	30000
+設立	thieets laapj	20000
+設立	thiet lap	10000
 喪命	thiệt mạng	30000
 喪命	thieetj mangj	20000
 喪命	thiet mang	10000
@@ -13936,6 +14929,9 @@ DVD 光碟機	o doc dia DVD	10000
 少	thiểu	30000
 少	thieeur	20000
 少	thieu	10000
+少欄位	thiếu cột	30000
+少欄位	thieeus cootj	20000
+少欄位	thieu cot	10000
 少年	thiếu niên	30000
 少年	thieeus nieen	20000
 少年	thieu nien	10000
@@ -14035,6 +15031,9 @@ DVD 光碟機	o doc dia DVD	10000
 吹	thổi	30000
 吹	thooir	20000
 吹	thoi	10000
+高中時期	thời áo trắng	30000
+高中時期	thowif aos trawngs	20000
+高中時期	thoi ao trang	10000
 時代	thời đại	30000
 時代	thowif ddaij	20000
 時代	thoi dai	10000
@@ -14068,6 +15067,9 @@ DVD 光碟機	o doc dia DVD	10000
 時刻表	thời khóa biểu	30000
 時刻表	thowif khoas bieeur	20000
 時刻表	thoi khoa bieu	10000
+時期	thời kỳ	30000
+時期	thowif kyf	20000
+時期	thoi ky	10000
 時期; 期間	thời kỳ	30000
 時期; 期間	thowif kyf	20000
 時期; 期間	thoi ky	10000
@@ -14134,6 +15136,9 @@ DVD 光碟機	o doc dia DVD	10000
 通訊; 消息	thông tin	30000
 通訊; 消息	thoong tin	20000
 通訊; 消息	thong tin	10000
+通知	thông tin	30000
+通知	thoong tin	20000
+通知	thong tin	10000
 手機通訊	thông tin di động	30000
 手機通訊	thoong tin di ddoongj	20000
 手機通訊	thong tin di dong	10000
@@ -14335,6 +15340,9 @@ DVD 光碟機	o doc dia DVD	10000
 練習; 實行	thực hành	30000
 練習; 實行	thuwcj hanhf	20000
 練習; 實行	thuc hanh	10000
+實行	Thực hành	30000
+實行	Thuwcj hanhf	20000
+實行	Thuc hanh	10000
 {寔現} 實行、執行、實現	thực hiện	30000
 {寔現} 實行、執行、實現	thuwcj hieenj	20000
 {寔現} 實行、執行、實現	thuc hien	10000
@@ -14347,6 +15355,9 @@ DVD 光碟機	o doc dia DVD	10000
 生鮮食品	thực phẩm tươi sống	30000
 生鮮食品	thuwcj phaamr tuowi soongs	20000
 生鮮食品	thuc pham tuoi song	10000
+真的.確實	thực sự	30000
+真的.確實	thuwcj suwj	20000
+真的.確實	thuc su	10000
 真實; 真的	thực sự	30000
 真實; 真的	thuwcj suwj	20000
 真實; 真的	thuc su	10000
@@ -14425,6 +15436,12 @@ DVD 光碟機	o doc dia DVD	10000
 常	thường	30000
 常	thuowngf	20000
 常	thuong	10000
+賞	thưởng	30000
+賞	thuowngr	20000
+賞	thuong	10000
+個人成績	thưởng cá nhân	30000
+個人成績	thuowngr cas nhaan	20000
+個人成績	thuong ca nhan	10000
 上帝	Thượng đế	30000
 上帝	Thuowngj ddees	20000
 上帝	Thuong de	10000
@@ -14464,6 +15481,9 @@ DVD 光碟機	o doc dia DVD	10000
 水晶	thủy tinh	30000
 水晶	thuyr tinh	20000
 水晶	thuy tinh	10000
+玻璃	thủy tinh	30000
+玻璃	thuyr tinh	20000
+玻璃	thuy tinh	10000
 船	thuyền	30000
 船	thuyeenf	20000
 船	thuyen	10000
@@ -14491,9 +15511,18 @@ DVD 光碟機	o doc dia DVD	10000
 {積極} 積極	tích cực	30000
 {積極} 積極	tichs cuwcj	20000
 {積極} 積極	tich cuc	10000
+積合	tích hợp	30000
+積合	tichs howpj	20000
+積合	tich hop	10000
+古蹟	tích lịch	30000
+古蹟	tichs lichj	20000
+古蹟	tich lich	10000
 累積	tích lũy	30000
 累積	tichs luyx	20000
 累積	tich luy	10000
+眨眼間	tích tắc	30000
+眨眼間	tichs tawcs	20000
+眨眼間	tich tac	10000
 {積小成大} 積少成多、聚沙成塔、千里之行, 始於足下	tích tiểu thành đại	30000
 {積小成大} 積少成多、聚沙成塔、千里之行, 始於足下	tichs tieeur thanhf ddaij	20000
 {積小成大} 積少成多、聚沙成塔、千里之行, 始於足下	tich tieu thanh dai	10000
@@ -14515,6 +15544,9 @@ DVD 光碟機	o doc dia DVD	10000
 潛能	tiềm năng	30000
 潛能	tieemf nawng	20000
 潛能	tiem nang	10000
+進	tiến	30000
+進	tieens	20000
+進	tien	10000
 錢	tiền	30000
 錢	tieenf	20000
 錢	tien	10000
@@ -14578,9 +15610,15 @@ DVD 光碟機	o doc dia DVD	10000
 博士	tiến sĩ	30000
 博士	tieens six	20000
 博士	tien si	10000
+混蛋	tiên sư	30000
+混蛋	tieen suw	20000
+混蛋	tien su	10000
 錢幣	tiền tệ	30000
 錢幣	tieenf teej	20000
 錢幣	tien te	10000
+進退兩難	tiến thoái lưỡng nan	30000
+進退兩難	tieens thoais luowngx nan	20000
+進退兩難	tien thoai luong nan	10000
 超限額的錢	tiền thừa	30000
 超限額的錢	tieenf thuwaf	20000
 超限額的錢	tien thua	10000
@@ -14605,15 +15643,24 @@ DVD 光碟機	o doc dia DVD	10000
 越南語; 越語	tiếng Việt	30000
 越南語; 越語	tieengs Vieetj	20000
 越南語; 越語	tieng Viet	10000
+繼續	tiếp	30000
+繼續	tieeps	20000
+繼續	tiep	10000
 接近	tiếp cận	30000
 接近	tieeps caanj	20000
 接近	tiep can	10000
+接近、靠近	tiếp cận	30000
+接近、靠近	tieeps caanj	20000
+接近、靠近	tiep can	10000
 接待來客	tiếp khách	30000
 接待來客	tieeps khachs	20000
 接待來客	tiep khach	10000
 接受	tiếp nhận	30000
 接受	tieeps nhaanj	20000
 接受	tiep nhan	10000
+接受	Tiếp nhận	30000
+接受	Tieeps nhaanj	20000
+接受	Tiep nhan	10000
 後續, 接著, 隨後	tiếp theo	30000
 後續, 接著, 隨後	tieeps theo	20000
 後續, 接著, 隨後	tiep theo	10000
@@ -14623,6 +15670,12 @@ DVD 光碟機	o doc dia DVD	10000
 {接續} 繼續	tiếp tục	30000
 {接續} 繼續	tieeps tucj	20000
 {接續} 繼續	tiep tuc	10000
+繼續	tiếp tục	30000
+繼續	tieeps tucj	20000
+繼續	tiep tuc	10000
+繼續	tiếp tục	30000
+繼續	tieeps tucj	20000
+繼續	tiep tuc	10000
 接觸	tiếp xúc	30000
 接觸	tieeps xucs	20000
 接觸	tiep xuc	10000
@@ -14665,6 +15718,9 @@ DVD 光碟機	o doc dia DVD	10000
 國小	tiểu học	30000
 國小	tieeur hocj	20000
 國小	tieu hoc	10000
+小師弟	Tiểu sư đệ	30000
+小師弟	Tieeur suw ddeej	20000
+小師弟	Tieu su de	10000
 小三	tiểu tam	30000
 小三	tieeur tam	20000
 小三	tieu tam	10000
@@ -14683,6 +15739,12 @@ DVD 光碟機	o doc dia DVD	10000
 瞭解; 弄清楚	tìm hiểu	30000
 瞭解; 弄清楚	timf hieeur	20000
 瞭解; 弄清楚	tim hieu	10000
+瞭解	tìm hiểu	30000
+瞭解	timf hieeur	20000
+瞭解	tim hieu	10000
+找尋	tìm kiếm	30000
+找尋	timf kieems	20000
+找尋	tim kiem	10000
 尋覓	tìm kiếm	30000
 尋覓	timf kieems	20000
 尋覓	tim kiem	10000
@@ -14698,6 +15760,9 @@ DVD 光碟機	o doc dia DVD	10000
 信號; 訊號	tín hiệu	30000
 信號; 訊號	tins hieeuj	20000
 信號; 訊號	tin hieu	10000
+信號	tín hiệu	30000
+信號	tins hieeuj	20000
+信號	tin hieu	10000
 電腦學	tin học	30000
 電腦學	tin hocj	20000
 電腦學	tin hoc	10000
@@ -14839,9 +15904,6 @@ DVD 光碟機	o doc dia DVD	10000
 組合	tổ hợp	30000
 組合	toor howpj	20000
 組合	to hop	10000
-我不是故意的	Tôi không cố ý	30000
-我不是故意的	Tooi khoong coos ys	20000
-我不是故意的	Toi khong co y	10000
 上色	tô màu	30000
 上色	too mauf	20000
 上色	to mau	10000
@@ -14866,6 +15928,12 @@ DVD 光碟機	o doc dia DVD	10000
 大樓; 建築物	tòa nhà	30000
 大樓; 建築物	toaf nhaf	20000
 大樓; 建築物	toa nha	10000
+分散	tỏa ra	30000
+分散	toar ra	20000
+分散	toa ra	10000
+摩天大樓	tòa tháp	30000
+摩天大樓	toaf thaps	20000
+摩天大樓	toa thap	10000
 廁所	toa-lét	30000
 廁所	toa-lets	20000
 廁所	toa-let	10000
@@ -14917,6 +15985,9 @@ DVD 光碟機	o doc dia DVD	10000
 上網速度	tốc độ kết nối	30000
 上網速度	toocs ddooj keets noois	20000
 上網速度	toc do ket noi	10000
+網路速度	tốc độ mạng	30000
+網路速度	toocs ddooj mangj	20000
+網路速度	toc do mang	10000
 掀掉屋頂(指被大風, 如颱風)	tốc mái	30000
 掀掉屋頂(指被大風, 如颱風)	toocs mais	20000
 掀掉屋頂(指被大風, 如颱風)	toc mai	10000
@@ -14944,9 +16015,15 @@ DVD 光碟機	o doc dia DVD	10000
 到; 到達; 抵達; 至	tới	30000
 到; 到達; 抵達; 至	towis	20000
 到; 到達; 抵達; 至	toi	10000
+我飽了	Tôi ăn no rồi	30000
+我飽了	Tooi awn no rooif	20000
+我飽了	Toi an no roi	10000
 (句)我保證	Tôi bảo đảm	30000
 (句)我保證	Tooi baor ddamr	20000
 (句)我保證	Toi bao dam	10000
+我迷路了。	Tôi bị lạc đường	30000
+我迷路了。	Tooi bij lacj dduowngf	20000
+我迷路了。	Toi bi lac duong	10000
 (句)我知道了	Tôi biết rồi	30000
 (句)我知道了	Tooi bieets rooif	20000
 (句)我知道了	Toi biet roi	10000
@@ -14965,9 +16042,15 @@ DVD 光碟機	o doc dia DVD	10000
 (句)我也這樣想	Tôi cũng nghĩ như thế	30000
 (句)我也這樣想	Tooi cungx nghix nhuw thees	20000
 (句)我也這樣想	Toi cung nghi nhu the	10000
+我也這麼想。	Tôi cũng nghĩ thế	30000
+我也這麼想。	Tooi cungx nghix thees	20000
+我也這麼想。	Toi cung nghi the	10000
 (句)我也一樣	Tôi cũng thế	30000
 (句)我也一樣	Tooi cungx thees	20000
 (句)我也一樣	Toi cung the	10000
+我也是。	Tôi cũng thế	30000
+我也是。	Tooi cungx thees	20000
+我也是。	Toi cung the	10000
 (句)我也是	Tôi cũng vậy	30000
 (句)我也是	Tooi cungx vaayj	20000
 (句)我也是	Toi cung vay	10000
@@ -14986,12 +16069,21 @@ DVD 光碟機	o doc dia DVD	10000
 罪名	tội danh	30000
 罪名	tooij danh	20000
 罪名	toi danh	10000
+我是單身貴族。	Tôi độc thân	30000
+我是單身貴族。	Tooi ddoocj thaan	20000
+我是單身貴族。	Toi doc than	10000
 (句)我同意	Tôi đồng ý	30000
 (句)我同意	Tooi ddoongf ys	20000
 (句)我同意	Toi dong y	10000
+我同意。	Tôi đồng ý	30000
+我同意。	Tooi ddoongf ys	20000
+我同意。	Toi dong y	10000
 (句)我明白了	Tôi hiểu rồi	30000
 (句)我明白了	Tooi hieeur rooif	20000
 (句)我明白了	Toi hieu roi	10000
+我明白了。	Tôi hiểu rồi	30000
+我明白了。	Tooi hieeur rooif	20000
+我明白了。	Toi hieu roi	10000
 (句)我不知道!	Tôi không biết	30000
 (句)我不知道!	Tooi khoong bieets	20000
 (句)我不知道!	Toi khong biet	10000
@@ -15004,6 +16096,9 @@ DVD 光碟機	o doc dia DVD	10000
 (句)我別無選擇	Tôi không có sự lựa chọn	30000
 (句)我別無選擇	Tooi khoong cos suwj luwaj chonj	20000
 (句)我別無選擇	Toi khong co su lua chon	10000
+我不是故意的	Tôi không cố ý	30000
+我不是故意的	Tooi khoong coos ys	20000
+我不是故意的	Toi khong co y	10000
 (句)我不明白	Tôi không hiểu	30000
 (句)我不明白	Tooi khoong hieeur	20000
 (句)我不明白	Toi khong hieu	10000
@@ -15088,12 +16183,18 @@ DVD 光碟機	o doc dia DVD	10000
 蝦	tôm	30000
 蝦	toom	20000
 蝦	tom	10000
+簡單來說	tóm lại	30000
+簡單來說	toms laij	20000
+簡單來說	tom lai	10000
 蝦蛄Ⓑ	tôm tít	30000
 蝦蛄Ⓑ	toom tits	20000
 蝦蛄Ⓑ	tom tit	10000
 宗教	tôn giáo	30000
 宗教	toon giaos	20000
 宗教	ton giao	10000
+庫存不足	tồn kho không đủ	30000
+庫存不足	toonf kho khoong ddur	20000
+庫存不足	ton kho khong du	10000
 存在	tồn tại	30000
 存在	toonf taij	20000
 存在	ton tai	10000
@@ -15109,12 +16210,18 @@ DVD 光碟機	o doc dia DVD	10000
 總共	tổng cộng	30000
 總共	toongr coongj	20000
 總共	tong cong	10000
+總台、前台	Tổng đài	30000
+總台、前台	Toongr ddaif	20000
+總台、前台	Tong dai	10000
 總值	tổng giá trị	30000
 總值	toongr gias trij	20000
 總值	tong gia tri	10000
 和	tổng hợp	30000
 和	toongr howpj	20000
 和	tong hop	10000
+總合	tổng hợp	30000
+總合	toongr howpj	20000
+總合	tong hop	10000
 總括	tổng quát	30000
 總括	toongr quats	20000
 總括	tong quat	10000
@@ -15139,12 +16246,12 @@ DVD 光碟機	o doc dia DVD	10000
 良好；愉快；吉利	tốt lành	30000
 良好；愉快；吉利	toots lanhf	20000
 良好；愉快；吉利	tot lanh	10000
-畢業	tốt nghiệp	30000
-畢業	toots nghieepj	20000
-畢業	tot nghiep	10000
 卒業	tốt nghiệp	30000
 卒業	toots nghieepj	20000
 卒業	tot nghiep	10000
+畢業	tốt nghiệp	30000
+畢業	toots nghieepj	20000
+畢業	tot nghiep	10000
 很好	tốt quá	30000
 很好	toots quas	20000
 很好	tot qua	10000
@@ -15166,6 +16273,9 @@ DVD 光碟機	o doc dia DVD	10000
 查閱; 查究, 研究	tra cứu	30000
 查閱; 查究, 研究	tra cuwus	20000
 查閱; 查究, 研究	tra cuu	10000
+查找、查詢	tra cứu	30000
+查找、查詢	tra cuwus	20000
+查找、查詢	tra cuu	10000
 滇紅	trà điền hồng	30000
 滇紅	traf ddieenf hoongf	20000
 滇紅	tra dien hong	10000
@@ -15178,9 +16288,6 @@ DVD 光碟機	o doc dia DVD	10000
 緊壓茶	trà khẩn áp	30000
 緊壓茶	traf khaanr aps	20000
 緊壓茶	tra khan ap	10000
-緊壓茶	trà nén	30000
-緊壓茶	traf nens	20000
-緊壓茶	tra nen	10000
 祁紅	trà kì hồng	30000
 祁紅	traf kif hoongf	20000
 祁紅	tra ki hong	10000
@@ -15193,15 +16300,24 @@ DVD 光碟機	o doc dia DVD	10000
 回來; 回答; 回應	trả lời	30000
 回來; 回答; 回應	trar lowif	20000
 回來; 回答; 回應	tra loi	10000
+回覆	trả lời	30000
+回覆	trar lowif	20000
+回覆	tra loi	10000
 龍井	trà long tỉnh	30000
 龍井	traf long tinhr	20000
 龍井	tra long tinh	10000
+緊壓茶	trà nén	30000
+緊壓茶	traf nens	20000
+緊壓茶	tra nen	10000
 烏龍茶	trà ô long	30000
 烏龍茶	traf oo long	20000
 烏龍茶	tra o long	10000
 普洱茶	trà phổ nhĩ	30000
 普洱茶	traf phoor nhix	20000
 普洱茶	tra pho nhi	10000
+折磨	tra tấn	30000
+折磨	tra taans	20000
+折磨	tra tan	10000
 鐵觀音	trà thiết quan âm	30000
 鐵觀音	traf thieets quan aam	20000
 鐵觀音	tra thiet quan am	10000
@@ -15211,6 +16327,9 @@ DVD 光碟機	o doc dia DVD	10000
 付現金	trả tiền mặt	30000
 付現金	trar tieenf mawtj	20000
 付現金	tra tien mat	10000
+傳回	trả về	30000
+傳回	trar veef	20000
+傳回	tra ve	10000
 武夷巖茶	trà võ nghi nham	30000
 武夷巖茶	traf vox nghi nham	20000
 武夷巖茶	tra vo nghi nham	10000
@@ -15229,6 +16348,9 @@ DVD 光碟機	o doc dia DVD	10000
 擴張, 擴散, 傳播	trải	30000
 擴張, 擴散, 傳播	trair	20000
 擴張, 擴散, 傳播	trai	10000
+場所、營區	trại	30000
+場所、營區	traij	20000
+場所、營區	trai	10000
 蘋果	trái bong	30000
 蘋果	trais bong	20000
 蘋果	trai bong	10000
@@ -15301,9 +16423,15 @@ DVD 光碟機	o doc dia DVD	10000
 {陣} 陣	trận	30000
 {陣} 陣	traanj	20000
 {陣} 陣	tran	10000
+赤裸裸	trần chuồng	30000
+赤裸裸	traanf chuoongf	20000
+赤裸裸	tran chuong	10000
 賽車	trận đua xe	30000
 賽車	traanj ddua xe	20000
 賽車	tran dua xe	10000
+人間	trần gian	30000
+人間	traanf gian	20000
+人間	tran gian	10000
 充塞; 充滿	tràn ngập	30000
 充塞; 充滿	tranf ngaapj	20000
 充塞; 充滿	tran ngap	10000
@@ -15334,6 +16462,9 @@ DVD 光碟機	o doc dia DVD	10000
 飯後點心	tráng miệng	30000
 飯後點心	trangs mieengj	20000
 飯後點心	trang mieng	10000
+素淡、素淨	trang nhã	30000
+素淡、素淨	trang nhax	20000
+素淡、素淨	trang nha	10000
 服飾	trang phục	30000
 服飾	trang phucj	20000
 服飾	trang phuc	10000
@@ -15361,6 +16492,9 @@ DVD 光碟機	o doc dia DVD	10000
 避免	tránh	30000
 避免	tranhs	20000
 避免	tranh	10000
+爭論、爭辯	tranh cãi	30000
+爭論、爭辯	tranh caix	20000
+爭論、爭辯	tranh cai	10000
 爭辯	tranh cãi	30000
 爭辯	tranh caix	20000
 爭辯	tranh cai	10000
@@ -15382,6 +16516,9 @@ DVD 光碟機	o doc dia DVD	10000
 交換; 交流(經驗)	trao đổi	30000
 交換; 交流(經驗)	trao ddooir	20000
 交換; 交流(經驗)	trao doi	10000
+溝通	trao đổi	30000
+溝通	trao ddooir	20000
+溝通	trao doi	10000
 聊天(上網聊天)	trao đổi thông tin	30000
 聊天(上網聊天)	trao ddooir thoong tin	20000
 聊天(上網聊天)	trao doi thong tin	10000
@@ -15463,9 +16600,15 @@ DVD 光碟機	o doc dia DVD	10000
 知識	tri thức	30000
 知識	tri thuwcs	20000
 知識	tri thuc	10000
+摘要、引用	trích dẫn	30000
+摘要、引用	trichs daanx	20000
+摘要、引用	trich dan	10000
 展開	triển khai	30000
 展開	trieenr khai	20000
 展開	trien khai	10000
+展開、推行	triển khai	30000
+展開、推行	trieenr khai	20000
+展開、推行	trien khai	10000
 展覽	triển lãm	30000
 展覽	trieenr lamx	20000
 展覽	trien lam	10000
@@ -15574,6 +16717,9 @@ DVD 光碟機	o doc dia DVD	10000
 天; 天氣	trời	30000
 天; 天氣	trowif	20000
 天; 天氣	troi	10000
+覺醒	trỗi dậy	30000
+覺醒	trooix daayj	20000
+覺醒	troi day	10000
 天涼	trời mát	30000
 天涼	trowif mats	20000
 天涼	troi mat	10000
@@ -15697,9 +16843,15 @@ DVD 光碟機	o doc dia DVD	10000
 線上(指電腦網路上)	trực tuyến	30000
 線上(指電腦網路上)	truwcj tuyeens	20000
 線上(指電腦網路上)	truc tuyen	10000
+線上，在線	trực tuyến	30000
+線上，在線	truwcj tuyeens	20000
+線上，在線	truc tuyen	10000
 蛋	trứng	30000
 蛋	truwngs	20000
 蛋	trung	10000
+雞蛋	trứng	30000
+雞蛋	truwngs	20000
+雞蛋	trung	10000
 展示; 陳列	trưng bày	30000
 展示; 陳列	truwng bayf	20000
 展示; 陳列	trung bay	10000
@@ -15724,12 +16876,12 @@ DVD 光碟機	o doc dia DVD	10000
 中學	trung học	30000
 中學	trung hocj	20000
 中學	trung hoc	10000
-國中	trung học cơ sở	30000
-國中	trung hocj cow sowr	20000
-國中	trung hoc co so	10000
 初中	trung học cơ sở	30000
 初中	trung hocj cow sowr	20000
 初中	trung hoc co so	10000
+國中	trung học cơ sở	30000
+國中	trung hocj cow sowr	20000
+國中	trung hoc co so	10000
 高中	trung học phổ thông	30000
 高中	trung hocj phoor thoong	20000
 高中	trung hoc pho thong	10000
@@ -15808,6 +16960,9 @@ DVD 光碟機	o doc dia DVD	10000
 成長	trưởng thành	30000
 成長	truowngr thanhf	20000
 成長	truong thanh	10000
+成熟	trưởng thành	30000
+成熟	truowngr thanhf	20000
+成熟	truong thanh	10000
 體育學院	trường thể dục	30000
 體育學院	truowngf theer ducj	20000
 體育學院	truong the duc	10000
@@ -15865,6 +17020,9 @@ DVD 光碟機	o doc dia DVD	10000
 口傳	truyền khẩu	30000
 口傳	truyeenf khaaur	20000
 口傳	truyen khau	10000
+口傳	truyền miệng	30000
+口傳	truyeenf mieengj	20000
+口傳	truyen mieng	10000
 故事	truyện ngắn	30000
 故事	truyeenj ngawns	20000
 故事	truyen ngan	10000
@@ -15877,6 +17035,9 @@ DVD 光碟機	o doc dia DVD	10000
 徒刑	tù	30000
 徒刑	tuf	20000
 徒刑	tu	10000
+監獄	tù	30000
+監獄	tuf	20000
+監獄	tu	10000
 樹; 櫃	tủ	30000
 樹; 櫃	tur	20000
 樹; 櫃	tu	10000
@@ -15895,6 +17056,9 @@ DVD 光碟機	o doc dia DVD	10000
 自衛	tự bảo vệ	30000
 自衛	tuwj baor veej	20000
 自衛	tu bao ve	10000
+修補	tu bổ	30000
+修補	tu boor	20000
+修補	tu bo	10000
 放棄	từ bỏ	30000
 放棄	tuwf bor	20000
 放棄	tu bo	10000
@@ -15925,6 +17089,12 @@ DVD 光碟機	o doc dia DVD	10000
 自動化	tự động hóa	30000
 自動化	tuwj ddoongj hoas	20000
 自動化	tu dong hoa	10000
+自動關電源	tự động sập nguồn	30000
+自動關電源	tuwj ddoongj saapj nguoonf	20000
+自動關電源	tu dong sap nguon	10000
+思維	tư duy	30000
+思維	tuw duy	20000
+思維	tu duy	10000
 自學	tự học	30000
 自學	tuwj hocj	20000
 自學	tu hoc	10000
@@ -15958,9 +17128,15 @@ DVD 光碟機	o doc dia DVD	10000
 自然; 天然	tự nhiên	30000
 自然; 天然	tuwj nhieen	20000
 自然; 天然	tu nhien	10000
+順其自然	tự nhiên	30000
+順其自然	tuwj nhieen	20000
+順其自然	tu nhien	10000
 司法	tư pháp	30000
 司法	tuw phaps	20000
 司法	tu phap	10000
+自拍	tự sướng	30000
+自拍	tuwj suowngs	20000
+自拍	tu suong	10000
 做人端正	tử tế	30000
 做人端正	tuwr tees	20000
 做人端正	tu te	10000
@@ -16024,6 +17200,9 @@ DVD 光碟機	o doc dia DVD	10000
 發怒	tức giận	30000
 發怒	tuwcs giaanj	20000
 發怒	tuc gian	10000
+即是	Tức là	30000
+即是	Tuwcs laf	20000
+即是	Tuc la	10000
 包包, 皮夾; 袋子	túi	30000
 包包, 皮夾; 袋子	tuis	20000
 包包, 皮夾; 袋子	tui	10000
@@ -16051,18 +17230,18 @@ DVD 光碟機	o doc dia DVD	10000
 年齡	tuổi	30000
 年齡	tuooir	20000
 年齡	tuoi	10000
-歲	tuổi	30000
-歲	tuooir	20000
-歲	tuoi	10000
 足色(黃金)	tuổi	30000
 足色(黃金)	tuooir	20000
 足色(黃金)	tuoi	10000
-鲜	tươi	30000
-鲜	tuowi	20000
-鲜	tuoi	10000
+歲	tuổi	30000
+歲	tuooir	20000
+歲	tuoi	10000
 新鮮的	tươi	30000
 新鮮的	tuowi	20000
 新鮮的	tuoi	10000
+鲜	tươi	30000
+鲜	tuowi	20000
+鲜	tuoi	10000
 高齡; 年紀大	tuổi cao	30000
 高齡; 年紀大	tuooir cao	20000
 高齡; 年紀大	tuoi cao	10000
@@ -16096,6 +17275,9 @@ DVD 光碟機	o doc dia DVD	10000
 相對	tương đối	30000
 相對	tuowng ddoois	20000
 相對	tuong doi	10000
+相同	tương đồng	30000
+相同	tuowng ddoongf	20000
+相同	tuong dong	10000
 相當	tương đương	30000
 相當	tuowng dduowng	20000
 相當	tuong duong	10000
@@ -16111,6 +17293,12 @@ DVD 光碟機	o doc dia DVD	10000
 辣椒酱	tương ớt	30000
 辣椒酱	tuowng owts	20000
 辣椒酱	tuong ot	10000
+互動	tương tác	30000
+互動	tuowng tacs	20000
+互動	tuong tac	10000
+想像	tưởng tượng	30000
+想像	tuowngr tuowngj	20000
+想像	tuong tuong	10000
 相應; 相當, 相符	tương ứng	30000
 相應; 相當, 相符	tuowng uwngs	20000
 相應; 相當, 相符	tuong ung	10000
@@ -16141,6 +17329,9 @@ DVD 光碟機	o doc dia DVD	10000
 宣佈	tuyên bố	30000
 宣佈	tuyeen boos	20000
 宣佈	tuyen bo	10000
+招聘	tuyển dụng	30000
+招聘	tuyeenr dungj	20000
+招聘	tuyen dung	10000
 招生	tuyển sinh	30000
 招生	tuyeenr sinh	20000
 招生	tuyen sinh	10000
@@ -16168,6 +17359,9 @@ DVD 光碟機	o doc dia DVD	10000
 太好了！絕好！好極了！好棒！	tuyệt vời	30000
 太好了！絕好！好極了！好棒！	tuyeetj vowif	20000
 太好了！絕好！好極了！好棒！	tuyet voi	10000
+美好	tuyệt vời	30000
+美好	tuyeetj vowif	20000
+美好	tuyet voi	10000
 十億	tỷ	30000
 十億	tyr	20000
 十億	ty	10000
@@ -16216,6 +17410,9 @@ DVD 光碟機	o doc dia DVD	10000
 癌症	Ung thư	30000
 癌症	Ung thuw	20000
 癌症	Ung thu	10000
+夢想	ước mơ	30000
+夢想	uowcs mow	20000
+夢想	uoc mo	10000
 燙髮	uốn tóc	30000
 燙髮	uoons tocs	20000
 燙髮	uon toc	10000
@@ -16288,6 +17485,9 @@ DVD 光碟機	o doc dia DVD	10000
 荔枝	vải	30000
 荔枝	vair	20000
 荔枝	vai	10000
+尿褲子	vãi đái	30000
+尿褲子	vaix ddais	20000
+尿褲子	vai dai	10000
 不織布	vải không dệt	30000
 不織布	vair khoong deetj	20000
 不織布	vai khong det	10000
@@ -16378,6 +17578,9 @@ DVD 光碟機	o doc dia DVD	10000
 (身)指紋	vân tay	30000
 (身)指紋	vaan tay	20000
 (身)指紋	van tay	10000
+餛飩	Vằn thắn	30000
+餛飩	Vawnf thawns	20000
+餛飩	Van than	10000
 滑板	ván trượt	30000
 滑板	vans truowtj	20000
 滑板	van truot	10000
@@ -16471,6 +17674,9 @@ DVD 光碟機	o doc dia DVD	10000
 衛生	vệ sinh	30000
 衛生	veej sinh	20000
 衛生	ve sinh	10000
+衛生	vệ sinh	30000
+衛生	veej sinh	20000
+衛生	ve sinh	10000
 衛星	vệ tinh	30000
 衛星	veej tinh	20000
 衛星	ve tinh	10000
@@ -16507,6 +17713,9 @@ DVD 光碟機	o doc dia DVD	10000
 位置; 職位	vị trí	30000
 位置; 職位	vij tris	20000
 位置; 職位	vi tri	10000
+位置	vị trí	30000
+位置	vij tris	20000
+位置	vi tri	10000
 應聘職位	vị trí ứng tuyển	30000
 應聘職位	vij tris uwngs tuyeenr	20000
 應聘職位	vi tri ung tuyen	10000
@@ -16639,6 +17848,9 @@ A型肝炎	viem gan A	10000
 胡說八道	vớ vẩn	30000
 胡說八道	vows vaanr	20000
 胡說八道	vo van	10000
+無味，無聊	vô vị	30000
+無味，無聊	voo vij	20000
+無味，無聊	vo vi	10000
 玩家	vọc sĩ	30000
 玩家	vocj six	20000
 玩家	voc si	10000
@@ -16660,6 +17872,9 @@ A型肝炎	viem gan A	10000
 鐲子; 手鐲	vòng	30000
 鐲子; 手鐲	vongf	20000
 鐲子; 手鐲	vong	10000
+回響、希望	vọng	30000
+回響、希望	vongj	20000
+回響、希望	vong	10000
 北極圈	vòng bắc cực	30000
 北極圈	vongf bawcs cuwcj	20000
 北極圈	vong bac cuc	10000
@@ -16714,6 +17929,9 @@ A型肝炎	viem gan A	10000
 正好; 不多不少	vừa đủ	30000
 正好; 不多不少	vuwaf ddur	20000
 正好; 不多不少	vua du	10000
+對口、合口味	vừa miệng	30000
+對口、合口味	vuwaf mieengj	20000
+對口、合口味	vua mieng	10000
 才, 僅僅, 只是	vừa mới	30000
 才, 僅僅, 只是	vuwaf mowis	20000
 才, 僅僅, 只是	vua moi	10000
@@ -16723,6 +17941,9 @@ A型肝炎	viem gan A	10000
 一般	vừa vừa	30000
 一般	vuwaf vuwaf	20000
 一般	vua vua	10000
+深淵	vực thẳm	30000
+深淵	vuwcj thawmr	20000
+深淵	vuc tham	10000
 快樂; 高興	vui	30000
 快樂; 高興	vui	20000
 快樂; 高興	vui	10000
@@ -16783,6 +18004,9 @@ A型肝炎	viem gan A	10000
 方; 平方	vuông	30000
 方; 平方	vuoong	20000
 方; 平方	vuong	10000
+纏繞、絆住	vướng	30000
+纏繞、絆住	vuowngs	20000
+纏繞、絆住	vuong	10000
 (塊)地	vuông đất	30000
 (塊)地	vuoong ddaats	20000
 (塊)地	vuong dat	10000
@@ -16834,6 +18058,9 @@ A型肝炎	viem gan A	10000
 確立	xác lập	30000
 確立	xacs laapj	20000
 確立	xac lap	10000
+確認	xác nhận	30000
+確認	xacs nhaanj	20000
+確認	xac nhan	10000
 確認	xác nhận	30000
 確認	xacs nhaanj	20000
 確認	xac nhan	10000
@@ -17059,6 +18286,9 @@ A型肝炎	viem gan A	10000
 企業	xí nghiệp	30000
 企業	xis nghieepj	20000
 企業	xi nghiep	10000
+栓鏈	xích	30000
+栓鏈	xichs	20000
+栓鏈	xich	10000
 人力三輪車	xích lô	30000
 人力三輪車	xichs loo	20000
 人力三輪車	xich lo	10000
@@ -17077,6 +18307,9 @@ A型肝炎	viem gan A	10000
 謝謝; 感恩	xin cảm ơn	30000
 謝謝; 感恩	xin camr own	20000
 謝謝; 感恩	xin cam on	10000
+申請權限	xin cấp quyền	30000
+申請權限	xin caaps quyeenf	20000
+申請權限	xin cap quyen	10000
 你好	xin chào	30000
 你好	xin chaof	20000
 你好	xin chao	10000
@@ -17149,6 +18382,9 @@ A型肝炎	viem gan A	10000
 處理	xử lý	30000
 處理	xuwr lys	20000
 處理	xu ly	10000
+處理問題	xử lý vấn đề	30000
+處理問題	xuwr lys vaans ddeef	20000
+處理問題	xu ly van de	10000
 處所; 地區	xứ sở	30000
 處所; 地區	xuws sowr	20000
 處所; 地區	xu so	10000
@@ -17158,6 +18394,12 @@ A型肝炎	viem gan A	10000
 春	xuân	30000
 春	xuaan	20000
 春	xuan	10000
+出版、匯出	xuất bảng	30000
+出版、匯出	xuaats bangr	20000
+出版、匯出	xuat bang	10000
+匯出表格	xuất bảng biểu	30000
+匯出表格	xuaats bangr bieeur	20000
+匯出表格	xuat bang bieu	10000
 出境	xuất cảnh	30000
 出境	xuaats canhr	20000
 出境	xuat canh	10000
@@ -17176,6 +18418,9 @@ A型肝炎	viem gan A	10000
 出入口	xuất nhập khẩu	30000
 出入口	xuaats nhaapj khaaur	20000
 出入口	xuat nhap khau	10000
+匯出報表	xuất ra bảng biểu	30000
+匯出報表	xuaats ra bangr bieeur	20000
+匯出報表	xuat ra bang bieu	10000
 出色	xuất sắc	30000
 出色	xuaats sawcs	20000
 出色	xuat sac	10000
@@ -17191,6 +18436,9 @@ A型肝炎	viem gan A	10000
 冒犯; 觸犯	xúc phạm	30000
 冒犯; 觸犯	xucs phamj	20000
 冒犯; 觸犯	xuc pham	10000
+促進、推動、加速	xúc tiến	30000
+促進、推動、加速	xucs tieens	20000
+促進、推動、加速	xuc tien	10000
 骰子	xúc xắc	30000
 骰子	xucs xawcs	20000
 骰子	xuc xac	10000
@@ -17227,6 +18475,9 @@ A型肝炎	viem gan A	10000
 意見	ý kiến	30000
 意見	ys kieens	20000
 意見	y kien	10000
+意見、建議	ý kiến	30000
+意見、建議	ys kieens	20000
+意見、建議	y kien	10000
 意義	ý nghĩa	30000
 意義	ys nghiax	20000
 意義	y nghia	10000
