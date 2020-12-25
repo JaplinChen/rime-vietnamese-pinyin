@@ -17,16 +17,10 @@ a 	a	40000
 á 	a	40000
 à 	af	50000
 à 	a	40000
-à 	af	50000
-à 	a	40000
 ã 	ax	50000
 ã 	a	40000
 ả 	ar	50000
 ả 	a	40000
-ạ 	aj	50000
-ạ 	a	40000
-ạ 	aj	50000
-ạ 	a	40000
 ạ 	aj	50000
 ạ 	a	40000
 á à 	as af	50000
@@ -129,8 +123,6 @@ am hiểu 	am hieu	40000
 Ẩm thực 	Am thuc	40000
 ẩm ướt 	aamr uowts	50000
 ẩm ướt 	am uot	40000
-ẩm ướt 	aamr uowts	50000
-ẩm ướt 	am uot	40000
 amen 	amen	50000
 amen 	amen	40000
 an 	an	50000
@@ -141,8 +133,6 @@ an 	an	40000
 àn 	an	40000
 ân 	aan	50000
 ân 	an	40000
-ăn 	awn	50000
-ăn 	an	40000
 ăn 	awn	50000
 ăn 	an	40000
 ấn 	aans	50000
@@ -215,8 +205,6 @@ an ninh 	an ninh	40000
 ăn riêng 	an rieng	40000
 ăn sáng 	awn sangs	50000
 ăn sáng 	an sang	40000
-ăn sáng 	awn sangs	50000
-ăn sáng 	an sang	40000
 ăn tay 	awn tay	50000
 ăn tay 	an tay	40000
 ăn tết 	awn teets	50000
@@ -227,6 +215,8 @@ an ninh 	an ninh	40000
 ăn thử xem 	an thu xem	40000
 an toàn 	an toanf	50000
 an toàn 	an toan	40000
+an toàn lao động 	an toanf lao ddoongj	50000
+an toàn lao động 	an toan lao dong	40000
 ăn trên 	awn treen	50000
 ăn trên 	an tren	40000
 án treo 	ans treo	50000
@@ -261,10 +251,6 @@ ang 	ang	40000
 áng như 	ang nhu	40000
 anh 	anh	50000
 anh 	anh	40000
-anh 	anh	50000
-anh 	anh	40000
-anh 	anh	50000
-anh 	anh	40000
 ánh 	anhs	50000
 ánh 	anh	40000
 ành 	anhf	50000
@@ -287,8 +273,6 @@ anh hùng 	anh hungf	50000
 anh hùng 	anh hung	40000
 ảnh hưởng 	anhr huowngr	50000
 ảnh hưởng 	anh huong	40000
-ảnh hưởng 	anhr huowngr	50000
-ảnh hưởng 	anh huong	40000
 Anh ngữ 	Anh nguwx	50000
 Anh ngữ 	Anh ngu	40000
 Anh quốc 	Anh quoocs	50000
@@ -303,8 +287,6 @@ Anh văn 	Anh vawn	50000
 Anh văn 	Anh van	40000
 Anh yêu em 	Anh yeeu em	50000
 Anh yêu em 	Anh yeu em	40000
-ao 	ao	50000
-ao 	ao	40000
 ao 	ao	50000
 ao 	ao	40000
 áo 	aos	50000
@@ -359,6 +341,10 @@ ao 	ao	40000
 áp dụng 	ap dung	40000
 áp lực 	aps luwcj	50000
 áp lực 	ap luc	40000
+áp lực khí 	aps luwcj khis	50000
+áp lực khí 	ap luc khi	40000
+áp lực tống 	aps luwcj toongs	50000
+áp lực tống 	ap luc tong	40000
 áp phích 	aps phichs	50000
 áp phích 	ap phich	40000
 át 	ats	50000
@@ -445,8 +431,6 @@ ba mươi 	ba muowi	50000
 ba mươi 	ba muoi	40000
 ba mươi lăm ngàn 	ba muowi lawm nganf	50000
 ba mươi lăm ngàn 	ba muoi lam ngan	40000
-ba mươi lăm ngàn 	ba muowi lawm nganf	50000
-ba mươi lăm ngàn 	ba muoi lam ngan	40000
 ba mươi mốt 	ba muowi moots	50000
 ba mươi mốt 	ba muoi mot	40000
 ba ngày 	ba ngayf	50000
@@ -481,8 +465,6 @@ Bắc Mỹ 	Bawcs Myx	50000
 Bắc Mỹ 	Bac My	40000
 bác sĩ 	bacs six	50000
 bác sĩ 	bac si	40000
-bác sỹ 	bacs syx	50000
-bác sỹ 	bac sy	40000
 bác sỹ 	bacs syx	50000
 bác sỹ 	bac sy	40000
 bác trai 	bacs trai	50000
@@ -593,14 +575,16 @@ bẳn 	bawnr	50000
 bẳn 	ban	40000
 bạn 	banj	50000
 bạn 	ban	40000
-bạn 	banj	50000
-bạn 	ban	40000
 bận 	baanj	50000
 bận 	ban	40000
 bạn bè 	banj bef	50000
 bạn bè 	ban be	40000
+bàn bệ làm việc 	banf beej lamf vieecj	50000
+bàn bệ làm việc 	ban be lam viec	40000
 bản bộ 	banr booj	50000
 bản bộ 	ban bo	40000
+ban cải tiến 	ban cair tieens	50000
+ban cải tiến 	ban cai tien	40000
 bàn cân 	banf caan	50000
 bàn cân 	ban can	40000
 bán cấp 	bans caaps	50000
@@ -619,8 +603,6 @@ bàn chải quét keo 	banf chair quets keo	50000
 bàn chải quét keo 	ban chai quet keo	40000
 bàn chải sạc điện 	banf chair sacj ddieenj	50000
 bàn chải sạc điện 	ban chai sac dien	40000
-bàn chân 	banf chaan	50000
-bàn chân 	ban chan	40000
 bàn chân 	banf chaan	50000
 bàn chân 	ban chan	40000
 bán chạy 	bans chayj	50000
@@ -677,8 +659,6 @@ ban hành 	ban hanhf	50000
 ban hành 	ban hanh	40000
 bạn học 	banj hocj	50000
 bạn học 	ban hoc	40000
-bạn học 	banj hocj	50000
-bạn học 	ban hoc	40000
 Bạn học cùng bàn 	Banj hocj cungf banf	50000
 Bạn học cùng bàn 	Ban hoc cung ban	40000
 bản in 	banr in	50000
@@ -689,6 +669,8 @@ bàn keo 	banf keo	50000
 bàn keo 	ban keo	40000
 Bận không 	Baanj khoong	50000
 Bận không 	Ban khong	40000
+bàn kiểm 	banf kieemr	50000
+bàn kiểm 	ban kiem	40000
 bàn là 	banf laf	50000
 bàn là 	ban la	40000
 bàn làm việc 	banf lamf vieecj	50000
@@ -713,16 +695,12 @@ Bạn nói gì vậy? 	Banj nois gif vaay?j	50000
 Bạn nói gì vậy? 	Ban noi gi vay?	40000
 bàn phím 	banf phims	50000
 bàn phím 	ban phim	40000
-bàn phím 	banf phims	50000
-bàn phím 	ban phim	40000
 bản riêng 	banr rieeng	50000
 bản riêng 	ban rieng	40000
 Bạn sai rồi 	Banj sai rooif	50000
 Bạn sai rồi 	Ban sai roi	40000
 bản sao 	banr sao	50000
 bản sao 	ban sao	40000
-bàn tay 	banf tay	50000
-bàn tay 	ban tay	40000
 bàn tay 	banf tay	50000
 bàn tay 	ban tay	40000
 bản thân 	banr thaan	50000
@@ -739,6 +717,10 @@ bạn trai 	banj trai	50000
 bạn trai 	ban trai	40000
 bàn ủi 	banf uir	50000
 bàn ủi 	ban ui	40000
+bản vẽ 	banr vex	50000
+bản vẽ 	ban ve	40000
+bản vẽ khách hàng 	banr vex khachs hangf	50000
+bản vẽ khách hàng 	ban ve khach hang	40000
 bản ý 	banr ys	50000
 bản ý 	ban y	40000
 bang 	bang	50000
@@ -755,8 +737,6 @@ bầng 	baangf	50000
 bầng 	bang	40000
 bắng 	bawngs	50000
 bắng 	bang	40000
-bằng 	bawngf	50000
-bằng 	bang	40000
 bằng 	bawngf	50000
 bằng 	bang	40000
 bẫng 	baangx	50000
@@ -879,8 +859,6 @@ bảo 	baor	50000
 bảo 	bao	40000
 bạo 	baoj	50000
 bạo 	bao	40000
-bạo 	baoj	50000
-bạo 	bao	40000
 báo biểu 	baos bieeur	50000
 báo biểu 	bao bieu	40000
 báo cáo 	baos caos	50000
@@ -889,6 +867,8 @@ Báo cáo công việc tuần 	Baos caos coong vieecj tuaanf	50000
 Báo cáo công việc tuần 	Bao cao cong viec tuan	40000
 bao cao su 	bao cao su	50000
 bao cao su 	bao cao su	40000
+báo cáo tồn kho 	baos caos toonf kho	50000
+báo cáo tồn kho 	bao cao ton kho	40000
 báo chí 	baos chis	50000
 báo chí 	bao chi	40000
 bảo đảm 	baor ddamr	50000
@@ -901,6 +881,8 @@ bao đựng rác 	bao dduwngj racs	50000
 bao đựng rác 	bao dung rac	40000
 bảo dưỡng 	baor duowngx	50000
 bảo dưỡng 	bao duong	40000
+báo giá 	baos gias	50000
+báo giá 	bao gia	40000
 bao giờ 	bao giowf	50000
 bao giờ 	bao gio	40000
 bao gồm 	bao goomf	50000
@@ -913,6 +895,8 @@ bảo hiểm nhân thọ 	baor hieemr nhaan thoj	50000
 bảo hiểm nhân thọ 	bao hiem nhan tho	40000
 báo hoa mai 	baos hoa mai	50000
 báo hoa mai 	bao hoa mai	40000
+báo hủy 	baos huyr	50000
+báo hủy 	bao huy	40000
 bao lâu 	bao laau	50000
 bao lâu 	bao lau	40000
 bão mạng 	baox mangj	50000
@@ -933,8 +917,6 @@ bao tay 	bao tay	50000
 bao tay 	bao tay	40000
 bao tay cao su 	bao tay cao su	50000
 bao tay cao su 	bao tay cao su	40000
-bao tay cao su 	bao tay cao su	50000
-bao tay cao su 	bao tay cao su	40000
 bao tay da 	bao tay da	50000
 bao tay da 	bao tay da	40000
 bao tay len 	bao tay len	50000
@@ -949,8 +931,6 @@ bao thư công ty 	bao thuw coong ty	50000
 bao thư công ty 	bao thu cong ty	40000
 bao thư vàng nhỏ 	bao thuw vangf nhor	50000
 bao thư vàng nhỏ 	bao thu vang nho	40000
-bảo tồn 	baor toonf	50000
-bảo tồn 	bao ton	40000
 bảo tồn 	baor toonf	50000
 bảo tồn 	bao ton	40000
 bảo trị 	baor trij	50000
@@ -973,8 +953,6 @@ bấp 	baaps	50000
 bấp 	bap	40000
 bắp 	bawps	50000
 bắp 	bap	40000
-bắp 	bawps	50000
-bắp 	bap	40000
 bập 	baapj	50000
 bập 	bap	40000
 bập bà bập bõm 	baapj baf baapj bomx	50000
@@ -983,8 +961,6 @@ bập bõm 	baapj bomx	50000
 bập bõm 	bap bom	40000
 bắp cải 	bawps cair	50000
 bắp cải 	bap cai	40000
-bát 	bats	50000
-bát 	bat	40000
 bát 	bats	50000
 bát 	bat	40000
 bất 	baats	50000
@@ -1009,10 +985,6 @@ bắt chuyện 	bawts chuyeenj	50000
 bắt chuyện 	bat chuyen	40000
 bất cứ 	baats cuws	50000
 bất cứ 	bat cu	40000
-bất cứ 	baats cuws	50000
-bất cứ 	bat cu	40000
-bắt đầu 	bawts ddaauf	50000
-bắt đầu 	bat dau	40000
 bắt đầu 	bawts ddaauf	50000
 bắt đầu 	bat dau	40000
 bắt đầu từ 	bawts ddaauf tuwf	50000
@@ -1045,8 +1017,6 @@ bất kỳ sự 	baats kyf suwj	50000
 bất kỳ sự 	bat ky su	40000
 bất luận 	baats luaanj	50000
 bất luận 	bat luan	40000
-bất luận 	baats luaanj	50000
-bất luận 	bat luan	40000
 bất mãn 	baats manx	50000
 bất mãn 	bat man	40000
 bạt mạng 	batj mangj	50000
@@ -1065,12 +1035,12 @@ bất quá chỉ 	baats quas chir	50000
 bất quá chỉ 	bat qua chi	40000
 bắt tay 	bawts tay	50000
 bắt tay 	bat tay	40000
-bắt tay 	bawts tay	50000
-bắt tay 	bat tay	40000
 bắt tay với 	bawts tay vowis	50000
 bắt tay với 	bat tay voi	40000
 bất thình lình 	baats thinhf linhf	50000
 bất thình lình 	bat thinh linh	40000
+bất thường 	baats thuowngf	50000
+bất thường 	bat thuong	40000
 bất tiện 	baats tieenj	50000
 bất tiện 	bat tien	40000
 bất tử 	baats tuwr	50000
@@ -1179,6 +1149,10 @@ bể bơi 	beer bowi	50000
 bể bơi 	be boi	40000
 bế mạc 	bees macj	50000
 bế mạc 	be mac	40000
+bề mặt 	beef mawtj	50000
+bề mặt 	be mat	40000
+bề mặt khác 	beef mawtj khacs	50000
+bề mặt khác 	be mat khac	40000
 bê tông 	bee toong	50000
 bê tông 	be tong	40000
 béc 	becs	50000
@@ -1219,8 +1193,6 @@ bên có 	been cos	50000
 bên có 	ben co	40000
 bên dưới 	been duowis	50000
 bên dưới 	ben duoi	40000
-bên kia 	been kia	50000
-bên kia 	ben kia	40000
 bên kia 	been kia	50000
 bên kia 	ben kia	40000
 bên mua 	been mua	50000
@@ -1279,8 +1251,6 @@ bệnh viện 	beenhj vieenj	50000
 bệnh viện 	benh vien	40000
 beo 	beo	50000
 beo 	beo	40000
-béo 	beos	50000
-béo 	beo	40000
 béo 	beos	50000
 béo 	beo	40000
 bèo 	beof	50000
@@ -1383,8 +1353,6 @@ bìa còng 	biaf congf	50000
 bìa còng 	bia cong	40000
 bìa cứng 	biaf cuwngs	50000
 bìa cứng 	bia cung	40000
-bìa cứng 	biaf cuwngs	50000
-bìa cứng 	bia cung	40000
 bia đá 	bia ddas	50000
 bia đá 	bia da	40000
 bìa ép 	biaf eps	50000
@@ -1419,8 +1387,6 @@ biễn 	bieenx	50000
 biễn 	bien	40000
 biển 	bieenr	50000
 biển 	bien	40000
-biển 	bieenr	50000
-biển 	bien	40000
 biện 	bieenj	50000
 biện 	bien	40000
 Biến đi ngay 	Bieens ddi ngay	50000
@@ -1437,6 +1403,8 @@ biển nội địa 	bieenr nooij ddiaj	50000
 biển nội địa 	bien noi dia	40000
 biện pháp 	bieenj phaps	50000
 biện pháp 	bien phap	40000
+biện pháp triệt để 	bieenj phaps trieetj ddeer	50000
+biện pháp triệt để 	bien phap triet de	40000
 biên soạn 	bieen soanj	50000
 biên soạn 	bien soan	40000
 biến thế 	bieens thees	50000
@@ -1495,6 +1463,10 @@ biểu đạt 	bieeur ddatj	50000
 biểu đạt 	bieu dat	40000
 biểu đơn 	bieeur ddown	50000
 biểu đơn 	bieu don	40000
+biểu mẫu 	bieeur maaux	50000
+biểu mẫu 	bieu mau	40000
+biểu mẫu ghi chép 	bieeur maaux ghi cheps	50000
+biểu mẫu ghi chép 	bieu mau ghi chep	40000
 biểu thị 	bieeur thij	50000
 biểu thị 	bieu thi	40000
 biểu tình 	bieeur tinhf	50000
@@ -1553,10 +1525,6 @@ bình quân 	binhf quaan	50000
 bình quân 	binh quan	40000
 bình thường 	binhf thuowngf	50000
 bình thường 	binh thuong	40000
-bình thường 	binhf thuowngf	50000
-bình thường 	binh thuong	40000
-bình thường 	binhf thuowngf	50000
-bình thường 	binh thuong	40000
 bình thủy tinh 	binhf thuyr tinh	50000
 bình thủy tinh 	binh thuy tinh	40000
 bình tĩnh 	binhf tinhx	50000
@@ -1603,8 +1571,6 @@ bồ 	boof	50000
 bồ 	bo	40000
 bỗ 	boox	50000
 bỗ 	bo	40000
-bỏ 	bor	50000
-bỏ 	bo	40000
 bỏ 	bor	50000
 bỏ 	bo	40000
 bơ 	bow	50000
@@ -1659,6 +1625,8 @@ bỏ kính 	bor kinhs	50000
 bỏ kính 	bo kinh	40000
 bỏ lại 	bor laij	50000
 bỏ lại 	bo lai	40000
+bỏ lọt 	bor lotj	50000
+bỏ lọt 	bo lot	40000
 bộ lưu điện 	booj luwu ddieenj	50000
 bộ lưu điện 	bo luu dien	40000
 bo mạch chủ 	bo machj chur	50000
@@ -1683,6 +1651,10 @@ bộ nhớ 	booj nhows	50000
 bộ nhớ 	bo nho	40000
 bỏ nón 	bor nons	50000
 bỏ nón 	bo non	40000
+bộ phận 	booj phaanj	50000
+bộ phận 	bo phan	40000
+bộ phận lập 	booj phaanj laapj	50000
+bộ phận lập 	bo phan lap	40000
 bỏ phiếu 	bor phieeus	50000
 bỏ phiếu 	bo phieu	40000
 bỏ quá 	bor quas	50000
@@ -1749,8 +1721,6 @@ bỏi 	boir	50000
 bỏi 	boi	40000
 bơi 	bowi	50000
 bơi 	boi	40000
-bơi 	bowi	50000
-bơi 	boi	40000
 bổi 	booir	50000
 bổi 	boi	40000
 bới 	bowis	50000
@@ -1791,6 +1761,8 @@ bởi thế cho nên 	bowir thees cho neen	50000
 bởi thế cho nên 	boi the cho nen	40000
 bồi thường 	booif thuowngf	50000
 bồi thường 	boi thuong	40000
+bôi trơn 	booi trown	50000
+bôi trơn 	boi tron	40000
 bởi vậy 	bowir vaayj	50000
 bởi vậy 	boi vay	40000
 bởi vì 	bowir vif	50000
@@ -1977,8 +1949,6 @@ bục 	bucj	50000
 bục 	buc	40000
 bức 	buwcs	50000
 bức 	buc	40000
-bức 	buwcs	50000
-bức 	buc	40000
 bực 	buwcj	50000
 bực 	buc	40000
 bức ảnh 	buwcs anhr	50000
@@ -2057,10 +2027,6 @@ buỗi 	buooix	50000
 buỗi 	buoi	40000
 buổi 	buooir	50000
 buổi 	buoi	40000
-buổi 	buooir	50000
-buổi 	buoi	40000
-buổi 	buooir	50000
-buổi 	buoi	40000
 buội 	buooij	50000
 buội 	buoi	40000
 bươi 	buowi	50000
@@ -2069,8 +2035,6 @@ Bưởi 	Buowir	50000
 Bưởi 	Buoi	40000
 bưởi 	buowir	50000
 bưởi 	buoi	40000
-buổi chiều 	buooir chieeuf	50000
-buổi chiều 	buoi chieu	40000
 buổi chiều 	buooir chieeuf	50000
 buổi chiều 	buoi chieu	40000
 buổi làm 	buooir lamf	50000
@@ -2087,8 +2051,6 @@ buổi sớm 	buooir sowms	50000
 buổi sớm 	buoi som	40000
 buổi tối 	buooir toois	50000
 buổi tối 	buoi toi	40000
-buổi tối 	buooir toois	50000
-buổi tối 	buoi toi	40000
 buổi trưa 	buooir truwa	50000
 buổi trưa 	buoi trua	40000
 buổi trước 	buooir truowcs	50000
@@ -2101,8 +2063,6 @@ bướm 	buowms	50000
 bướm 	buom	40000
 buôn 	buoon	50000
 buôn 	buon	40000
-buồn 	buoonf	50000
-buồn 	buon	40000
 buồn 	buoonf	50000
 buồn 	buon	40000
 bươn 	buown	50000
@@ -2127,8 +2087,6 @@ bường 	buowngf	50000
 bường 	buong	40000
 bưởng 	buowngr	50000
 bưởng 	buong	40000
-bướng bỉnh 	buowngs binhr	50000
-bướng bỉnh 	buong binh	40000
 bướng bỉnh 	buowngs binhr	50000
 bướng bỉnh 	buong binh	40000
 buồng máy rút tiề 	buoongf mays ruts tieef	50000
@@ -2185,12 +2143,8 @@ ca 	ca	50000
 ca 	ca	40000
 cá 	cas	50000
 cá 	ca	40000
-cá 	cas	50000
-cá 	ca	40000
 cà 	caf	50000
 cà 	ca	40000
-cả 	car	50000
-cả 	ca	40000
 cả 	car	50000
 cả 	ca	40000
 cạ 	caj	50000
@@ -2223,8 +2177,6 @@ cả nhà 	car nhaf	50000
 cả nhà 	ca nha	40000
 ca nhạc 	ca nhacj	50000
 ca nhạc 	ca nhac	40000
-cá nhân 	cas nhaan	50000
-cá nhân 	ca nhan	40000
 cá nhân 	cas nhaan	50000
 cá nhân 	ca nhan	40000
 ca nhiễm 	ca nhieemx	50000
@@ -2261,12 +2213,12 @@ cạc 	cacj	50000
 cạc 	cac	40000
 cặc 	cawcj	50000
 cặc 	cac	40000
+các bon 	cacs bon	50000
+các bon 	cac bon	40000
 các cậu 	cacs caauj	50000
 các cậu 	cac cau	40000
 các vị 	cacs vij	50000
 các vị 	cac vi	40000
-cách 	cachs	50000
-cách 	cach	40000
 cách 	cachs	50000
 cách 	cach	40000
 cạch 	cachj	50000
@@ -2285,12 +2237,12 @@ cách ly 	cachs ly	50000
 cách ly 	cach ly	40000
 cách nhau 	cachs nhau	50000
 cách nhau 	cach nhau	40000
+cách nhiệt 	cachs nhieetj	50000
+cách nhiệt 	cach nhiet	40000
 cách thêm 	cachs theem	50000
 cách thêm 	cach them	40000
 cai 	cai	50000
 cai 	cai	40000
-cái 	cais	50000
-cái 	cai	40000
 cái 	cais	50000
 cái 	cai	40000
 cài 	caif	50000
@@ -2335,8 +2287,6 @@ cái đã 	cais ddax	50000
 cái đã 	cai da	40000
 cài đặt 	caif ddawtj	50000
 cài đặt 	cai dat	40000
-cài đặt 	caif ddawtj	50000
-cài đặt 	cai dat	40000
 cái đặt khổ in 	cais ddawtj khoor in	50000
 cái đặt khổ in 	cai dat kho in	40000
 cái đấy 	cais ddaays	50000
@@ -2351,12 +2301,6 @@ cái ghim 	cais ghim	50000
 cái ghim 	cai ghim	40000
 cái gì 	cais gif	50000
 cái gì 	cai gi	40000
-cái gì 	cais gif	50000
-cái gì 	cai gi	40000
-cái gì 	cais gif	50000
-cái gì 	cai gi	40000
-cái giá 	cais gias	50000
-cái giá 	cai gia	40000
 cái giá 	cais gias	50000
 cái giá 	cai gia	40000
 cái giỏ 	cais gior	50000
@@ -2377,8 +2321,6 @@ cái khác 	cais khacs	50000
 cái khác 	cai khac	40000
 cái kia 	cais kia	50000
 cái kia 	cai kia	40000
-cái kia 	cais kia	50000
-cái kia 	cai kia	40000
 cái kìm 	cais kimf	50000
 cái kìm 	cai kim	40000
 cái lò 	cais lof	50000
@@ -2391,18 +2333,18 @@ cái nào 	cais naof	50000
 cái nào 	cai nao	40000
 cái này 	cais nayf	50000
 cái này 	cai nay	40000
-cái này 	cais nayf	50000
-cái này 	cai nay	40000
 cai quản 	cai quanr	50000
 cai quản 	cai quan	40000
 cái tẩy 	cais taayr	50000
 cái tẩy 	cai tay	40000
 cải thiện 	cair thieenj	50000
 cải thiện 	cai thien	40000
-cải thiện 	cair thieenj	50000
-cải thiện 	cai thien	40000
 cái thước kẻ 	cais thuowcs ker	50000
 cái thước kẻ 	cai thuoc ke	40000
+cải tiến 	cair tieens	50000
+cải tiến 	cai tien	40000
+cải tiến liên tục 	cair tieens lieen tucj	50000
+cải tiến liên tục 	cai tien lien tuc	40000
 cái tôi 	cais tooi	50000
 cái tôi 	cai toi	40000
 cai trị 	cai trij	50000
@@ -2437,6 +2379,8 @@ cạm 	camj	50000
 cạm 	cam	40000
 cặm 	cawmj	50000
 cặm 	cam	40000
+cảm biến 	camr bieens	50000
+cảm biến 	cam bien	40000
 cấm bơi 	caams bowi	50000
 cấm bơi 	cam boi	40000
 cầm cố 	caamf coos	50000
@@ -2455,10 +2399,6 @@ Câm mồm 	Caam moomf	50000
 Câm mồm 	Cam mom	40000
 cảm ơn 	camr own	50000
 cảm ơn 	cam on	40000
-cảm ơn 	camr own	50000
-cảm ơn 	cam on	40000
-cảm thấy 	camr thaays	50000
-cảm thấy 	cam thay	40000
 cảm thấy 	camr thaays	50000
 cảm thấy 	cam thay	40000
 cắm trại 	cawms traij	50000
@@ -2483,8 +2423,6 @@ cắn 	cawns	50000
 cắn 	can	40000
 cằn 	cawnf	50000
 cằn 	can	40000
-cản 	canr	50000
-cản 	can	40000
 cản 	canr	50000
 cản 	can	40000
 cẩn 	caanr	50000
@@ -2529,8 +2467,6 @@ cần số 	caanf soos	50000
 cần số 	can so	40000
 Cẩn thận 	Caanr thaanj	50000
 Cẩn thận 	Can than	40000
-cẩn thận 	caanr thaanj	50000
-cẩn thận 	can than	40000
 cẩn thận 	caanr thaanj	50000
 cẩn thận 	can than	40000
 Cẩn thận một chút 	Caanr thaanj mootj chuts	50000
@@ -2609,8 +2545,6 @@ cảnh sát 	canhr sats	50000
 cảnh sát 	canh sat	40000
 cánh tay 	canhs tay	50000
 cánh tay 	canh tay	40000
-cánh tay 	canhs tay	50000
-cánh tay 	canh tay	40000
 cạnh tranh 	canhj tranh	50000
 cạnh tranh 	canh tranh	40000
 can-xi 	can-xi	50000
@@ -2627,8 +2561,6 @@ cạo 	caoj	50000
 cạo 	cao	40000
 cao cấp 	cao caaps	50000
 cao cấp 	cao cap	40000
-cao đẳng 	cao ddawngr	50000
-cao đẳng 	cao dang	40000
 cao đẳng 	cao ddawngr	50000
 cao đẳng 	cao dang	40000
 cao độ 	cao ddooj	50000
@@ -2679,12 +2611,16 @@ cấp bách 	caaps bachs	50000
 cấp bách 	cap bach	40000
 cấp cứu 	caaps cuwus	50000
 cấp cứu 	cap cuu	40000
+cấp độ 	caaps ddooj	50000
+cấp độ 	cap do	40000
 cáp HDMI 	caps HDMI	50000
 cáp HDMI 	cap HDMI	40000
 cập nhật 	caapj nhaatj	50000
 cập nhật 	cap nhat	40000
 cấp nước 	caaps nuowcs	50000
 cấp nước 	cap nuoc	40000
+cấp phát 	caaps phats	50000
+cấp phát 	cap phat	40000
 cấp phép 	caaps pheps	50000
 cấp phép 	cap phep	40000
 cáp quang 	caps quang	50000
@@ -2711,8 +2647,6 @@ cát 	cats	50000
 cát 	cat	40000
 cất 	caats	50000
 cất 	cat	40000
-cắt 	cawts	50000
-cắt 	cat	40000
 cắt 	cawts	50000
 cắt 	cat	40000
 cật 	caatj	50000
@@ -2745,8 +2679,6 @@ cảu 	caur	50000
 cảu 	cau	40000
 cẩu 	caaur	50000
 cẩu 	cau	40000
-cậu 	caauj	50000
-cậu 	cau	40000
 cậu 	caauj	50000
 cậu 	cau	40000
 câu cá 	caau cas	50000
@@ -2911,16 +2843,10 @@ chạm 	chamj	50000
 chạm 	cham	40000
 chậm 	chaamj	50000
 chậm 	cham	40000
-chậm 	chaamj	50000
-chậm 	cham	40000
 chặm 	chawmj	50000
 chặm 	cham	40000
 chầm chập 	chaamf chaapj	50000
 chầm chập 	cham chap	40000
-chăm chỉ 	chawm chir	50000
-chăm chỉ 	cham chi	40000
-chăm chỉ 	chawm chir	50000
-chăm chỉ 	cham chi	40000
 chăm chỉ 	chawm chir	50000
 chăm chỉ 	cham chi	40000
 chấm công 	chaams coong	50000
@@ -2933,16 +2859,12 @@ Chậm một chút 	Chaamj mootj chuts	50000
 Chậm một chút 	Cham mot chut	40000
 chăm sóc 	chawm socs	50000
 chăm sóc 	cham soc	40000
-chăm sóc 	chawm socs	50000
-chăm sóc 	cham soc	40000
 chăm sóc da 	chawm socs da	50000
 chăm sóc da 	cham soc da	40000
 chan 	chan	50000
 chan 	chan	40000
 chán 	chans	50000
 chán 	chan	40000
-chân 	chaan	50000
-chân 	chan	40000
 chân 	chaan	50000
 chân 	chan	40000
 chăn 	chawn	50000
@@ -3019,8 +2941,6 @@ chẳng đáng 	chawngr ddangs	50000
 chẳng đáng 	chang dang	40000
 chẳng hạn 	chawngr hanj	50000
 chẳng hạn 	chang han	40000
-chẳng hạn 	chawngr hanj	50000
-chẳng hạn 	chang han	40000
 chẳng lẽ 	chawngr lex	50000
 chẳng lẽ 	chang le	40000
 chẳng những 	chawngr nhuwngx	50000
@@ -3069,12 +2989,8 @@ chào buổi tối 	chaof buooir toois	50000
 chào buổi tối 	chao buoi toi	40000
 chào đón 	chaof ddons	50000
 chào đón 	chao don	40000
-chào đón 	chaof ddons	50000
-chào đón 	chao don	40000
 chào hỏi 	chaof hoir	50000
 chào hỏi 	chao hoi	40000
-chào mừng 	chaof muwngf	50000
-chào mừng 	chao mung	40000
 chào mừng 	chaof muwngf	50000
 chào mừng 	chao mung	40000
 chao ôi 	chao ooi	50000
@@ -3119,10 +3035,20 @@ chất khoáng 	chaats khoangs	50000
 chất khoáng 	chat khoang	40000
 chất liệu 	chaats lieeuj	50000
 chất liệu 	chat lieu	40000
+chất liệu bản vẽ 	chaats lieeuj banr vex	50000
+chất liệu bản vẽ 	chat lieu ban ve	40000
+chất liệu đề xuất 	chaats lieeuj ddeef xuaats	50000
+chất liệu đề xuất 	chat lieu de xuat	40000
 chất lượng 	chaats luowngj	50000
 chất lượng 	chat luong	40000
+chất phủ 	chaats phur	50000
+chất phủ 	chat phu	40000
 chất sắt 	chaats sawts	50000
 chất sắt 	chat sat	40000
+chất tan rã 	chaats tan rax	50000
+chất tan rã 	chat tan ra	40000
+chất tạo cứng 	chaats taoj cuwngs	50000
+chất tạo cứng 	chat tao cung	40000
 chau 	chau	50000
 chau 	chau	40000
 cháu 	chaus	50000
@@ -3195,8 +3121,6 @@ ché 	ches	50000
 ché 	che	40000
 chè 	chef	50000
 chè 	che	40000
-chè 	chef	50000
-chè 	che	40000
 chê 	chee	50000
 chê 	che	40000
 chẽ 	chex	50000
@@ -3217,12 +3141,10 @@ chệ 	cheej	50000
 chệ 	che	40000
 chế biến 	chees bieens	50000
 chế biến 	che bien	40000
-chế biến 	chees bieens	50000
-chế biến 	che bien	40000
 chế độ 	chees ddooj	50000
 chế độ 	che do	40000
-chế độ 	chees ddooj	50000
-chế độ 	che do	40000
+chế độ nữ 	chees ddooj nuwx	50000
+chế độ nữ 	che do nu	40000
 chế tạo 	chees taoj	50000
 chế tạo 	che tao	40000
 chếch 	cheechs	50000
@@ -3251,8 +3173,6 @@ chém gió 	chems gios	50000
 chém gió 	chem gio	40000
 chen 	chen	50000
 chen 	chen	40000
-chén 	chens	50000
-chén 	chen	40000
 chén 	chens	50000
 chén 	chen	40000
 chèn 	chenf	50000
@@ -3317,8 +3237,6 @@ chì 	chif	50000
 chì 	chi	40000
 chỉ 	chir	50000
 chỉ 	chi	40000
-chỉ 	chir	50000
-chỉ 	chi	40000
 chị 	chij	50000
 chị 	chi	40000
 chỉ … thôi 	chir … thooi	50000
@@ -3349,12 +3267,16 @@ chi nhánh 	chi nhanhs	50000
 chi nhánh 	chi nhanh	40000
 chi phí 	chi phis	50000
 chi phí 	chi phi	40000
-chi phí 	chi phis	50000
-chi phí 	chi phi	40000
 chi phí bến tàu 	chi phis beens tauf	50000
 chi phí bến tàu 	chi phi ben tau	40000
+chi phí đào tạo 	chi phis ddaof taoj	50000
+chi phí đào tạo 	chi phi dao tao	40000
 chi phí dỡ hàng 	chi phis dowx hangf	50000
 chi phí dỡ hàng 	chi phi do hang	40000
+chi phí mặt bằng 	chi phis mawtj bawngf	50000
+chi phí mặt bằng 	chi phi mat bang	40000
+chi phí ngoài 	chi phis ngoaif	50000
+chi phí ngoài 	chi phi ngoai	40000
 Chỉ tàm tạm 	Chir tamf tamj	50000
 Chỉ tàm tạm 	Chi tam tam	40000
 chỉ tên 	chir teen	50000
@@ -3411,6 +3333,8 @@ chiển 	chieenr	50000
 chiển 	chien	40000
 chiện 	chieenj	50000
 chiện 	chien	40000
+chiến lược 	chieens luowcj	50000
+chiến lược 	chien luoc	40000
 chiến tranh 	chieens tranh	50000
 chiến tranh 	chien tranh	40000
 chiêng 	chieeng	50000
@@ -3497,6 +3421,8 @@ chính quyền địa phươn 	chinhs quyeenf ddiaj phuown	50000
 chính quyền địa phươn 	chinh quyen dia phuon	40000
 chính sách 	chinhs sachs	50000
 chính sách 	chinh sach	40000
+chính sách chất lượng 	chinhs sachs chaats luowngj	50000
+chính sách chất lượng 	chinh sach chat luong	40000
 chỉnh sửa 	chinhr suwar	50000
 chỉnh sửa 	chinh sua	40000
 chính thị 	chinhs thij	50000
@@ -3529,6 +3455,8 @@ chịu chưa 	chiuj chuwa	50000
 chịu chưa 	chiu chua	40000
 chịu lời 	chiuj lowif	50000
 chịu lời 	chiu loi	40000
+chịu nhiệt 	chiuj nhieetj	50000
+chịu nhiệt 	chiu nhiet	40000
 chịu tốt 	chiuj toots	50000
 chịu tốt 	chiu tot	40000
 cho 	cho	50000
@@ -3631,6 +3559,8 @@ cho rằng 	cho rawngf	50000
 cho rằng 	cho rang	40000
 cho rồi 	cho rooif	50000
 cho rồi 	cho roi	40000
+chờ sơn 	chowf sown	50000
+chờ sơn 	cho son	40000
 cho thấy 	cho thaays	50000
 cho thấy 	cho thay	40000
 cho thuê 	cho thuee	50000
@@ -3755,6 +3685,8 @@ chơi họ 	chowi hoj	50000
 chơi họ 	choi ho	40000
 chổi lông gà 	chooir loong gaf	50000
 chổi lông gà 	choi long ga	40000
+chổi quết 	chooir queets	50000
+chổi quết 	choi quet	40000
 chơi thể thao 	chowi theer thao	50000
 chơi thể thao 	choi the thao	40000
 Chơi vui nhé 	Chowi vui nhes	50000
@@ -3797,8 +3729,6 @@ chõn 	chonx	50000
 chõn 	chon	40000
 chốn 	choons	50000
 chốn 	chon	40000
-chốn 	choons	50000
-chốn 	chon	40000
 chồn 	choonf	50000
 chồn 	chon	40000
 chơn 	chown	50000
@@ -3829,8 +3759,6 @@ chõng 	chongx	50000
 chõng 	chong	40000
 chống 	choongs	50000
 chống 	chong	40000
-chồng 	choongf	50000
-chồng 	chong	40000
 chồng 	choongf	50000
 chồng 	chong	40000
 chỏng 	chongr	50000
@@ -3871,8 +3799,6 @@ chớt 	chowts	50000
 chớt 	chot	40000
 chột 	chootj	50000
 chột 	chot	40000
-chợt 	chowtj	50000
-chợt 	chot	40000
 chợt 	chowtj	50000
 chợt 	chot	40000
 chợt nghe 	chowtj nghe	50000
@@ -3925,8 +3851,8 @@ chứ không 	chuws khoong	50000
 chứ không 	chu khong	40000
 chứ không phải 	chuws khoong phair	50000
 chứ không phải 	chu khong phai	40000
-chữ ký 	chuwx kys	50000
-chữ ký 	chu ky	40000
+chu kỳ 	chu kyf	50000
+chu kỳ 	chu ky	40000
 chữ ký 	chuwx kys	50000
 chữ ký 	chu ky	40000
 chữ ký mẫu 	chuwx kys maaux	50000
@@ -3965,8 +3891,6 @@ chữ số 	chuwx soos	50000
 chữ số 	chu so	40000
 chú thích 	chus thichs	50000
 chú thích 	chu thich	40000
-chú thích 	chus thichs	50000
-chú thích 	chu thich	40000
 chủ tịch 	chur tichj	50000
 chủ tịch 	chu tich	40000
 chủ trương 	chur truowng	50000
@@ -3977,8 +3901,6 @@ chú ý 	chus ys	50000
 chú ý 	chu y	40000
 chủ yếu 	chur yeeus	50000
 chủ yếu 	chu yeu	40000
-chua 	chua	50000
-chua 	chua	40000
 chua 	chua	50000
 chua 	chua	40000
 chúa 	chuas	50000
@@ -4009,6 +3931,8 @@ chưa chắc 	chuwa chawcs	50000
 chưa chắc 	chua chac	40000
 chưa có 	chuwa cos	50000
 chưa có 	chua co	40000
+chưa có thông tin 	chuwa cos thoong tin	50000
+chưa có thông tin 	chua co thong tin	40000
 chưa đầy 	chuwa ddaayf	50000
 chưa đầy 	chua day	40000
 chưa dễ 	chuwa deex	50000
@@ -4081,6 +4005,8 @@ chúc thư 	chucs thuw	50000
 chúc thư 	chuc thu	40000
 chức vị chức vụ 	chuwcs vij chuwcs vuj	50000
 chức vị chức vụ 	chuc vi chuc vu	40000
+chức vụ 	chuwcs vuj	50000
+chức vụ 	chuc vu	40000
 chức vụ dảm nhận 	chuwcs vuj damr nhaanj	50000
 chức vụ dảm nhận 	chuc vu dam nhan	40000
 chức vụ ứng tuyển 	chuwcs vuj uwngs tuyeenr	50000
@@ -4093,8 +4019,6 @@ chuệch 	chueechj	50000
 chuệch 	chuech	40000
 chuếnh 	chueenhs	50000
 chuếnh 	chuenh	40000
-Chui 	Chui	50000
-Chui 	Chui	40000
 chui 	chui	50000
 chui 	chui	40000
 chúi 	chuis	50000
@@ -4185,6 +4109,8 @@ chứng minh thư 	chuwngs minh thuw	50000
 chứng minh thư 	chung minh thu	40000
 chủng mới 	chungr mowis	50000
 chủng mới 	chung moi	40000
+chứng nhận 	chuwngs nhaanj	50000
+chứng nhận 	chung nhan	40000
 chung nhau 	chung nhau	50000
 chung nhau 	chung nhau	40000
 chúng ông 	chungs oong	50000
@@ -4201,10 +4127,10 @@ chứng thực 	chuwngs thuwcj	50000
 chứng thực 	chung thuc	40000
 chung thủy 	chung thuyr	50000
 chung thủy 	chung thuy	40000
-chung thủy 	chung thuyr	50000
-chung thủy 	chung thuy	40000
 chúng tôi 	chungs tooi	50000
 chúng tôi 	chung toi	40000
+chứng từ 	chuwngs tuwf	50000
+chứng từ 	chung tu	40000
 chuốc 	chuoocs	50000
 chuốc 	chuoc	40000
 chuộc 	chuoocj	50000
@@ -4251,16 +4177,12 @@ chưởng 	chuowngr	50000
 chưởng 	chuong	40000
 chương trình 	chuowng trinhf	50000
 chương trình 	chuong trinh	40000
-chương trình 	chuowng trinhf	50000
-chương trình 	chuong trinh	40000
-chương trình 	chuowng trinhf	50000
-chương trình 	chuong trinh	40000
+chương trình đào tạo 	chuowng trinhf ddaof taoj	50000
+chương trình đào tạo 	chuong trinh dao tao	40000
 chượp 	chuowpj	50000
 chượp 	chuop	40000
 chuốt 	chuoots	50000
 chuốt 	chuot	40000
-chuột 	chuootj	50000
-chuột 	chuot	40000
 chuột 	chuootj	50000
 chuột 	chuot	40000
 chượt 	chuowtj	50000
@@ -4273,6 +4195,8 @@ chụp ảnh chân dung 	chupj anhr chaan dung	50000
 chụp ảnh chân dung 	chup anh chan dung	40000
 chụp hình 	chupj hinhf	50000
 chụp hình 	chup hinh	40000
+chụp hút mùi 	chupj huts muif	50000
+chụp hút mùi 	chup hut mui	40000
 chút 	chuts	50000
 chút 	chut	40000
 chụt 	chutj	50000
@@ -4463,8 +4387,6 @@ có giá trị 	cos gias trij	50000
 có giá trị 	co gia tri	40000
 cô giáo 	coo giaos	50000
 cô giáo 	co giao	40000
-cô giáo 	coo giaos	50000
-cô giáo 	co giao	40000
 có hạn 	cos hanj	50000
 có hạn 	co han	40000
 có hiệu quả 	cos hieeuj quar	50000
@@ -4585,8 +4507,6 @@ coa 	coa	50000
 coa 	coa	40000
 cóc 	cocs	50000
 cóc 	coc	40000
-cốc 	coocs	50000
-cốc 	coc	40000
 cốc 	coocs	50000
 cốc 	coc	40000
 cọc 	cocj	50000
@@ -4745,6 +4665,8 @@ còn nữa 	conf nuwax	50000
 còn nữa 	con nua	40000
 con rể 	con reer	50000
 con rể 	con re	40000
+còn thiếu 	conf thieeus	50000
+còn thiếu 	con thieu	40000
 còn thời gian 	conf thowif gian	50000
 còn thời gian 	con thoi gian	40000
 con tính 	con tinhs	50000
@@ -4759,8 +4681,6 @@ côn trùng 	coon trungf	50000
 côn trùng 	con trung	40000
 còn về 	conf veef	50000
 còn về 	con ve	40000
-cong 	cong	50000
-cong 	cong	40000
 cong 	cong	50000
 cong 	cong	40000
 cóng 	congs	50000
@@ -4803,6 +4723,8 @@ công cụ 	coong cuj	50000
 công cụ 	cong cu	40000
 công dân 	coong daan	50000
 công dân 	cong dan	40000
+công đoàn 	coong ddoanf	50000
+công đoàn 	cong doan	40000
 công đoạn 	coong ddoanj	50000
 công đoạn 	cong doan	40000
 công dụng 	coong dungj	50000
@@ -4817,6 +4739,8 @@ công lập 	coong laapj	50000
 công lập 	cong lap	40000
 công nghệ 	coong ngheej	50000
 công nghệ 	cong nghe	40000
+công nghệ sản xuất 	coong ngheej sanr xuaats	50000
+công nghệ sản xuất 	cong nghe san xuat	40000
 công nhân 	coong nhaan	50000
 công nhân 	cong nhan	40000
 công nhận 	coong nhaanj	50000
@@ -4827,8 +4751,6 @@ công phá 	coong phas	50000
 công phá 	cong pha	40000
 công suất 	coong suaats	50000
 công suất 	cong suat	40000
-công tác 	coong tacs	50000
-công tác 	cong tac	40000
 công tác 	coong tacs	50000
 công tác 	cong tac	40000
 công tắc 	coong tawcs	50000
@@ -4919,8 +4841,6 @@ cứ điểm 	cuws ddieemr	50000
 cứ điểm 	cu diem	40000
 cử nhân 	cuwr nhaan	50000
 cử nhân 	cu nhan	40000
-cử nhân 	cuwr nhaan	50000
-cử nhân 	cu nhan	40000
 cứ như 	cuws nhuw	50000
 cứ như 	cu nhu	40000
 cử tạ 	cuwr taj	50000
@@ -5001,8 +4921,6 @@ cúi 	cuis	50000
 cúi 	cui	40000
 cùi 	cuif	50000
 cùi 	cui	40000
-cùi 	cuif	50000
-cùi 	cui	40000
 cũi 	cuix	50000
 cũi 	cui	40000
 củi 	cuir	50000
@@ -5029,8 +4947,6 @@ cún 	cuns	50000
 cún 	cun	40000
 cùn 	cunf	50000
 cùn 	cun	40000
-cùn 	cunf	50000
-cùn 	cun	40000
 cũn 	cunx	50000
 cũn 	cun	40000
 củn 	cunr	50000
@@ -5049,8 +4965,6 @@ cưng 	cuwng	50000
 cưng 	cung	40000
 cụng 	cungj	50000
 cụng 	cung	40000
-cứng 	cuwngs	50000
-cứng 	cung	40000
 cứng 	cuwngs	50000
 cứng 	cung	40000
 cùng ăn 	cungf awn	50000
@@ -5103,16 +5017,10 @@ cuộc cách mạng 	cuoocj cachs mangj	50000
 cuộc cách mạng 	cuoc cach mang	40000
 cuộc đời 	cuoocj ddowif	50000
 cuộc đời 	cuoc doi	40000
-cuộc đời 	cuoocj ddowif	50000
-cuộc đời 	cuoc doi	40000
-cuộc họp 	cuoocj hopj	50000
-cuộc họp 	cuoc hop	40000
 cuộc họp 	cuoocj hopj	50000
 cuộc họp 	cuoc hop	40000
 cước phí 	cuowcs phis	50000
 cước phí 	cuoc phi	40000
-cuộc sống 	cuoocj soongs	50000
-cuộc sống 	cuoc song	40000
 cuộc sống 	cuoocj soongs	50000
 cuộc sống 	cuoc song	40000
 cuộc thi 	cuoocj thi	50000
@@ -5171,8 +5079,6 @@ cường độ 	cuowngf ddooj	50000
 cường độ 	cuong do	40000
 cướp 	cuowps	50000
 cướp 	cuop	40000
-cướp 	cuowps	50000
-cướp 	cuop	40000
 cúp 	cups	50000
 cúp 	cup	40000
 cụp 	cupj	50000
@@ -5209,8 +5115,6 @@ cv cá nhân 	cv cas nhaan	50000
 cv cá nhân 	cv ca nhan	40000
 da 	da	50000
 da 	da	40000
-da 	da	50000
-da 	da	40000
 dà 	daf	50000
 dà 	da	40000
 dã 	dax	50000
@@ -5227,14 +5131,14 @@ dạ 	da	40000
 đà 	da	40000
 đã 	ddax	50000
 đã 	da	40000
-đã 	ddax	50000
-đã 	da	40000
 đả 	ddar	50000
 đả 	da	40000
 đạ 	ddaj	50000
 đạ 	da	40000
 dạ bán 	daj bans	50000
 dạ bán 	da ban	40000
+đã bàn giao sử dụng 	ddax banf giao suwr dungj	50000
+đã bàn giao sử dụng 	da ban giao su dung	40000
 dạ con 	daj con	50000
 dạ con 	da con	40000
 dạ dạ 	daj daj	50000
@@ -5251,8 +5155,6 @@ dạ dài 	da dai	40000
 đã hay 	da hay	40000
 dạ khách 	daj khachs	50000
 dạ khách 	da khach	40000
-đa khoa 	dda khoa	50000
-đa khoa 	da khoa	40000
 đa khoa 	dda khoa	50000
 đa khoa 	da khoa	40000
 đã không 	ddax khoong	50000
@@ -5273,6 +5175,8 @@ dạ khách 	da khach	40000
 đá qu 	da qu	40000
 đa số 	dda soos	50000
 đa số 	da so	40000
+đã thanh toán 	ddax thanh toans	50000
+đã thanh toán 	da thanh toan	40000
 đã thế 	ddax thees	50000
 đã thế 	da the	40000
 đa tình 	dda tinhf	50000
@@ -5309,6 +5213,10 @@ dặc 	dac	40000
 đặc sắc 	dac sac	40000
 đặc sản 	ddawcj sanr	50000
 đặc sản 	dac san	40000
+đặc tính 	ddawcj tinhs	50000
+đặc tính 	dac tinh	40000
+đặc tính chất lượng 	ddawcj tinhs chaats luowngj	50000
+đặc tính chất lượng 	dac tinh chat luong	40000
 dách 	dachs	50000
 dách 	dach	40000
 dạch 	dachj	50000
@@ -5423,8 +5331,6 @@ dặm 	dam	40000
 đám 	dam	40000
 đàm 	ddamf	50000
 đàm 	dam	40000
-đâm 	ddaam	50000
-đâm 	dam	40000
 đâm 	ddaam	50000
 đâm 	dam	40000
 đăm 	ddawm	50000
@@ -5543,6 +5449,8 @@ dần được 	daanf dduowcj	50000
 dần được 	dan duoc	40000
 dân gian 	daan gian	50000
 dân gian 	dan gian	40000
+dẫn hướng 	daanx huowngs	50000
+dẫn hướng 	dan huong	40000
 dân lập 	daan laapj	50000
 dân lập 	dan lap	40000
 dàn nhạc 	danf nhacj	50000
@@ -5551,8 +5459,6 @@ dàn nhạc 	dan nhac	40000
 đàn ôn 	dan on	40000
 dân quyền 	daan quyeenf	50000
 dân quyền 	dan quyen	40000
-dân tộc 	daan toocj	50000
-dân tộc 	dan toc	40000
 dân tộc 	daan toocj	50000
 dân tộc 	dan toc	40000
 dang 	dang	50000
@@ -5597,8 +5503,6 @@ dặng 	dang	40000
 đấng 	dang	40000
 đắng 	ddawngs	50000
 đắng 	dang	40000
-đắng 	ddawngs	50000
-đắng 	dang	40000
 đằng 	ddawngf	50000
 đằng 	dang	40000
 đẵng 	ddawngx	50000
@@ -5619,14 +5523,16 @@ dặng 	dang	40000
 đáng giá 	dang gia	40000
 dâng hoa 	daang hoa	50000
 dâng hoa 	dang hoa	40000
+đang hoàn thiện 	ddang hoanf thieenj	50000
+đang hoàn thiện 	dang hoan thien	40000
 đáng kể 	ddangs keer	50000
 đáng kể 	dang ke	40000
 đằng kia 	ddawngf kia	50000
 đằng kia 	dang kia	40000
 đăng ký 	ddawng kys	50000
 đăng ký 	dang ky	40000
-đăng ký 	ddawng kys	50000
-đăng ký 	dang ky	40000
+đăng ký đổi ca 	ddawng kys ddooir ca	50000
+đăng ký đổi ca 	dang ky doi ca	40000
 đáng lẽ 	ddangs lex	50000
 đáng lẽ 	dang le	40000
 đáng lí 	ddangs lis	50000
@@ -5695,8 +5601,8 @@ dành dành 	danh danh	40000
 đánh đùng 	danh dung	40000
 đánh giá 	ddanhs gias	50000
 đánh giá 	danh gia	40000
-đánh giá 	ddanhs gias	50000
-đánh giá 	danh gia	40000
+đánh giá xếp loại 	ddanhs gias xeeps loaij	50000
+đánh giá xếp loại 	danh gia xep loai	40000
 danh hài 	danh haif	50000
 danh hài 	danh hai	40000
 đánh mạc chượt 	ddanhs macj chuowtj	50000
@@ -5707,8 +5613,6 @@ danh nhân 	danh nhaan	50000
 danh nhân 	danh nhan	40000
 đánh răng 	ddanhs rawng	50000
 đánh răng 	danh rang	40000
-danh sách 	danh sachs	50000
-danh sách 	danh sach	40000
 danh sách 	danh sachs	50000
 danh sách 	danh sach	40000
 danh thiếp 	danh thieeps	50000
@@ -5755,6 +5659,14 @@ dạo phố 	daoj phoos	50000
 dạo phố 	dao pho	40000
 đào tạo 	ddaof taoj	50000
 đào tạo 	dao tao	40000
+đào tạo bên ngoài 	ddaof taoj been ngoaif	50000
+đào tạo bên ngoài 	dao tao ben ngoai	40000
+đào tạo nhân tài 	ddaof taoj nhaan taif	50000
+đào tạo nhân tài 	dao tao nhan tai	40000
+đào tạo nội bộ 	ddaof taoj nooij booj	50000
+đào tạo nội bộ 	dao tao noi bo	40000
+đào tạo tập trung 	ddaof taoj taapj trung	50000
+đào tạo tập trung 	dao tao tap trung	40000
 Đào Thọ 	DDaof Thoj	50000
 Đào Thọ 	Dao Tho	40000
 dấp 	daaps	50000
@@ -5795,8 +5707,6 @@ dặt 	dat	40000
 đất 	dat	40000
 đắt 	ddawts	50000
 đắt 	dat	40000
-đắt 	ddawts	50000
-đắt 	dat	40000
 đạt 	ddatj	50000
 đạt 	dat	40000
 đật 	ddaatj	50000
@@ -5811,8 +5721,6 @@ dặt 	dat	40000
 đặt để 	dat de	40000
 đạt được khen thưởng 	ddatj dduowcj khen thuowngr	50000
 đạt được khen thưởng 	dat duoc khen thuong	40000
-đặt hàng 	ddawtj hangf	50000
-đặt hàng 	dat hang	40000
 đặt hàng 	ddawtj hangf	50000
 đặt hàng 	dat hang	40000
 đặt làm 	ddawtj lamf	50000
@@ -5831,6 +5739,8 @@ dặt 	dat	40000
 đắt quá 	dat qua	40000
 đặt ra 	ddawtj ra	50000
 đặt ra 	dat ra	40000
+đạt tiêu chuẩn 	ddatj tieeu chuaanr	50000
+đạt tiêu chuẩn 	dat tieu chuan	40000
 đặt trước 	ddawtj truowcs	50000
 đặt trước 	dat truoc	40000
 Đạt yêu cầu 	DDatj yeeu caauf	50000
@@ -5863,8 +5773,6 @@ dậu 	dau	40000
 đâu 	dau	40000
 đấu 	ddaaus	50000
 đấu 	dau	40000
-đầu 	ddaauf	50000
-đầu 	dau	40000
 đầu 	ddaauf	50000
 đầu 	dau	40000
 đẩu 	ddaaur	50000
@@ -5935,8 +5843,6 @@ dầu thô 	daauf thoo	50000
 dầu thô 	dau tho	40000
 đầu tiên 	ddaauf tieen	50000
 đầu tiên 	dau tien	40000
-đầu tiên 	ddaauf tieen	50000
-đầu tiên 	dau tien	40000
 đậu trắng 	ddaauj trawngs	50000
 đậu trắng 	dau trang	40000
 đấu tranh 	ddaaus tranh	50000
@@ -5985,8 +5891,6 @@ dậy 	day	40000
 đấy 	day	40000
 đầy 	ddaayf	50000
 đầy 	day	40000
-đầy 	ddaayf	50000
-đầy 	day	40000
 đẫy 	ddaayx	50000
 đẫy 	day	40000
 đảy 	ddayr	50000
@@ -5997,12 +5901,16 @@ dậy 	day	40000
 đậy 	day	40000
 dây cáp 	daay caps	50000
 dây cáp 	day cap	40000
-dây cáp 	daay caps	50000
-dây cáp 	day cap	40000
+dây chuyền 	daay chuyeenf	50000
+dây chuyền 	day chuyen	40000
+dây chuyền sản xuất 	daay chuyeenf sanr xuaats	50000
+dây chuyền sản xuất 	day chuyen san xuat	40000
 đây đó 	ddaay ddos	50000
 đây đó 	day do	40000
 đầy đu 	ddaayf ddu	50000
 đầy đu 	day du	40000
+dây gia nhiệt 	daay gia nhieetj	50000
+dây gia nhiệt 	day gia nhiet	40000
 Đây là 	DDaay laf	50000
 Đây là 	Day la	40000
 đầy năm 	ddaayf nawm	50000
@@ -6013,6 +5921,8 @@ dây cáp 	day cap	40000
 đầy ổ C 	day o C	40000
 đầy phè 	ddaayf phef	50000
 đầy phè 	day phe	40000
+dày phôi 	dayf phooi	50000
+dày phôi 	day phoi	40000
 đây rồi 	ddaay rooif	50000
 đây rồi 	day roi	40000
 dây rốn 	daay roons	50000
@@ -6065,12 +5975,14 @@ dẹ 	de	40000
 đệ 	de	40000
 dễ ăn 	deex awn	50000
 dễ ăn 	de an	40000
+đề án 	ddeef ans	50000
+đề án 	de an	40000
+đề án cải tiến 	ddeef ans cair tieens	50000
+đề án cải tiến 	de an cai tien	40000
 dễ chịu 	deex chiuj	50000
 dễ chịu 	de chiu	40000
 để cho 	ddeer cho	50000
 để cho 	de cho	40000
-dễ dàng 	deex dangf	50000
-dễ dàng 	de dang	40000
 dễ dàng 	deex dangf	50000
 dễ dàng 	de dang	40000
 dễ đâu 	deex ddaau	50000
@@ -6193,8 +6105,6 @@ dện 	den	40000
 đên 	den	40000
 đến 	ddeens	50000
 đến 	den	40000
-đến 	ddeens	50000
-đến 	den	40000
 đền 	ddeenf	50000
 đền 	den	40000
 đễn 	ddeenx	50000
@@ -6297,8 +6207,6 @@ dẹo 	deoj	50000
 dẹo 	deo	40000
 đeo 	ddeo	50000
 đeo 	deo	40000
-đeo 	ddeo	50000
-đeo 	deo	40000
 đéo 	ddeos	50000
 đéo 	deo	40000
 đèo 	ddeof	50000
@@ -6309,20 +6217,14 @@ dẹo 	deo	40000
 đeo nhẫn 	deo nhan	40000
 dép 	deps	50000
 dép 	dep	40000
-dép 	deps	50000
-dép 	dep	40000
 dẹp 	depj	50000
 dẹp 	dep	40000
 đép 	ddeps	50000
 đép 	dep	40000
 đẹp 	ddepj	50000
 đẹp 	dep	40000
-đẹp 	ddepj	50000
-đẹp 	dep	40000
 đệp 	ddeepj	50000
 đệp 	dep	40000
-đẹp trai 	ddepj trai	50000
-đẹp trai 	dep trai	40000
 đẹp trai 	ddepj trai	50000
 đẹp trai 	dep trai	40000
 dép xăng đan 	deps xawng ddan	50000
@@ -6373,10 +6275,6 @@ dỉ 	dir	50000
 dỉ 	di	40000
 dị 	dij	50000
 dị 	di	40000
-đi 	ddi	50000
-đi 	di	40000
-đi 	ddi	50000
-đi 	di	40000
 đi 	ddi	50000
 đi 	di	40000
 đí 	ddis	50000
@@ -6503,6 +6401,8 @@ dịa 	dia	40000
 địa đạo 	dia dao	40000
 địa điểm 	ddiaj ddieemr	50000
 địa điểm 	dia diem	40000
+địa điểm đào tạo 	ddiaj ddieemr ddaof taoj	50000
+địa điểm đào tạo 	dia diem dao tao	40000
 địa lý 	ddiaj lys	50000
 địa lý 	dia ly	40000
 địa ốc 	ddiaj oocs	50000
@@ -6565,6 +6465,8 @@ diệm 	diem	40000
 điểm gặp 	diem gap	40000
 điểm tâm 	ddieemr taam	50000
 điểm tâm 	diem tam	40000
+điểm tan chảy 	ddieemr tan chayr	50000
+điểm tan chảy 	diem tan chay	40000
 Điểm tối đa 	DDieemr toois dda	50000
 Điểm tối đa 	Diem toi da	40000
 diên 	dieen	50000
@@ -6595,8 +6497,12 @@ diện 	dien	40000
 điện ảnh 	dien anh	40000
 diễn đàn 	dieenx ddanf	50000
 diễn đàn 	dien dan	40000
+diễn giải 	dieenx giair	50000
+diễn giải 	dien giai	40000
 điền kinh 	ddieenf kinh	50000
 điền kinh 	dien kinh	40000
+điện lưới 	ddieenj luowis	50000
+điện lưới 	dien luoi	40000
 diện mạo 	dieenj maoj	50000
 diện mạo 	dien mao	40000
 diện mạo chính trị 	dieenj maoj chinhs trij	50000
@@ -6607,8 +6513,8 @@ diện mạo chính trị 	dien mao chinh tri	40000
 điện nước 	dien nuoc	40000
 diễn ra 	dieenx ra	50000
 diễn ra 	dien ra	40000
-điện thoại 	ddieenj thoaij	50000
-điện thoại 	dien thoai	40000
+diễn tập 	dieenx taapj	50000
+diễn tập 	dien tap	40000
 điện thoại 	ddieenj thoaij	50000
 điện thoại 	dien thoai	40000
 điện thoại cầm tay 	ddieenj thoaij caamf tay	50000
@@ -6681,6 +6587,8 @@ diệu 	dieu	40000
 điệu 	dieu	40000
 điều chỉnh 	ddieeuf chinhr	50000
 điều chỉnh 	dieu chinh	40000
+điều chỉnh phương án 	ddieeuf chinhr phuowng ans	50000
+điều chỉnh phương án 	dieu chinh phuong an	40000
 điều gì 	ddieeuf gif	50000
 điều gì 	dieu gi	40000
 điều hành 	ddieeuf hanhf	50000
@@ -6749,12 +6657,12 @@ dinh dưỡng không đầy đủ 	dinh duong khong day du	40000
 định hình 	dinh hinh	40000
 đính hôn 	ddinhs hoon	50000
 đính hôn 	dinh hon	40000
-đính hôn 	ddinhs hoon	50000
-đính hôn 	dinh hon	40000
 đính kèm tài liệu 	ddinhs kemf taif lieeuj	50000
 đính kèm tài liệu 	dinh kem tai lieu	40000
 đinh kẹp 	ddinh kepj	50000
 đinh kẹp 	dinh kep	40000
+dính khuôn 	dinhs khuoon	50000
+dính khuôn 	dinh khuon	40000
 đính khuy 	ddinhs khuy	50000
 đính khuy 	dinh khuy	40000
 định kỳ 	ddinhj kyf	50000
@@ -6847,12 +6755,10 @@ dợ 	do	40000
 đỏ 	do	40000
 đơ 	ddow	50000
 đơ 	do	40000
-đơ 	ddow	50000
-đơ 	do	40000
-đổ 	ddoor	50000
-đổ 	do	40000
 Đổ 	DDoor	50000
 Đổ 	Do	40000
+đổ 	ddoor	50000
+đổ 	do	40000
 đọ 	ddoj	50000
 đọ 	do	40000
 đớ 	ddows	50000
@@ -6873,6 +6779,10 @@ do … cơ quan công an thành phố tỉnh cấp 	do … co quan cong an thanh
 độ ẩm 	do am	40000
 dơ bẩn 	dow baanr	50000
 dơ bẩn 	do ban	40000
+độ bền kéo 	ddooj beenf keos	50000
+độ bền kéo 	do ben keo	40000
+độ bền uốn 	ddooj beenf uoons	50000
+độ bền uốn 	do ben uon	40000
 đồ biến thái 	ddoof bieens thais	50000
 đồ biến thái 	do bien thai	40000
 đổ bộ 	ddoor booj	50000
@@ -6883,8 +6793,6 @@ dơ bẩn 	do ban	40000
 đồ chơi 	do choi	40000
 dở chừng 	dowr chuwngf	50000
 dở chừng 	do chung	40000
-đồ cũ 	ddoof cux	50000
-đồ cũ 	do cu	40000
 đồ cũ 	ddoof cux	50000
 đồ cũ 	do cu	40000
 đồ đạc 	ddoof ddacj	50000
@@ -6915,6 +6823,8 @@ do dự 	do du	40000
 Đó là chuyên môn của cô ta 	Do la chuyen mon cua co ta	40000
 đồ lau 	ddoof lau	50000
 đồ lau 	do lau	40000
+đo lường 	ddo luowngf	50000
+đo lường 	do luong	40000
 đồ lưu niệm 	ddoof luwu nieemj	50000
 đồ lưu niệm 	do luu niem	40000
 đồ mê trai 	ddoof mee trai	50000
@@ -7051,8 +6961,6 @@ dộc 	doc	40000
 đọc sách 	doc sach	40000
 độc thân 	ddoocj thaan	50000
 độc thân 	doc than	40000
-độc thân 	ddoocj thaan	50000
-độc thân 	doc than	40000
 đọc thử xem 	ddocj thuwr xem	50000
 đọc thử xem 	doc thu xem	40000
 doe 	doe	50000
@@ -7087,10 +6995,6 @@ dợi 	dowij	50000
 dợi 	doi	40000
 đói 	ddois	50000
 đói 	doi	40000
-đói 	ddois	50000
-đói 	doi	40000
-đòi 	ddoif	50000
-đòi 	doi	40000
 đòi 	ddoif	50000
 đòi 	doi	40000
 đôi 	ddooi	50000
@@ -7121,12 +7025,12 @@ dợi 	doi	40000
 đôi bê 	doi be	40000
 đội bóng đ 	ddooij bongs dd	50000
 đội bóng đ 	doi bong d	40000
+đổi ca 	ddooir ca	50000
+đổi ca 	doi ca	40000
 đội cứu hộ 	ddooij cuwus hooj	50000
 đội cứu hộ 	doi cuu ho	40000
 đối đầu 	ddoois ddaauf	50000
 đối đầu 	doi dau	40000
-đối diện 	ddoois dieenj	50000
-đối diện 	doi dien	40000
 đối diện 	ddoois dieenj	50000
 đối diện 	doi dien	40000
 đổi hàng lại 	ddooir hangf laij	50000
@@ -7145,6 +7049,12 @@ dợi 	doi	40000
 đối phó 	doi pho	40000
 đối phương 	ddoois phuowng	50000
 đối phương 	doi phuong	40000
+đối sách 	ddoois sachs	50000
+đối sách 	doi sach	40000
+đối sách bỏ lọt 	ddoois sachs bor lotj	50000
+đối sách bỏ lọt 	doi sach bo lot	40000
+đối sách tạm thời 	ddoois sachs tamj thowif	50000
+đối sách tạm thời 	doi sach tam thoi	40000
 đời sống 	ddowif soongs	50000
 đời sống 	doi song	40000
 đối thủ 	ddoois thur	50000
@@ -7153,6 +7063,8 @@ dợi 	doi	40000
 đổi tiền 	doi tien	40000
 đối tượng 	ddoois tuowngj	50000
 đối tượng 	doi tuong	40000
+đối tượng đào tạo 	ddoois tuowngj ddaof taoj	50000
+đối tượng đào tạo 	doi tuong dao tao	40000
 đối với 	ddoois vowis	50000
 đối với 	doi voi	40000
 đối xứng 	ddoois xuwngs	50000
@@ -7257,8 +7169,10 @@ dọn nhà 	don nha	40000
 đón nhận 	don nhan	40000
 đơn vị 	ddown vij	50000
 đơn vị 	don vi	40000
-đơn vị 	ddown vij	50000
-đơn vị 	don vi	40000
+đơn vị phát hành 	ddown vij phats hanhf	50000
+đơn vị phát hành 	don vi phat hanh	40000
+đơn vị tiền tệ 	ddown vij tieenf teej	50000
+đơn vị tiền tệ 	don vi tien te	40000
 đơn vị ứng tuyển 	ddown vij uwngs tuyeenr	50000
 đơn vị ứng tuyển 	don vi ung tuyen	40000
 dong 	dong	50000
@@ -7309,6 +7223,8 @@ dộng 	dong	40000
 đồng bào 	dong bao	40000
 đồng bộ 	ddoongf booj	50000
 đồng bộ 	dong bo	40000
+dòng chảy 	dongf chayr	50000
+dòng chảy 	dong chay	40000
 đồng chí 	ddoongf chis	50000
 đồng chí 	dong chi	40000
 đồng cỏ 	ddoongf cor	50000
@@ -7319,14 +7235,14 @@ dộng 	dong	40000
 động đất 	dong dat	40000
 đóng dấu 	ddongs daaus	50000
 đóng dấu 	dong dau	40000
+đong đo 	ddong ddo	50000
+đong đo 	dong do	40000
 đóng gó 	ddongs gos	50000
 đóng gó 	dong go	40000
 đóng gói 	ddongs gois	50000
 đóng gói 	dong goi	40000
 đồng hành 	ddoongf hanhf	50000
 đồng hành 	dong hanh	40000
-đồng hồ 	ddoongf hoof	50000
-đồng hồ 	dong ho	40000
 đồng hồ 	ddoongf hoof	50000
 đồng hồ 	dong ho	40000
 đồng hồ đeo tay 	ddoongf hoof ddeo tay	50000
@@ -7401,8 +7317,6 @@ dót 	dots	50000
 dót 	dot	40000
 dốt 	doots	50000
 dốt 	dot	40000
-dốt 	doots	50000
-dốt 	dot	40000
 dớt 	dowts	50000
 dớt 	dot	40000
 dột 	dootj	50000
@@ -7429,6 +7343,8 @@ dợt 	dot	40000
 đột nhiên 	dot nhien	40000
 đốt pháo 	ddoots phaos	50000
 đốt pháo 	dot phao	40000
+đốt tạo nhiệt 	ddoots taoj nhieetj	50000
+đốt tạo nhiệt 	dot tao nhiet	40000
 du 	du	50000
 du 	du	40000
 dú 	dus	50000
@@ -7501,6 +7417,8 @@ du khách 	du khachs	50000
 du khách 	du khach	40000
 dự kiến 	duwj kieens	50000
 dự kiến 	du kien	40000
+dự kiến về 	duwj kieens veef	50000
+dự kiến về 	du kien ve	40000
 du lịch 	du lichj	50000
 du lịch 	du lich	40000
 dữ liệu 	duwx lieeuj	50000
@@ -7523,12 +7441,16 @@ dù sao 	du sao	40000
 đủ số 	du so	40000
 dự thi 	duwj thi	50000
 dự thi 	du thi	40000
-dự thi 	duwj thi	50000
-dự thi 	du thi	40000
 đủ thứ 	ddur thuws	50000
 đủ thứ 	du thu	40000
 du thuyền 	du thuyeenf	50000
 du thuyền 	du thuyen	40000
+dự tính 	duwj tinhs	50000
+dự tính 	du tinh	40000
+dự toán 	duwj toans	50000
+dự toán 	du toan	40000
+dự toán năm 	duwj toans nawm	50000
+dự toán năm 	du toan nam	40000
 dự trữ 	duwj truwx	50000
 dự trữ 	du tru	40000
 dua 	dua	50000
@@ -7657,8 +7579,6 @@ dụi 	duij	50000
 dụi 	dui	40000
 đui 	ddui	50000
 đui 	dui	40000
-đui 	ddui	50000
-đui 	dui	40000
 đùi 	dduif	50000
 đùi 	dui	40000
 đũi 	dduix	50000
@@ -7727,8 +7647,6 @@ dựng 	dung	40000
 đung 	dung	40000
 đúng 	ddungs	50000
 đúng 	dung	40000
-đúng 	ddungs	50000
-đúng 	dung	40000
 đùng 	ddungf	50000
 đùng 	dung	40000
 đũng 	ddungx	50000
@@ -7741,8 +7659,6 @@ dựng 	dung	40000
 đụng 	dung	40000
 đứng 	dduwngs	50000
 đứng 	dung	40000
-đừng 	dduwngf	50000
-đừng 	dung	40000
 đừng 	dduwngf	50000
 đừng 	dung	40000
 đựng 	dduwngj	50000
@@ -7841,8 +7757,6 @@ duổi 	duooir	50000
 duổi 	duoi	40000
 dưới 	duowis	50000
 dưới 	duoi	40000
-dưới 	duowis	50000
-dưới 	duoi	40000
 dười 	duowif	50000
 dười 	duoi	40000
 dượi 	duowij	50000
@@ -7851,8 +7765,6 @@ dượi 	duoi	40000
 đuôi 	duoi	40000
 đuối 	dduoois	50000
 đuối 	duoi	40000
-đuổi 	dduooir	50000
-đuổi 	duoi	40000
 đuổi 	dduooir	50000
 đuổi 	duoi	40000
 đươi 	dduowi	50000
@@ -7951,10 +7863,10 @@ duy có 	duy cos	50000
 duy có 	duy co	40000
 duy nhất 	duy nhaats	50000
 duy nhất 	duy nhat	40000
+duy trì 	duy trif	50000
+duy trì 	duy tri	40000
 duy trì. 	duy tri.f	50000
 duy trì. 	duy tri.	40000
-duyên 	duyeen	50000
-duyên 	duyen	40000
 duyên 	duyeen	50000
 duyên 	duyen	40000
 duyền 	duyeenf	50000
@@ -8003,8 +7915,6 @@ e thẹn 	e then	40000
 ếch 	ech	40000
 ệch 	eechj	50000
 ệch 	ech	40000
-em 	em	50000
-em 	em	40000
 em 	em	50000
 em 	em	40000
 ém 	ems	50000
@@ -8163,10 +8073,6 @@ gấn 	gaans	50000
 gấn 	gan	40000
 gần 	gaanf	50000
 gần 	gan	40000
-gần 	gaanf	50000
-gần 	gan	40000
-gắn 	gawns	50000
-gắn 	gan	40000
 gắn 	gawns	50000
 gắn 	gan	40000
 gằn 	gawnf	50000
@@ -8185,6 +8091,8 @@ gần đến 	gaanf ddeens	50000
 gần đến 	gan den	40000
 gần hết 	gaanf heets	50000
 gần hết 	gan het	40000
+gắn kết 	gawns keets	50000
+gắn kết 	gan ket	40000
 gần ngày 	gaanf ngayf	50000
 gần ngày 	gan ngay	40000
 gần như 	gaanf nhuw	50000
@@ -8221,6 +8129,8 @@ gào 	gaof	50000
 gào 	gao	40000
 gạo 	gaoj	50000
 gạo 	gao	40000
+gáo múc đổ 	gaos mucs ddoor	50000
+gáo múc đổ 	gao muc do	40000
 gáp 	gaps	50000
 gáp 	gap	40000
 gấp 	gaaps	50000
@@ -8293,6 +8203,8 @@ gây bệnh 	gaay beenhj	50000
 gây bệnh 	gay benh	40000
 gây cho 	gaay cho	50000
 gây cho 	gay cho	40000
+gãy chốt 	gayx choots	50000
+gãy chốt 	gay chot	40000
 gây giống 	gaay gioongs	50000
 gây giống 	gay giong	40000
 gay go rồi 	gay go rooif	50000
@@ -8361,8 +8273,8 @@ ghì 	ghif	50000
 ghì 	ghi	40000
 ghị 	ghij	50000
 ghị 	ghi	40000
-ghi chú 	ghi chus	50000
-ghi chú 	ghi chu	40000
+ghi chép 	ghi cheps	50000
+ghi chép 	ghi chep	40000
 ghi chú 	ghi chus	50000
 ghi chú 	ghi chu	40000
 ghi danh 	ghi danh	50000
@@ -8397,8 +8309,6 @@ gia 	gia	50000
 gia 	gia	40000
 giá 	gias	50000
 giá 	gia	40000
-giá 	gias	50000
-giá 	gia	40000
 già 	giaf	50000
 già 	gia	40000
 giã 	giax	50000
@@ -8415,8 +8325,6 @@ giá bán lẻ 	gias bans ler	50000
 giá bán lẻ 	gia ban le	40000
 giá cả 	gias car	50000
 giá cả 	gia ca	40000
-giá cả 	gias car	50000
-giá cả 	gia ca	40000
 gia cầm 	gia caamf	50000
 gia cầm 	gia cam	40000
 gia công 	gia coong	50000
@@ -8425,6 +8333,8 @@ giá đất 	gias ddaats	50000
 giá đất 	gia dat	40000
 gia đình 	gia ddinhf	50000
 gia đình 	gia dinh	40000
+giá dự kiến 	gias duwj kieens	50000
+giá dự kiến 	gia du kien	40000
 giá đựng rác 	gias dduwngj racs	50000
 giá đựng rác 	gia dung rac	40000
 giá gốc 	gias goocs	50000
@@ -8433,16 +8343,20 @@ giá gồm tiền hoa hồng 	gias goomf tieenf hoa hoongf	50000
 giá gồm tiền hoa hồng 	gia gom tien hoa hong	40000
 gia hạn 	gia hanj	50000
 gia hạn 	gia han	40000
-gia hạn 	gia hanj	50000
-gia hạn 	gia han	40000
 giá hiện nay 	gias hieenj nay	50000
 giá hiện nay 	gia hien nay	40000
 giá hiện tại 	gias hieenj taij	50000
 giá hiện tại 	gia hien tai	40000
+giá khuôn 	gias khuoon	50000
+giá khuôn 	gia khuon	40000
+giá linh kiện 	gias linh kieenj	50000
+giá linh kiện 	gia linh kien	40000
 giả ngốc 	giar ngoocs	50000
 giả ngốc 	gia ngoc	40000
 gia nhập 	gia nhaapj	50000
 gia nhập 	gia nhap	40000
+gia nhiệt 	gia nhieetj	50000
+gia nhiệt 	gia nhiet	40000
 gia phả 	gia phar	50000
 gia phả 	gia pha	40000
 giá phơi 	gias phowi	50000
@@ -8503,16 +8417,14 @@ giải khát 	giair khats	50000
 giải khát 	giai khat	40000
 giải nhì 	giair nhif	50000
 giải nhì 	giai nhi	40000
+giải nhiệm 	giair nhieemj	50000
+giải nhiệm 	giai nhiem	40000
 giải pháp 	giair phaps	50000
 giải pháp 	giai phap	40000
 giải phóng 	giair phongs	50000
 giải phóng 	giai phong	40000
 giải quyết 	giair quyeets	50000
 giải quyết 	giai quyet	40000
-giải quyết 	giair quyeets	50000
-giải quyết 	giai quyet	40000
-giải thích 	giair thichs	50000
-giải thích 	giai thich	40000
 giải thích 	giair thichs	50000
 giải thích 	giai thich	40000
 Giải thưởng 	Giair thuowngr	50000
@@ -8603,6 +8515,8 @@ gian lận 	gian laanj	50000
 gian lận 	gian lan	40000
 giận muốn chết 	giaanj muoons cheets	50000
 giận muốn chết 	gian muon chet	40000
+giàn xịt 	gianf xitj	50000
+giàn xịt 	gian xit	40000
 giang 	giang	50000
 giang 	giang	40000
 giáng 	giangs	50000
@@ -8669,8 +8583,6 @@ giáo trình 	giaos trinhf	50000
 giáo trình 	giao trinh	40000
 giáo viên 	giaos vieen	50000
 giáo viên 	giao vien	40000
-giáo viên 	giaos vieen	50000
-giáo viên 	giao vien	40000
 giáo viên cao cấp 	giaos vieen cao caaps	50000
 giáo viên cao cấp 	giao vien cao cap	40000
 giáo viên nhà trẻ 	giaos vieen nhaf trer	50000
@@ -8707,8 +8619,6 @@ giặt quần áo 	giawtj quaanf aos	50000
 giặt quần áo 	giat quan ao	40000
 giau 	giau	50000
 giau 	giau	40000
-giàu 	giauf	50000
-giàu 	giau	40000
 giàu 	giauf	50000
 giàu 	giau	40000
 giâu 	giaau	50000
@@ -8967,10 +8877,6 @@ giống nhau 	gioongs nhau	50000
 giống nhau 	giong nhau	40000
 giống như 	gioongs nhuw	50000
 giống như 	giong nhu	40000
-giống như 	gioongs nhuw	50000
-giống như 	giong nhu	40000
-giống như 	gioongs nhuw	50000
-giống như 	giong nhu	40000
 giọng nói 	giongj nois	50000
 giọng nói 	giong noi	40000
 giộp 	gioopj	50000
@@ -8991,8 +8897,6 @@ giú 	gius	50000
 giú 	giu	40000
 giũ 	giux	50000
 giũ 	giu	40000
-giữ 	giuwx	50000
-giữ 	giu	40000
 giữ 	giuwx	50000
 giữ 	giu	40000
 giữ gìn 	giuwx ginf	50000
@@ -9147,8 +9051,6 @@ gồm 	goomf	50000
 gồm 	gom	40000
 gớm 	gowms	50000
 gớm 	gom	40000
-gớm 	gowms	50000
-gớm 	gom	40000
 gờm 	gowmf	50000
 gờm 	gom	40000
 gôm đồ 	goom ddoof	50000
@@ -9193,8 +9095,6 @@ gột 	gootj	50000
 gột 	got	40000
 gợt 	gowtj	50000
 gợt 	got	40000
-gu 	gu	50000
-gu 	gu	40000
 gu 	gu	50000
 gu 	gu	40000
 gú 	gus	50000
@@ -9375,6 +9275,8 @@ hậm hực 	haamj huwcj	50000
 hậm hực 	ham huc	40000
 hàm lượng 	hamf luowngj	50000
 hàm lượng 	ham luong	40000
+hàm lượng nhựa thông 	hamf luowngj nhuwaj thoong	50000
+hàm lượng nhựa thông 	ham luong nhua thong	40000
 ham vui 	ham vui	50000
 ham vui 	ham vui	40000
 han 	han	50000
@@ -9415,6 +9317,8 @@ hạn chế 	hanj chees	50000
 hạn chế 	han che	40000
 hạn chót 	hanj chots	50000
 hạn chót 	han chot	40000
+hạn cuối 	hanj cuoois	50000
+hạn cuối 	han cuoi	40000
 hẳn họ 	hawnr hoj	50000
 hẳn họ 	han ho	40000
 hàn mạng cáp quang 	hanf mangj caps quang	50000
@@ -9453,6 +9357,8 @@ hạng 	hangj	50000
 hạng 	hang	40000
 hạng hai 	hangj hai	50000
 hạng hai 	hang hai	40000
+hàng hàng 	hangf hangf	50000
+hàng hàng 	hang hang	40000
 hãng hàng khôn 	hangx hangf khoon	50000
 hãng hàng khôn 	hang hang khon	40000
 hàng hóa 	hangf hoas	50000
@@ -9463,6 +9369,12 @@ hàng loạt 	hangf loatj	50000
 hàng loạt 	hang loat	40000
 hạng mục 	hangj mucj	50000
 hạng mục 	hang muc	40000
+hạng mục kiến nghị 	hangj mucj kieens nghij	50000
+hạng mục kiến nghị 	hang muc kien nghi	40000
+hạng mục thực hiện 	hangj mucj thuwcj hieenj	50000
+hạng mục thực hiện 	hang muc thuc hien	40000
+hạng mục thực thi 	hangj mucj thuwcj thi	50000
+hạng mục thực thi 	hang muc thuc thi	40000
 hàng năm 	hangf nawm	50000
 hàng năm 	hang nam	40000
 hằng năm 	hawngf nawm	50000
@@ -9507,6 +9419,8 @@ hành rào cây xanh 	hanhf raof caay xanh	50000
 hành rào cây xanh 	hanh rao cay xanh	40000
 hành tinh 	hanhf tinh	50000
 hành tinh 	hanh tinh	40000
+hành trình 	hanhf trinhf	50000
+hành trình 	hanh trinh	40000
 hành vi 	hanhf vi	50000
 hành vi 	hanh vi	40000
 hao 	hao	50000
@@ -9531,8 +9445,6 @@ hạp 	hapj	50000
 hạp 	hap	40000
 hập 	haapj	50000
 hập 	hap	40000
-hấp dẫn 	haaps daanx	50000
-hấp dẫn 	hap dan	40000
 hấp dẫn 	haaps daanx	50000
 hấp dẫn 	hap dan	40000
 hấp hối 	haaps hoois	50000
@@ -9575,8 +9487,6 @@ hậu 	haauj	50000
 hậu 	hau	40000
 hậu bối 	haauj boois	50000
 hậu bối 	hau boi	40000
-hầu hết 	haauf heets	50000
-hầu hết 	hau het	40000
 hầu hết 	haauf heets	50000
 hầu hết 	hau het	40000
 hầu như 	haauf nhuw	50000
@@ -9661,16 +9571,16 @@ hệ điều hàn 	heej ddieeuf hanf	50000
 hệ điều hàn 	he dieu han	40000
 hệ học 	heej hocj	50000
 hệ học 	he hoc	40000
-hệ học 	heej hocj	50000
-hệ học 	he hoc	40000
 hệ ngân hà 	heej ngaan haf	50000
 hệ ngân hà 	he ngan ha	40000
-hệ thống 	heej thoongs	50000
-hệ thống 	he thong	40000
+hệ số 	heej soos	50000
+hệ số 	he so	40000
 hệ thống 	heej thoongs	50000
 hệ thống 	he thong	40000
 hệ thống báo cháy 	heej thoongs baos chays	50000
 hệ thống báo cháy 	he thong bao chay	40000
+hệ thống chất lượng 	heej thoongs chaats luowngj	50000
+hệ thống chất lượng 	he thong chat luong	40000
 héc 	hecs	50000
 héc 	hec	40000
 hếch 	heechs	50000
@@ -9681,8 +9591,6 @@ hem 	hem	50000
 hem 	hem	40000
 hèm 	hemf	50000
 hèm 	hem	40000
-hẻm 	hemr	50000
-hẻm 	hem	40000
 hẻm 	hemr	50000
 hẻm 	hem	40000
 hẻm cụt 	hemr cutj	50000
@@ -9879,6 +9787,8 @@ hiểu rõ 	hieeur rox	50000
 hiểu rõ 	hieu ro	40000
 hiệu sách 	hieeuj sachs	50000
 hiệu sách 	hieu sach	40000
+hiệu suất 	hieeuj suaats	50000
+hiệu suất 	hieu suat	40000
 hiếu thắng 	hieeus thawngs	50000
 hiếu thắng 	hieu thang	40000
 hiếu thảo 	hieeus thaor	50000
@@ -9907,6 +9817,10 @@ hỉnh 	hinhr	50000
 hỉnh 	hinh	40000
 hình ảnh 	hinhf anhr	50000
 hình ảnh 	hinh anh	40000
+hình ảnh sau cải thiện 	hinhf anhr sau cair thieenj	50000
+hình ảnh sau cải thiện 	hinh anh sau cai thien	40000
+hình ảnh trước cải thiện 	hinhf anhr truowcs cair thieenj	50000
+hình ảnh trước cải thiện 	hinh anh truoc cai thien	40000
 hình cưới 	hinhf cuowis	50000
 hình cưới 	hinh cuoi	40000
 hình nền mờ 	hinhf neenf mowf	50000
@@ -9917,6 +9831,10 @@ hình thành 	hinhf thanhf	50000
 hình thành 	hinh thanh	40000
 hình thức 	hinhf thuwcs	50000
 hình thức 	hinh thuc	40000
+hình vẽ 	hinhf vex	50000
+hình vẽ 	hinh ve	40000
+hình vẽ minh họa 	hinhf vex minh hoaj	50000
+hình vẽ minh họa 	hinh ve minh hoa	40000
 hình xăm 	hinhf xawm	50000
 hình xăm 	hinh xam	40000
 híp 	hips	50000
@@ -9967,6 +9885,8 @@ họ hàng 	hoj hangf	50000
 họ hàng 	ho hang	40000
 hộ khẩu 	hooj khaaur	50000
 hộ khẩu 	ho khau	40000
+hở khí 	howr khis	50000
+hở khí 	ho khi	40000
 hồ nước 	hoof nuowcs	50000
 hồ nước 	ho nuoc	40000
 hồ sơ 	hoof sow	50000
@@ -9981,8 +9901,10 @@ họ tên tiếng việt 	hoj teen tieengs vieetj	50000
 họ tên tiếng việt 	ho ten tieng viet	40000
 hỗ trợ 	hoox trowj	50000
 hỗ trợ 	ho tro	40000
-hỗ trợ 	hoox trowj	50000
-hỗ trợ 	ho tro	40000
+họ và tên 	hoj vaf teen	50000
+họ và tên 	ho va ten	40000
+họ và tên học viên 	hoj vaf teen hocj vieen	50000
+họ và tên học viên 	ho va ten hoc vien	40000
 họ xa 	hoj xa	50000
 họ xa 	ho xa	40000
 hoa 	hoa	50000
@@ -10085,10 +10007,10 @@ hoan nghênh 	hoan ngheenh	50000
 hoan nghênh 	hoan nghenh	40000
 hoàn thành 	hoanf thanhf	50000
 hoàn thành 	hoan thanh	40000
+hoàn thành công trình 	hoanf thanhf coong trinhf	50000
+hoàn thành công trình 	hoan thanh cong trinh	40000
 hoãn thi hành án 	hoanx thi hanhf ans	50000
 hoãn thi hành án 	hoan thi hanh an	40000
-hoàn thiện 	hoanf thieenj	50000
-hoàn thiện 	hoan thien	40000
 hoàn thiện 	hoanf thieenj	50000
 hoàn thiện 	hoan thien	40000
 hoàn toàn 	hoanf toanf	50000
@@ -10135,6 +10057,14 @@ hoạt bát 	hoatj bats	50000
 hoạt bát 	hoat bat	40000
 hoạt động 	hoatj ddoongj	50000
 hoạt động 	hoat dong	40000
+hoạt động công đoàn 	hoatj ddoongj coong ddoanf	50000
+hoạt động công đoàn 	hoat dong cong doan	40000
+hoạt động kinh doanh 	hoatj ddoongj kinh doanh	50000
+hoạt động kinh doanh 	hoat dong kinh doanh	40000
+hoạt động mua hàng 	hoatj ddoongj mua hangf	50000
+hoạt động mua hàng 	hoat dong mua hang	40000
+hoạt động sản xuất 	hoatj ddoongj sanr xuaats	50000
+hoạt động sản xuất 	hoat dong san xuat	40000
 hoay 	hoay	50000
 hoay 	hoay	40000
 hoáy 	hoays	50000
@@ -10143,8 +10073,6 @@ hóc 	hocs	50000
 hóc 	hoc	40000
 hốc 	hoocs	50000
 hốc 	hoc	40000
-học 	hocj	50000
-học 	hoc	40000
 học 	hocj	50000
 học 	hoc	40000
 hộc 	hoocj	50000
@@ -10161,30 +10089,30 @@ học lực 	hocj luwcj	50000
 học lực 	hoc luc	40000
 học nấu 	hocj naaus	50000
 học nấu 	hoc nau	40000
-Học nhảy cấp 	Hocj nhayr caaps	50000
-Học nhảy cấp 	Hoc nhay cap	40000
-Học nhảy lớp 	Hocj nhayr lowps	50000
-Học nhảy lớp 	Hoc nhay lop	40000
+học nhảy cấp 	hocj nhayr caaps	50000
+học nhảy cấp 	hoc nhay cap	40000
+học nhảy lớp 	hocj nhayr lowps	50000
+học nhảy lớp 	hoc nhay lop	40000
 học phí 	hocj phis	50000
 học phí 	hoc phi	40000
 học sinh 	hocj sinh	50000
 học sinh 	hoc sinh	40000
-Học sinh cấp ba 	Hocj sinh caaps ba	50000
-Học sinh cấp ba 	Hoc sinh cap ba	40000
-Học sinh cấp hai 	Hocj sinh caaps hai	50000
-Học sinh cấp hai 	Hoc sinh cap hai	40000
-Học sinh giỏi 	Hocj sinh gioir	50000
-Học sinh giỏi 	Hoc sinh gioi	40000
-Học sinh mới 	Hocj sinh mowis	50000
-Học sinh mới 	Hoc sinh moi	40000
-Học sinh nội trú 	Hocj sinh nooij trus	50000
-Học sinh nội trú 	Hoc sinh noi tru	40000
-Học sinh thôi học 	Hocj sinh thooi hocj	50000
-Học sinh thôi học 	Hoc sinh thoi hoc	40000
-Học sinh tiểu học 	Hocj sinh tieeur hocj	50000
-Học sinh tiểu học 	Hoc sinh tieu hoc	40000
-Học sinh trung học 	Hocj sinh trung hocj	50000
-Học sinh trung học 	Hoc sinh trung hoc	40000
+học sinh cấp ba 	hocj sinh caaps ba	50000
+học sinh cấp ba 	hoc sinh cap ba	40000
+học sinh cấp hai 	hocj sinh caaps hai	50000
+học sinh cấp hai 	hoc sinh cap hai	40000
+học sinh giỏi 	hocj sinh gioir	50000
+học sinh giỏi 	hoc sinh gioi	40000
+học sinh mới 	hocj sinh mowis	50000
+học sinh mới 	hoc sinh moi	40000
+học sinh nội trú 	hocj sinh nooij trus	50000
+học sinh nội trú 	hoc sinh noi tru	40000
+học sinh thôi học 	hocj sinh thooi hocj	50000
+học sinh thôi học 	hoc sinh thoi hoc	40000
+học sinh tiểu học 	hocj sinh tieeur hocj	50000
+học sinh tiểu học 	hoc sinh tieu hoc	40000
+học sinh trung học 	hocj sinh trung hocj	50000
+học sinh trung học 	hoc sinh trung hoc	40000
 học tập 	hocj taapj	50000
 học tập 	hoc tap	40000
 học tập quá sức 	hocj taapj quas suwcs	50000
@@ -10231,14 +10159,10 @@ hòi 	hoif	50000
 hòi 	hoi	40000
 hôi 	hooi	50000
 hôi 	hoi	40000
-hôi 	hooi	50000
-hôi 	hoi	40000
 hối 	hoois	50000
 hối 	hoi	40000
 hồi 	hooif	50000
 hồi 	hoi	40000
-hỏi 	hoir	50000
-hỏi 	hoi	40000
 hỏi 	hoir	50000
 hỏi 	hoi	40000
 hơi 	howi	50000
@@ -10275,6 +10199,8 @@ hối hận 	hoois haanj	50000
 hối hận 	hoi han	40000
 hội họa 	hooij hoaj	50000
 hội họa 	hoi hoa	40000
+hơi hơi 	howi howi	50000
+hơi hơi 	hoi hoi	40000
 hồi hộp 	hooif hoopj	50000
 hồi hộp 	hoi hop	40000
 hỏi lại 	hoir laij	50000
@@ -10339,8 +10265,6 @@ hòn 	honf	50000
 hòn 	hon	40000
 hôn 	hoon	50000
 hôn 	hon	40000
-hôn 	hoon	50000
-hôn 	hon	40000
 hồn 	hoonf	50000
 hồn 	hon	40000
 hỗn 	hoonx	50000
@@ -10401,8 +10325,6 @@ hỏng 	hongr	50000
 hỏng 	hong	40000
 hổng 	hoongr	50000
 hổng 	hong	40000
-họng 	hongj	50000
-họng 	hong	40000
 họng 	hongj	50000
 họng 	hong	40000
 hồng ngoại 	hoongf ngoaij	50000
@@ -10639,16 +10561,12 @@ hương 	huowng	50000
 hương 	huong	40000
 hướng 	huowngs	50000
 hướng 	huong	40000
-hướng 	huowngs	50000
-hướng 	huong	40000
 hường 	huowngf	50000
 hường 	huong	40000
 hưỡng 	huowngx	50000
 hưỡng 	huong	40000
 hưởng 	huowngr	50000
 hưởng 	huong	40000
-hướng dẫn 	huowngs daanx	50000
-hướng dẫn 	huong dan	40000
 hướng dẫn 	huowngs daanx	50000
 hướng dẫn 	huong dan	40000
 hướng ngoại 	huowngs ngoaij	50000
@@ -10671,8 +10589,6 @@ hụt 	hutj	50000
 hụt 	hut	40000
 hút bụi 	huts buij	50000
 hút bụi 	hut bui	40000
-hút thuốc 	huts thuoocs	50000
-hút thuốc 	hut thuoc	40000
 hút thuốc 	huts thuoocs	50000
 hút thuốc 	hut thuoc	40000
 hưu 	huwu	50000
@@ -10705,6 +10621,8 @@ huy chương vàng 	huy chuowng vangf	50000
 huy chương vàng 	huy chuong vang	40000
 huy động 	huy ddoongj	50000
 huy động 	huy dong	40000
+hủy phép 	huyr pheps	50000
+hủy phép 	huy phep	40000
 huých 	huychs	50000
 huých 	huych	40000
 huỵch 	huychj	50000
@@ -10785,8 +10703,6 @@ im 	im	40000
 ỉm 	im	40000
 im lặng 	im lawngj	50000
 im lặng 	im lang	40000
-im lặng 	im lawngj	50000
-im lặng 	im lang	40000
 Im miệng 	Im mieengj	50000
 Im miệng 	Im mieng	40000
 in 	in	50000
@@ -10801,8 +10717,6 @@ inh 	inh	40000
 ình 	inh	40000
 Iraq 	Iraq	50000
 Iraq 	Iraq	40000
-ít 	its	50000
-ít 	it	40000
 ít 	its	50000
 ít 	it	40000
 ịt 	itj	50000
@@ -10865,6 +10779,12 @@ kể cả 	keer car	50000
 kể cả 	ke ca	40000
 kẻ cắp 	ker cawps	50000
 kẻ cắp 	ke cap	40000
+kế hoạch 	kees hoachj	50000
+kế hoạch 	ke hoach	40000
+kế hoạch đào tạo 	kees hoachj ddaof taoj	50000
+kế hoạch đào tạo 	ke hoach dao tao	40000
+kế hoạch giao hàng 	kees hoachj giao hangf	50000
+kế hoạch giao hàng 	ke hoach giao hang	40000
 kê khai 	kee khai	50000
 kê khai 	ke khai	40000
 kê khai thuế 	kee khai thuees	50000
@@ -10979,24 +10899,22 @@ kẹt giấy 	ketj giaays	50000
 kẹt giấy 	ket giay	40000
 kết hôn 	keets hoon	50000
 kết hôn 	ket hon	40000
-kết hôn 	keets hoon	50000
-kết hôn 	ket hon	40000
 kết luận 	keets luaanj	50000
 kết luận 	ket luan	40000
 kết mạc mắt 	keets macj mawts	50000
 kết mạc mắt 	ket mac mat	40000
 kết nối 	keets noois	50000
 kết nối 	ket noi	40000
-kết nối 	keets noois	50000
-kết nối 	ket noi	40000
 kết quả 	keets quar	50000
 kết quả 	ket qua	40000
+kết quả đào tạo 	keets quar ddaof taoj	50000
+kết quả đào tạo 	ket qua dao tao	40000
 Kết quả học tập 	Keets quar hocj taapj	50000
 Kết quả học tập 	Ket qua hoc tap	40000
+kết quả lao động 	keets quar lao ddoongj	50000
+kết quả lao động 	ket qua lao dong	40000
 kết thúc 	keets thucs	50000
 kết thúc 	ket thuc	40000
-kêu 	keeu	50000
-kêu 	keu	40000
 kêu 	keeu	50000
 kêu 	keu	40000
 kều 	keeuf	50000
@@ -11033,12 +10951,12 @@ khác gì 	khacs gif	50000
 khác gì 	khac gi	40000
 khác khác 	khacs khacs	50000
 khác khác 	khac khac	40000
+khắc mã 	khawcs max	50000
+khắc mã 	khac ma	40000
 khác nào 	khacs naof	50000
 khác nào 	khac nao	40000
 khác nhau 	khacs nhau	50000
 khác nhau 	khac nhau	40000
-khắc phục 	khawcs phucj	50000
-khắc phục 	khac phuc	40000
 khắc phục 	khawcs phucj	50000
 khắc phục 	khac phuc	40000
 khác thường 	khacs thuowngf	50000
@@ -11049,6 +10967,14 @@ khách 	khachs	50000
 khách 	khach	40000
 khách hàng 	khachs hangf	50000
 khách hàng 	khach hang	40000
+khách hàng hài lòng 	khachs hangf haif longf	50000
+khách hàng hài lòng 	khach hang hai long	40000
+khách hàng hủy 	khachs hangf huyr	50000
+khách hàng hủy 	khach hang huy	40000
+khách hàng phán định 	khachs hangf phans ddinhj	50000
+khách hàng phán định 	khach hang phan dinh	40000
+khách hàng xác nhận 	khachs hangf xacs nhaanj	50000
+khách hàng xác nhận 	khach hang xac nhan	40000
 khách quan 	khachs quan	50000
 khách quan 	khach quan	40000
 khách sạn 	khachs sanj	50000
@@ -11215,6 +11141,8 @@ khảu 	khaur	50000
 khảu 	khau	40000
 khẩu 	khaaur	50000
 khẩu 	khau	40000
+khấu hao 	khaaus hao	50000
+khấu hao 	khau hao	40000
 khẩu hiệu 	khaaur hieeuj	50000
 khẩu hiệu 	khau hieu	40000
 khẩu trang 	khaaur trang	50000
@@ -11403,8 +11331,6 @@ khò 	khof	50000
 khò 	kho	40000
 khô 	khoo	50000
 khô 	kho	40000
-khô 	khoo	50000
-khô 	kho	40000
 khố 	khoos	50000
 khố 	kho	40000
 khỏ 	khor	50000
@@ -11429,8 +11355,6 @@ khổ giấy 	khoor giaays	50000
 khổ giấy 	kho giay	40000
 khó khăn 	khos khawn	50000
 khó khăn 	kho khan	40000
-khó khăn 	khos khawn	50000
-khó khăn 	kho khan	40000
 khó làm 	khos lamf	50000
 khó làm 	kho lam	40000
 khó mở 	khos mowr	50000
@@ -11439,14 +11363,16 @@ khó nghe 	khos nghe	50000
 khó nghe 	kho nghe	40000
 khó nghĩ 	khos nghix	50000
 khó nghĩ 	kho nghi	40000
+kho ngoại quan 	kho ngoaij quan	50000
+kho ngoại quan 	kho ngoai quan	40000
 khó nói 	khos nois	50000
 khó nói 	kho noi	40000
+kho thành phẩm 	kho thanhf phaamr	50000
+kho thành phẩm 	kho thanh pham	40000
 khó thấy 	khos thaays	50000
 khó thấy 	kho thay	40000
 khó tránh 	khos tranhs	50000
 khó tránh 	kho tranh	40000
-khoa 	khoa	50000
-khoa 	khoa	40000
 khoa 	khoa	50000
 khoa 	khoa	40000
 khóa 	khoas	50000
@@ -11463,8 +11389,6 @@ khoắc 	khoawcs	50000
 khoắc 	khoac	40000
 khoách 	khoachs	50000
 khoách 	khoach	40000
-khoai 	khoai	50000
-khoai 	khoai	40000
 khoai 	khoai	50000
 khoai 	khoai	40000
 khoái 	khoais	50000
@@ -11491,6 +11415,8 @@ khoắn 	khoawns	50000
 khoắn 	khoan	40000
 khoản 	khoanr	50000
 khoản 	khoan	40000
+khoản tiền trả trước 	khoanr tieenf trar truowcs	50000
+khoản tiền trả trước 	khoan tien tra truoc	40000
 khoang 	khoang	50000
 khoang 	khoang	40000
 khoáng 	khoangs	50000
@@ -11567,10 +11493,14 @@ khởi đầu 	khowir ddaauf	50000
 khởi đầu 	khoi dau	40000
 khởi động 	khowir ddoongj	50000
 khởi động 	khoi dong	40000
-khởi động 	khowir ddoongj	50000
-khởi động 	khoi dong	40000
 khởi hành 	khowir hanhf	50000
 khởi hành 	khoi hanh	40000
+khối hành chính 	khoois hanhf chinhs	50000
+khối hành chính 	khoi hanh chinh	40000
+khối kinh doanh 	khoois kinh doanh	50000
+khối kinh doanh 	khoi kinh doanh	40000
+khối kỹ thuật 	khoois kyx thuaatj	50000
+khối kỹ thuật 	khoi ky thuat	40000
 khối lượng 	khoois luowngj	50000
 khối lượng 	khoi luong	40000
 khỏi nghĩ 	khoir nghix	50000
@@ -11583,6 +11513,8 @@ khỏi phải nói 	khoir phair nois	50000
 khỏi phải nói 	khoi phai noi	40000
 khởi sắc 	khowir sawcs	50000
 khởi sắc 	khoi sac	40000
+khối sản xuất 	khoois sanr xuaats	50000
+khối sản xuất 	khoi san xuat	40000
 khối u 	khoois u	50000
 khối u 	khoi u	40000
 khom 	khom	50000
@@ -11613,8 +11545,6 @@ khờn 	khownf	50000
 khờn 	khon	40000
 khong 	khong	50000
 khong 	khong	40000
-không 	khoong	50000
-không 	khong	40000
 không 	khoong	50000
 không 	khong	40000
 khống 	khoongs	50000
@@ -11661,10 +11591,6 @@ Không có đạ 	Khoong cos ddaj	50000
 Không có đạ 	Khong co da	40000
 Không có gì 	Khoong cos gif	50000
 Không có gì 	Khong co gi	40000
-Không có gì 	Khoong cos gif	50000
-Không có gì 	Khong co gi	40000
-Không có gì 	Khoong cos gif	50000
-Không có gì 	Khong co gi	40000
 không có gì đâu 	khoong cos gif ddaau	50000
 không có gì đâu 	khong co gi dau	40000
 Không có hiệu quả 	Khoong cos hieeuj quar	50000
@@ -11691,6 +11617,8 @@ không đáng giá 	khoong ddangs gias	50000
 không đáng giá 	khong dang gia	40000
 không đáng tin 	khoong ddangs tin	50000
 không đáng tin 	khong dang tin	40000
+không đạt 	khoong ddatj	50000
+không đạt 	khong dat	40000
 không dây 	khoong daay	50000
 không dây 	khong day	40000
 không đầy 	khoong ddaayf	50000
@@ -11759,8 +11687,6 @@ không ngứng 	khoong nguwngs	50000
 không ngứng 	khong ngung	40000
 không nhận 	khoong nhaanj	50000
 không nhận 	khong nhan	40000
-không nhận 	khoong nhaanj	50000
-không nhận 	khong nhan	40000
 không nhận được mail 	khoong nhaanj dduowcj mail	50000
 không nhận được mail 	khong nhan duoc mail	40000
 không những 	khoong nhuwngx	50000
@@ -11777,6 +11703,8 @@ không phải việc của bạn 	khoong phair vieecj cuar banj	50000
 không phải việc của bạn 	khong phai viec cua ban	40000
 không phân biệt 	khoong phaan bieetj	50000
 không phân biệt 	khong phan biet	40000
+không phê duyệt 	khoong phee duyeetj	50000
+không phê duyệt 	khong phe duyet	40000
 không sang được BPM 	khoong sang dduowcj BPM	50000
 không sang được BPM 	khong sang duoc BPM	40000
 không sao 	khoong sao	50000
@@ -11845,8 +11773,6 @@ khử 	khuwr	50000
 khử 	khu	40000
 khu công nghiệp 	khu coong nghieepj	50000
 khu công nghiệp 	khu cong nghiep	40000
-khu vực 	khu vuwcj	50000
-khu vực 	khu vuc	40000
 khu vực 	khu vuwcj	50000
 khu vực 	khu vuc	40000
 khu vực bàn kỹ thuật 	khu vuwcj banf kyx thuaatj	50000
@@ -11931,6 +11857,12 @@ khươm 	khuowm	50000
 khươm 	khuom	40000
 khuôn 	khuoon	50000
 khuôn 	khuon	40000
+khuôn đúc 	khuoon dducs	50000
+khuôn đúc 	khuon duc	40000
+khuôn đúc trọng lực 	khuoon dducs trongj luwcj	50000
+khuôn đúc trọng lực 	khuon duc trong luc	40000
+khuôn làm lõi cát 	khuoon lamf loix cats	50000
+khuôn làm lõi cát 	khuon lam loi cat	40000
 khuôn mặt 	khuoon mawtj	50000
 khuôn mặt 	khuon mat	40000
 khuông 	khuoong	50000
@@ -12045,12 +11977,28 @@ Kiểm định 	Kieemr ddinhj	50000
 Kiểm định 	Kiem dinh	40000
 kiểm kê 	kieemr kee	50000
 kiểm kê 	kiem ke	40000
+kiểm kê hàng tồn 	kieemr kee hangf toonf	50000
+kiểm kê hàng tồn 	kiem ke hang ton	40000
+kiểm kê tài sản cố định 	kieemr kee taif sanr coos ddinhj	50000
+kiểm kê tài sản cố định 	kiem ke tai san co dinh	40000
 kiểm lại 	kieemr laij	50000
 kiểm lại 	kiem lai	40000
+kiểm nghiệm 	kieemr nghieemj	50000
+kiểm nghiệm 	kiem nghiem	40000
 kiểm soát 	kieemr soats	50000
 kiểm soát 	kiem soat	40000
+kiểm soát kế hoạch 	kieemr soats kees hoachj	50000
+kiểm soát kế hoạch 	kiem soat ke hoach	40000
 kiểm tra 	kieemr tra	50000
 kiểm tra 	kiem tra	40000
+kiểm tra chát lượng 	kieemr tra chats luowngj	50000
+kiểm tra chát lượng 	kiem tra chat luong	40000
+kiểm tra ngoại quan 	kieemr tra ngoaij quan	50000
+kiểm tra ngoại quan 	kiem tra ngoai quan	40000
+kiểm tra nhập liệu 	kieemr tra nhaapj lieeuj	50000
+kiểm tra nhập liệu 	kiem tra nhap lieu	40000
+kiểm tra số lượng 	kieemr tra soos luowngj	50000
+kiểm tra số lượng 	kiem tra so luong	40000
 kiên 	kieen	50000
 kiên 	kien	40000
 kiến 	kieens	50000
@@ -12117,8 +12065,6 @@ kiểu mới 	kieeur mowis	50000
 kiểu mới 	kieu moi	40000
 kiểu tóc 	kieeur tocs	50000
 kiểu tóc 	kieu toc	40000
-kiểu tóc 	kieeur tocs	50000
-kiểu tóc 	kieu toc	40000
 ki-lô-gam 	ki-loo-gam	50000
 ki-lô-gam 	ki-lo-gam	40000
 ki-lô-gờ-ram 	ki-loo-gow-ramf	50000
@@ -12159,8 +12105,6 @@ kinh nghiệm 	kinh nghieemj	50000
 kinh nghiệm 	kinh nghiem	40000
 kinh nghiệm làm việc 	kinh nghieemj lamf vieecj	50000
 kinh nghiệm làm việc 	kinh nghiem lam viec	40000
-kinh nghiệm từng trải 	kinh nghieemj tuwngf trair	50000
-kinh nghiệm từng trải 	kinh nghiem tung trai	40000
 kinh nghiệm từng trải 	kinh nghieemj tuwngf trair	50000
 kinh nghiệm từng trải 	kinh nghiem tung trai	40000
 kinh nguyệt 	kinh nguyeetj	50000
@@ -12205,6 +12149,8 @@ kỵ 	kyj	50000
 kỵ 	ky	40000
 kỳ hạn 	kyf hanj	50000
 kỳ hạn 	ky han	40000
+ký hiệu 	kys hieeuj	50000
+ký hiệu 	ky hieu	40000
 ký hợp đồng 	kys howpj ddoongf	50000
 ký hợp đồng 	ky hop dong	40000
 kỷ lục 	kyr lucj	50000
@@ -12217,6 +12163,8 @@ kỳ nghỉ lễ 	kyf nghir leex	50000
 kỳ nghỉ lễ 	ky nghi le	40000
 kỳ nghỉ lễ dài ngày 	kyf nghir leex daif ngayf	50000
 kỳ nghỉ lễ dài ngày 	ky nghi le dai ngay	40000
+ký nhận 	kys nhaanj	50000
+ký nhận 	ky nhan	40000
 Kỷ niệm 	Kyr nieemj	50000
 Kỷ niệm 	Ky niem	40000
 kỳ phiếu 	kyf phieeus	50000
@@ -12225,8 +12173,6 @@ kỹ sư 	kyx suw	50000
 kỹ sư 	ky su	40000
 ký tên 	kys teen	50000
 ký tên 	ky ten	40000
-kỹ thuật 	kyx thuaatj	50000
-kỹ thuật 	ky thuat	40000
 kỹ thuật 	kyx thuaatj	50000
 kỹ thuật 	ky thuat	40000
 ký tự 	kys tuwj	50000
@@ -12239,8 +12185,6 @@ la 	la	50000
 la 	la	40000
 lá 	las	50000
 lá 	la	40000
-là 	laf	50000
-là 	la	40000
 là 	laf	50000
 là 	la	40000
 lã 	lax	50000
@@ -12347,8 +12291,6 @@ lám 	lams	50000
 lám 	lam	40000
 làm 	lamf	50000
 làm 	lam	40000
-làm 	lamf	50000
-làm 	lam	40000
 lâm 	laam	50000
 lâm 	lam	40000
 lăm 	lawm	50000
@@ -12385,16 +12327,12 @@ làm chi 	lamf chi	50000
 làm chi 	lam chi	40000
 làm cho 	lamf cho	50000
 làm cho 	lam cho	40000
-làm cho 	lamf cho	50000
-làm cho 	lam cho	40000
 làm chứng 	lamf chuwngs	50000
 làm chứng 	lam chung	40000
 làm cơm 	lamf cowm	50000
 làm cơm 	lam com	40000
 làm dần dần 	lamf daanf daanf	50000
 làm dần dần 	lam dan dan	40000
-làm dâu 	lamf daau	50000
-làm dâu 	lam dau	40000
 làm dâu 	lamf daau	50000
 làm dâu 	lam dau	40000
 làm đẹp 	lamf ddepj	50000
@@ -12417,6 +12355,8 @@ làm lòng 	lamf longf	50000
 làm lòng 	lam long	40000
 làm mất 	lamf maats	50000
 làm mất 	lam mat	40000
+làm mẫu 	lamf maaux	50000
+làm mẫu 	lam mau	40000
 làm nên 	lamf neen	50000
 làm nên 	lam nen	40000
 làm ngay 	lamf ngay	50000
@@ -12455,10 +12395,8 @@ làm tôi 	lamf tooi	50000
 làm tôi 	lam toi	40000
 làm tốt đấy 	lamf toots ddaays	50000
 làm tốt đấy 	lam tot day	40000
-Làm tốt lắm 	Lamf toots lawms	50000
-Làm tốt lắm 	Lam tot lam	40000
-Làm tốt lắm 	Lamf toots lawms	50000
-Làm tốt lắm 	Lam tot lam	40000
+làm tốt lắm 	lamf toots lawms	50000
+làm tốt lắm 	lam tot lam	40000
 làm tròn 	lamf tronf	50000
 làm tròn 	lam tron	40000
 làm vì 	lamf vif	50000
@@ -12523,12 +12461,12 @@ lần sang 	laanf sang	50000
 lần sang 	lan sang	40000
 lần sau 	laanf sau	50000
 lần sau 	lan sau	40000
+lần sửa 	laanf suwar	50000
+lần sửa 	lan sua	40000
 lần theo 	laanf theo	50000
 lần theo 	lan theo	40000
 lần tìm 	laanf timf	50000
 lần tìm 	lan tim	40000
-lần trước 	laanf truowcs	50000
-lần trước 	lan truoc	40000
 lần trước 	laanf truowcs	50000
 lần trước 	lan truoc	40000
 lăn xả 	lawn xar	50000
@@ -12585,6 +12523,10 @@ lạnh 	lanhj	50000
 lạnh 	lanh	40000
 lãnh đạo 	lanhx ddaoj	50000
 lãnh đạo 	lanh dao	40000
+lãnh liệu 	lanhx lieeuj	50000
+lãnh liệu 	lanh lieu	40000
+lãnh liệu vượt mức 	lanhx lieeuj vuowtj muwcs	50000
+lãnh liệu vượt mức 	lanh lieu vuot muc	40000
 lạnh lùng 	lanhj lungf	50000
 lạnh lùng 	lanh lung	40000
 lành mạnh 	lanhf manhj	50000
@@ -12627,10 +12569,10 @@ lặp 	lawpj	50000
 lặp 	lap	40000
 lắp đặt 	lawps ddawtj	50000
 lắp đặt 	lap dat	40000
-lắp đặt 	lawps ddawtj	50000
-lắp đặt 	lap dat	40000
 lắp đặt và cài 	lawps ddawtj vaf caif	50000
 lắp đặt và cài 	lap dat va cai	40000
+lắp ghép 	lawps gheps	50000
+lắp ghép 	lap ghep	40000
 lập gia đình 	laapj gia ddinhf	50000
 lập gia đình 	lap gia dinh	40000
 lập luận 	laapj luaanj	50000
@@ -12639,6 +12581,8 @@ lập mã 	laapj max	50000
 lập mã 	lap ma	40000
 lập pháp 	laapj phaps	50000
 lập pháp 	lap phap	40000
+lắp ráp 	lawps raps	50000
+lắp ráp 	lap rap	40000
 lập thành 	laapj thanhf	50000
 lập thành 	lap thanh	40000
 lập tờ 	laapj towf	50000
@@ -12659,10 +12603,6 @@ lật 	laatj	50000
 lật 	lat	40000
 lặt 	lawtj	50000
 lặt 	lat	40000
-lặt 	lawtj	50000
-lặt 	lat	40000
-lau 	lau	50000
-lau 	lau	40000
 lau 	lau	50000
 lau 	lau	40000
 láu 	laus	50000
@@ -12731,8 +12671,6 @@ lấy cả 	laays car	50000
 lấy cả 	lay ca	40000
 lấy cặp 	laays cawpj	50000
 lấy cặp 	lay cap	40000
-lấy chồng 	laays choongf	50000
-lấy chồng 	lay chong	40000
 lấy chồng 	laays choongf	50000
 lấy chồng 	lay chong	40000
 lấy có 	laays cos	50000
@@ -12899,6 +12837,10 @@ lểnh 	leenhr	50000
 lểnh 	lenh	40000
 lệnh 	leenhj	50000
 lệnh 	lenh	40000
+lệnh tạo 	leenhj taoj	50000
+lệnh tạo 	lenh tao	40000
+lệnh tạo hàng tháng 	leenhj taoj hangf thangs	50000
+lệnh tạo hàng tháng 	lenh tao hang thang	40000
 leo 	leo	50000
 leo 	leo	40000
 léo 	leos	50000
@@ -12957,6 +12899,10 @@ lịch sử 	lichj suwr	50000
 lịch sử 	lich su	40000
 lịch sự 	lichj suwj	50000
 lịch sự 	lich su	40000
+lịch trình 	lichj trinhf	50000
+lịch trình 	lich trinh	40000
+lịch trình kế hoạch 	lichj trinhf kees hoachj	50000
+lịch trình kế hoạch 	lich trinh ke hoach	40000
 liếc 	lieecs	50000
 liếc 	liec	40000
 liêm 	lieem	50000
@@ -12985,8 +12931,6 @@ liên đới 	lieen ddowis	50000
 liên đới 	lien doi	40000
 liên hệ 	lieen heej	50000
 liên hệ 	lien he	40000
-liên hệ 	lieen heej	50000
-liên hệ 	lien he	40000
 liên hoan 	lieen hoan	50000
 liên hoan 	lien hoan	40000
 Liên hợp quốc 	Lieen howpj quoocs	50000
@@ -12997,8 +12941,6 @@ liên lạc 	lieen lacj	50000
 liên lạc 	lien lac	40000
 liên minh 	lieen minh	50000
 liên minh 	lien minh	40000
-liên quan 	lieen quan	50000
-liên quan 	lien quan	40000
 liên quan 	lieen quan	50000
 liên quan 	lien quan	40000
 liên từ 	lieen tuwf	50000
@@ -13069,6 +13011,8 @@ linh kiện 	linh kieenj	50000
 linh kiện 	linh kien	40000
 lĩnh vực 	linhx vuwcj	50000
 lĩnh vực 	linh vuc	40000
+lĩnh vực cung cấp 	linhx vuwcj cung caaps	50000
+lĩnh vực cung cấp 	linh vuc cung cap	40000
 líp 	lips	50000
 líp 	lip	40000
 lít 	lits	50000
@@ -13125,6 +13069,8 @@ lô đấ 	loo ddaas	50000
 lô đấ 	lo da	40000
 lỗ đen 	loox dden	50000
 lỗ đen 	lo den	40000
+lò gia nhiệt 	lof gia nhieetj	50000
+lò gia nhiệt 	lo gia nhiet	40000
 lo lắng 	lo lawngs	50000
 lo lắng 	lo lang	40000
 lỗ mũi 	loox muix	50000
@@ -13135,6 +13081,8 @@ lở tuyết 	lowr tuyeets	50000
 lở tuyết 	lo tuyet	40000
 lò vi ba 	lof vi ba	50000
 lò vi ba 	lo vi ba	40000
+lò xoay 	lof xoay	50000
+lò xoay 	lo xoay	40000
 loa 	loa	50000
 loa 	loa	40000
 lóa 	loas	50000
@@ -13151,6 +13099,20 @@ loài 	loaif	50000
 loài 	loai	40000
 loại 	loaij	50000
 loại 	loai	40000
+loại bỏ 	loaij bor	50000
+loại bỏ 	loai bo	40000
+loại bỏ lõi cát 	loaij bor loix cats	50000
+loại bỏ lõi cát 	loai bo loi cat	40000
+loại chế độ 	loaij chees ddooj	50000
+loại chế độ 	loai che do	40000
+loại kho nhập 	loaij kho nhaapj	50000
+loại kho nhập 	loai kho nhap	40000
+loại sửa chữa 	loaij suwar chuwax	50000
+loại sửa chữa 	loai sua chua	40000
+loại tai nạn 	loaij tai nanj	50000
+loại tai nạn 	loai tai nan	40000
+loại tiền 	loaij tieenf	50000
+loại tiền 	loai tien	40000
 loại từ 	loaij tuwf	50000
 loại từ 	loai tu	40000
 loan 	loan	50000
@@ -13261,6 +13223,8 @@ lợi nhuận 	lowij nhuaanj	50000
 lợi nhuận 	loi nhuan	40000
 lời nói 	lowif nois	50000
 lời nói 	loi noi	40000
+lỗi thị trường 	looix thij truowngf	50000
+lỗi thị trường 	loi thi truong	40000
 lời vô ích 	lowif voo ichs	50000
 lời vô ích 	loi vo ich	40000
 lom 	lom	50000
@@ -13311,8 +13275,6 @@ lổn 	loonr	50000
 lổn 	lon	40000
 lọn 	lonj	50000
 lọn 	lon	40000
-lớn 	lowns	50000
-lớn 	lon	40000
 lớn 	lowns	50000
 lớn 	lon	40000
 lờn 	lownf	50000
@@ -13375,8 +13337,6 @@ lốp 	loops	50000
 lốp 	lop	40000
 lọp 	lopj	50000
 lọp 	lop	40000
-lớp 	lowps	50000
-lớp 	lop	40000
 lớp 	lowps	50000
 lớp 	lop	40000
 lộp 	loopj	50000
@@ -13477,8 +13437,6 @@ luật sư bào chữa 	luaatj suw baof chuwax	50000
 luật sư bào chữa 	luat su bao chua	40000
 lúc 	lucs	50000
 lúc 	luc	40000
-lúc 	lucs	50000
-lúc 	luc	40000
 lục 	lucj	50000
 lục 	luc	40000
 lức 	luwcs	50000
@@ -13503,8 +13461,6 @@ lúc khác 	lucs khacs	50000
 lúc khác 	luc khac	40000
 lúc lâu 	lucs laau	50000
 lúc lâu 	luc lau	40000
-lực lưỡng 	luwcj luowngx	50000
-lực lưỡng 	luc luong	40000
 lực lượng 	luwcj luowngj	50000
 lực lượng 	luc luong	40000
 lúc nào 	lucs naof	50000
@@ -13517,8 +13473,8 @@ lúc sáng 	lucs sangs	50000
 lúc sáng 	luc sang	40000
 lúc tảng sáng 	lucs tangr sangs	50000
 lúc tảng sáng 	luc tang sang	40000
-lục trà, trà xanh 	lucj tra,f traf xanh	50000
-lục trà, trà xanh 	luc tra, tra xanh	40000
+lục trà 	lucj traf	50000
+lục trà 	luc tra	40000
 lúc trước 	lucs truowcs	50000
 lúc trước 	luc truoc	40000
 luệ 	lueej	50000
@@ -13553,10 +13509,6 @@ lún 	luns	50000
 lún 	lun	40000
 lùn 	lunf	50000
 lùn 	lun	40000
-lùn 	lunf	50000
-lùn 	lun	40000
-lùn 	lunf	50000
-lùn 	lun	40000
 lũn 	lunx	50000
 lũn 	lun	40000
 lủn 	lunr	50000
@@ -13575,10 +13527,6 @@ lũng 	lungx	50000
 lũng 	lung	40000
 lủng 	lungr	50000
 lủng 	lung	40000
-lưng 	luwng	50000
-lưng 	lung	40000
-lưng 	luwng	50000
-lưng 	lung	40000
 lưng 	luwng	50000
 lưng 	lung	40000
 lụng 	lungj	50000
@@ -13607,10 +13555,6 @@ lưới 	luowis	50000
 lưới 	luoi	40000
 lười 	luowif	50000
 lười 	luoi	40000
-lười 	luowif	50000
-lười 	luoi	40000
-lưỡi 	luowix	50000
-lưỡi 	luoi	40000
 lưỡi 	luowix	50000
 lưỡi 	luoi	40000
 lượi 	luowij	50000
@@ -13663,6 +13607,8 @@ lượng 	luowngj	50000
 lượng 	luong	40000
 lượng cả 	luowngj car	50000
 lượng cả 	luong ca	40000
+lượng cần dùng 	luowngj caanf dungf	50000
+lượng cần dùng 	luong can dung	40000
 lượng số 	luowngj soos	50000
 lượng số 	luong so	40000
 lương thiện 	luowng thieenj	50000
@@ -13759,10 +13705,6 @@ ly hôn 	ly hoon	50000
 ly hôn 	ly hon	40000
 lý lịch 	lys lichj	50000
 lý lịch 	ly lich	40000
-lý lịch 	lys lichj	50000
-lý lịch 	ly lich	40000
-lý lịch công tác 	lys lichj coong tacs	50000
-lý lịch công tác 	ly lich cong tac	40000
 lý lịch công tác 	lys lichj coong tacs	50000
 lý lịch công tác 	ly lich cong tac	40000
 lý thú 	lys thus	50000
@@ -13791,10 +13733,32 @@ mà là 	maf laf	50000
 mà là 	ma la	40000
 mà lại 	maf laij	50000
 mà lại 	ma lai	40000
+mã lệnh sản xuất 	max leenhj sanr xuaats	50000
+mã lệnh sản xuất 	ma lenh san xuat	40000
 mã số 	max soos	50000
 mã số 	ma so	40000
+mã số bản vẽ 	max soos banr vex	50000
+mã số bản vẽ 	ma so ban ve	40000
 mã số bí mật 	max soos bis maatj	50000
 mã số bí mật 	ma so bi mat	40000
+mã số biểu mẫu 	max soos bieeur maaux	50000
+mã số biểu mẫu 	ma so bieu mau	40000
+mã số cụm 	max soos cumj	50000
+mã số cụm 	ma so cum	40000
+mã số khuôn 	max soos khuoon	50000
+mã số khuôn 	ma so khuon	40000
+mã số linh kiện 	max soos linh kieenj	50000
+mã số linh kiện 	ma so linh kien	40000
+mã số linh kiện cũ 	max soos linh kieenj cux	50000
+mã số linh kiện cũ 	ma so linh kien cu	40000
+mã số linh kiện mới 	max soos linh kieenj mowis	50000
+mã số linh kiện mới 	ma so linh kien moi	40000
+mã số sản phẩm 	max soos sanr phaamr	50000
+mã số sản phẩm 	ma so san pham	40000
+mã số trừ 	max soos truwf	50000
+mã số trừ 	ma so tru	40000
+mã số trừ tiền 	max soos truwf tieenf	50000
+mã số trừ tiền 	ma so tru tien	40000
 mà thôi 	maf thooi	50000
 mà thôi 	ma thoi	40000
 ma túy 	ma tuys	50000
@@ -13803,8 +13767,6 @@ mà vẫn 	maf vaanx	50000
 mà vẫn 	ma van	40000
 mác 	macs	50000
 mác 	mac	40000
-mắc 	mawcs	50000
-mắc 	mac	40000
 mắc 	mawcs	50000
 mắc 	mac	40000
 mạc 	macj	50000
@@ -13817,8 +13779,6 @@ mắc bệnh 	mawcs beenhj	50000
 mắc bệnh 	mac benh	40000
 mặc đồ 	mawcj ddoof	50000
 mặc đồ 	mac do	40000
-mặc dù 	mawcj duf	50000
-mặc dù 	mac du	40000
 mặc dù 	mawcj duf	50000
 mặc dù 	mac du	40000
 mặc dù...nhưng... 	mawcj du...nhuwng...f	50000
@@ -13905,14 +13865,8 @@ mặn 	mawnj	50000
 mặn 	man	40000
 màn hình 	manf hinhf	50000
 màn hình 	man hinh	40000
-màn hình 	manf hinhf	50000
-màn hình 	man hinh	40000
 mãn kinh 	manx kinh	50000
 mãn kinh 	man kinh	40000
-mang 	mang	50000
-mang 	mang	40000
-mang 	mang	50000
-mang 	mang	40000
 mang 	mang	50000
 mang 	mang	40000
 máng 	mangs	50000
@@ -13971,14 +13925,8 @@ mãnh 	manhx	50000
 mãnh 	manh	40000
 mảnh 	manhr	50000
 mảnh 	manh	40000
-mảnh 	manhr	50000
-mảnh 	manh	40000
 mạnh 	manhj	50000
 mạnh 	manh	40000
-mạnh 	manhj	50000
-mạnh 	manh	40000
-mạnh dạn 	manhj danj	50000
-mạnh dạn 	manh dan	40000
 mạnh dạn 	manhj danj	50000
 mạnh dạn 	manh dan	40000
 mảnh đất 	manhr ddaats	50000
@@ -13987,8 +13935,6 @@ mạnh giỏi 	manhj gioir	50000
 mạnh giỏi 	manh gioi	40000
 mảnh Khảnh 	manhr Khanhr	50000
 mảnh Khảnh 	manh Khanh	40000
-mạnh mẽ 	manhj mex	50000
-mạnh mẽ 	manh me	40000
 mạnh mẽ 	manhj mex	50000
 mạnh mẽ 	manh me	40000
 mao 	mao	50000
@@ -14021,8 +13967,6 @@ mất 	maats	50000
 mất 	mat	40000
 mắt 	mawts	50000
 mắt 	mat	40000
-mắt 	mawts	50000
-mắt 	mat	40000
 mạt 	matj	50000
 mạt 	mat	40000
 mật 	maatj	50000
@@ -14033,6 +13977,8 @@ mặt bằng 	mawtj bawngf	50000
 mặt bằng 	mat bang	40000
 mất còn 	maats conf	50000
 mất còn 	mat con	40000
+mất điện lưới 	maats ddieenj luowis	50000
+mất điện lưới 	mat dien luoi	40000
 mật độ 	maatj ddooj	50000
 mật độ 	mat do	40000
 mất giá 	maats gias	50000
@@ -14055,14 +14001,14 @@ mất mạng 	maats mangj	50000
 mất mạng 	mat mang	40000
 mặt mày ủ rũ 	mawtj mayf ur rux	50000
 mặt mày ủ rũ 	mat may u ru	40000
-mát mẽ 	mats mex	50000
-mát mẽ 	mat me	40000
 mát mẻ 	mats mer	50000
 mát mẻ 	mat me	40000
 mắt một mí 	mawts mootj mis	50000
 mắt một mí 	mat mot mi	40000
 mặt nạ 	mawtj naj	50000
 mặt nạ 	mat na	40000
+mất nguồn 	maats nguoonf	50000
+mất nguồn 	mat nguon	40000
 mất nước 	maats nuowcs	50000
 mất nước 	mat nuoc	40000
 mật ong 	maatj ong	50000
@@ -14085,10 +14031,6 @@ mặt trời mọc 	mawtj trowif mocj	50000
 mặt trời mọc 	mat troi moc	40000
 mau 	mau	50000
 mau 	mau	40000
-máu 	maus	50000
-máu 	mau	40000
-máu 	maus	50000
-máu 	mau	40000
 máu 	maus	50000
 máu 	mau	40000
 màu 	mauf	50000
@@ -14187,18 +14129,22 @@ Mày bán đứng tao 	Mayf bans dduwngs tao	50000
 Mày bán đứng tao 	May ban dung tao	40000
 máy bay 	mays bay	50000
 máy bay 	may bay	40000
+máy cắt 	mays cawts	50000
+máy cắt 	may cat	40000
 máy cày 	mays cayf	50000
 máy cày 	may cay	40000
 máy chiếu 	mays chieeus	50000
 máy chiếu 	may chieu	40000
-mày dám 	mayf dams	50000
-mày dám 	may dam	40000
 máy đào 	mays ddaof	50000
 máy đào 	may dao	40000
 máy dập ghim 	mays daapj ghim	50000
 máy dập ghim 	may dap ghim	40000
+máy đo độ cứng 	mays ddo ddooj cuwngs	50000
+máy đo độ cứng 	may do do cung	40000
 máy đóng sách 	mays ddongs sachs	50000
 máy đóng sách 	may dong sach	40000
+máy đúc trọng lực 	mays dducs trongj luwcj	50000
+máy đúc trọng lực 	may duc trong luc	40000
 máy ghi âm 	mays ghi aam	50000
 máy ghi âm 	may ghi am	40000
 máy giặt 	mays giawtj	50000
@@ -14207,14 +14153,16 @@ máy giặt đồ 	mays giawtj ddoof	50000
 máy giặt đồ 	may giat do	40000
 máy hút bụi 	mays huts buij	50000
 máy hút bụi 	may hut bui	40000
+máy hút mùi 	mays huts muif	50000
+máy hút mùi 	may hut mui	40000
 máy in 	mays in	50000
 máy in 	may in	40000
 máy in chữ 	mays in chuwx	50000
 máy in chữ 	may in chu	40000
 máy in kim 	mays in kim	50000
 máy in kim 	may in kim	40000
-máy lạnh 	mays lanhj	50000
-máy lạnh 	may lanh	40000
+máy làm lõi cát 	mays lamf loix cats	50000
+máy làm lõi cát 	may lam loi cat	40000
 máy lạnh 	mays lanhj	50000
 máy lạnh 	may lanh	40000
 máy lẻ 	mays ler	50000
@@ -14233,8 +14181,10 @@ máy nghe nhạc MP3 	mays nghe nhacj MP3	50000
 máy nghe nhạc MP3 	may nghe nhac MP3	40000
 máy phát điện 	mays phats ddieenj	50000
 máy phát điện 	may phat dien	40000
-máy quay phim 	mays quay phim	50000
-máy quay phim 	may quay phim	40000
+máy phun cát 	mays phun cats	50000
+máy phun cát 	may phun cat	40000
+máy quang phổ 	mays quang phoor	50000
+máy quang phổ 	may quang pho	40000
 máy quay phim 	mays quay phim	50000
 máy quay phim 	may quay phim	40000
 máy quét 	mays quets	50000
@@ -14247,12 +14197,12 @@ máy rút tiền tựng 	mays ruts tieenf tuwngj	50000
 máy rút tiền tựng 	may rut tien tung	40000
 máy sấy 	mays saays	50000
 máy sấy 	may say	40000
+máy sấy lõi cát 	mays saays loix cats	50000
+máy sấy lõi cát 	may say loi cat	40000
 máy sấy tóc 	mays saays tocs	50000
 máy sấy tóc 	may say toc	40000
 máy thử khí 	mays thuwr khis	50000
 máy thử khí 	may thu khi	40000
-máy tính 	mays tinhs	50000
-máy tính 	may tinh	40000
 máy tính 	mays tinhs	50000
 máy tính 	may tinh	40000
 máy tính xách ta 	mays tinhs xachs ta	50000
@@ -14263,8 +14213,14 @@ máy vi tính 	mays vi tinhs	50000
 máy vi tính 	may vi tinh	40000
 máy xếp dở 	mays xeeps dowr	50000
 máy xếp dở 	may xep do	40000
+máy xử lý mùi 	mays xuwr lys muif	50000
+máy xử lý mùi 	may xu ly mui	40000
 máy xúc 	mays xucs	50000
 máy xúc 	may xuc	40000
+máy xục 	mays xucj	50000
+máy xục 	may xuc	40000
+máy xục khí 	mays xucj khis	50000
+máy xục khí 	may xuc khi	40000
 me 	me	50000
 me 	me	40000
 mé 	mes	50000
@@ -14281,8 +14237,6 @@ mề 	meef	50000
 mề 	me	40000
 mễ 	meex	50000
 mễ 	me	40000
-mẻ 	mer	50000
-mẻ 	me	40000
 mẻ 	mer	50000
 mẻ 	me	40000
 mể 	meer	50000
@@ -14437,8 +14391,6 @@ miểng 	mieengr	50000
 miểng 	mieng	40000
 miệng 	mieengj	50000
 miệng 	mieng	40000
-miệng 	mieengj	50000
-miệng 	mieng	40000
 miết 	mieets	50000
 miết 	miet	40000
 miệt 	mieetj	50000
@@ -14483,6 +14435,8 @@ mịnh 	minhj	50000
 mịnh 	minh	40000
 minh chứng 	minh chuwngs	50000
 minh chứng 	minh chung	40000
+minh họa 	minh hoaj	50000
+minh họa 	minh hoa	40000
 míp 	mips	50000
 míp 	mip	40000
 mít 	mits	50000
@@ -14513,10 +14467,6 @@ mỏ 	mor	50000
 mỏ 	mo	40000
 mơ 	mow	50000
 mơ 	mo	40000
-mơ 	mow	50000
-mơ 	mo	40000
-mổ 	moor	50000
-mổ 	mo	40000
 mổ 	moor	50000
 mổ 	mo	40000
 mọ 	moj	50000
@@ -14557,6 +14507,8 @@ mở ra 	mowr ra	50000
 mở ra 	mo ra	40000
 mở rộng 	mowr roongj	50000
 mở rộng 	mo rong	40000
+mô tả 	moo tar	50000
+mô tả 	mo ta	40000
 Mở tài khoản 	Mowr taif khoanr	50000
 Mở tài khoản 	Mo tai khoan	40000
 moa 	moa	50000
@@ -14577,14 +14529,14 @@ mốc meo 	moocs meo	50000
 mốc meo 	moc meo	40000
 móc phơi 	mocs phowi	50000
 móc phơi 	moc phoi	40000
+móc treo 	mocs treo	50000
+móc treo 	moc treo	40000
 moi 	moi	50000
 moi 	moi	40000
 mói 	mois	50000
 mói 	moi	40000
 mòi 	moif	50000
 mòi 	moi	40000
-môi 	mooi	50000
-môi 	moi	40000
 môi 	mooi	50000
 môi 	moi	40000
 mõi 	moix	50000
@@ -14601,8 +14553,6 @@ mơi 	mowi	50000
 mơi 	moi	40000
 mọi 	moij	50000
 mọi 	moi	40000
-mới 	mowis	50000
-mới 	moi	40000
 mới 	mowis	50000
 mới 	moi	40000
 mời 	mowif	50000
@@ -14677,8 +14627,6 @@ mon 	mon	50000
 mon 	mon	40000
 món 	mons	50000
 món 	mon	40000
-món 	mons	50000
-món 	mon	40000
 mòn 	monf	50000
 mòn 	mon	40000
 môn 	moon	50000
@@ -14703,8 +14651,6 @@ món quà 	mons quaf	50000
 món quà 	mon qua	40000
 món tiền lớn 	mons tieenf lowns	50000
 món tiền lớn 	mon tien lon	40000
-mong 	mong	50000
-mong 	mong	40000
 mong 	mong	50000
 mong 	mong	40000
 móng 	mongs	50000
@@ -14745,8 +14691,6 @@ mốt 	moots	50000
 mốt 	mot	40000
 mọt 	motj	50000
 mọt 	mot	40000
-một 	mootj	50000
-một 	mot	40000
 một 	mootj	50000
 một 	mot	40000
 một cách 	mootj cachs	50000
@@ -14813,8 +14757,6 @@ mù 	muf	50000
 mù 	mu	40000
 mũ 	mux	50000
 mũ 	mu	40000
-mũ 	mux	50000
-mũ 	mu	40000
 mủ 	mur	50000
 mủ 	mu	40000
 mụ 	muj	50000
@@ -14827,8 +14769,6 @@ mự 	muwj	50000
 mự 	mu	40000
 mù màu 	muf mauf	50000
 mù màu 	mu mau	40000
-mua 	mua	50000
-mua 	mua	40000
 mua 	mua	50000
 mua 	mua	40000
 múa 	muas	50000
@@ -14891,8 +14831,16 @@ mực 	muwcj	50000
 mực 	muc	40000
 mục đích 	mucj ddichs	50000
 mục đích 	muc dich	40000
+mục đích đào tạo 	mucj ddichs ddaof taoj	50000
+mục đích đào tạo 	muc dich dao tao	40000
+mức độ 	muwcs ddooj	50000
+mức độ 	muc do	40000
+mức độ hài lòng 	muwcs ddooj haif longf	50000
+mức độ hài lòng 	muc do hai long	40000
 mục tiêu 	mucj tieeu	50000
 mục tiêu 	muc tieu	40000
+mục tiêu hoạt động 	mucj tieeu hoatj ddoongj	50000
+mục tiêu hoạt động 	muc tieu hoat dong	40000
 mui 	mui	50000
 mui 	mui	40000
 múi 	muis	50000
@@ -14981,8 +14929,6 @@ muỗm 	muoomx	50000
 muỗm 	muom	40000
 muôn 	muoon	50000
 muôn 	muon	40000
-muốn 	muoons	50000
-muốn 	muon	40000
 muốn 	muoons	50000
 muốn 	muon	40000
 muộn 	muoonj	50000
@@ -15103,16 +15049,12 @@ nâm 	naam	50000
 nâm 	nam	40000
 năm 	nawm	50000
 năm 	nam	40000
-năm 	nawm	50000
-năm 	nam	40000
 nấm 	naams	50000
 nấm 	nam	40000
 nầm 	naamf	50000
 nầm 	nam	40000
 nắm 	nawms	50000
 nắm 	nam	40000
-nằm 	nawmf	50000
-nằm 	nam	40000
 nằm 	nawmf	50000
 nằm 	nam	40000
 nẫm 	naamx	50000
@@ -15141,16 +15083,12 @@ năm nay 	nawm nay	50000
 năm nay 	nam nay	40000
 năm ngoái 	nawm ngoais	50000
 năm ngoái 	nam ngoai	40000
-năm ngoái 	nawm ngoais	50000
-năm ngoái 	nam ngoai	40000
 nam nữ 	nam nuwx	50000
 nam nữ 	nam nu	40000
 năm sau 	nawm sau	50000
 năm sau 	nam sau	40000
 năm sau nữa 	nawm sau nuwax	50000
 năm sau nữa 	nam sau nua	40000
-nắm tay 	nawms tay	50000
-nắm tay 	nam tay	40000
 nắm tay 	nawms tay	50000
 nắm tay 	nam tay	40000
 năm tháng 	nawm thangs	50000
@@ -15229,14 +15167,10 @@ nâng cao 	naang cao	50000
 nâng cao 	nang cao	40000
 nâng cấp 	naang caaps	50000
 nâng cấp 	nang cap	40000
-nâng cấp 	naang caaps	50000
-nâng cấp 	nang cap	40000
 nàng dâu 	nangf daau	50000
 nàng dâu 	nang dau	40000
 năng động 	nawng ddoongj	50000
 năng động 	nang dong	40000
-năng lực 	nawng luwcj	50000
-năng lực 	nang luc	40000
 năng lực 	nawng luwcj	50000
 năng lực 	nang luc	40000
 năng lực cá nhân 	nawng luwcj cas nhaan	50000
@@ -15267,8 +15201,6 @@ nao 	nao	50000
 nao 	nao	40000
 náo 	naos	50000
 náo 	nao	40000
-nào 	naof	50000
-nào 	nao	40000
 nào 	naof	50000
 nào 	nao	40000
 não 	naox	50000
@@ -15319,8 +15251,6 @@ nâu 	naau	50000
 nâu 	nau	40000
 nấu 	naaus	50000
 nấu 	nau	40000
-nấu 	naaus	50000
-nấu 	nau	40000
 nẫu 	naaux	50000
 nẫu 	nau	40000
 nẩu 	naaur	50000
@@ -15329,16 +15259,14 @@ nậu 	naauj	50000
 nậu 	nau	40000
 nấu ăn 	naaus awn	50000
 nấu ăn 	nau an	40000
-nấu ăn 	naaus awn	50000
-nấu ăn 	nau an	40000
+nấu chảy 	naaus chayr	50000
+nấu chảy 	nau chay	40000
 nấu chín 	naaus chins	50000
 nấu chín 	nau chin	40000
 nấu cơm 	naaus cowm	50000
 nấu cơm 	nau com	40000
 nấu nước 	naaus nuowcs	50000
 nấu nước 	nau nuoc	40000
-nấu nướng 	naaus nuowngs	50000
-nấu nướng 	nau nuong	40000
 nấu nướng 	naaus nuowngs	50000
 nấu nướng 	nau nuong	40000
 nay 	nay	50000
@@ -15407,8 +15335,6 @@ nèn 	nenf	50000
 nèn 	nen	40000
 nên 	neen	50000
 nên 	nen	40000
-nến 	neens	50000
-nến 	nen	40000
 nến 	neens	50000
 nến 	nen	40000
 nền 	neenf	50000
@@ -15507,8 +15433,6 @@ ngắc 	ngawcs	50000
 ngắc 	ngac	40000
 ngạc 	ngacj	50000
 ngạc 	ngac	40000
-ngạc nhiên 	ngacj nhieen	50000
-ngạc nhiên 	ngac nhien	40000
 ngạc nhiên 	ngacj nhieen	50000
 ngạc nhiên 	ngac nhien	40000
 ngách 	ngachs	50000
@@ -15691,10 +15615,6 @@ ngáy 	ngays	50000
 ngáy 	ngay	40000
 ngày 	ngayf	50000
 ngày 	ngay	40000
-ngày 	ngayf	50000
-ngày 	ngay	40000
-ngày 	ngayf	50000
-ngày 	ngay	40000
 ngây 	ngaay	50000
 ngây 	ngay	40000
 ngấy 	ngaays	50000
@@ -15715,12 +15635,18 @@ ngày càng 	ngayf cangf	50000
 ngày càng 	ngay cang	40000
 ngày cấp 	ngayf caaps	50000
 ngày cấp 	ngay cap	40000
+ngày cấp chứng nhận 	ngayf caaps chuwngs nhaanj	50000
+ngày cấp chứng nhận 	ngay cap chung nhan	40000
 ngày đê 	ngayf ddee	50000
 ngày đê 	ngay de	40000
 ngày đến 	ngayf ddeens	50000
 ngày đến 	ngay den	40000
+ngày giao hàng mẫu 	ngayf giao hangf maaux	50000
+ngày giao hàng mẫu 	ngay giao hang mau	40000
 ngày giờ 	ngayf giowf	50000
 ngày giờ 	ngay gio	40000
+ngày hết hạn 	ngayf heets hanj	50000
+ngày hết hạn 	ngay het han	40000
 ngày hôm qua 	ngayf hoom qua	50000
 ngày hôm qua 	ngay hom qua	40000
 ngay khi 	ngay khi	50000
@@ -15731,8 +15657,14 @@ ngày kia 	ngayf kia	50000
 ngày kia 	ngay kia	40000
 ngày kìa 	ngayf kiaf	50000
 ngày kìa 	ngay kia	40000
+ngày kiểm tra 	ngayf kieemr tra	50000
+ngày kiểm tra 	ngay kiem tra	40000
+ngày ký duyệt 	ngayf kys duyeetj	50000
+ngày ký duyệt 	ngay ky duyet	40000
 ngày làm việc 	ngayf lamf vieecj	50000
 ngày làm việc 	ngay lam viec	40000
+ngày lập 	ngayf laapj	50000
+ngày lập 	ngay lap	40000
 ngay lập tức 	ngay laapj tuwcs	50000
 ngay lập tức 	ngay lap tuc	40000
 ngày lễ 	ngayf leex	50000
@@ -15747,6 +15679,8 @@ ngay lúc này 	ngay lucs nayf	50000
 ngay lúc này 	ngay luc nay	40000
 ngày mai 	ngayf mai	50000
 ngày mai 	ngay mai	40000
+ngày mua 	ngayf mua	50000
+ngày mua 	ngay mua	40000
 ngày nào 	ngayf naof	50000
 ngày nào 	ngay nao	40000
 Ngày nào đó sẽ làm 	Ngayf naof ddos sex lamf	50000
@@ -15761,8 +15695,14 @@ ngày nghỉ 	ngayf nghir	50000
 ngày nghỉ 	ngay nghi	40000
 ngày nhà giá 	ngayf nhaf gias	50000
 ngày nhà giá 	ngay nha gia	40000
+ngày nhận 	ngayf nhaanj	50000
+ngày nhận 	ngay nhan	40000
+ngày nhận thông báo 	ngayf nhaanj thoong baos	50000
+ngày nhận thông báo 	ngay nhan thong bao	40000
 ngày nọ 	ngayf noj	50000
 ngày nọ 	ngay no	40000
+ngày phát sinh 	ngayf phats sinh	50000
+ngày phát sinh 	ngay phat sinh	40000
 ngày qua 	ngayf qua	50000
 ngày qua 	ngay qua	40000
 ngày Quốc khánh 	ngayf Quoocs khanhs	50000
@@ -15773,12 +15713,12 @@ ngày rày 	ngayf rayf	50000
 ngày rày 	ngay ray	40000
 ngày sinh 	ngayf sinh	50000
 ngày sinh 	ngay sinh	40000
-ngày sinh 	ngayf sinh	50000
-ngày sinh 	ngay sinh	40000
 ngày Tết 	ngayf Teets	50000
 ngày Tết 	ngay Tet	40000
 ngày tháng 	ngayf thangs	50000
 ngày tháng 	ngay thang	40000
+ngày tháng bàn giao 	ngayf thangs banf giao	50000
+ngày tháng bàn giao 	ngay thang ban giao	40000
 ngày tháng năm sinh 	ngayf thangs nawm sinh	50000
 ngày tháng năm sinh 	ngay thang nam sinh	40000
 ngay thật 	ngay thaatj	50000
@@ -15787,6 +15727,8 @@ ngây thơ 	ngaay thow	50000
 ngây thơ 	ngay tho	40000
 ngày thường 	ngayf thuowngf	50000
 ngày thường 	ngay thuong	40000
+ngày tồn kho quay vòng 	ngayf toonf kho quay vongf	50000
+ngày tồn kho quay vòng 	ngay ton kho quay vong	40000
 ngay từ 	ngay tuwf	50000
 ngay từ 	ngay tu	40000
 ngay tức khắc 	ngay tuwcs khawcs	50000
@@ -15831,10 +15773,8 @@ nghe chừng 	nghe chuwngf	50000
 nghe chừng 	nghe chung	40000
 nghe đài 	nghe ddaif	50000
 nghe đài 	nghe dai	40000
-nghe đài 	nghe ddaif	50000
-nghe đài 	nghe dai	40000
-nghề đánh c 	ngheef ddanhs c	50000
-nghề đánh c 	nghe danh c	40000
+nghề đánh cá 	ngheef ddanhs cas	50000
+nghề đánh cá 	nghe danh ca	40000
 nghe đâu 	nghe ddaau	50000
 nghe đâu 	nghe dau	40000
 nghe đâu như 	nghe ddaau nhuw	50000
@@ -15915,8 +15855,6 @@ nghéo 	ngheos	50000
 nghéo 	ngheo	40000
 nghèo 	ngheof	50000
 nghèo 	ngheo	40000
-nghèo 	ngheof	50000
-nghèo 	ngheo	40000
 nghẽo 	ngheox	50000
 nghẽo 	ngheo	40000
 nghẻo 	ngheor	50000
@@ -15957,8 +15895,8 @@ nghĩ đến 	nghix ddeens	50000
 nghĩ đến 	nghi den	40000
 nghỉ dưỡng già 	nghir duowngx giaf	50000
 nghỉ dưỡng già 	nghi duong gia	40000
-Nghỉ giữa giờ 	Nghir giuwax giowf	50000
-Nghỉ giữa giờ 	Nghi giua gio	40000
+nghỉ giữa giờ 	nghir giuwax giowf	50000
+nghỉ giữa giờ 	nghi giua gio	40000
 nghỉ hè 	nghir hef	50000
 nghỉ hè 	nghi he	40000
 nghỉ hưu 	nghir huwu	50000
@@ -15991,6 +15929,8 @@ nghía 	nghias	50000
 nghía 	nghia	40000
 nghĩa 	nghiax	50000
 nghĩa 	nghia	40000
+nghĩa vụ 	nghiax vuj	50000
+nghĩa vụ 	nghia vu	40000
 nghịch 	nghichj	50000
 nghịch 	nghich	40000
 nghịch điện thoại 	nghichj ddieenj thoaij	50000
@@ -16023,8 +15963,6 @@ nghiễn 	nghieenx	50000
 nghiễn 	nghien	40000
 nghiện 	nghieenj	50000
 nghiện 	nghien	40000
-nghiên cứu 	nghieen cuwus	50000
-nghiên cứu 	nghien cuu	40000
 nghiên cứu 	nghieen cuwus	50000
 nghiên cứu 	nghien cuu	40000
 nghiên cứu sinh 	nghieen cuwus sinh	50000
@@ -16073,8 +16011,6 @@ ngò 	ngof	50000
 ngò 	ngo	40000
 ngô 	ngoo	50000
 ngô 	ngo	40000
-ngõ 	ngox	50000
-ngõ 	ngo	40000
 ngõ 	ngox	50000
 ngõ 	ngo	40000
 ngố 	ngoos	50000
@@ -16131,12 +16067,6 @@ ngoai 	ngoai	50000
 ngoai 	ngoai	40000
 ngoái 	ngoais	50000
 ngoái 	ngoai	40000
-ngoái 	ngoais	50000
-ngoái 	ngoai	40000
-ngoài 	ngoaif	50000
-ngoài 	ngoai	40000
-ngoài 	ngoaif	50000
-ngoài 	ngoai	40000
 ngoài 	ngoaif	50000
 ngoài 	ngoai	40000
 ngoải 	ngoair	50000
@@ -16147,8 +16077,6 @@ ngoài ấy 	ngoaif aays	50000
 ngoài ấy 	ngoai ay	40000
 ngoại giao 	ngoaij giao	50000
 ngoại giao 	ngoai giao	40000
-ngoại hình 	ngoaij hinhf	50000
-ngoại hình 	ngoai hinh	40000
 ngoại hình 	ngoaij hinhf	50000
 ngoại hình 	ngoai hinh	40000
 ngoại hối 	ngoaij hoois	50000
@@ -16215,8 +16143,6 @@ ngóc 	ngocs	50000
 ngóc 	ngoc	40000
 ngốc 	ngoocs	50000
 ngốc 	ngoc	40000
-ngốc 	ngoocs	50000
-ngốc 	ngoc	40000
 ngọc 	ngocj	50000
 ngọc 	ngoc	40000
 ngộc 	ngoocj	50000
@@ -16251,8 +16177,6 @@ ngòi 	ngoif	50000
 ngòi 	ngoi	40000
 ngôi 	ngooi	50000
 ngôi 	ngoi	40000
-ngôi 	ngooi	50000
-ngôi 	ngoi	40000
 ngõi 	ngoix	50000
 ngõi 	ngoi	40000
 ngồi 	ngooif	50000
@@ -16277,12 +16201,6 @@ ngồi lâu 	ngooif laau	50000
 ngồi lâu 	ngoi lau	40000
 ngôi nhà 	ngooi nhaf	50000
 ngôi nhà 	ngoi nha	40000
-ngôi nhà 	ngooi nhaf	50000
-ngôi nhà 	ngoi nha	40000
-ngôi sao 	ngooi sao	50000
-ngôi sao 	ngoi sao	40000
-ngôi sao 	ngooi sao	50000
-ngôi sao 	ngoi sao	40000
 ngôi sao 	ngooi sao	50000
 ngôi sao 	ngoi sao	40000
 ngồi sau 	ngooif sau	50000
@@ -16339,8 +16257,6 @@ ngón cái 	ngons cais	50000
 ngón cái 	ngon cai	40000
 ngón chân 	ngons chaan	50000
 ngón chân 	ngon chan	40000
-ngón chân 	ngons chaan	50000
-ngón chân 	ngon chan	40000
 ngon lắm 	ngon lawms	50000
 ngon lắm 	ngon lam	40000
 ngổn ngang 	ngoonr ngang	50000
@@ -16353,16 +16269,10 @@ ngón nhẫn 	ngons nhaanx	50000
 ngón nhẫn 	ngon nhan	40000
 ngón tay 	ngons tay	50000
 ngón tay 	ngon tay	40000
-ngón tay 	ngons tay	50000
-ngón tay 	ngon tay	40000
-ngón tay cái 	ngons tay cais	50000
-ngón tay cái 	ngon tay cai	40000
 ngón tay cái 	ngons tay cais	50000
 ngón tay cái 	ngon tay cai	40000
 ngón tay giữa 	ngons tay giuwax	50000
 ngón tay giữa 	ngon tay giua	40000
-ngón tay trỏ 	ngons tay tror	50000
-ngón tay trỏ 	ngon tay tro	40000
 ngón tay trỏ 	ngons tay tror	50000
 ngón tay trỏ 	ngon tay tro	40000
 ngón tay út 	ngons tay uts	50000
@@ -16397,18 +16307,16 @@ ngợp 	ngowpj	50000
 ngợp 	ngop	40000
 ngót 	ngots	50000
 ngót 	ngot	40000
-ngót 	ngots	50000
-ngót 	ngot	40000
 ngốt 	ngoots	50000
 ngốt 	ngot	40000
-ngọt 	ngotj	50000
-ngọt 	ngot	40000
 ngọt 	ngotj	50000
 ngọt 	ngot	40000
 ngớt 	ngowts	50000
 ngớt 	ngot	40000
 ngột 	ngootj	50000
 ngột 	ngot	40000
+ngót chốt 	ngots choots	50000
+ngót chốt 	ngot chot	40000
 ngu 	ngu	50000
 ngu 	ngu	40000
 ngù 	nguf	50000
@@ -16475,8 +16383,6 @@ ngúc 	ngucs	50000
 ngúc 	nguc	40000
 ngục 	ngucj	50000
 ngục 	nguc	40000
-ngục 	ngucj	50000
-ngục 	nguc	40000
 ngực 	nguwcj	50000
 ngực 	nguc	40000
 ngực vú 	nguwcj vus	50000
@@ -16523,6 +16429,8 @@ ngừng 	nguwngf	50000
 ngừng 	ngung	40000
 ngửng 	nguwngr	50000
 ngửng 	ngung	40000
+ngừng sản xuất 	nguwngf sanr xuaats	50000
+ngừng sản xuất 	ngung san xuat	40000
 ngước 	nguowcs	50000
 ngước 	nguoc	40000
 ngược 	nguowcj	50000
@@ -16549,12 +16457,12 @@ người bán 	nguowif bans	50000
 người bán 	nguoi ban	40000
 người bạn 	nguowif banj	50000
 người bạn 	nguoi ban	40000
+người báo cáo 	nguowif baos caos	50000
+người báo cáo 	nguoi bao cao	40000
 người chủ trì 	nguowif chur trif	50000
 người chủ trì 	nguoi chu tri	40000
 người chưa vợ 	nguowif chuwa vowj	50000
 người chưa vợ 	nguoi chua vo	40000
-người dân 	nguowif daan	50000
-người dân 	nguoi dan	40000
 người dân 	nguowif daan	50000
 người dân 	nguoi dan	40000
 người đẹp 	nguowif ddepj	50000
@@ -16577,16 +16485,20 @@ người hướng dẫn 	nguowif huowngs daanx	50000
 người hướng dẫn 	nguoi huong dan	40000
 người khác 	nguowif khacs	50000
 người khác 	nguoi khac	40000
-người khác 	nguowif khacs	50000
-người khác 	nguoi khac	40000
 người khách 	nguowif khachs	50000
 người khách 	nguoi khach	40000
+người kiểm tra 	nguowif kieemr tra	50000
+người kiểm tra 	nguoi kiem tra	40000
 người làm chủ 	nguowif lamf chur	50000
 người làm chủ 	nguoi lam chu	40000
 người làm chứng 	nguowif lamf chuwngs	50000
 người làm chứng 	nguoi lam chung	40000
 người làm thuê 	nguowif lamf thuee	50000
 người làm thuê 	nguoi lam thue	40000
+người lập 	nguowif laapj	50000
+người lập 	nguoi lap	40000
+người liên hệ 	nguowif lieen heej	50000
+người liên hệ 	nguoi lien he	40000
 người lớn 	nguowif lowns	50000
 người lớn 	nguoi lon	40000
 người mẫu 	nguowif maaux	50000
@@ -16603,8 +16515,6 @@ người nghèo 	nguowif ngheof	50000
 người nghèo 	nguoi ngheo	40000
 người người 	nguowif nguowif	50000
 người người 	nguoi nguoi	40000
-người nhà 	nguowif nhaf	50000
-người nhà 	nguoi nha	40000
 người nhà 	nguowif nhaf	50000
 người nhà 	nguoi nha	40000
 người nhận 	nguowif nhaanj	50000
@@ -16629,12 +16539,12 @@ người sếp 	nguowif seeps	50000
 người sếp 	nguoi sep	40000
 người ta 	nguowif ta	50000
 người ta 	nguoi ta	40000
-người ta 	nguowif ta	50000
-người ta 	nguoi ta	40000
 người tàn tật 	nguowif tanf taatj	50000
 người tàn tật 	nguoi tan tat	40000
 người thân 	nguowif thaan	50000
 người thân 	nguoi than	40000
+người thay thế 	nguowif thay thees	50000
+người thay thế 	nguoi thay the	40000
 người tiêu dùng 	nguowif tieeu dungf	50000
 người tiêu dùng 	nguoi tieu dung	40000
 người trực máy 	nguowif truwcj mays	50000
@@ -16649,14 +16559,10 @@ người viết đơn ký tên 	nguowif vieets ddown kys teen	50000
 người viết đơn ký tên 	nguoi viet don ky ten	40000
 người yêu 	nguowif yeeu	50000
 người yêu 	nguoi yeu	40000
-người yêu 	nguowif yeeu	50000
-người yêu 	nguoi yeu	40000
 ngườm 	nguowmf	50000
 ngườm 	nguom	40000
 nguốn 	nguoons	50000
 nguốn 	nguon	40000
-nguồn 	nguoonf	50000
-nguồn 	nguon	40000
 nguồn 	nguoonf	50000
 nguồn 	nguon	40000
 ngươn 	nguown	50000
@@ -16713,6 +16619,10 @@ nguyên lý 	nguyeen lys	50000
 nguyên lý 	nguyen ly	40000
 nguyên nhân 	nguyeen nhaan	50000
 nguyên nhân 	nguyen nhan	40000
+nguyên nhân bỏ lọt 	nguyeen nhaan bor lotj	50000
+nguyên nhân bỏ lọt 	nguyen nhan bo lot	40000
+nguyên nhân trừ tiền 	nguyeen nhaan truwf tieenf	50000
+nguyên nhân trừ tiền 	nguyen nhan tru tien	40000
 nguyên tắc 	nguyeen tawcs	50000
 nguyên tắc 	nguyen tac	40000
 nguyên thủ quốc gia 	nguyeen thur quoocs gia	50000
@@ -16749,6 +16659,8 @@ nhà chờ xe buýt 	nhaf chowf xe buyts	50000
 nhà chờ xe buýt 	nha cho xe buyt	40000
 nhà chung 	nhaf chung	50000
 nhà chung 	nha chung	40000
+nhà cung cấp 	nhaf cung caaps	50000
+nhà cung cấp 	nha cung cap	40000
 nhà để xe 	nhaf ddeer xe	50000
 nhà để xe 	nha de xe	40000
 nhà ga tàu điện ngầ 	nhaf ga tauf ddieenj ngaaf	50000
@@ -16813,14 +16725,8 @@ nhà tôi 	nhaf tooi	50000
 nhà tôi 	nha toi	40000
 Nha Trang 	Nha Trang	50000
 Nha Trang 	Nha Trang	40000
-Nha Trang 	Nha Trang	50000
-Nha Trang 	Nha Trang	40000
 nhà trẻ 	nhaf trer	50000
 nhà trẻ 	nha tre	40000
-nhà trẻ 	nhaf trer	50000
-nhà trẻ 	nha tre	40000
-nhà trọ 	nhaf troj	50000
-nhà trọ 	nha tro	40000
 nhà trọ 	nhaf troj	50000
 nhà trọ 	nha tro	40000
 nhà trống 	nhaf troongs	50000
@@ -16869,8 +16775,6 @@ nhai 	nhai	50000
 nhai 	nhai	40000
 nhái 	nhais	50000
 nhái 	nhai	40000
-nhái 	nhais	50000
-nhái 	nhai	40000
 nhài 	nhaif	50000
 nhài 	nhai	40000
 nhãi 	nhaix	50000
@@ -16895,14 +16799,10 @@ nhầm 	nhaamf	50000
 nhầm 	nham	40000
 nhắm 	nhawms	50000
 nhắm 	nham	40000
-nhắm 	nhawms	50000
-nhắm 	nham	40000
 nhằm 	nhawmf	50000
 nhằm 	nham	40000
 nhẫm 	nhaamx	50000
 nhẫm 	nham	40000
-nhảm 	nhamr	50000
-nhảm 	nham	40000
 nhảm 	nhamr	50000
 nhảm 	nham	40000
 nhẩm 	nhaamr	50000
@@ -16959,12 +16859,16 @@ nhặn 	nhawnj	50000
 nhặn 	nhan	40000
 nhận biết 	nhaanj bieets	50000
 nhận biết 	nhan biet	40000
+nhân công 	nhaan coong	50000
+nhân công 	nhan cong	40000
 nhẫn cưới 	nhaanx cuowis	50000
 nhẫn cưới 	nhan cuoi	40000
 nhân dân 	nhaan daan	50000
 nhân dân 	nhan dan	40000
 Nhân Dân Tệ 	Nhaan Daan Teej	50000
 Nhân Dân Tệ 	Nhan Dan Te	40000
+nhận dạng 	nhaanj dangj	50000
+nhận dạng 	nhan dang	40000
 nhân dịp 	nhaan dipj	50000
 nhân dịp 	nhan dip	40000
 nhận được 	nhaanj dduowcj	50000
@@ -17009,6 +16913,8 @@ nhận việc 	nhaanj vieecj	50000
 nhận việc 	nhan viec	40000
 nhân viên 	nhaan vieen	50000
 nhân viên 	nhan vien	40000
+nhân viên phụ trách 	nhaan vieen phuj trachs	50000
+nhân viên phụ trách 	nhan vien phu trach	40000
 nhận xét 	nhaanj xets	50000
 nhận xét 	nhan xet	40000
 nhang 	nhang	50000
@@ -17075,16 +16981,16 @@ nhập cư 	nhaapj cuw	50000
 nhập cư 	nhap cu	40000
 nhập khẩu 	nhaapj khaaur	50000
 nhập khẩu 	nhap khau	40000
+nhập kho 	nhaapj kho	50000
+nhập kho 	nhap kho	40000
+nhập liệu 	nhaapj lieeuj	50000
+nhập liệu 	nhap lieu	40000
 nhát 	nhats	50000
 nhát 	nhat	40000
 nhất 	nhaats	50000
 nhất 	nhat	40000
-nhất 	nhaats	50000
-nhất 	nhat	40000
 nhắt 	nhawts	50000
 nhắt 	nhat	40000
-nhạt 	nhatj	50000
-nhạt 	nhat	40000
 nhạt 	nhatj	50000
 nhạt 	nhat	40000
 Nhật 	Nhaatj	50000
@@ -17145,8 +17051,6 @@ nhẩu 	nhaaur	50000
 nhẩu 	nhau	40000
 nhậu 	nhaauj	50000
 nhậu 	nhau	40000
-nhậu 	nhaauj	50000
-nhậu 	nhau	40000
 nhay 	nhay	50000
 nhay 	nhay	40000
 nháy 	nhays	50000
@@ -17159,8 +17063,6 @@ nhầy 	nhaayf	50000
 nhầy 	nhay	40000
 nhẫy 	nhaayx	50000
 nhẫy 	nhay	40000
-nhảy 	nhayr	50000
-nhảy 	nhay	40000
 nhảy 	nhayr	50000
 nhảy 	nhay	40000
 nhẩy 	nhaayr	50000
@@ -17181,8 +17083,6 @@ nhảy xa 	nhayr xa	50000
 nhảy xa 	nhay xa	40000
 nhe 	nhe	50000
 nhe 	nhe	40000
-nhé 	nhes	50000
-nhé 	nhe	40000
 nhé 	nhes	50000
 nhé 	nhe	40000
 nhè 	nhef	50000
@@ -17315,8 +17215,6 @@ nhiếu 	nhieeus	50000
 nhiếu 	nhieu	40000
 nhiều 	nhieeuf	50000
 nhiều 	nhieu	40000
-nhiều 	nhieeuf	50000
-nhiều 	nhieu	40000
 nhiễu 	nhieeux	50000
 nhiễu 	nhieu	40000
 nhiểu 	nhieeur	50000
@@ -17389,8 +17287,6 @@ nhố 	nhoos	50000
 nhố 	nho	40000
 nhỗ 	nhoox	50000
 nhỗ 	nho	40000
-nhỏ 	nhor	50000
-nhỏ 	nho	40000
 nhỏ 	nhor	50000
 nhỏ 	nho	40000
 nhơ 	nhow	50000
@@ -17609,8 +17505,6 @@ như ai 	nhuw ai	50000
 như ai 	nhu ai	40000
 nhu cầu 	nhu caauf	50000
 nhu cầu 	nhu cau	40000
-nhu cầu 	nhu caauf	50000
-nhu cầu 	nhu cau	40000
 như chơi 	nhuw chowi	50000
 như chơi 	nhu choi	40000
 như không 	nhuw khoong	50000
@@ -17653,6 +17547,8 @@ nhừa 	nhuwaf	50000
 nhừa 	nhua	40000
 nhựa 	nhuwaj	50000
 nhựa 	nhua	40000
+nhựa thông 	nhuwaj thoong	50000
+nhựa thông 	nhua thong	40000
 nhuân 	nhuaan	50000
 nhuân 	nhuan	40000
 nhuần 	nhuaanf	50000
@@ -17699,8 +17595,6 @@ nhùng 	nhungf	50000
 nhùng 	nhung	40000
 nhũng 	nhungx	50000
 nhũng 	nhung	40000
-nhưng 	nhuwng	50000
-nhưng 	nhung	40000
 nhưng 	nhuwng	50000
 nhưng 	nhung	40000
 nhụng 	nhungj	50000
@@ -17871,8 +17765,6 @@ nịu 	niuj	50000
 nịu 	niu	40000
 no 	no	50000
 no 	no	40000
-no 	no	50000
-no 	no	40000
 nó 	nos	50000
 nó 	no	40000
 nò 	nof	50000
@@ -17951,8 +17843,6 @@ nơi 	nowi	50000
 nơi 	noi	40000
 nổi 	nooir	50000
 nổi 	noi	40000
-nổi 	nooir	50000
-nổi 	noi	40000
 nọi 	noij	50000
 nọi 	noi	40000
 nới 	nowis	50000
@@ -17971,10 +17861,10 @@ nỗi buồn 	nooix buoonf	50000
 nỗi buồn 	noi buon	40000
 nội các 	nooij cacs	50000
 nội các 	noi cac	40000
+nồi các bon 	nooif cacs bon	50000
+nồi các bon 	noi cac bon	40000
 nổi cáu 	nooir caus	50000
 nổi cáu 	noi cau	40000
-Nói chung 	Nois chung	50000
-Nói chung 	Noi chung	40000
 nói chung 	nois chung	50000
 nói chung 	noi chung	40000
 nói chuyện 	nois chuyeenj	50000
@@ -17989,10 +17879,10 @@ nói đủ 	nois ddur	50000
 nói đủ 	noi du	40000
 nội dung 	nooij dung	50000
 nội dung 	noi dung	40000
-nội dung 	nooij dung	50000
-nội dung 	noi dung	40000
 nội dung bồi dưỡng đào tạo 	nooij dung booif duowngx ddaof taoj	50000
 nội dung bồi dưỡng đào tạo 	noi dung boi duong dao tao	40000
+nội dung thay đổi 	nooij dung thay ddooir	50000
+nội dung thay đổi 	noi dung thay doi	40000
 nơi hỏa táng 	nowi hoar tangs	50000
 nơi hỏa táng 	noi hoa tang	40000
 nói khó 	nois khos	50000
@@ -18003,6 +17893,8 @@ nói lại 	nois laij	50000
 nói lại 	noi lai	40000
 nói lên 	nois leen	50000
 nói lên 	noi len	40000
+nơi lưu 	nowi luwu	50000
+nơi lưu 	noi luu	40000
 nơi nảo 	nowi naor	50000
 nơi nảo 	noi nao	40000
 nói nhảm 	nois nhamr	50000
@@ -18011,18 +17903,20 @@ nói nhiều 	nois nhieeuf	50000
 nói nhiều 	noi nhieu	40000
 nói nhỏ 	nois nhor	50000
 nói nhỏ 	noi nho	40000
-Nói nhỏ một chút 	Nois nhor mootj chuts	50000
-Nói nhỏ một chút 	Noi nho mot chut	40000
+nói nhỏ một chút 	nois nhor mootj chuts	50000
+nói nhỏ một chút 	noi nho mot chut	40000
 nơi nơi 	nowi nowi	50000
 nơi nơi 	noi noi	40000
 nổi nóng 	nooir nongs	50000
 nổi nóng 	noi nong	40000
 nói phải 	nois phair	50000
 nói phải 	noi phai	40000
+nơi phát hiện 	nowi phats hieenj	50000
+nơi phát hiện 	noi phat hien	40000
 nói qua 	nois qua	50000
 nói qua 	noi qua	40000
-Nội quy nhà trường 	Nooij quy nhaf truowngf	50000
-Nội quy nhà trường 	Noi quy nha truong	40000
+nội quy nhà trường 	nooij quy nhaf truowngf	50000
+nội quy nhà trường 	noi quy nha truong	40000
 nói ra 	nois ra	50000
 nói ra 	noi ra	40000
 nói riêng 	nois rieeng	50000
@@ -18329,8 +18223,6 @@ nuôi con 	nuooi con	50000
 nuôi con 	nuoi con	40000
 nuôi dưỡng 	nuooi duowngx	50000
 nuôi dưỡng 	nuoi duong	40000
-nuôi dưỡng 	nuooi duowngx	50000
-nuôi dưỡng 	nuoi duong	40000
 nươm 	nuowm	50000
 nươm 	nuom	40000
 nườm 	nuowmf	50000
@@ -18387,8 +18279,6 @@ o 	o	40000
 ỏ 	o	40000
 ơ 	ow	50000
 ơ 	o	40000
-ổ 	oor	50000
-ổ 	o	40000
 ổ 	oor	50000
 ổ 	o	40000
 ọ 	oj	50000
@@ -18579,10 +18469,6 @@ om 	om	50000
 om 	om	40000
 ôm 	oom	50000
 ôm 	om	40000
-ôm 	oom	50000
-ôm 	om	40000
-ôm 	oom	50000
-ôm 	om	40000
 ốm 	ooms	50000
 ốm 	om	40000
 ồm 	oomf	50000
@@ -18621,8 +18507,6 @@ on 	on	40000
 ồn ào 	on ao	40000
 ổn định 	oonr ddinhj	50000
 ổn định 	on dinh	40000
-ôn hòa 	oon hoaf	50000
-ôn hòa 	on hoa	40000
 ôn hòa 	oon hoaf	50000
 ôn hòa 	on hoa	40000
 ong 	ong	50000
@@ -18807,16 +18691,12 @@ pha lê 	pha lee	50000
 pha lê 	pha le	40000
 phá thai 	phas thai	50000
 phá thai 	pha thai	40000
-phá thai 	phas thai	50000
-phá thai 	pha thai	40000
 phác 	phacs	50000
 phác 	phac	40000
 phắc 	phawcs	50000
 phắc 	phac	40000
 phạc 	phacj	50000
 phạc 	phac	40000
-phác thảo 	phacs thaor	50000
-phác thảo 	phac thao	40000
 phác thảo 	phacs thaor	50000
 phác thảo 	phac thao	40000
 phách 	phachs	50000
@@ -18829,8 +18709,6 @@ phái 	phais	50000
 phái 	phai	40000
 phài 	phaif	50000
 phài 	phai	40000
-phải 	phair	50000
-phải 	phai	40000
 phải 	phair	50000
 phải 	phai	40000
 phải biết 	phair bieets	50000
@@ -18917,8 +18795,10 @@ phận 	phaanj	50000
 phận 	phan	40000
 phân biệt 	phaan bieetj	50000
 phân biệt 	phan biet	40000
-phân biệt 	phaan bieetj	50000
-phân biệt 	phan biet	40000
+phân bố 	phaan boos	50000
+phân bố 	phan bo	40000
+phân bố hạt 	phaan boos hatj	50000
+phân bố hạt 	phan bo hat	40000
 phấn chấn 	phaans chaans	50000
 phấn chấn 	phan chan	40000
 phần cứng 	phaanf cuwngs	50000
@@ -18927,6 +18807,8 @@ phấn đấu 	phaans ddaaus	50000
 phấn đấu 	phan dau	40000
 phần đáy 	phaanf ddays	50000
 phần đáy 	phan day	40000
+phán định 	phans ddinhj	50000
+phán định 	phan dinh	40000
 phản đối 	phanr ddoois	50000
 phản đối 	phan doi	40000
 phần giá 	phaanf gias	50000
@@ -18939,8 +18821,6 @@ Phấn khởi lên nào 	Phaans khowir leen naof	50000
 Phấn khởi lên nào 	Phan khoi len nao	40000
 phần lớn 	phaanf lowns	50000
 phần lớn 	phan lon	40000
-phần mềm 	phaanf meemf	50000
-phần mềm 	phan mem	40000
 phần mềm 	phaanf meemf	50000
 phần mềm 	phan mem	40000
 phần mộ, mồ mả 	phaanf moo,j moof mar	50000
@@ -18967,10 +18847,6 @@ phần thưởng 	phaanf thuowngr	50000
 phần thưởng 	phan thuong	40000
 phân tích 	phaan tichs	50000
 phân tích 	phan tich	40000
-phân tích 	phaan tichs	50000
-phân tích 	phan tich	40000
-phần trăm 	phaanf trawm	50000
-phần trăm 	phan tram	40000
 phần trăm 	phaanf trawm	50000
 phần trăm 	phan tram	40000
 phản ứng 	phanr uwngs	50000
@@ -19047,8 +18923,6 @@ phát âm 	phats aam	50000
 phát âm 	phat am	40000
 phát biểu 	phats bieeur	50000
 phát biểu 	phat bieu	40000
-phát biểu 	phats bieeur	50000
-phát biểu 	phat bieu	40000
 phát động 	phats ddoongj	50000
 phát động 	phat dong	40000
 phát hành 	phats hanhf	50000
@@ -19059,10 +18933,6 @@ phát hiện 	phats hieenj	50000
 phát hiện 	phat hien	40000
 phát huy 	phats huy	50000
 phát huy 	phat huy	40000
-phát huy 	phats huy	50000
-phát huy 	phat huy	40000
-phát sinh 	phats sinh	50000
-phát sinh 	phat sinh	40000
 phát sinh 	phats sinh	50000
 phát sinh 	phat sinh	40000
 phát sóng 	phats songs	50000
@@ -19153,10 +19023,26 @@ phép chia 	pheps chia	50000
 phép chia 	phep chia	40000
 phép cộng 	pheps coongj	50000
 phép cộng 	phep cong	40000
+phép cưới 	pheps cuowis	50000
+phép cưới 	phep cuoi	40000
+phép không lương 	pheps khoong luowng	50000
+phép không lương 	phep khong luong	40000
+phép năm 	pheps nawm	50000
+phép năm 	phep nam	40000
 phép nhân 	pheps nhaan	50000
 phép nhân 	phep nhan	40000
+phép ốm 	pheps ooms	50000
+phép ốm 	phep om	40000
+phép tai nạn 	pheps tai nanj	50000
+phép tai nạn 	phep tai nan	40000
+phép tang 	pheps tang	50000
+phép tang 	phep tang	40000
+phép thai sản 	pheps thai sanr	50000
+phép thai sản 	phep thai san	40000
 phép trừ 	pheps truwf	50000
 phép trừ 	phep tru	40000
+phép việc riêng 	pheps vieecj rieeng	50000
+phép việc riêng 	phep viec rieng	40000
 phét 	phets	50000
 phét 	phet	40000
 phết 	pheets	50000
@@ -19225,6 +19111,10 @@ phiền 	phieenf	50000
 phiền 	phien	40000
 phiện 	phieenj	50000
 phiện 	phien	40000
+phiên bản 	phieen banr	50000
+phiên bản 	phien ban	40000
+phiên bản bản vẽ 	phieen banr banr vex	50000
+phiên bản bản vẽ 	phien ban ban ve	40000
 phiên dịch 	phieen dichj	50000
 phiên dịch 	phien dich	40000
 phiền phức 	phieenf phuwcs	50000
@@ -19241,8 +19131,6 @@ phiệt 	phieetj	50000
 phiệt 	phiet	40000
 phiêu 	phieeu	50000
 phiêu 	phieu	40000
-phiếu 	phieeus	50000
-phiếu 	phieu	40000
 phiếu 	phieeus	50000
 phiếu 	phieu	40000
 phiểu 	phieeur	50000
@@ -19335,16 +19223,12 @@ phối 	phoois	50000
 phối 	phoi	40000
 phơi 	phowi	50000
 phơi 	phoi	40000
-phơi 	phowi	50000
-phơi 	phoi	40000
 phổi 	phooir	50000
 phổi 	phoi	40000
 phới 	phowis	50000
 phới 	phoi	40000
 phời 	phowif	50000
 phời 	phoi	40000
-phối hợp 	phoois howpj	50000
-phối hợp 	phoi hop	40000
 phối hợp 	phoois howpj	50000
 phối hợp 	phoi hop	40000
 phơi quần áo 	phowi quaanf aos	50000
@@ -19389,6 +19273,8 @@ phộng 	phoongj	50000
 phộng 	phong	40000
 phòng ăn 	phongf awn	50000
 phòng ăn 	phong an	40000
+phòng ban 	phongf ban	50000
+phòng ban 	phong ban	40000
 phòng báo 	phongf baos	50000
 phòng báo 	phong bao	40000
 phong bì 	phong bif	50000
@@ -19491,6 +19377,8 @@ phụ huynh 	phuj huynh	50000
 phụ huynh 	phu huynh	40000
 phụ nữ 	phuj nuwx	50000
 phụ nữ 	phu nu	40000
+phụ trách 	phuj trachs	50000
+phụ trách 	phu trach	40000
 phùa 	phuaf	50000
 phùa 	phua	40000
 phúc 	phucs	50000
@@ -19525,10 +19413,10 @@ phún 	phuns	50000
 phún 	phun	40000
 phùn 	phunf	50000
 phùn 	phun	40000
+phun cát 	phun cats	50000
+phun cát 	phun cat	40000
 phung 	phung	50000
 phung 	phung	40000
-phúng 	phungs	50000
-phúng 	phung	40000
 phúng 	phungs	50000
 phúng 	phung	40000
 phùng 	phungf	50000
@@ -19571,12 +19459,24 @@ phượng 	phuowngj	50000
 phượng 	phuong	40000
 phương án 	phuowng ans	50000
 phương án 	phuong an	40000
+phương châm 	phuowng chaam	50000
+phương châm 	phuong cham	40000
+phương châm của năm 	phuowng chaam cuar nawm	50000
+phương châm của năm 	phuong cham cua nam	40000
 phương chi 	phuowng chi	50000
 phương chi 	phuong chi	40000
 phương hướng 	phuowng huowngs	50000
 phương hướng 	phuong huong	40000
 phương pháp 	phuowng phaps	50000
 phương pháp 	phuong phap	40000
+phương pháp đánh giá 	phuowng phaps ddanhs gias	50000
+phương pháp đánh giá 	phuong phap danh gia	40000
+phương pháp hủy 	phuowng phaps huyr	50000
+phương pháp hủy 	phuong phap huy	40000
+phương pháp kiểm soát 	phuowng phaps kieemr soats	50000
+phương pháp kiểm soát 	phuong phap kiem soat	40000
+phương pháp kiểm tra 	phuowng phaps kieemr tra	50000
+phương pháp kiểm tra 	phuong phap kiem tra	40000
 phương thức 	phuowng thuwcs	50000
 phương thức 	phuong thuc	40000
 phương thức liên hệ 	phuowng thuwcs lieen heej	50000
@@ -19625,8 +19525,6 @@ piêu 	pieeu	50000
 piêu 	pieu	40000
 pim 	pim	50000
 pim 	pim	40000
-pin 	pin	50000
-pin 	pin	40000
 pin 	pin	50000
 pin 	pin	40000
 pín 	pins	50000
@@ -19723,8 +19621,6 @@ quá 	quas	50000
 quá 	qua	40000
 quà 	quaf	50000
 quà 	qua	40000
-quà 	quaf	50000
-quà 	qua	40000
 quả 	quar	50000
 quả 	qua	40000
 quạ 	quaj	50000
@@ -19781,8 +19677,6 @@ quá sớm 	quas sowms	50000
 quá sớm 	qua som	40000
 quá tải 	quas tair	50000
 quá tải 	qua tai	40000
-quà tặng 	quaf tawngj	50000
-quà tặng 	qua tang	40000
 quà tặng 	quaf tawngj	50000
 quà tặng 	qua tang	40000
 quả táo 	quar taos	50000
@@ -19885,6 +19779,8 @@ quán cà phê thú cưng 	quans caf phee thus cuwng	50000
 quán cà phê thú cưng 	quan ca phe thu cung	40000
 quán café 	quans cafes	50000
 quán café 	quan cafe	40000
+quản chế 	quanr chees	50000
+quản chế 	quan che	40000
 quán cơm 	quans cowm	50000
 quán cơm 	quan com	40000
 quần cụt 	quaanf cutj	50000
@@ -19903,12 +19799,16 @@ quần jean 	quaanf jean	50000
 quần jean 	quan jean	40000
 quản lý 	quanr lys	50000
 quản lý 	quan ly	40000
+quản lý kinh doanh 	quanr lys kinh doanh	50000
+quản lý kinh doanh 	quan ly kinh doanh	40000
 quan niệm 	quan nieemj	50000
 quan niệm 	quan niem	40000
 quan sát 	quan sats	50000
 quan sát 	quan sat	40000
-quan sát 	quan sats	50000
-quan sát 	quan sat	40000
+quân số 	quaan soos	50000
+quân số 	quan so	40000
+quân số bộ phận 	quaan soos booj phaanj	50000
+quân số bộ phận 	quan so bo phan	40000
 quan tài 	quan taif	50000
 quan tài 	quan tai	40000
 quan tâm 	quan taam	50000
@@ -19949,6 +19849,8 @@ quảng bá 	quangr bas	50000
 quảng bá 	quang ba	40000
 quảng cáo 	quangr caos	50000
 quảng cáo 	quang cao	40000
+quang phổ 	quang phoor	50000
+quang phổ 	quang pho	40000
 quảng trường 	quangr truowngf	50000
 quảng trường 	quang truong	40000
 quang vinh 	quang vinh	50000
@@ -20019,14 +19921,14 @@ quay đi 	quay ddi	50000
 quay đi 	quay di	40000
 quay lại 	quay laij	50000
 quay lại 	quay lai	40000
-quay lại 	quay laij	50000
-quay lại 	quay lai	40000
 quây quần 	quaay quaanf	50000
 quây quần 	quay quan	40000
 quay số 	quay soos	50000
 quay số 	quay so	40000
 quay về 	quay veef	50000
 quay về 	quay ve	40000
+quay vòng 	quay vongf	50000
+quay vòng 	quay vong	40000
 que 	que	50000
 que 	que	40000
 qué 	ques	50000
@@ -20063,6 +19965,8 @@ quẹn 	quenj	50000
 quẹn 	quen	40000
 quện 	queenj	50000
 quện 	quen	40000
+quên quẹt thẻ 	queen quetj ther	50000
+quên quẹt thẻ 	quen quet the	40000
 quen thuộc 	quen thuoocj	50000
 quen thuộc 	quen thuoc	40000
 quềnh 	queenhf	50000
@@ -20159,8 +20063,6 @@ quy 	quy	50000
 quy 	quy	40000
 quý 	quys	50000
 quý 	quy	40000
-quý 	quys	50000
-quý 	quy	40000
 quỳ 	quyf	50000
 quỳ 	quy	40000
 quỹ 	quyx	50000
@@ -20169,14 +20071,18 @@ quỷ 	quyr	50000
 quỷ 	quy	40000
 quỵ 	quyj	50000
 quỵ 	quy	40000
+quy cách 	quy cachs	50000
+quy cách 	quy cach	40000
+quy cách nguyên liệu 	quy cachs nguyeen lieeuj	50000
+quy cách nguyên liệu 	quy cach nguyen lieu	40000
 quý công ty 	quys coong ty	50000
 quý công ty 	quy cong ty	40000
 quy định 	quy ddinhj	50000
 quy định 	quy dinh	40000
+quy đổi 	quy ddooir	50000
+quy đổi 	quy doi	40000
 quy hoạch 	quy hoachj	50000
 quy hoạch 	quy hoach	40000
-quý khách 	quys khachs	50000
-quý khách 	quy khach	40000
 quý khách 	quys khachs	50000
 quý khách 	quy khach	40000
 quy luật 	quy luaatj	50000
@@ -20191,8 +20097,6 @@ quyến 	quyeens	50000
 quyến 	quyen	40000
 quyền 	quyeenf	50000
 quyền 	quyen	40000
-quyền 	quyeenf	50000
-quyền 	quyen	40000
 quyển 	quyeenr	50000
 quyển 	quyen	40000
 quyện 	quyeenj	50000
@@ -20201,12 +20105,8 @@ quyền anh 	quyeenf anh	50000
 quyền anh 	quyen anh	40000
 quyền hạn 	quyeenf hanj	50000
 quyền hạn 	quyen han	40000
-quyền hạn 	quyeenf hanj	50000
-quyền hạn 	quyen han	40000
 quyền lực 	quyeenf luwcj	50000
 quyền lực 	quyen luc	40000
-quyến rũ 	quyeens rux	50000
-quyến rũ 	quyen ru	40000
 quyến rũ 	quyeens rux	50000
 quyến rũ 	quyen ru	40000
 quyển sách 	quyeenr sachs	50000
@@ -20217,8 +20117,6 @@ quyết 	quyeets	50000
 quyết 	quyet	40000
 quyệt 	quyeetj	50000
 quyệt 	quyet	40000
-quyết định 	quyeets ddinhj	50000
-quyết định 	quyet dinh	40000
 quyết định 	quyeets ddinhj	50000
 quyết định 	quyet dinh	40000
 quyết đoán 	quyeets ddoans	50000
@@ -20277,10 +20175,6 @@ ra máu 	ra maus	50000
 ra máu 	ra mau	40000
 ra ngoài 	ra ngoaif	50000
 ra ngoài 	ra ngoai	40000
-ra ngoài 	ra ngoaif	50000
-ra ngoài 	ra ngoai	40000
-ra ngoài 	ra ngoaif	50000
-ra ngoài 	ra ngoai	40000
 ra ngôi 	ra ngooi	50000
 ra ngôi 	ra ngoi	40000
 ra người 	ra nguowif	50000
@@ -20295,8 +20189,6 @@ ra tòa 	ra toaf	50000
 ra tòa 	ra toa	40000
 ra trải giường 	ra trair giuowngf	50000
 ra trải giường 	ra trai giuong	40000
-ra vào 	ra vaof	50000
-ra vào 	ra vao	40000
 ra vào 	ra vaof	50000
 ra vào 	ra vao	40000
 ra ý 	ra ys	50000
@@ -20387,8 +20279,6 @@ ràng 	rangf	50000
 ràng 	rang	40000
 răng 	rawng	50000
 răng 	rang	40000
-răng 	rawng	50000
-răng 	rang	40000
 rầng 	raangf	50000
 rầng 	rang	40000
 rắng 	rawngs	50000
@@ -20441,8 +20331,6 @@ ráo 	raos	50000
 ráo 	rao	40000
 rào 	raof	50000
 rào 	rao	40000
-rào 	raof	50000
-rào 	rao	40000
 rảo 	raor	50000
 rảo 	rao	40000
 rạo 	raoj	50000
@@ -20487,10 +20375,6 @@ rất lâu 	raats laau	50000
 rất lâu 	rat lau	40000
 rất tốt 	raats toots	50000
 rất tốt 	rat tot	40000
-rất tốt 	raats toots	50000
-rất tốt 	rat tot	40000
-rất tốt 	raats toots	50000
-rất tốt 	rat tot	40000
 rất vui được gặp 	raats vui dduowcj gawpj	50000
 rất vui được gặp 	rat vui duoc gap	40000
 Rất vui được gặp bạn 	Raats vui dduowcj gawpj banj	50000
@@ -20501,8 +20385,6 @@ ráu 	raus	50000
 ráu 	rau	40000
 ràu 	rauf	50000
 ràu 	rau	40000
-râu 	raau	50000
-râu 	rau	40000
 râu 	raau	50000
 râu 	rau	40000
 rầu 	raauf	50000
@@ -20573,8 +20455,6 @@ rem 	rem	50000
 rem 	rem	40000
 rèm 	remf	50000
 rèm 	rem	40000
-rèm 	remf	50000
-rèm 	rem	40000
 rêm 	reem	50000
 rêm 	rem	40000
 ren 	ren	50000
@@ -20617,8 +20497,6 @@ rệp 	reepj	50000
 rệp 	rep	40000
 rét 	rets	50000
 rét 	ret	40000
-rét 	rets	50000
-rét 	ret	40000
 rết 	reets	50000
 rết 	ret	40000
 rẹt 	retj	50000
@@ -20633,6 +20511,8 @@ rều 	reeuf	50000
 rều 	reu	40000
 rệu 	reeuj	50000
 rệu 	reu	40000
+RFQ 	RFQ	50000
+RFQ 	RFQ	40000
 ri 	ri	50000
 ri 	ri	40000
 rí 	ris	50000
@@ -20729,8 +20609,6 @@ rố 	roos	50000
 rố 	ro	40000
 rồ 	roof	50000
 rồ 	ro	40000
-rồ 	roof	50000
-rồ 	ro	40000
 rỗ 	roox	50000
 rỗ 	ro	40000
 rỏ 	ror	50000
@@ -20753,6 +20631,8 @@ rở 	rowr	50000
 rở 	ro	40000
 rợ 	rowj	50000
 rợ 	ro	40000
+rỗ khí 	roox khis	50000
+rỗ khí 	ro khi	40000
 rõ là 	rox laf	50000
 rõ là 	ro la	40000
 rõ ràng 	rox rangf	50000
@@ -20901,10 +20781,6 @@ rổng 	roongr	50000
 rổng 	rong	40000
 rộng 	roongj	50000
 rộng 	rong	40000
-rộng 	roongj	50000
-rộng 	rong	40000
-rộng rãi 	roongj raix	50000
-rộng rãi 	rong rai	40000
 rộng rãi 	roongj raix	50000
 rộng rãi 	rong rai	40000
 rốp 	roops	50000
@@ -20995,8 +20871,6 @@ rụi 	ruij	50000
 rụi 	rui	40000
 rủi ro 	ruir ro	50000
 rủi ro 	rui ro	40000
-rủi ro 	ruir ro	50000
-rủi ro 	rui ro	40000
 rum 	rum	50000
 rum 	rum	40000
 rúm 	rums	50000
@@ -21041,8 +20915,6 @@ rược 	ruowcj	50000
 rược 	ruoc	40000
 ruối 	ruoois	50000
 ruối 	ruoi	40000
-ruồi 	ruooif	50000
-ruồi 	ruoi	40000
 ruồi 	ruooif	50000
 ruồi 	ruoi	40000
 ruỗi 	ruooix	50000
@@ -21107,6 +20979,10 @@ rựt 	ruwtj	50000
 rựt 	rut	40000
 rút cục 	ruts cucj	50000
 rút cục 	rut cuc	40000
+rút kiểm 	ruts kieemr	50000
+rút kiểm 	rut kiem	40000
+rút kinh nghiệm 	ruts kinh nghieemj	50000
+rút kinh nghiệm 	rut kinh nghiem	40000
 rút tiền 	ruts tieenf	50000
 rút tiền 	rut tien	40000
 ruy 	ruy	50000
@@ -21171,8 +21047,6 @@ sại 	saij	50000
 sại 	sai	40000
 Sài Gòn 	Saif Gonf	50000
 Sài Gòn 	Sai Gon	40000
-sai lầm 	sai laamf	50000
-sai lầm 	sai lam	40000
 sai lầm 	sai laamf	50000
 sai lầm 	sai lam	40000
 sam 	sam	50000
@@ -21259,10 +21133,6 @@ sản phụ 	sanr phuj	50000
 sản phụ 	san phu	40000
 sẵn sàng 	sawnx sangf	50000
 sẵn sàng 	san sang	40000
-sẵn sàng 	sawnx sangf	50000
-sẵn sàng 	san sang	40000
-sẵn sàng 	sawnx sangf	50000
-sẵn sàng 	san sang	40000
 sân sau 	saan sau	50000
 sân sau 	san sau	40000
 săn sóc 	sawn socs	50000
@@ -21273,16 +21143,16 @@ sân trước 	saan truowcs	50000
 sân trước 	san truoc	40000
 sân vận động 	saan vaanj ddoongj	50000
 sân vận động 	san van dong	40000
-sân vận động 	saan vaanj ddoongj	50000
-sân vận động 	san van dong	40000
 sân vườn 	saan vuownf	50000
 sân vườn 	san vuon	40000
 sân xe hơi 	saan xe howi	50000
 sân xe hơi 	san xe hoi	40000
 sản xuất 	sanr xuaats	50000
 sản xuất 	san xuat	40000
-sang 	sang	50000
-sang 	sang	40000
+sản xuất hàng loạt 	sanr xuaats hangf loatj	50000
+sản xuất hàng loạt 	san xuat hang loat	40000
+sản xuất thử 	sanr xuaats thuwr	50000
+sản xuất thử 	san xuat thu	40000
 sang 	sang	50000
 sang 	sang	40000
 sáng 	sangs	50000
@@ -21313,6 +21183,8 @@ sang sáng 	sang sangs	50000
 sang sáng 	sang sang	40000
 sáng sớm 	sangs sowms	50000
 sáng sớm 	sang som	40000
+sáng tạo 	sangs taoj	50000
+sáng tạo 	sang tao	40000
 sang tay 	sang tay	50000
 sang tay 	sang tay	40000
 sang tên 	sang teen	50000
@@ -21337,10 +21209,6 @@ sành ăn 	sanhf awn	50000
 sành ăn 	sanh an	40000
 sanh đôi 	sanh ddooi	50000
 sanh đôi 	sanh doi	40000
-sao 	sao	50000
-sao 	sao	40000
-sao 	sao	50000
-sao 	sao	40000
 sao 	sao	50000
 sao 	sao	40000
 sáo 	saos	50000
@@ -21371,8 +21239,6 @@ sao lại thế đi 	sao laij thees ddi	50000
 sao lại thế đi 	sao lai the di	40000
 sao vậy 	sao vaayj	50000
 sao vậy 	sao vay	40000
-sao vậy 	sao vaayj	50000
-sao vậy 	sao vay	40000
 sáp 	saps	50000
 sáp 	sap	40000
 sấp 	saaps	50000
@@ -21389,8 +21255,6 @@ sắp đặt 	sawps ddawtj	50000
 sắp đặt 	sap dat	40000
 sắp xếp 	sawps xeeps	50000
 sắp xếp 	sap xep	40000
-sắp xếp 	sawps xeeps	50000
-sắp xếp 	sap xep	40000
 sát 	sats	50000
 sát 	sat	40000
 sất 	saats	50000
@@ -21405,8 +21269,6 @@ sặt 	sawtj	50000
 sặt 	sat	40000
 sát hại 	sats haij	50000
 sát hại 	sat hai	40000
-sau 	sau	50000
-sau 	sau	40000
 sau 	sau	50000
 sau 	sau	40000
 sáu 	saus	50000
@@ -21433,8 +21295,6 @@ sau hết 	sau heets	50000
 sau hết 	sau het	40000
 sau khi 	sau khi	50000
 sau khi 	sau khi	40000
-sau khi 	sau khi	50000
-sau khi 	sau khi	40000
 sáu mươi 	saus muowi	50000
 sáu mươi 	sau muoi	40000
 sau này 	sau nayf	50000
@@ -21443,8 +21303,8 @@ sau nữa 	sau nuwax	50000
 sau nữa 	sau nua	40000
 sầu riêng 	saauf rieeng	50000
 sầu riêng 	sau rieng	40000
-sau sau 	sau sau	50000
-sau sau 	sau sau	40000
+sau thay đổi 	sau thay ddooir	50000
+sau thay đổi 	sau thay doi	40000
 sau tiến sĩ 	sau tieens six	50000
 sau tiến sĩ 	sau tien si	40000
 say 	say	50000
@@ -21667,30 +21527,28 @@ sinh tố 	sinh toos	50000
 sinh tố 	sinh to	40000
 sinh viên 	sinh vieen	50000
 sinh viên 	sinh vien	40000
-sinh viên 	sinh vieen	50000
-sinh viên 	sinh vien	40000
 sinh viên cao đẳng 	sinh vieen cao ddawngr	50000
 sinh viên cao đẳng 	sinh vien cao dang	40000
-Sinh viên hệ chính quy 	Sinh vieen heej chinhs quy	50000
-Sinh viên hệ chính quy 	Sinh vien he chinh quy	40000
-Sinh viên kém 	Sinh vieen kems	50000
-Sinh viên kém 	Sinh vien kem	40000
-Sinh viên năm thứ ba 	Sinh vieen nawm thuws ba	50000
-Sinh viên năm thứ ba 	Sinh vien nam thu ba	40000
-Sinh viên năm thứ hai 	Sinh vieen nawm thuws hai	50000
-Sinh viên năm thứ hai 	Sinh vien nam thu hai	40000
-Sinh viên năm thứ nhất 	Sinh vieen nawm thuws nhaats	50000
-Sinh viên năm thứ nhất 	Sinh vien nam thu nhat	40000
-Sinh viên năm thứ tư 	Sinh vieen nawm thuws tuw	50000
-Sinh viên năm thứ tư 	Sinh vien nam thu tu	40000
-Sinh viên những năm cuối 	Sinh vieen nhuwngx nawm cuoois	50000
-Sinh viên những năm cuối 	Sinh vien nhung nam cuoi	40000
-Sinh viên những năm đầu 	Sinh vieen nhuwngx nawm ddaauf	50000
-Sinh viên những năm đầu 	Sinh vien nhung nam dau	40000
+sinh viên hệ chính quy 	sinh vieen heej chinhs quy	50000
+sinh viên hệ chính quy 	sinh vien he chinh quy	40000
+sinh viên kém 	sinh vieen kems	50000
+sinh viên kém 	sinh vien kem	40000
+sinh viên năm thứ ba 	sinh vieen nawm thuws ba	50000
+sinh viên năm thứ ba 	sinh vien nam thu ba	40000
+sinh viên năm thứ hai 	sinh vieen nawm thuws hai	50000
+sinh viên năm thứ hai 	sinh vien nam thu hai	40000
+sinh viên năm thứ nhất 	sinh vieen nawm thuws nhaats	50000
+sinh viên năm thứ nhất 	sinh vien nam thu nhat	40000
+sinh viên năm thứ tư 	sinh vieen nawm thuws tuw	50000
+sinh viên năm thứ tư 	sinh vien nam thu tu	40000
+sinh viên những năm cuối 	sinh vieen nhuwngx nawm cuoois	50000
+sinh viên những năm cuối 	sinh vien nhung nam cuoi	40000
+sinh viên những năm đầu 	sinh vieen nhuwngx nawm ddaauf	50000
+sinh viên những năm đầu 	sinh vien nhung nam dau	40000
 sinh viên tốt nghiệp 	sinh vieen toots nghieepj	50000
 sinh viên tốt nghiệp 	sinh vien tot nghiep	40000
-Sinh viên ưu tú 	Sinh vieen uwu tus	50000
-Sinh viên ưu tú 	Sinh vien uu tu	40000
+sinh viên ưu tú 	sinh vieen uwu tus	50000
+sinh viên ưu tú 	sinh vien uu tu	40000
 síp 	sips	50000
 síp 	sip	40000
 sịp 	sipj	50000
@@ -21745,30 +21603,54 @@ số chứng minh thư sô chứng minh nhân dân 	soos chuwngs minh thuw soo c
 số chứng minh thư sô chứng minh nhân dân 	so chung minh thu so chung minh nhan dan	40000
 số cụ thể 	soos cuj theer	50000
 số cụ thể 	so cu the	40000
+số đã sản xuất ra 	soos ddax sanr xuaats ra	50000
+số đã sản xuất ra 	so da san xuat ra	40000
 số đếm 	soos ddeems	50000
 số đếm 	so dem	40000
 sở dĩ 	sowr dix	50000
 sở dĩ 	so di	40000
 số điện thoại 	soos ddieenj thoaij	50000
 số điện thoại 	so dien thoai	40000
-số điện thoại 	soos ddieenj thoaij	50000
-số điện thoại 	so dien thoai	40000
 số điện thoại di động 	soos ddieenj thoaij di ddoongj	50000
 số điện thoại di động 	so dien thoai di dong	40000
+số giờ 	soos giowf	50000
+số giờ 	so gio	40000
+số giờ bình quân 	soos giowf binhf quaan	50000
+số giờ bình quân 	so gio binh quan	40000
+số giờ đào tạo 	soos giowf ddaof taoj	50000
+số giờ đào tạo 	so gio dao tao	40000
+số giờ xin nghỉ 	soos giowf xin nghir	50000
+số giờ xin nghỉ 	so gio xin nghi	40000
 sợ hãi 	sowj haix	50000
 sợ hãi 	so hai	40000
+số học viên 	soos hocj vieen	50000
+số học viên 	so hoc vien	40000
 sổ hỏng 	soor hongr	50000
 sổ hỏng 	so hong	40000
 số không 	soos khoong	50000
 số không 	so khong	40000
-số là 	soos laf	50000
-số là 	so la	40000
 số liệu 	soos lieeuj	50000
 số liệu 	so lieu	40000
-số loại 	soos loaij	50000
-số loại 	so loai	40000
 số lượng 	soos luowngj	50000
 số lượng 	so luong	40000
+số lượng hàng tồn kho 	soos luowngj hangf toonf kho	50000
+số lượng hàng tồn kho 	so luong hang ton kho	40000
+số lượng kiểm tra 	soos luowngj kieemr tra	50000
+số lượng kiểm tra 	so luong kiem tra	40000
+số lượng mẫu cần giao 	soos luowngj maaux caanf giao	50000
+số lượng mẫu cần giao 	so luong mau can giao	40000
+số lượng tồn 	soos luowngj toonf	50000
+số lượng tồn 	so luong ton	40000
+số lượng xin làm 	soos luowngj xin lamf	50000
+số lượng xin làm 	so luong xin lam	40000
+số máy 	soos mays	50000
+số máy 	so may	40000
+sơ mi 	sow mi	50000
+sơ mi 	so mi	40000
+số ngày 	soos ngayf	50000
+số ngày 	so ngay	40000
+số ngày tồn kho 	soos ngayf toonf kho	50000
+số ngày tồn kho 	so ngay ton kho	40000
 số người 	soos nguowif	50000
 số người 	so nguoi	40000
 số nhà 	soos nhaf	50000
@@ -21779,12 +21661,8 @@ sơ sài 	sow saif	50000
 sơ sài 	so sai	40000
 so sánh 	so sanhs	50000
 so sánh 	so sanh	40000
-sở thích 	sowr thichs	50000
-sở thích 	so thich	40000
-sở thích 	sowr thichs	50000
-sở thích 	so thich	40000
-Sở thích 	Sowr thichs	50000
-Sở thích 	So thich	40000
+số thẻ 	soos ther	50000
+số thẻ 	so the	40000
 sở thích 	sowr thichs	50000
 sở thích 	so thich	40000
 sở thích cá nhân 	sowr thichs cas nhaan	50000
@@ -21803,10 +21681,10 @@ sở trường 	sowr truowngf	50000
 sở trường 	so truong	40000
 sở trường cá nhân 	sowr truowngf cas nhaan	50000
 sở trường cá nhân 	so truong ca nhan	40000
-sở trường cá nhân 	sowr truowngf cas nhaan	50000
-sở trường cá nhân 	so truong ca nhan	40000
 so với 	so vowis	50000
 so với 	so voi	40000
+số vụ 	soos vuj	50000
+số vụ 	so vu	40000
 soa 	soa	50000
 soa 	soa	40000
 sõa 	soax	50000
@@ -21925,16 +21803,12 @@ song 	song	50000
 song 	song	40000
 sóng 	songs	50000
 sóng 	song	40000
-sóng 	songs	50000
-sóng 	song	40000
 sòng 	songf	50000
 sòng 	song	40000
 sông 	soong	50000
 sông 	song	40000
 sõng 	songx	50000
 sõng 	song	40000
-sống 	soongs	50000
-sống 	song	40000
 sống 	soongs	50000
 sống 	song	40000
 sồng 	soongf	50000
@@ -21977,6 +21851,10 @@ sốt sột 	soots sootj	50000
 sốt sột 	sot sot	40000
 sốt xuất huyết 	soots xuaats huyeets	50000
 sốt xuất huyết 	sot xuat huyet	40000
+SP 	SP	50000
+SP 	SP	40000
+STT 	STT	50000
+STT 	STT	40000
 su 	su	50000
 su 	su	40000
 sú 	sus	50000
@@ -22005,10 +21883,10 @@ sự cố 	suwj coos	50000
 sự cố 	su co	40000
 sử dụng 	suwr dungj	50000
 sử dụng 	su dung	40000
-sử dụng 	suwr dungj	50000
-sử dụng 	su dung	40000
 sự kiện 	suwj kieenj	50000
 sự kiện 	su kien	40000
+sứ mệnh 	suws meenhj	50000
+sứ mệnh 	su menh	40000
 sự nghiệp 	suwj nghieepj	50000
 sự nghiệp 	su nghiep	40000
 sự nghiệp vinh quang 	suwj nghieepj vinh quang	50000
@@ -22039,10 +21917,6 @@ sửa 	suwar	50000
 sửa 	sua	40000
 sựa 	suwaj	50000
 sựa 	sua	40000
-sữa chữa 	suwax chuwax	50000
-sữa chữa 	sua chua	40000
-sửa chữa 	suwar chuwax	50000
-sửa chữa 	sua chua	40000
 sửa chữa 	suwar chuwax	50000
 sửa chữa 	sua chua	40000
 sửa mới 	suwar mowis	50000
@@ -22121,6 +21995,10 @@ sững 	suwngx	50000
 sững 	sung	40000
 sửng 	suwngr	50000
 sửng 	sung	40000
+súng hơi 	sungs howi	50000
+súng hơi 	sung hoi	40000
+súng phun 	sungs phun	50000
+súng phun 	sung phun	40000
 sước 	suowcs	50000
 sước 	suoc	40000
 suôi 	suooi	50000
@@ -22143,8 +22021,6 @@ suồng 	suoongf	50000
 suồng 	suong	40000
 sương 	suowng	50000
 sương 	suong	40000
-sướng 	suowngs	50000
-sướng 	suong	40000
 sướng 	suowngs	50000
 sướng 	suong	40000
 sường 	suowngf	50000
@@ -22177,12 +22053,12 @@ sụt 	sutj	50000
 sụt 	sut	40000
 sứt 	suwts	50000
 sứt 	sut	40000
-sứt 	suwts	50000
-sứt 	sut	40000
 sựt 	suwtj	50000
 sựt 	sut	40000
 sụt giá 	sutj gias	50000
 sụt giá 	sut gia	40000
+sứt vỡ 	suwts vowx	50000
+sứt vỡ 	sut vo	40000
 sưu 	suwu	50000
 sưu 	suu	40000
 sứu 	suwus	50000
@@ -22269,8 +22145,6 @@ tách giấy 	tachs giaays	50000
 tách giấy 	tach giay	40000
 tai 	tai	50000
 tai 	tai	40000
-tai 	tai	50000
-tai 	tai	40000
 tái 	tais	50000
 tái 	tai	40000
 tài 	taif	50000
@@ -22293,20 +22167,14 @@ tái hôn 	tais hoon	50000
 tái hôn 	tai hon	40000
 tài khoản 	taif khoanr	50000
 tài khoản 	tai khoan	40000
-tài khoản 	taif khoanr	50000
-tài khoản 	tai khoan	40000
-Tài liệu giảng dạy 	Taif lieeuj giangr dayj	50000
-Tài liệu giảng dạy 	Tai lieu giang day	40000
+tài liệu giảng dạy 	taif lieeuj giangr dayj	50000
+tài liệu giảng dạy 	tai lieu giang day	40000
 tại lòng 	taij longf	50000
 tại lòng 	tai long	40000
 tai nạn 	tai nanj	50000
 tai nạn 	tai nan	40000
 tai nghe 	tai nghe	50000
 tai nghe 	tai nghe	40000
-tại nơi 	taij nowi	50000
-tại nơi 	tai noi	40000
-tài sản 	taif sanr	50000
-tài sản 	tai san	40000
 tài sản 	taif sanr	50000
 tài sản 	tai san	40000
 tại sao 	taij sao	50000
@@ -22331,8 +22199,6 @@ tâm 	taam	50000
 tâm 	tam	40000
 tăm 	tawm	50000
 tăm 	tam	40000
-tấm 	taams	50000
-tấm 	tam	40000
 tấm 	taams	50000
 tấm 	tam	40000
 tầm 	taamf	50000
@@ -22375,6 +22241,8 @@ tạm ngừng 	tamj nguwngf	50000
 tạm ngừng 	tam ngung	40000
 tầm nhìn 	taamf nhinf	50000
 tầm nhìn 	tam nhin	40000
+tầm nhìn sứ mệnh 	taamf nhinf suws meenhj	50000
+tầm nhìn sứ mệnh 	tam nhin su menh	40000
 tắm rửa 	tawms ruwar	50000
 tắm rửa 	tam rua	40000
 tàm tạm 	tamf tamj	50000
@@ -22427,6 +22295,8 @@ tân lang 	taan lang	50000
 tân lang 	tan lang	40000
 tân nương 	taan nuowng	50000
 tân nương 	tan nuong	40000
+tan rã 	tan rax	50000
+tan rã 	tan ra	40000
 Tân Sơn Nhất 	Taan Sown Nhaats	50000
 Tân Sơn Nhất 	Tan Son Nhat	40000
 tấn tới 	taans towis	50000
@@ -22459,14 +22329,12 @@ tạng 	tangj	50000
 tạng 	tang	40000
 tặng 	tawngj	50000
 tặng 	tang	40000
-tặng 	tawngj	50000
-tặng 	tang	40000
 tăng ca 	tawng ca	50000
 tăng ca 	tang ca	40000
+tăng ca bất thường 	tawng ca baats thuowngf	50000
+tăng ca bất thường 	tang ca bat thuong	40000
 tăng cấp 	tawng caaps	50000
 tăng cấp 	tang cap	40000
-tăng chúng 	tawng chungs	50000
-tăng chúng 	tang chung	40000
 tăng cường 	tawng cuowngf	50000
 tăng cường 	tang cuong	40000
 tăng giảm 	tawng giamr	50000
@@ -22511,8 +22379,6 @@ tảo 	taor	50000
 tảo 	tao	40000
 tạo 	taoj	50000
 tạo 	tao	40000
-tạo 	taoj	50000
-tạo 	tao	40000
 tạo cơ hội 	taoj cow hooij	50000
 tạo cơ hội 	tao co hoi	40000
 tạo điều kiện 	taoj ddieeuf kieenj	50000
@@ -22523,8 +22389,6 @@ tao nhã 	tao nhax	50000
 tao nhã 	tao nha	40000
 tạo ra 	taoj ra	50000
 tạo ra 	tao ra	40000
-tạo ý 	taoj ys	50000
-tạo ý 	tao y	40000
 táp 	taps	50000
 táp 	tap	40000
 tấp 	taaps	50000
@@ -22535,6 +22399,8 @@ tạp 	tapj	50000
 tạp 	tap	40000
 tập 	taapj	50000
 tập 	tap	40000
+tạp chất 	tapj chaats	50000
+tạp chất 	tap chat	40000
 tạp chí 	tapj chis	50000
 tạp chí 	tap chi	40000
 tập đoàn 	taapj ddoanf	50000
@@ -22563,8 +22429,6 @@ tất 	taats	50000
 tất 	tat	40000
 tắt 	tawts	50000
 tắt 	tat	40000
-tạt 	tatj	50000
-tạt 	tat	40000
 tạt 	tatj	50000
 tạt 	tat	40000
 tật 	taatj	50000
@@ -22643,14 +22507,16 @@ Tây Ban Nhạ 	Taay Ban Nhaj	50000
 Tây Ban Nhạ 	Tay Ban Nha	40000
 tay quay 	tay quay	50000
 tay quay 	tay quay	40000
+TB 	TB	50000
+TB 	TB	40000
+TCGC 	TCGC	50000
+TCGC 	TCGC	40000
 te 	te	50000
 te 	te	40000
 té 	tes	50000
 té 	te	40000
 tè 	tef	50000
 tè 	te	40000
-tê 	tee	50000
-tê 	te	40000
 tê 	tee	50000
 tê 	te	40000
 tẽ 	tex	50000
@@ -22703,6 +22569,8 @@ tên 	teen	50000
 tên 	ten	40000
 tẽn 	tenx	50000
 tẽn 	ten	40000
+tên bản vẽ 	teen banr vex	50000
+tên bản vẽ 	ten ban ve	40000
 tên cái 	teen cais	50000
 tên cái 	ten cai	40000
 tên chính 	teen chinhs	50000
@@ -22711,12 +22579,30 @@ tên chức vị kỹ thuật 	teen chuwcs vij kyx thuaatj	50000
 tên chức vị kỹ thuật 	ten chuc vi ky thuat	40000
 tên chức vụ 	teen chuwcs vuj	50000
 tên chức vụ 	ten chuc vu	40000
+tên chương trình đào tạo 	teen chuowng trinhf ddaof taoj	50000
+tên chương trình đào tạo 	ten chuong trinh dao tao	40000
+tên công đoạn 	teen coong ddoanj	50000
+tên công đoạn 	ten cong doan	40000
 tên công ty 	teen coong ty	50000
 tên công ty 	ten cong ty	40000
 tên họ 	teen hoj	50000
 tên họ 	ten ho	40000
+tên khách hàng 	teen khachs hangf	50000
+tên khách hàng 	ten khach hang	40000
+tên linh kiện 	teen linh kieenj	50000
+tên linh kiện 	ten linh kien	40000
+tên linh kiện cũ 	teen linh kieenj cux	50000
+tên linh kiện cũ 	ten linh kien cu	40000
+tên linh kiện mới 	teen linh kieenj mowis	50000
+tên linh kiện mới 	ten linh kien moi	40000
 tên miền 	teen mieenf	50000
 tên miền 	ten mien	40000
+tên nhà cung cấp 	teen nhaf cung caaps	50000
+tên nhà cung cấp 	ten nha cung cap	40000
+tên sản phẩm 	teen sanr phaamr	50000
+tên sản phẩm 	ten san pham	40000
+tên thiết bị 	teen thieets bij	50000
+tên thiết bị 	ten thiet bi	40000
 tên tiêu đề 	teen tieeu ddeef	50000
 tên tiêu đề 	ten tieu de	40000
 tên tự 	teen tuwj	50000
@@ -22771,6 +22657,8 @@ tều 	teeuf	50000
 tều 	teu	40000
 tễu 	teeux	50000
 tễu 	teu	40000
+TGĐ 	TGDD	50000
+TGĐ 	TGD	40000
 tha 	tha	50000
 tha 	tha	40000
 thá 	thas	50000
@@ -22837,6 +22725,8 @@ thai nhi 	thai nhi	50000
 thai nhi 	thai nhi	40000
 thái quá 	thais quas	50000
 thái quá 	thai qua	40000
+thai sản 	thai sanr	50000
+thai sản 	thai san	40000
 thái tử 	thais tuwr	50000
 thái tử 	thai tu	40000
 tham 	tham	50000
@@ -22847,8 +22737,6 @@ thâm 	thaam	50000
 thâm 	tham	40000
 thăm 	thawm	50000
 thăm 	tham	40000
-thấm 	thaams	50000
-thấm 	tham	40000
 thấm 	thaams	50000
 thấm 	tham	40000
 thầm 	thaamf	50000
@@ -22879,14 +22767,10 @@ thăm hỏi 	thawm hoir	50000
 thăm hỏi 	tham hoi	40000
 tham khảo 	tham khaor	50000
 tham khảo 	tham khao	40000
-tham khảo 	tham khaor	50000
-tham khảo 	tham khao	40000
 thẩm mỹ 	thaamr myx	50000
 thẩm mỹ 	tham my	40000
 thẩm mỹ viện 	thaamr myx vieenj	50000
 thẩm mỹ viện 	tham my vien	40000
-thẩm phán 	thaamr phans	50000
-thẩm phán 	tham phan	40000
 thẩm phán 	thaamr phans	50000
 thẩm phán 	tham phan	40000
 tham quan 	tham quan	50000
@@ -22927,8 +22811,6 @@ thẳn 	thawnr	50000
 thẳn 	than	40000
 thận 	thaanj	50000
 thận 	than	40000
-thận 	thaanj	50000
-thận 	than	40000
 thân cây 	thaan caay	50000
 thân cây 	than cay	40000
 thần đồng 	thaanf ddoongf	50000
@@ -22943,14 +22825,10 @@ thân mến 	thaan meens	50000
 thân mến 	than men	40000
 thân nhân 	thaan nhaan	50000
 thân nhân 	than nhan	40000
-thân nhân 	thaan nhaan	50000
-thân nhân 	than nhan	40000
 than ôi 	than ooi	50000
 than ôi 	than oi	40000
 thân phận 	thaan phaanj	50000
 thân phận 	than phan	40000
-thân thể 	thaan theer	50000
-thân thể 	than the	40000
 thân thể 	thaan theer	50000
 thân thể 	than the	40000
 thân thích 	thaan thichs	50000
@@ -22971,14 +22849,10 @@ thãng 	thangx	50000
 thãng 	thang	40000
 thắng 	thawngs	50000
 thắng 	thang	40000
-thắng 	thawngs	50000
-thắng 	thang	40000
 thằng 	thawngf	50000
 thằng 	thang	40000
 thảng 	thangr	50000
 thảng 	thang	40000
-thẳng 	thawngr	50000
-thẳng 	thang	40000
 thẳng 	thawngr	50000
 thẳng 	thang	40000
 thặng 	thawngj	50000
@@ -23003,8 +22877,6 @@ tháng mười một 	thangs muowif mootj	50000
 tháng mười một 	thang muoi mot	40000
 tháng năm 	thangs nawm	50000
 tháng năm 	thang nam	40000
-tháng này 	thangs nayf	50000
-tháng này 	thang nay	40000
 tháng này 	thangs nayf	50000
 tháng này 	thang nay	40000
 tháng ngày 	thangs ngayf	50000
@@ -23053,16 +22925,16 @@ thanh điệu 	thanh ddieeuj	50000
 thanh điệu 	thanh dieu	40000
 thanh điều kiện 	thanh ddieeuf kieenj	50000
 thanh điều kiện 	thanh dieu kien	40000
-thanh không 	thanh khoong	50000
-thanh không 	thanh khong	40000
+thanh khuấy 	thanh khuaays	50000
+thanh khuấy 	thanh khuay	40000
 thành lập 	thanhf laapj	50000
 thành lập 	thanh lap	40000
 thanh niên 	thanh nieen	50000
 thanh niên 	thanh nien	40000
+thành phẩm 	thanhf phaamr	50000
+thành phẩm 	thanh pham	40000
 thành phần 	thanhf phaanf	50000
 thành phần 	thanh phan	40000
-thành phố 	thanhf phoos	50000
-thành phố 	thanh pho	40000
 thành phố 	thanhf phoos	50000
 thành phố 	thanh pho	40000
 thành ra 	thanhf ra	50000
@@ -23083,8 +22955,6 @@ thanh tính 	thanh tinhs	50000
 thanh tính 	thanh tinh	40000
 thanh toán 	thanh toans	50000
 thanh toán 	thanh toan	40000
-thanh toán 	thanh toans	50000
-thanh toán 	thanh toan	40000
 thanh treo khăn 	thanh treo khawn	50000
 thanh treo khăn 	thanh treo khan	40000
 thành tựu 	thanhf tuwuj	50000
@@ -23097,8 +22967,6 @@ thao 	thao	50000
 thao 	thao	40000
 tháo 	thaos	50000
 tháo 	thao	40000
-Tháo 	Thaos	50000
-Tháo 	Thao	40000
 thào 	thaof	50000
 thào 	thao	40000
 thão 	thaox	50000
@@ -23113,20 +22981,14 @@ tháo kính 	thaos kinhs	50000
 tháo kính 	thao kinh	40000
 thảo luận 	thaor luaanj	50000
 thảo luận 	thao luan	40000
-thảo luận 	thaor luaanj	50000
-thảo luận 	thao luan	40000
 thảo nào 	thaor naof	50000
 thảo nào 	thao nao	40000
 thao tác 	thao tacs	50000
 thao tác 	thao tac	40000
-thao tác 	thao tacs	50000
-thao tác 	thao tac	40000
+tháo và lắp khuôn 	thaos vaf lawps khuoon	50000
+tháo và lắp khuôn 	thao va lap khuon	40000
 tháp 	thaps	50000
 tháp 	thap	40000
-thấp 	thaaps	50000
-thấp 	thap	40000
-thấp 	thaaps	50000
-thấp 	thap	40000
 thấp 	thaaps	50000
 thấp 	thap	40000
 thắp 	thawps	50000
@@ -23205,8 +23067,6 @@ thau giặt đồ 	thau giawtj ddoof	50000
 thau giặt đồ 	thau giat do	40000
 thấu hiểu 	thaaus hieeur	50000
 thấu hiểu 	thau hieu	40000
-thấu hiểu 	thaaus hieeur	50000
-thấu hiểu 	thau hieu	40000
 thay 	thay	50000
 thay 	thay	40000
 tháy 	thays	50000
@@ -23233,8 +23093,6 @@ Thấy đỡ hơn chưa 	Thaays ddowx hown chuwa	50000
 Thấy đỡ hơn chưa 	Thay do hon chua	40000
 thay đổi 	thay ddooir	50000
 thay đổi 	thay doi	40000
-thay đổi 	thay ddooir	50000
-thay đổi 	thay doi	40000
 thay đổi tình trạng 	thay ddooir tinhf trangj	50000
 thay đổi tình trạng 	thay doi tinh trang	40000
 thay ga trải giường 	thay ga trair giuowngf	50000
@@ -23249,8 +23107,10 @@ thay ra giường 	thay ra giuowngf	50000
 thay ra giường 	thay ra giuong	40000
 thấy tháng 	thaays thangs	50000
 thấy tháng 	thay thang	40000
-Thay thế dây mạng 	Thay thees daay mangj	50000
-Thay thế dây mạng 	Thay the day mang	40000
+thay thế 	thay thees	50000
+thay thế 	thay the	40000
+thay thế dây mạng 	thay thees daay mangj	50000
+thay thế dây mạng 	thay the day mang	40000
 thay vì 	thay vif	50000
 thay vì 	thay vi	40000
 the 	the	50000
@@ -23377,6 +23237,8 @@ theo bước 	theo buowcs	50000
 theo bước 	theo buoc	40000
 theo dõi 	theo doix	50000
 theo dõi 	theo doi	40000
+theo dõi các công đoạn 	theo doix cacs coong ddoanj	50000
+theo dõi các công đoạn 	theo doi cac cong doan	40000
 theo đuổi 	theo dduooir	50000
 theo đuổi 	theo duoi	40000
 theo như 	theo nhuw	50000
@@ -23511,14 +23373,14 @@ thiệt 	thieetj	50000
 thiệt 	thiet	40000
 thiết bị 	thieets bij	50000
 thiết bị 	thiet bi	40000
-thiết bị 	thieets bij	50000
-thiết bị 	thiet bi	40000
+thiết bị kiểm nghiệm 	thieets bij kieemr nghieemj	50000
+thiết bị kiểm nghiệm 	thiet bi kiem nghiem	40000
 thiết bị quan sát 	thieets bij quan sats	50000
 thiết bị quan sát 	thiet bi quan sat	40000
+thiết bị sản xuất 	thieets bij sanr xuaats	50000
+thiết bị sản xuất 	thiet bi san xuat	40000
 thiệt hại 	thieetj haij	50000
 thiệt hại 	thiet hai	40000
-thiết kế 	thieets kees	50000
-thiết kế 	thiet ke	40000
 thiết kế 	thieets kees	50000
 thiết kế 	thiet ke	40000
 thiết kế cái 	thieets kees cais	50000
@@ -23751,12 +23613,20 @@ thời gian bồi dưỡng đào tạo 	thowif gian booif duowngx ddaof taoj	500
 thời gian bồi dưỡng đào tạo 	thoi gian boi duong dao tao	40000
 thời gian công tác 	thowif gian coong tacs	50000
 thời gian công tác 	thoi gian cong tac	40000
+thời gian cứng 	thowif gian cuwngs	50000
+thời gian cứng 	thoi gian cung	40000
+thời gian đào tạo 	thowif gian ddaof taoj	50000
+thời gian đào tạo 	thoi gian dao tao	40000
 thời gian học tập 	thowif gian hocj taapj	50000
 thời gian học tập 	thoi gian hoc tap	40000
 Thời gian là vàng bạc 	Thowif gian laf vangf bacj	50000
 Thời gian là vàng bạc 	Thoi gian la vang bac	40000
+thời gian lưu 	thowif gian luwu	50000
+thời gian lưu 	thoi gian luu	40000
 thời gian sử dụng 	thowif gian suwr dungj	50000
 thời gian sử dụng 	thoi gian su dung	40000
+thời gian tăng ca 	thowif gian tawng ca	50000
+thời gian tăng ca 	thoi gian tang ca	40000
 thời gian tính 	thowif gian tinhs	50000
 thời gian tính 	thoi gian tinh	40000
 thời gian tốt nghiệp 	thowif gian toots nghieepj	50000
@@ -23765,8 +23635,6 @@ thời hạn 	thowif hanj	50000
 thời hạn 	thoi han	40000
 thời khóa biểu 	thowif khoas bieeur	50000
 thời khóa biểu 	thoi khoa bieu	40000
-thời kỳ 	thowif kyf	50000
-thời kỳ 	thoi ky	40000
 thời kỳ 	thowif kyf	50000
 thời kỳ 	thoi ky	40000
 thôi rồi 	thooi rooif	50000
@@ -23841,6 +23709,8 @@ thồng 	thoongf	50000
 thồng 	thong	40000
 thông báo 	thoong baos	50000
 thông báo 	thong bao	40000
+thông báo thay đổi 	thoong baos thay ddooir	50000
+thông báo thay đổi 	thong bao thay doi	40000
 thông cảm 	thoong camr	50000
 thông cảm 	thong cam	40000
 thông dụng 	thoong dungj	50000
@@ -23849,6 +23719,8 @@ thông gió 	thoong gios	50000
 thông gió 	thong gio	40000
 thống kê 	thoongs kee	50000
 thống kê 	thong ke	40000
+thống kê chi phí 	thoongs kee chi phis	50000
+thống kê chi phí 	thong ke chi phi	40000
 thông minh 	thoong minh	50000
 thông minh 	thong minh	40000
 thống nhất 	thoongs nhaats	50000
@@ -23859,8 +23731,6 @@ thông suốt 	thoong suoots	50000
 thông suốt 	thong suot	40000
 thông thường 	thoong thuowngf	50000
 thông thường 	thong thuong	40000
-thông tin 	thoong tin	50000
-thông tin 	thong tin	40000
 thông tin 	thoong tin	50000
 thông tin 	thong tin	40000
 thông tin di động 	thoong tin di ddoongj	50000
@@ -23933,8 +23803,6 @@ thụ động 	thuj ddoongj	50000
 thụ động 	thu dong	40000
 thư giãn 	thuw gianx	50000
 thư giãn 	thu gian	40000
-thư giãn 	thuw gianx	50000
-thư giãn 	thu gian	40000
 thứ hai 	thuws hai	50000
 thứ hai 	thu hai	40000
 thứ hai tuần trước 	thuws hai tuaanf truowcs	50000
@@ -23967,12 +23835,8 @@ thủ phủ 	thur phur	50000
 thủ phủ 	thu phu	40000
 thư rác 	thuw racs	50000
 thư rác 	thu rac	40000
-thư rác 	thuw racs	50000
-thư rác 	thu rac	40000
 thứ sáu 	thuws saus	50000
 thứ sáu 	thu sau	40000
-thử thách 	thuwr thachs	50000
-thử thách 	thu thach	40000
 thử thách 	thuwr thachs	50000
 thử thách 	thu thach	40000
 thụ thai 	thuj thai	50000
@@ -23985,6 +23849,12 @@ thụ tinh nhân tạo 	thuj tinh nhaan taoj	50000
 thụ tinh nhân tạo 	thu tinh nhan tao	40000
 thứ tư 	thuws tuw	50000
 thứ tư 	thu tu	40000
+thứ tự 	thuws tuwj	50000
+thứ tự 	thu tu	40000
+thứ tự công đoạn 	thuws tuwj coong ddoanj	50000
+thứ tự công đoạn 	thu tu cong doan	40000
+thứ tự ưu tiên 	thuws tuwj uwu tieen	50000
+thứ tự ưu tiên 	thu tu uu tien	40000
 thủ tục 	thur tucj	50000
 thủ tục 	thu tuc	40000
 thủ tục phí 	thur tucj phis	50000
@@ -24065,10 +23935,6 @@ thức giấc 	thuwcs giaacs	50000
 thức giấc 	thuc giac	40000
 thực hành 	thuwcj hanhf	50000
 thực hành 	thuc hanh	40000
-thực hành 	thuwcj hanhf	50000
-thực hành 	thuc hanh	40000
-Thực hành 	Thuwcj hanhf	50000
-Thực hành 	Thuc hanh	40000
 thực hiện 	thuwcj hieenj	50000
 thực hiện 	thuc hien	40000
 thực hiện đúng 	thuwcj hieenj ddungs	50000
@@ -24085,10 +23951,10 @@ thực ra 	thuwcj ra	50000
 thực ra 	thuc ra	40000
 thực sự 	thuwcj suwj	50000
 thực sự 	thuc su	40000
-thực sự 	thuwcj suwj	50000
-thực sự 	thuc su	40000
 thực tế 	thuwcj tees	50000
 thực tế 	thuc te	40000
+thực tế hoàn thành 	thuwcj tees hoanf thanhf	50000
+thực tế hoàn thành 	thuc te hoan thanh	40000
 thực thi 	thuwcj thi	50000
 thực thi 	thuc thi	40000
 thực tiễn công tác xã hội 	thuwcj tieenx coong tacs xax hooij	50000
@@ -24099,8 +23965,6 @@ thực vật 	thuwcj vaatj	50000
 thực vật 	thuc vat	40000
 thực vậy 	thuwcj vaayj	50000
 thực vậy 	thuc vay	40000
-thuê 	thuee	50000
-thuê 	thue	40000
 thuê 	thuee	50000
 thuê 	thue	40000
 thuế 	thuees	50000
@@ -24221,14 +24085,14 @@ thường 	thuowngf	50000
 thường 	thuong	40000
 thưởng 	thuowngr	50000
 thưởng 	thuong	40000
-thưởng 	thuowngr	50000
-thưởng 	thuong	40000
 thượng 	thuowngj	50000
 thượng 	thuong	40000
 thường bị 	thuowngf bij	50000
 thường bị 	thuong bi	40000
 thưởng cá nhân 	thuowngr cas nhaan	50000
 thưởng cá nhân 	thuong ca nhan	40000
+thưởng cuối năm 	thuowngr cuoois nawm	50000
+thưởng cuối năm 	thuong cuoi nam	40000
 Thượng đế 	Thuowngj ddees	50000
 Thượng đế 	Thuong de	40000
 thường đến 	thuowngf ddeens	50000
@@ -24305,8 +24169,8 @@ Thụy Sĩ 	Thuyj Six	50000
 Thụy Sĩ 	Thuy Si	40000
 thủy tinh 	thuyr tinh	50000
 thủy tinh 	thuy tinh	40000
-thủy tinh 	thuyr tinh	50000
-thủy tinh 	thuy tinh	40000
+thủy tinh nước 	thuyr tinh nuowcs	50000
+thủy tinh nước 	thuy tinh nuoc	40000
 thuyên 	thuyeen	50000
 thuyên 	thuyen	40000
 thuyến 	thuyeens	50000
@@ -24397,8 +24261,6 @@ tiên 	tieen	50000
 tiên 	tien	40000
 tiến 	tieens	50000
 tiến 	tien	40000
-tiến 	tieens	50000
-tiến 	tien	40000
 tiền 	tieenf	50000
 tiền 	tien	40000
 tiễn 	tieenx	50000
@@ -24479,12 +24341,8 @@ tiếng Việt 	tieengs Vieetj	50000
 tiếng Việt 	tieng Viet	40000
 tiếp 	tieeps	50000
 tiếp 	tiep	40000
-tiếp 	tieeps	50000
-tiếp 	tiep	40000
 tiệp 	tieepj	50000
 tiệp 	tiep	40000
-tiếp cận 	tieeps caanj	50000
-tiếp cận 	tiep can	40000
 tiếp cận 	tieeps caanj	50000
 tiếp cận 	tiep can	40000
 tiếp đó 	tieeps ddos	50000
@@ -24493,16 +24351,10 @@ tiếp khách 	tieeps khachs	50000
 tiếp khách 	tiep khach	40000
 tiếp nhận 	tieeps nhaanj	50000
 tiếp nhận 	tiep nhan	40000
-Tiếp nhận 	Tieeps nhaanj	50000
-Tiếp nhận 	Tiep nhan	40000
 tiếp theo 	tieeps theo	50000
 tiếp theo 	tiep theo	40000
 tiếp thị 	tieeps thij	50000
 tiếp thị 	tiep thi	40000
-tiếp tục 	tieeps tucj	50000
-tiếp tục 	tiep tuc	40000
-tiếp tục 	tieeps tucj	50000
-tiếp tục 	tiep tuc	40000
 tiếp tục 	tieeps tucj	50000
 tiếp tục 	tiep tuc	40000
 tiếp xúc 	tieeps xucs	50000
@@ -24533,24 +24385,30 @@ tiêu chảy 	tieeu chayr	50000
 tiêu chảy 	tieu chay	40000
 tiêu chuẩn 	tieeu chuaanr	50000
 tiêu chuẩn 	tieu chuan	40000
+tiêu chuẩn giờ công 	tieeu chuaanr giowf coong	50000
+tiêu chuẩn giờ công 	tieu chuan gio cong	40000
+tiêu chuẩn nguyên liệu 	tieeu chuaanr nguyeen lieeuj	50000
+tiêu chuẩn nguyên liệu 	tieu chuan nguyen lieu	40000
 tiêu cực 	tieeu cuwcj	50000
 tiêu cực 	tieu cuc	40000
 tiêu đờm 	tieeu ddowmf	50000
 tiêu đờm 	tieu dom	40000
 tiêu dùng 	tieeu dungf	50000
 tiêu dùng 	tieu dung	40000
+tiêu hao 	tieeu hao	50000
+tiêu hao 	tieu hao	40000
 tiêu hết 	tieeu heets	50000
 tiêu hết 	tieu het	40000
 tiêu hóa 	tieeu hoas	50000
 tiêu hóa 	tieu hoa	40000
 tiểu học 	tieeur hocj	50000
 tiểu học 	tieu hoc	40000
-tiểu học 	tieeur hocj	50000
-tiểu học 	tieu hoc	40000
 Tiểu sư đệ 	Tieeur suw ddeej	50000
 Tiểu sư đệ 	Tieu su de	40000
 tiểu tam 	tieeur tam	50000
 tiểu tam 	tieu tam	40000
+tiêu thụ 	tieeu thuj	50000
+tiêu thụ 	tieu thu	40000
 tiểu thuyết 	tieeur thuyeets	50000
 tiểu thuyết 	tieu thuyet	40000
 tim 	tim	50000
@@ -24567,10 +24425,6 @@ tìm cách 	timf cachs	50000
 tìm cách 	tim cach	40000
 tìm hiểu 	timf hieeur	50000
 tìm hiểu 	tim hieu	40000
-tìm hiểu 	timf hieeur	50000
-tìm hiểu 	tim hieu	40000
-tìm kiếm 	timf kieems	50000
-tìm kiếm 	tim kiem	40000
 tìm kiếm 	timf kieems	50000
 tìm kiếm 	tim kiem	40000
 tìm ra 	timf ra	50000
@@ -24591,8 +24445,6 @@ tỉn 	tinr	50000
 tỉn 	tin	40000
 tín dụng 	tins dungj	50000
 tín dụng 	tin dung	40000
-tín hiệu 	tins hieeuj	50000
-tín hiệu 	tin hieu	40000
 tín hiệu 	tins hieeuj	50000
 tín hiệu 	tin hieu	40000
 tin học 	tin hocj	50000
@@ -24645,6 +24497,8 @@ tình dục 	tinhf ducj	50000
 tình dục 	tinh duc	40000
 tình dục mạnh 	tinhf ducj manhj	50000
 tình dục mạnh 	tinh duc manh	40000
+tình hình 	tinhf hinhf	50000
+tình hình 	tinh hinh	40000
 tình hình chi tiết đã công tác trước đây 	tinhf hinhf chi tieets ddax coong tacs truowcs ddaay	50000
 tình hình chi tiết đã công tác trước đây 	tinh hinh chi tiet da cong tac truoc day	40000
 tình hình gần đây thế nào 	tinhf hinhf gaanf ddaay thees naof	50000
@@ -24835,8 +24689,6 @@ toát 	toats	50000
 toát 	toat	40000
 tóc 	tocs	50000
 tóc 	toc	40000
-tóc 	tocs	50000
-tóc 	toc	40000
 tốc 	toocs	50000
 tốc 	toc	40000
 tọc 	tocj	50000
@@ -24931,8 +24783,6 @@ Tôi cũng nghĩ thế 	Tooi cungx nghix thees	50000
 Tôi cũng nghĩ thế 	Toi cung nghi the	40000
 Tôi cũng thế 	Tooi cungx thees	50000
 Tôi cũng thế 	Toi cung the	40000
-Tôi cũng thế 	Tooi cungx thees	50000
-Tôi cũng thế 	Toi cung the	40000
 Tôi cũng vậy 	Tooi cungx vaayj	50000
 Tôi cũng vậy 	Toi cung vay	40000
 Tôi đã làm được rồi 	Tooi ddax lamf dduowcj rooif	50000
@@ -24949,16 +24799,10 @@ Tôi độc thân 	Tooi ddoocj thaan	50000
 Tôi độc thân 	Toi doc than	40000
 Tôi đồng ý 	Tooi ddoongf ys	50000
 Tôi đồng ý 	Toi dong y	40000
-Tôi đồng ý 	Tooi ddoongf ys	50000
-Tôi đồng ý 	Toi dong y	40000
 tới gần 	towis gaanf	50000
 tới gần 	toi gan	40000
 Tôi hiểu rồi 	Tooi hieeur rooif	50000
 Tôi hiểu rồi 	Toi hieu roi	40000
-Tôi hiểu rồi 	Tooi hieeur rooif	50000
-Tôi hiểu rồi 	Toi hieu roi	40000
-Tôi không biết 	Tooi khoong bieets	50000
-Tôi không biết 	Toi khong biet	40000
 Tôi không biết 	Tooi khoong bieets	50000
 Tôi không biết 	Toi khong biet	40000
 Tôi không chịu nổi 	Tooi khoong chiuj nooir	50000
@@ -24967,8 +24811,6 @@ Tôi không có sự lựa chọn 	Tooi khoong cos suwj luwaj chonj	50000
 Tôi không có sự lựa chọn 	Toi khong co su lua chon	40000
 Tôi không cố ý 	Tooi khoong coos ys	50000
 Tôi không cố ý 	Toi khong co y	40000
-Tôi không hiểu 	Tooi khoong hieeur	50000
-Tôi không hiểu 	Toi khong hieu	40000
 Tôi không hiểu 	Tooi khoong hieeur	50000
 Tôi không hiểu 	Toi khong hieu	40000
 Tôi không làm nữa 	Tooi khoong lamf nuwax	50000
@@ -24991,14 +24833,14 @@ Tôi làm xong rồi 	Tooi lamf xong rooif	50000
 Tôi làm xong rồi 	Toi lam xong roi	40000
 tội lỗi 	tooij looix	50000
 tội lỗi 	toi loi	40000
-tôi mời 	tooi mowif	50000
-tôi mời 	toi moi	40000
+Tôi mời 	Tooi mowif	50000
+Tôi mời 	Toi moi	40000
 tới mức 	towis muwcs	50000
 tới mức 	toi muc	40000
 Tôi nghi lắm 	Tooi nghi lawms	50000
 Tôi nghi lắm 	Toi nghi lam	40000
-tôi nghiêm túc đấy 	tooi nghieem tucs ddaays	50000
-tôi nghiêm túc đấy 	toi nghiem tuc day	40000
+Tôi nghiêm túc đấy 	Tooi nghieem tucs ddaays	50000
+Tôi nghiêm túc đấy 	Toi nghiem tuc day	40000
 tới nơi 	towis nowi	50000
 tới nơi 	toi noi	40000
 tội phạm 	tooij phamj	50000
@@ -25027,8 +24869,8 @@ Tôi về rồi 	Tooi veef rooif	50000
 Tôi về rồi 	Toi ve roi	40000
 Tôi về rồi đây 	Tooi veef rooif ddaay	50000
 Tôi về rồi đây 	Toi ve roi day	40000
-tôi yêu bạn 	tooi yeeu banj	50000
-tôi yêu bạn 	toi yeu ban	40000
+Tôi yêu bạn 	Tooi yeeu banj	50000
+Tôi yêu bạn 	Toi yeu ban	40000
 tom 	tom	50000
 tom 	tom	40000
 tóm 	toms	50000
@@ -25071,6 +24913,10 @@ tợn 	townj	50000
 tợn 	ton	40000
 tôn giáo 	toon giaos	50000
 tôn giáo 	ton giao	40000
+tồn kho 	toonf kho	50000
+tồn kho 	ton kho	40000
+tồn kho các bộ phận 	toonf kho cacs booj phaanj	50000
+tồn kho các bộ phận 	ton kho cac bo phan	40000
 tồn kho không đủ 	toonf kho khoong ddur	50000
 tồn kho không đủ 	ton kho khong du	40000
 tồn tại 	toonf taij	50000
@@ -25083,8 +24929,6 @@ tóng 	tongs	50000
 tóng 	tong	40000
 tòng 	tongf	50000
 tòng 	tong	40000
-tông 	toong	50000
-tông 	tong	40000
 tông 	toong	50000
 tông 	tong	40000
 tống 	toongs	50000
@@ -25101,20 +24945,30 @@ tộng 	toongj	50000
 tộng 	tong	40000
 tổng cộng 	toongr coongj	50000
 tổng cộng 	tong cong	40000
-Tổng đài 	Toongr ddaif	50000
-Tổng đài 	Tong dai	40000
+tổng đài 	toongr ddaif	50000
+tổng đài 	tong dai	40000
 tổng giá trị 	toongr gias trij	50000
 tổng giá trị 	tong gia tri	40000
+tổng giá trị bị trừ 	toongr gias trij bij truwf	50000
+tổng giá trị bị trừ 	tong gia tri bi tru	40000
+tổng giám đốc 	toongr giams ddoocs	50000
+tổng giám đốc 	tong giam doc	40000
 tổng hợp 	toongr howpj	50000
 tổng hợp 	tong hop	40000
-tổng hợp 	toongr howpj	50000
-tổng hợp 	tong hop	40000
+tổng hợp tình trạng 	toongr howpj tinhf trangj	50000
+tổng hợp tình trạng 	tong hop tinh trang	40000
 tổng quát 	toongr quats	50000
 tổng quát 	tong quat	40000
 tổng số 	toongr soos	50000
 tổng số 	tong so	40000
+tổng số giờ 	toongr soos giowf	50000
+tổng số giờ 	tong so gio	40000
+tổng số giờ đào tạo 	toongr soos giowf ddaof taoj	50000
+tổng số giờ đào tạo 	tong so gio dao tao	40000
 tổng thể 	toongr theer	50000
 tổng thể 	tong the	40000
+tổng thời gian 	toongr thowif gian	50000
+tổng thời gian 	tong thoi gian	40000
 tổng thống 	toongr thoongs	50000
 tổng thống 	tong thong	40000
 tông tốc 	toong toocs	50000
@@ -25157,8 +25011,6 @@ tốt ngày 	toots ngayf	50000
 tốt ngày 	tot ngay	40000
 tốt nghiệp 	toots nghieepj	50000
 tốt nghiệp 	tot nghiep	40000
-tốt nghiệp 	toots nghieepj	50000
-tốt nghiệp 	tot nghiep	40000
 tốt quá 	toots quas	50000
 tốt quá 	tot qua	40000
 TP Hồ Chí Minh 	TP Hoof Chis Minh	50000
@@ -25183,8 +25035,6 @@ trả của 	trar cuar	50000
 trả của 	tra cua	40000
 tra cứu 	tra cuwus	50000
 tra cứu 	tra cuu	40000
-tra cứu 	tra cuwus	50000
-tra cứu 	tra cuu	40000
 trà điền hồng 	traf ddieenf hoongf	50000
 trà điền hồng 	tra dien hong	40000
 trả góp 	trar gops	50000
@@ -25199,10 +25049,6 @@ trả lại 	trar laij	50000
 trả lại 	tra lai	40000
 trả lại tiền hoa hồng 	trar laij tieenf hoa hoongf	50000
 trả lại tiền hoa hồng 	tra lai tien hoa hong	40000
-trả lời 	trar lowif	50000
-trả lời 	tra loi	40000
-trả lời 	trar lowif	50000
-trả lời 	tra loi	40000
 trả lời 	trar lowif	50000
 trả lời 	tra loi	40000
 trà long tỉnh 	traf long tinhr	50000
@@ -25229,6 +25075,8 @@ trả về 	trar veef	50000
 trả về 	tra ve	40000
 trà võ nghi nham 	traf vox nghi nham	50000
 trà võ nghi nham 	tra vo nghi nham	40000
+trà xanh 	traf xanh	50000
+trà xanh 	tra xanh	40000
 trác 	tracs	50000
 trác 	trac	40000
 trắc 	trawcs	50000
@@ -25249,18 +25097,12 @@ trai 	trai	50000
 trai 	trai	40000
 trái 	trais	50000
 trái 	trai	40000
-trái 	trais	50000
-trái 	trai	40000
 trài 	traif	50000
 trài 	trai	40000
 trãi 	traix	50000
 trãi 	trai	40000
 trải 	trair	50000
 trải 	trai	40000
-trải 	trair	50000
-trải 	trai	40000
-trại 	traij	50000
-trại 	trai	40000
 trại 	traij	50000
 trại 	trai	40000
 trái bong 	trais bong	50000
@@ -25415,8 +25257,6 @@ trạnh 	tranhj	50000
 trạnh 	tranh	40000
 tranh cãi 	tranh caix	50000
 tranh cãi 	tranh cai	40000
-tranh cãi 	tranh caix	50000
-tranh cãi 	tranh cai	40000
 tranh chấp 	tranh chaaps	50000
 tranh chấp 	tranh chap	40000
 tránh dịch 	tranhs dichj	50000
@@ -25445,8 +25285,6 @@ trạo 	traoj	50000
 trạo 	trao	40000
 trao cho 	trao cho	50000
 trao cho 	trao cho	40000
-trao đổi 	trao ddooir	50000
-trao đổi 	trao doi	40000
 trao đổi 	trao ddooir	50000
 trao đổi 	trao doi	40000
 trao đổi thông tin 	trao ddooir thoong tin	50000
@@ -25565,8 +25403,6 @@ trên thực tế 	treen thuwcj tees	50000
 trên thực tế 	tren thuc te	40000
 trên trời 	treen trowif	50000
 trên trời 	tren troi	40000
-trên trời 	treen trowif	50000
-trên trời 	tren troi	40000
 trên xe 	treen xe	50000
 trên xe 	tren xe	40000
 treng 	treng	50000
@@ -25655,8 +25491,6 @@ triện 	trieenj	50000
 triện 	trien	40000
 triển khai 	trieenr khai	50000
 triển khai 	trien khai	40000
-triển khai 	trieenr khai	50000
-triển khai 	trien khai	40000
 triển lãm 	trieenr lamx	50000
 triển lãm 	trien lam	40000
 triển vọng 	trieenr vongj	50000
@@ -25675,6 +25509,12 @@ triết 	trieets	50000
 triết 	triet	40000
 triệt 	trieetj	50000
 triệt 	triet	40000
+triệt để 	trieetj ddeer	50000
+triệt để 	triet de	40000
+triết lý 	trieets lys	50000
+triết lý 	triet ly	40000
+triết lý kinh doanh 	trieets lys kinh doanh	50000
+triết lý kinh doanh 	triet ly kinh doanh	40000
 triêu 	trieeu	50000
 triêu 	trieu	40000
 triều 	trieeuf	50000
@@ -25771,8 +25611,6 @@ trợ 	trowj	50000
 trợ 	tro	40000
 trò chơi 	trof chowi	50000
 trò chơi 	tro choi	40000
-trò chơi 	trof chowi	50000
-trò chơi 	tro choi	40000
 trò chơi trực tuyến 	trof chowi truwcj tuyeens	50000
 trò chơi trực tuyến 	tro choi truc tuyen	40000
 trò chuyện 	trof chuyeenj	50000
@@ -25857,8 +25695,6 @@ tron 	tron	50000
 tron 	tron	40000
 tròn 	tronf	50000
 tròn 	tron	40000
-tròn 	tronf	50000
-tròn 	tron	40000
 trôn 	troon	50000
 trôn 	tron	40000
 trốn 	troons	50000
@@ -25881,8 +25717,6 @@ trọn vẹn 	tronj venj	50000
 trọn vẹn 	tron ven	40000
 trong 	trong	50000
 trong 	trong	40000
-trong 	trong	50000
-trong 	trong	40000
 tròng 	trongf	50000
 tròng 	trong	40000
 trông 	troong	50000
@@ -25903,6 +25737,8 @@ trong ấy 	trong aays	50000
 trong ấy 	trong ay	40000
 trọng điểm 	trongj ddieemr	50000
 trọng điểm 	trong diem	40000
+trọng điểm chất lượng 	trongj ddieemr chaats luowngj	50000
+trọng điểm chất lượng 	trong diem chat luong	40000
 trong đó 	trong ddos	50000
 trong đó 	trong do	40000
 trọng dụng 	trongj dungj	50000
@@ -25939,6 +25775,8 @@ trong nước 	trong nuowcs	50000
 trong nước 	trong nuoc	40000
 trong phòng 	trong phongf	50000
 trong phòng 	trong phong	40000
+trong quá trình 	trong quas trinhf	50000
+trong quá trình 	trong qua trinh	40000
 trong sạch 	trong sachj	50000
 trong sạch 	trong sach	40000
 trong số 	trong soos	50000
@@ -25985,6 +25823,8 @@ trừ phi 	truwf phi	50000
 trừ phi 	tru phi	40000
 trụ sở 	truj sowr	50000
 trụ sở 	tru so	40000
+trừ tiền 	truwf tieenf	50000
+trừ tiền 	tru tien	40000
 trụ trì 	truj trif	50000
 trụ trì 	tru tri	40000
 trưa 	truwa	50000
@@ -26015,8 +25855,6 @@ trực tiếp làm 	truwcj tieeps lamf	50000
 trực tiếp làm 	truc tiep lam	40000
 trục trặc 	trucj trawcj	50000
 trục trặc 	truc trac	40000
-trực tuyến 	truwcj tuyeens	50000
-trực tuyến 	truc tuyen	40000
 trực tuyến 	truwcj tuyeens	50000
 trực tuyến 	truc tuyen	40000
 trui 	trui	50000
@@ -26053,8 +25891,6 @@ trụng 	trungj	50000
 trụng 	trung	40000
 trứng 	truwngs	50000
 trứng 	trung	40000
-trứng 	truwngs	50000
-trứng 	trung	40000
 trừng 	truwngf	50000
 trừng 	trung	40000
 trửng 	truwngr	50000
@@ -26075,8 +25911,6 @@ trúng giải 	trungs giair	50000
 trúng giải 	trung giai	40000
 trung học 	trung hocj	50000
 trung học 	trung hoc	40000
-trung học cơ sở 	trung hocj cow sowr	50000
-trung học cơ sở 	trung hoc co so	40000
 trung học cơ sở 	trung hocj cow sowr	50000
 trung học cơ sở 	trung hoc co so	40000
 trung học phổ thông 	trung hocj phoor thoong	50000
@@ -26119,6 +25953,8 @@ trước nhất 	truowcs nhaats	50000
 trước nhất 	truoc nhat	40000
 trước sau 	truowcs sau	50000
 trước sau 	truoc sau	40000
+trước thay đổi 	truowcs thay ddooir	50000
+trước thay đổi 	truoc thay doi	40000
 trước tiên 	truowcs tieen	50000
 trước tiên 	truoc tien	40000
 trước tuổi 	truowcs tuooir	50000
@@ -26165,8 +26001,6 @@ trường ngoại ngữ 	truowngf ngoaij nguwx	50000
 trường ngoại ngữ 	truong ngoai ngu	40000
 trường sư phạm 	truowngf suw phamj	50000
 trường sư phạm 	truong su pham	40000
-trưởng thành 	truowngr thanhf	50000
-trưởng thành 	truong thanh	40000
 trưởng thành 	truowngr thanhf	50000
 trưởng thành 	truong thanh	40000
 trường thể dục 	truowngf theer ducj	50000
@@ -26261,12 +26095,12 @@ truyệt 	truyeetj	50000
 truyệt 	truyet	40000
 try 	try	50000
 try 	try	40000
+TSCĐ 	TSCDD	50000
+TSCĐ 	TSCD	40000
 tu 	tu	50000
 tu 	tu	40000
 tú 	tus	50000
 tú 	tu	40000
-tù 	tuf	50000
-tù 	tu	40000
 tù 	tuf	50000
 tù 	tu	40000
 tủ 	tur	50000
@@ -26359,8 +26193,6 @@ tự nguyện 	tuwj nguyeenj	50000
 tự nguyện 	tu nguyen	40000
 tư nhân 	tuw nhaan	50000
 tư nhân 	tu nhan	40000
-tự nhiên 	tuwj nhieen	50000
-tự nhiên 	tu nhien	40000
 tự nhiên 	tuwj nhieen	50000
 tự nhiên 	tu nhien	40000
 tư pháp 	tuw phaps	50000
@@ -26461,8 +26293,6 @@ tực 	tuwcj	50000
 tực 	tuc	40000
 tức giận 	tuwcs giaanj	50000
 tức giận 	tuc gian	40000
-tức giận 	tuwcs giaanj	50000
-tức giận 	tuc gian	40000
 Tức là 	Tuwcs laf	50000
 Tức là 	Tuc la	40000
 tức thì 	tuwcs thif	50000
@@ -26555,12 +26385,6 @@ tuồi 	tuooif	50000
 tuồi 	tuoi	40000
 tuổi 	tuooir	50000
 tuổi 	tuoi	40000
-tuổi 	tuooir	50000
-tuổi 	tuoi	40000
-tuổi 	tuooir	50000
-tuổi 	tuoi	40000
-tươi 	tuowi	50000
-tươi 	tuoi	40000
 tươi 	tuowi	50000
 tươi 	tuoi	40000
 tưới 	tuowis	50000
@@ -26679,8 +26503,6 @@ tùy mày 	tuyf mayf	50000
 tùy mày 	tuy may	40000
 tuy nhiên 	tuy nhieen	50000
 tuy nhiên 	tuy nhien	40000
-tuy nhiên 	tuy nhieen	50000
-tuy nhiên 	tuy nhien	40000
 tuy rằng 	tuy rawngf	50000
 tuy rằng 	tuy rang	40000
 tuy thế 	tuy thees	50000
@@ -26705,6 +26527,8 @@ tuyện 	tuyeenj	50000
 tuyện 	tuyen	40000
 tuyên bố 	tuyeen boos	50000
 tuyên bố 	tuyen bo	40000
+tuyên chuyền 	tuyeen chuyeenf	50000
+tuyên chuyền 	tuyen chuyen	40000
 tuyển dụng 	tuyeenr dungj	50000
 tuyển dụng 	tuyen dung	40000
 tuyển sinh 	tuyeenr sinh	50000
@@ -26723,8 +26547,6 @@ tuyệt đối 	tuyeetj ddoois	50000
 tuyệt đối 	tuyet doi	40000
 tuyệt nhiên 	tuyeetj nhieen	50000
 tuyệt nhiên 	tuyet nhien	40000
-tuyệt vời 	tuyeetj vowif	50000
-tuyệt vời 	tuyet voi	40000
 tuyệt vời 	tuyeetj vowif	50000
 tuyệt vời 	tuyet voi	40000
 tuyn 	tuyn	50000
@@ -26749,6 +26571,16 @@ tỷ giá 	tyr gias	50000
 tỷ giá 	ty gia	40000
 tỷ lệ 	tyr leej	50000
 tỷ lệ 	ty le	40000
+tỷ lệ bàn giao 	tyr leej banf giao	50000
+tỷ lệ bàn giao 	ty le ban giao	40000
+tỷ lệ báo hủy 	tyr leej baos huyr	50000
+tỷ lệ báo hủy 	ty le bao huy	40000
+tỷ lệ dừng máy 	tyr leej duwngf mays	50000
+tỷ lệ dừng máy 	ty le dung may	40000
+tỷ lệ giao hàng đạt 	tyr leej giao hangf ddatj	50000
+tỷ lệ giao hàng đạt 	ty le giao hang dat	40000
+tỷ lệ năng suất 	tyr leej nawng suaats	50000
+tỷ lệ năng suất 	ty le nang suat	40000
 u 	u	50000
 u 	u	40000
 ú 	us	50000
@@ -27121,16 +26953,24 @@ văn chương 	vawn chuowng	50000
 văn chương 	van chuong	40000
 vận chuyển 	vaanj chuyeenr	50000
 vận chuyển 	van chuyen	40000
+vận chuyển phát sinh 	vaanj chuyeenr phats sinh	50000
+vận chuyển phát sinh 	van chuyen phat sinh	40000
 vẫn còn 	vaanx conf	50000
 vẫn còn 	van con	40000
 vẫn đang 	vaanx ddang	50000
 vẫn đang 	van dang	40000
 vấn đề 	vaans ddeef	50000
 vấn đề 	van de	40000
+vấn đề khuôn 	vaans ddeef khuoon	50000
+vấn đề khuôn 	van de khuon	40000
+vấn đề quản lý 	vaans ddeef quanr lys	50000
+vấn đề quản lý 	van de quan ly	40000
 vấn đề quan trọng 	vaans ddeef quan trongj	50000
 vấn đề quan trọng 	van de quan trong	40000
 vận động 	vaanj ddoongj	50000
 vận động 	van dong	40000
+vân dòng chảy 	vaan dongf chayr	50000
+vân dòng chảy 	van dong chay	40000
 vận động viên 	vaanj ddoongj vieen	50000
 vận động viên 	van dong vien	40000
 vận hành 	vaanj hanhf	50000
@@ -27363,8 +27203,6 @@ về sau 	veef sau	50000
 về sau 	ve sau	40000
 vệ sinh 	veej sinh	50000
 vệ sinh 	ve sinh	40000
-vệ sinh 	veej sinh	50000
-vệ sinh 	ve sinh	40000
 về tay 	veef tay	50000
 về tay 	ve tay	40000
 vệ tinh 	veej tinh	50000
@@ -27471,8 +27309,6 @@ ví tiền 	vis tieenf	50000
 ví tiền 	vi tien	40000
 vi tính 	vi tinhs	50000
 vi tính 	vi tinh	40000
-vị trí 	vij tris	50000
-vị trí 	vi tri	40000
 vị trí 	vij tris	50000
 vị trí 	vi tri	40000
 vị trí ứng tuyển 	vij tris uwngs tuyeenr	50000
@@ -27749,8 +27585,6 @@ vổng 	voongr	50000
 vổng 	vong	40000
 vọng 	vongj	50000
 vọng 	vong	40000
-vọng 	vongj	50000
-vọng 	vong	40000
 vòng bắc cực 	vongf bawcs cuwcj	50000
 vòng bắc cực 	vong bac cuc	40000
 vòng đeo tay 	vongf ddeo tay	50000
@@ -27815,8 +27649,6 @@ vửa 	vuwar	50000
 vửa 	vua	40000
 vựa 	vuwaj	50000
 vựa 	vua	40000
-vừa ... vừa 	vuwaf ... vuwaf	50000
-vừa ... vừa 	vua ... vua	40000
 vừa đủ 	vuwaf ddur	50000
 vừa đủ 	vua du	40000
 vừa khi 	vuwaf khi	50000
@@ -27851,8 +27683,6 @@ vui lòng 	vui longf	50000
 vui lòng 	vui long	40000
 vui mừng 	vui muwngf	50000
 vui mừng 	vui mung	40000
-vui tính 	vui tinhs	50000
-vui tính 	vui tinh	40000
 vui tính 	vui tinhs	50000
 vui tính 	vui tinh	40000
 vui vẻ 	vui ver	50000
@@ -27929,8 +27759,6 @@ vương 	vuowng	50000
 vương 	vuong	40000
 vướng 	vuowngs	50000
 vướng 	vuong	40000
-vướng 	vuowngs	50000
-vướng 	vuong	40000
 vường 	vuowngf	50000
 vường 	vuong	40000
 vưởng 	vuowngr	50000
@@ -27947,6 +27775,8 @@ vượt 	vuowtj	50000
 vượt 	vuot	40000
 vượt khỏi 	vuowtj khoir	50000
 vượt khỏi 	vuot khoi	40000
+vượt mức 	vuowtj muwcs	50000
+vượt mức 	vuot muc	40000
 vượt qua 	vuowtj qua	50000
 vượt qua 	vuot qua	40000
 vượt quá 	vuowtj quas	50000
@@ -28025,8 +27855,6 @@ xác định 	xacs ddinhj	50000
 xác định 	xac dinh	40000
 xác lập 	xacs laapj	50000
 xác lập 	xac lap	40000
-xác nhận 	xacs nhaanj	50000
-xác nhận 	xac nhan	40000
 xác nhận 	xacs nhaanj	50000
 xác nhận 	xac nhan	40000
 xách 	xachs	50000
@@ -28167,6 +27995,8 @@ xẩy 	xaayr	50000
 xẩy 	xay	40000
 xậy 	xaayj	50000
 xậy 	xay	40000
+xảy đến 	xayr ddeens	50000
+xảy đến 	xay den	40000
 xây dựng 	xaay duwngj	50000
 xây dựng 	xay dung	40000
 xảy ra 	xayr ra	50000
@@ -28195,10 +28025,6 @@ xe ba bánh 	xe ba banhs	50000
 xe ba bánh 	xe ba banh	40000
 xe ba gác 	xe ba gacs	50000
 xe ba gác 	xe ba gac	40000
-xe buýt 	xe buyts	50000
-xe buýt 	xe buyt	40000
-xe buýt 	xe buyts	50000
-xe buýt 	xe buyt	40000
 xe buýt 	xe buyts	50000
 xe buýt 	xe buyt	40000
 xe buýt công cộng 	xe buyts coong coongj	50000
@@ -28245,8 +28071,6 @@ xe máy 	xe mays	50000
 xe máy 	xe may	40000
 xe mô tô 	xe moo too	50000
 xe mô tô 	xe mo to	40000
-xe mô tô 	xe moo too	50000
-xe mô tô 	xe mo to	40000
 xe môi trường 	xe mooi truowngf	50000
 xe môi trường 	xe moi truong	40000
 xe môtô 	xe mootoo	50000
@@ -28263,8 +28087,6 @@ xe ôm 	xe oom	50000
 xe ôm 	xe om	40000
 xe quét đường 	xe quets dduowngf	50000
 xe quét đường 	xe quet duong	40000
-xe tải 	xe tair	50000
-xe tải 	xe tai	40000
 xe tải 	xe tair	50000
 xe tải 	xe tai	40000
 xe tăng 	xe tawng	50000
@@ -28357,10 +28179,14 @@ xếp hàng 	xeeps hangf	50000
 xếp hàng 	xep hang	40000
 xếp hạng 	xeeps hangj	50000
 xếp hạng 	xep hang	40000
+xếp loại 	xeeps loaij	50000
+xếp loại 	xep loai	40000
 xét 	xets	50000
 xét 	xet	40000
 xẹt 	xetj	50000
 xẹt 	xet	40000
+xét duyệt 	xets duyeetj	50000
+xét duyệt 	xet duyet	40000
 xét xử 	xets xuwr	50000
 xét xử 	xet xu	40000
 xều 	xeeuf	50000
@@ -28389,8 +28215,6 @@ xỉa 	xiar	50000
 xỉa 	xia	40000
 xịa 	xiaj	50000
 xịa 	xia	40000
-xích 	xichs	50000
-xích 	xich	40000
 xích 	xichs	50000
 xích 	xich	40000
 xịch 	xichj	50000
@@ -28451,20 +28275,22 @@ xin cấp quyền 	xin caaps quyeenf	50000
 xin cấp quyền 	xin cap quyen	40000
 xin chào 	xin chaof	50000
 xin chào 	xin chao	40000
-xin chào 	xin chaof	50000
-xin chào 	xin chao	40000
 xin chào buổi sáng 	xin chaof buooir sangs	50000
 xin chào buổi sáng 	xin chao buoi sang	40000
 xin gặp 	xin gawpj	50000
 xin gặp 	xin gap	40000
 xin hỏi 	xin hoir	50000
 xin hỏi 	xin hoi	40000
+xin làm 	xin lamf	50000
+xin làm 	xin lam	40000
 xin lỗi 	xin looix	50000
 xin lỗi 	xin loi	40000
 xin lỗi bạn 	xin looix banj	50000
 xin lỗi bạn 	xin loi ban	40000
 xin lỗi ngài 	xin looix ngaif	50000
 xin lỗi ngài 	xin loi ngai	40000
+xin nghỉ 	xin nghir	50000
+xin nghỉ 	xin nghi	40000
 xin phép 	xin pheps	50000
 xin phép 	xin phep	40000
 xin tha lỗi 	xin tha looix	50000
@@ -28723,6 +28549,10 @@ xu hướng 	xu huowngs	50000
 xu hướng 	xu huong	40000
 xử lý 	xuwr lys	50000
 xử lý 	xu ly	40000
+xử lý bất thường 	xuwr lys baats thuowngf	50000
+xử lý bất thường 	xu ly bat thuong	40000
+xử lý nhiệt 	xuwr lys nhieetj	50000
+xử lý nhiệt 	xu ly nhiet	40000
 xử lý vấn đề 	xuwr lys vaans ddeef	50000
 xử lý vấn đề 	xu ly van de	40000
 xứ sở 	xuws sowr	50000
@@ -28755,14 +28585,12 @@ xuất cảnh 	xuaats canhr	50000
 xuất cảnh 	xuat canh	40000
 xuất chúng 	xuaats chungs	50000
 xuất chúng 	xuat chung	40000
+xuất hàng 	xuaats hangf	50000
+xuất hàng 	xuat hang	40000
 xuất hiện 	xuaats hieenj	50000
 xuất hiện 	xuat hien	40000
 xuất khẩu 	xuaats khaaur	50000
 xuất khẩu 	xuat khau	40000
-xuất kì bất ý 	xuaats kif baats ys	50000
-xuất kì bất ý 	xuat ki bat y	40000
-xuất kỳ bất ý 	xuaats kyf baats ys	50000
-xuất kỳ bất ý 	xuat ky bat y	40000
 xuất nhập cảnh 	xuaats nhaapj canhr	50000
 xuất nhập cảnh 	xuat nhap canh	40000
 xuất nhập khẩu 	xuaats nhaapj khaaur	50000
@@ -28927,8 +28755,6 @@ y 	y	40000
 ý định 	y dinh	40000
 ý hoặc 	ys hoawcj	50000
 ý hoặc 	y hoac	40000
-ý kiến 	ys kieens	50000
-ý kiến 	y kien	40000
 ý kiến 	ys kieens	50000
 ý kiến 	y kien	40000
 ý nghĩa 	ys nghiax	50000
