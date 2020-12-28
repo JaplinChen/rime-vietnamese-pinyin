@@ -32,6 +32,10 @@ use_preset_vocabulary: false
 wb = openpyxl.load_workbook('VietnameseWordList.xlsx')
 sheet = wb.active    # -- open active sheet name Ex: 'Sheet1'
 
+last_text = ''
+#last_chinese = ''
+now_chinese = ''
+rcount = 0
 count = 1   
 # -- for "A" column 
 for column in list(sheet.columns)[0]:
@@ -57,6 +61,16 @@ for column in list(sheet.columns)[0]:
             sheet.cell(row=count,column=3).value = Clean_Tone_Text
             sheet.cell(row=count,column=4).value = NoToneText
             sheet.cell(row=count,column=5).value = TelexText
+            #--爲了方便整理字詞，找到重覆的字詞，並在空白欄位，填入次數
+            if last_text == column.value :
+                now_chinese = sheet.cell(row=count,column=2).value
+
+                count += 1
+                sheet.cell(row=count,column=6).value = count
+            else:
+                rcount = 0
+                last_text = column.value
+                #last_chinese = sheet.cell(row=count,column=2).value
 
             # -- save to 'vn.dict.yaml'
             print(Clean_Tone_Text+' 	'+TelexText+'	50000', file=vn_file)
@@ -64,6 +78,9 @@ for column in list(sheet.columns)[0]:
 
             if sheet.cell(row=count,column=2).value is not None:
                 Chinese_Text = sheet.cell(row=count,column=2).value
+                Chinese_Text = Chinese_Text.replace(', ','; ').replace('、','; ')
+                sheet.cell(row=count,column=2).value = Chinese_Text.strip()
+
                 print(Chinese_Text+'	'+Clean_Tone_Text+'	30000', file=vnhan_file)
                 print(Chinese_Text+'	'+TelexText+'	20000', file=vnhan_file)
                 print(Chinese_Text+'	'+NoToneText+'	10000', file=vnhan_file)
