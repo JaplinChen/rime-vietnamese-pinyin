@@ -1,6 +1,6 @@
 # Rime-Vietnamese-Pinyin
 
-## Rime 越南拼音輸入法
+## Rime 越南語 拼音+Telex 輸入法
 
 `這是一個一言不合就動手修改輪子的自用學習越南語小工具。`
 
