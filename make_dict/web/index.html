@@ -13,8 +13,8 @@
         <p>維護 VietnameseWordList.xlsx，並產生 Rime YAML 字典。</p>
       </div>
       <div class="header-actions">
-        <button id="refreshButton" class="secondary">重新載入</button>
-        <button id="generateButton">產生 YAML</button>
+        <button type="button" id="refreshButton" class="secondary">重新載入</button>
+        <button type="button" id="generateButton">產生 YAML</button>
       </div>
     </header>
 
@@ -67,15 +67,15 @@
             <option value="replace">取代中文欄</option>
           </select>
           <input id="importFile" type="file" accept=".tsv,.txt,.json" hidden />
-          <button id="importButton" class="secondary">匯入</button>
-          <button id="exportTsvButton" class="secondary">匯出 TSV</button>
-          <button id="exportJsonButton" class="secondary">匯出 JSON</button>
+          <button type="button" id="importButton" class="secondary">匯入</button>
+          <button type="button" id="exportTsvButton" class="secondary">匯出 TSV</button>
+          <button type="button" id="exportJsonButton" class="secondary">匯出 JSON</button>
         </div>
       </section>
 
       <section class="yaml-band">
         <div class="yaml-actions">
-          <button id="verifyButton" class="secondary">驗證字典</button>
+          <button type="button" id="verifyButton" class="secondary">驗證字典</button>
           <a href="/api/download?file=vn.dict.yaml">下載 vn.dict.yaml</a>
           <a href="/api/download?file=vn_han.dict.yaml">下載 vn_han.dict.yaml</a>
           <a href="/api/download?file=make_dict/vn.dict.yaml">下載 make_dict/vn.dict.yaml</a>
