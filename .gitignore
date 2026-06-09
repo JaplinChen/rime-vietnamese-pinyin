@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+.env
+.*.tmp
+node_modules/
+make_dict/backups/
+make_dict/web_ui_screenshot.png

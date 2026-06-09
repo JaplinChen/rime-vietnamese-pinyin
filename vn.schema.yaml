@@ -33,7 +33,6 @@ engine:
     - speller           #    拼寫處理器，接受字符按鍵，編輯輸入碼
     - punctuator        #    句讀處理器，將單個字符按鍵直接映射爲文字符號
     - selector          #    選字處理器，處理數字選字鍵、上、下候選定位、換頁鍵
-    - navigator         #    處理輸入欄內的光標移動鍵
 #    - fluency_editor   #    句式編輯器，用於以空格斷詞、回車上屏的【注音】、【語句流】等輸入方案，替換express_editor
     - express_editor    #    編輯器，處理空格、回車上屏、回退鍵等
   segmentors:                       # 二、識別不同內容類型，將輸入碼分段
