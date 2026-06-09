@@ -38,6 +38,7 @@ async function loadTerms() {
   const data = await api("/api/terms");
   state.terms = data.terms;
   state.stats = data.stats;
+  state.renderLimit = 500;
   applyFilters();
   updateStats();
   renderTable();
@@ -73,7 +74,7 @@ function updateStats() {
   $("totalCount").textContent = state.stats.total ?? 0;
   $("withChineseCount").textContent = state.stats.withChinese ?? 0;
   $("blankChineseCount").textContent = state.stats.blankChinese ?? 0;
-  $("visibleCount").textContent = state.visible.length;
+  $("visibleCount").textContent = Math.min(state.renderLimit, state.visible.length);
 }
 
 function renderTable() {
@@ -264,12 +265,14 @@ function bindEvents() {
   $("cancelEditButton").addEventListener("click", () => $("editDialog").close());
   $("searchInput").addEventListener("input", (event) => {
     state.search = event.target.value;
+    state.renderLimit = 500;
     applyFilters();
     updateStats();
     renderTable();
   });
   $("filterSelect").addEventListener("change", (event) => {
     state.filter = event.target.value;
+    state.renderLimit = 500;
     applyFilters();
     updateStats();
     renderTable();
