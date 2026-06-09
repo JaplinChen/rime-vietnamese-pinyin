@@ -5,9 +5,12 @@ const state = {
   search: "",
   filter: "all",
   renderLimit: 500,
+  sortField: "rowIndex",
+  sortDirection: "asc",
 };
 
 const $ = (id) => document.getElementById(id);
+const collator = new Intl.Collator(["vi", "zh-Hant"], { numeric: true, sensitivity: "base" });
 
 function toast(message) {
   const node = $("toast");
@@ -68,6 +71,27 @@ function applyFilters() {
     );
     return terms.every((part) => text.includes(part));
   });
+  sortVisibleTerms();
+}
+
+function compareValues(first, second) {
+  const firstEmpty = first === null || first === undefined || first === "";
+  const secondEmpty = second === null || second === undefined || second === "";
+  if (firstEmpty && secondEmpty) return 0;
+  if (firstEmpty) return 1;
+  if (secondEmpty) return -1;
+  if (typeof first === "number" && typeof second === "number") return first - second;
+  return collator.compare(String(first), String(second));
+}
+
+function sortVisibleTerms() {
+  const direction = state.sortDirection === "desc" ? -1 : 1;
+  const field = state.sortField;
+  state.visible.sort((first, second) => {
+    const result = compareValues(first[field], second[field]);
+    if (result !== 0) return result * direction;
+    return first.rowIndex - second.rowIndex;
+  });
 }
 
 function updateStats() {
@@ -80,6 +104,7 @@ function updateStats() {
 function renderTable() {
   const body = $("termsBody");
   body.innerHTML = "";
+  updateSortHeaders();
   const rows = state.visible.slice(0, state.renderLimit);
   const fragment = document.createDocumentFragment();
   for (const term of rows) {
@@ -114,6 +139,21 @@ function renderTable() {
     `;
     body.appendChild(tr);
   }
+}
+
+function updateSortHeaders() {
+  document.querySelectorAll("th").forEach((header) => header.removeAttribute("aria-sort"));
+  document.querySelectorAll(".sort-button").forEach((button) => {
+    const indicator = button.querySelector(".sort-indicator");
+    const active = button.dataset.sort === state.sortField;
+    button.classList.toggle("active", active);
+    if (indicator) {
+      indicator.textContent = active ? (state.sortDirection === "asc" ? "↑" : "↓") : "";
+    }
+    if (active) {
+      button.closest("th")?.setAttribute("aria-sort", state.sortDirection === "asc" ? "ascending" : "descending");
+    }
+  });
 }
 
 function escapeHtml(value) {
@@ -276,6 +316,21 @@ function bindEvents() {
     applyFilters();
     updateStats();
     renderTable();
+  });
+  document.querySelectorAll(".sort-button").forEach((button) => {
+    button.addEventListener("click", () => {
+      const nextField = button.dataset.sort;
+      if (state.sortField === nextField) {
+        state.sortDirection = state.sortDirection === "asc" ? "desc" : "asc";
+      } else {
+        state.sortField = nextField;
+        state.sortDirection = "asc";
+      }
+      state.renderLimit = 500;
+      sortVisibleTerms();
+      updateStats();
+      renderTable();
+    });
   });
   $("termsBody").addEventListener("click", (event) => {
     const button = event.target.closest("button");

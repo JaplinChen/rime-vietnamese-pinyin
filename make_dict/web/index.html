@@ -88,12 +88,24 @@
         <table>
           <thead>
             <tr>
-              <th>列</th>
-              <th>越南語</th>
-              <th>中文</th>
-              <th>Clean Vietnamese</th>
-              <th>Pinyin</th>
-              <th>Telex</th>
+              <th aria-sort="ascending">
+                <button type="button" class="sort-button" data-sort="rowIndex">列 <span class="sort-indicator">↑</span></button>
+              </th>
+              <th>
+                <button type="button" class="sort-button" data-sort="vietnamese">越南語 <span class="sort-indicator"></span></button>
+              </th>
+              <th>
+                <button type="button" class="sort-button" data-sort="chinese">中文 <span class="sort-indicator"></span></button>
+              </th>
+              <th>
+                <button type="button" class="sort-button" data-sort="cleanVietnamese">Clean Vietnamese <span class="sort-indicator"></span></button>
+              </th>
+              <th>
+                <button type="button" class="sort-button" data-sort="pinyin">Pinyin <span class="sort-indicator"></span></button>
+              </th>
+              <th>
+                <button type="button" class="sort-button" data-sort="telex">Telex <span class="sort-indicator"></span></button>
+              </th>
               <th>操作</th>
             </tr>
           </thead>

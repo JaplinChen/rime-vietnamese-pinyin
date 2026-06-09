@@ -227,6 +227,33 @@ th {
   font-weight: 700;
 }
 
+.sort-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  min-height: 0;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  font-weight: 700;
+}
+
+.sort-button:hover {
+  background: transparent;
+  color: var(--primary);
+}
+
+.sort-button.active {
+  color: var(--primary);
+}
+
+.sort-indicator {
+  display: inline-block;
+  width: 1em;
+  color: var(--primary);
+}
+
 tbody tr:hover {
   background: #f8fafc;
 }
