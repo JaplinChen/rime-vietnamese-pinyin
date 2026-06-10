@@ -1,4 +1,5 @@
 import argparse
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -9,6 +10,12 @@ DICT_FILES = (
     ("vn", ROOT_DIR / "vn.dict.yaml", BASE_DIR / "vn.dict.yaml"),
     ("vn_han", ROOT_DIR / "vn_han.dict.yaml", BASE_DIR / "vn_han.dict.yaml"),
 )
+
+
+def configure_output_encoding():
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8")
 
 
 def read_text(path):
@@ -86,6 +93,7 @@ def parse_args():
 
 
 def main():
+    configure_output_encoding()
     args = parse_args()
     duplicate_failures = []
 

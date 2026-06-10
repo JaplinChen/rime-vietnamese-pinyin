@@ -18,6 +18,12 @@ PYTHON_FILES = (
 )
 
 
+def configure_output_encoding():
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8")
+
+
 def compile_scripts():
     print("檢查 Python 腳本語法...")
     for path in PYTHON_FILES:
@@ -64,6 +70,7 @@ def validate_missing_word_list_guard():
 
 
 def main():
+    configure_output_encoding()
     compile_scripts()
     validate_dictionaries()
     validate_missing_word_list_guard()
