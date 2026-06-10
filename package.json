@@ -1,0 +1,24 @@
+{
+  "name": "rime-vietnamese-pinyin-v2",
+  "version": "1.0.0",
+  "description": "[![CI](https://github.com/JaplinChen/rime-vietnamese-pinyin/actions/workflows/ci.yml/badge.svg)](https://github.com/JaplinChen/rime-vietnamese-pinyin/actions/workflows/ci.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaplinChen/rime-vietnamese-pinyin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JaplinChen/rime-vietnamese-pinyin/issues"
+  },
+  "homepage": "https://github.com/JaplinChen/rime-vietnamese-pinyin#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
