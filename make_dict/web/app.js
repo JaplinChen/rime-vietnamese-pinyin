@@ -74,22 +74,24 @@ function applyFilters() {
   sortVisibleTerms();
 }
 
-function compareValues(first, second) {
+function compareValues(first, second, direction) {
   const firstEmpty = first === null || first === undefined || first === "";
   const secondEmpty = second === null || second === undefined || second === "";
   if (firstEmpty && secondEmpty) return 0;
   if (firstEmpty) return 1;
   if (secondEmpty) return -1;
-  if (typeof first === "number" && typeof second === "number") return first - second;
-  return collator.compare(String(first), String(second));
+  const result = typeof first === "number" && typeof second === "number"
+    ? first - second
+    : collator.compare(String(first), String(second));
+  return result * direction;
 }
 
 function sortVisibleTerms() {
   const direction = state.sortDirection === "desc" ? -1 : 1;
   const field = state.sortField;
   state.visible.sort((first, second) => {
-    const result = compareValues(first[field], second[field]);
-    if (result !== 0) return result * direction;
+    const result = compareValues(first[field], second[field], direction);
+    if (result !== 0) return result;
     return first.rowIndex - second.rowIndex;
   });
 }
