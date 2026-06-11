@@ -57,7 +57,7 @@ Telex 輸入方式可參考「越南阿旺」的介紹：[【一定要會】越�
 - A 欄：越南語詞彙
 - B 欄：中文說明
 
-C、D、E 欄會由腳本自動產生。
+C、D、E、F 欄會由腳本自動產生。
 
 ![詞彙整理表](readme.assets/image-20200601095206012.png)
 
@@ -128,6 +128,10 @@ python make_dict\web_ui.py --port 8765
 
 Web UI 每次寫入 `VietnameseWordList.xlsx` 前，會先在 `make_dict/backups/` 建立一份備份；備份檔不納入 Git。
 
+維護詞彙時建議以 `VietnameseWordList.xlsx` 為唯一來源。從外部詞彙表補充時，優先新增不存在的越南語詞條；既有詞條已有中文時不覆蓋，只有中文欄空白時才補值。如果越南語沒有可靠對應中文，中文欄應保持空白。
+
+TypeTwo 相容 JSON 可作為補充來源；匯入時會將 TypeTwo 的「中文 → 越南語」資料反轉為「越南語 → 中文」，相同越南語對應多個中文時以分號合併。
+
 如果要把完全重複的字典行也視為錯誤，可使用嚴格模式：
 
 ```powershell
@@ -149,3 +153,4 @@ python make_dict\validate_dicts.py --strict-duplicates
 3. [rime-vietnamese](https://github.com/gkovacs/rime-vietnamese)
 4. [漢喃字輸入法](https://chinese.com.vn/phan-mem-viet-chu-han-nom-weasel-hannom-mien-phi.html)
 5. [vietnamese-stopwords](https://github.com/stopwords/vietnamese-stopwords/blob/master/vietnamese-stopwords.txt)：已整理部分詞彙。
+6. TypeTwo 詞彙表：可匯入 TypeTwo 相容 JSON 或 TSV 作為 `VietnameseWordList.xlsx` 的補充來源。
