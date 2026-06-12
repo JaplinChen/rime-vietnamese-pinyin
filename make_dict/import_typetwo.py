@@ -71,7 +71,7 @@ def main():
     print(f"新增：{result['appended']} 筆")
     print(f"更新：{result['updated']} 筆")
     print(f"略過：{result['skipped']} 行")
-    print(f"備份：{result['backup']}")
+    print(f"備份：{result['backup'] or '無'}")
 
     run_generate(args.sync_root)
 

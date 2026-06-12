@@ -143,6 +143,16 @@ def validate_web_ui_import_modes():
             if merge_values != ["既有翻譯", "下載", "新增"]:
                 raise SystemExit(f"merge 匯入覆寫或補值錯誤：{merge_values}")
 
+            noop_result = web_ui.import_terms(
+                {
+                    "format": "json",
+                    "mode": "merge",
+                    "text": '{"上傳": "Tải lên", "下載": "Tải xuống", "新增": "Tạo mới"}',
+                }
+            )
+            if noop_result["updated"] != 0 or noop_result["appended"] != 0 or noop_result["backup"]:
+                raise SystemExit(f"merge 無變更匯入不應備份或寫入：{noop_result}")
+
             replace_result = web_ui.import_terms(
                 {
                     "format": "json",

@@ -274,13 +274,13 @@ def import_terms(payload):
         raise ValueError("匯入模式不合法")
 
     with WORKBOOK_LOCK:
-        backup_path = backup_workbook(f"import-{mode}")
         workbook = openpyxl.load_workbook(WORKBOOK_PATH)
         sheet = workbook.active
+        dirty = False
         if mode == "replace":
             for row_index in range(2, sheet.max_row + 1):
-                set_cell(sheet, row_index, 2, "")
-        refresh_derived_columns(sheet)
+                dirty |= set_cell(sheet, row_index, 2, "")
+        dirty |= refresh_derived_columns(sheet)
         by_clean = {}
         by_original = {}
         for row_index in range(2, sheet.max_row + 1):
@@ -300,19 +300,21 @@ def import_terms(payload):
             if row_index:
                 old_value = cell_text(sheet.cell(row=row_index, column=2).value)
                 if mode == "replace" or not old_value:
-                    set_cell(sheet, row_index, 2, target)
+                    dirty |= set_cell(sheet, row_index, 2, target)
                     updated += int(old_value != target)
             else:
                 row_index = sheet.max_row + 1
-                set_cell(sheet, row_index, 1, source)
-                set_cell(sheet, row_index, 2, target)
+                dirty |= set_cell(sheet, row_index, 1, source)
+                dirty |= set_cell(sheet, row_index, 2, target)
                 by_original[source.lower()] = row_index
                 by_clean[clean.lower()] = row_index
                 appended += 1
             imported += 1
 
-        refresh_derived_columns(sheet)
-        workbook.save(WORKBOOK_PATH)
+        dirty |= refresh_derived_columns(sheet)
+        backup_path = backup_workbook(f"import-{mode}") if dirty else ""
+        if dirty:
+            workbook.save(WORKBOOK_PATH)
         workbook.close()
     return {
         "ok": True,
