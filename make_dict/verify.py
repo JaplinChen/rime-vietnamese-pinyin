@@ -18,6 +18,7 @@ PYTHON_FILES = (
     BASE_DIR / "vn_to_telex.py",
     BASE_DIR / "validate_dicts.py",
     BASE_DIR / "web_ui.py",
+    BASE_DIR / "import_typetwo.py",
 )
 
 

@@ -93,6 +93,18 @@ python make_dict\excel_to_vndict.py
 python make_dict\excel_to_vndict.py --sync-root
 ```
 
+如果要從 TypeTwo 詞彙表補充 `VietnameseWordList.xlsx`，可使用可重跑的匯入腳本。預設來源是 `D:\Works\TypeTwo\package\glossary.json`，合併模式只會補中文空白欄與新增詞條，不會覆蓋既有中文：
+
+```powershell
+python make_dict\import_typetwo.py --sync-root
+```
+
+如果 TypeTwo 詞彙表在其他位置，可指定來源：
+
+```powershell
+python make_dict\import_typetwo.py --source D:\Works\TypeTwo\package\glossary.json --sync-root
+```
+
 重建後可執行驗證，確認根目錄與 `make_dict` 內的字典一致，且每筆字典資料格式正確：
 
 ```powershell
