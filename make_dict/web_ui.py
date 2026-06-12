@@ -48,6 +48,34 @@ def normalize_chinese(value):
     return cell_text(value).replace(", ", "; ").replace("、", "; ")
 
 
+def has_cjk(text):
+    return any("\u4e00" <= char <= "\u9fff" for char in cell_text(text))
+
+
+def append_import_entry(entries, source, target):
+    source = cell_text(source)
+    target = normalize_chinese(target)
+    if not source:
+        return
+    if target and source in entries:
+        existing_parts = [part.strip() for part in entries[source].split(";") if part.strip()]
+        for part in [part.strip() for part in target.split(";") if part.strip()]:
+            if part not in existing_parts:
+                existing_parts.append(part)
+        entries[source] = "; ".join(existing_parts)
+        return
+    entries.setdefault(source, target)
+
+
+def append_json_import_entry(entries, source, target):
+    source = cell_text(source)
+    target = cell_text(target)
+    if has_cjk(source) and target and not has_cjk(target):
+        append_import_entry(entries, target, source)
+    else:
+        append_import_entry(entries, source, target)
+
+
 def backup_workbook(reason):
     if not WORKBOOK_PATH.exists():
         return ""
@@ -202,7 +230,7 @@ def parse_import(payload):
     if not isinstance(text, str):
         raise ValueError("匯入內容不可空白")
     fmt = cell_text(payload.get("format")).lower()
-    entries = []
+    entries = {}
     skipped = 0
     if fmt == "json" or text.lstrip().startswith("{"):
         decoded = json.loads(text)
@@ -213,16 +241,16 @@ def parse_import(payload):
             if not isinstance(glossary, dict):
                 raise ValueError("glossary 必須是物件")
             for source, target in glossary.items():
-                entries.append((str(source).strip(), "" if target is None else str(target).strip()))
+                append_json_import_entry(entries, source, target)
             lang_glossary = decoded.get("langGlossary") or {}
             if isinstance(lang_glossary, dict):
                 for glossary_map in lang_glossary.values():
                     if isinstance(glossary_map, dict):
                         for source, target in glossary_map.items():
-                            entries.append((str(source).strip(), "" if target is None else str(target).strip()))
+                            append_json_import_entry(entries, source, target)
         else:
             for source, target in decoded.items():
-                entries.append((str(source).strip(), "" if target is None else str(target).strip()))
+                append_json_import_entry(entries, source, target)
     else:
         for line in text.splitlines():
             if not line.strip():
@@ -231,8 +259,8 @@ def parse_import(payload):
                 skipped += 1
                 continue
             source, target = line.split("\t", 1)
-            entries.append((source.strip(), target.strip()))
-    return [(source, normalize_chinese(target)) for source, target in entries if source], skipped
+            append_import_entry(entries, source, target)
+    return list(entries.items()), skipped
 
 
 def import_terms(payload):

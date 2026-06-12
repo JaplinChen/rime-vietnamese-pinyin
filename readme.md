@@ -142,7 +142,7 @@ Web UI 每次寫入 `VietnameseWordList.xlsx` 前，會先在 `make_dict/backups
 
 維護詞彙時建議以 `VietnameseWordList.xlsx` 為唯一來源。從外部詞彙表補充時，優先新增不存在的越南語詞條；既有詞條已有中文時不覆蓋，只有中文欄空白時才補值。如果越南語沒有可靠對應中文，中文欄應保持空白。
 
-TypeTwo 相容 JSON 可作為補充來源；匯入時會將 TypeTwo 的「中文 → 越南語」資料反轉為「越南語 → 中文」，相同越南語對應多個中文時以分號合併。
+TypeTwo 相容 JSON 可作為補充來源；支援一般 JSON 物件、`glossary` 與 `langGlossary` 結構。匯入時會將 TypeTwo 的「中文 → 越南語」資料反轉為「越南語 → 中文」，相同越南語對應多個中文時以分號合併。
 
 如果要把完全重複的字典行也視為錯誤，可使用嚴格模式：
 

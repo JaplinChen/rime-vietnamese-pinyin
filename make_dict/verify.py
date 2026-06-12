@@ -69,9 +69,43 @@ def validate_missing_word_list_guard():
     run_command([sys.executable, str(BASE_DIR / "vn_to_telex.py")], expect_success=False)
 
 
+def validate_web_ui_import_parser():
+    print("驗證 Web UI 詞彙匯入解析...")
+    sys.path.insert(0, str(BASE_DIR))
+    from web_ui import parse_import
+
+    typetwo_entries, skipped = parse_import(
+        {
+            "format": "json",
+            "text": '{"上傳": "Tải lên", "上傳檔案": "Tải lên"}',
+        }
+    )
+    if skipped != 0 or typetwo_entries != [("Tải lên", "上傳; 上傳檔案")]:
+        raise SystemExit(f"TypeTwo JSON 匯入解析錯誤：{typetwo_entries}, skipped={skipped}")
+
+    exported_entries, skipped = parse_import(
+        {
+            "format": "json",
+            "text": '{"Tải lên": "上傳"}',
+        }
+    )
+    if skipped != 0 or exported_entries != [("Tải lên", "上傳")]:
+        raise SystemExit(f"匯出 JSON 再匯入解析錯誤：{exported_entries}, skipped={skipped}")
+
+    tsv_entries, skipped = parse_import(
+        {
+            "format": "tsv",
+            "text": "Tải lên\t上傳\n無效行",
+        }
+    )
+    if skipped != 1 or tsv_entries != [("Tải lên", "上傳")]:
+        raise SystemExit(f"TSV 匯入解析錯誤：{tsv_entries}, skipped={skipped}")
+
+
 def main():
     configure_output_encoding()
     compile_scripts()
+    validate_web_ui_import_parser()
     validate_dictionaries()
     validate_missing_word_list_guard()
     print("驗證完成")
