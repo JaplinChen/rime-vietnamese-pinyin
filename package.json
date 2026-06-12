@@ -4,6 +4,8 @@
   "description": "[![CI](https://github.com/JaplinChen/rime-vietnamese-pinyin/actions/workflows/ci.yml/badge.svg)](https://github.com/JaplinChen/rime-vietnamese-pinyin/actions/workflows/ci.yml)",
   "main": "index.js",
   "scripts": {
+    "generate": "python make_dict/excel_to_vndict.py --sync-root",
+    "import:typetwo": "python make_dict/import_typetwo.py --sync-root",
     "test": "npm run verify",
     "verify": "python make_dict/verify.py"
   },

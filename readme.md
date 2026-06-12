@@ -79,6 +79,12 @@ npm ci
 python make_dict\excel_to_vndict.py
 ```
 
+若已安裝 Node.js 依賴，也可使用 npm 入口同步更新根目錄發布字典：
+
+```powershell
+npm run generate
+```
+
 腳本會更新：
 
 - `make_dict/vn.dict.yaml`
@@ -97,6 +103,12 @@ python make_dict\excel_to_vndict.py --sync-root
 
 ```powershell
 python make_dict\import_typetwo.py --sync-root
+```
+
+若已安裝 Node.js 依賴，也可使用 npm 入口執行同一件事：
+
+```powershell
+npm run import:typetwo
 ```
 
 如果 TypeTwo 詞彙表在其他位置，可指定來源：
