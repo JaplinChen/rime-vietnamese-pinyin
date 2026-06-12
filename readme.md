@@ -67,6 +67,12 @@ C、D、E、F 欄會由腳本自動產生。
 python -m pip install -r make_dict\requirements.txt
 ```
 
+如果要使用 npm 驗證入口，需另外安裝 Node.js 依賴：
+
+```powershell
+npm ci
+```
+
 重新產生字典：
 
 ```powershell
