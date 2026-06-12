@@ -70,6 +70,8 @@ def append_import_entry(entries, source, target):
 def append_json_import_entry(entries, source, target):
     source = cell_text(source)
     target = cell_text(target)
+    if has_cjk(source) and not target:
+        return
     if has_cjk(source) and target and not has_cjk(target):
         append_import_entry(entries, target, source)
     else:
@@ -297,8 +299,9 @@ def import_terms(payload):
             row_index = by_clean.get(clean.lower()) or by_original.get(source.lower())
             if row_index:
                 old_value = cell_text(sheet.cell(row=row_index, column=2).value)
-                set_cell(sheet, row_index, 2, target)
-                updated += int(old_value != target)
+                if mode == "replace" or not old_value:
+                    set_cell(sheet, row_index, 2, target)
+                    updated += int(old_value != target)
             else:
                 row_index = sheet.max_row + 1
                 set_cell(sheet, row_index, 1, source)
