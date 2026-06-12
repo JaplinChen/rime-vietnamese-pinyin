@@ -111,7 +111,7 @@ Windows PowerShell 也可以使用包裝腳本執行同一套檢查：
 powershell -ExecutionPolicy Bypass -File make_dict\verify.ps1
 ```
 
-GitHub Actions 也會在 Windows 與 Ubuntu 執行同一套完整檢查。
+GitHub Actions 也會在 Windows 與 Ubuntu 透過 `npm test` 執行同一套完整檢查。
 
 ## 詞彙表 Web UI
 
