@@ -99,6 +99,12 @@ python make_dict\validate_dicts.py
 python make_dict\verify.py
 ```
 
+如果已安裝 Node.js 依賴，也可以使用 npm 入口執行同一套完整檢查：
+
+```powershell
+npm test
+```
+
 Windows PowerShell 也可以使用包裝腳本執行同一套檢查：
 
 ```powershell

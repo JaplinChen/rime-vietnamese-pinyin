@@ -4,7 +4,8 @@
   "description": "[![CI](https://github.com/JaplinChen/rime-vietnamese-pinyin/actions/workflows/ci.yml/badge.svg)](https://github.com/JaplinChen/rime-vietnamese-pinyin/actions/workflows/ci.yml)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run verify",
+    "verify": "python make_dict/verify.py"
   },
   "repository": {
     "type": "git",
