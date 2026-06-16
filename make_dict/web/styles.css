@@ -57,6 +57,7 @@ main {
 .header-actions,
 .toolbar,
 .yaml-actions,
+.pagination-actions,
 .dialog-actions {
   display: flex;
   align-items: center;
@@ -198,6 +199,7 @@ a:focus {
 }
 
 .table-wrap {
+  max-height: min(68vh, 720px);
   overflow: auto;
   border: 1px solid var(--line);
   background: var(--surface);
@@ -221,10 +223,11 @@ td {
 th {
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 2;
   background: #eef1f5;
   color: #344054;
   font-weight: 700;
+  box-shadow: 0 1px 0 var(--line);
 }
 
 .sort-button {
@@ -277,13 +280,38 @@ td:nth-child(7) {
   color: var(--muted);
 }
 
-.more-row {
+.empty-row {
   color: var(--muted);
   text-align: center;
 }
 
-.more-row button {
-  margin-left: 10px;
+.pagination-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 10px;
+  border: 1px solid var(--line);
+  padding: 10px 12px;
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.pagination-actions label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pagination-actions label span {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.pagination-actions select {
+  width: auto;
+  min-width: 86px;
 }
 
 .row-actions {
@@ -355,6 +383,11 @@ dialog::backdrop {
   .summary-band,
   .add-form {
     grid-template-columns: 1fr;
+  }
+
+  .pagination-bar {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .summary-band > div {

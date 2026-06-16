@@ -84,7 +84,7 @@
         <pre id="commandOutput" aria-live="polite"></pre>
       </section>
 
-      <section class="table-wrap">
+      <section class="table-wrap" id="tableWrap">
         <table>
           <thead>
             <tr>
@@ -111,6 +111,25 @@
           </thead>
           <tbody id="termsBody"></tbody>
         </table>
+      </section>
+
+      <section class="pagination-bar" aria-label="分頁">
+        <div id="pageStatus">第 1 / 1 頁，顯示 0-0 / 0 筆</div>
+        <div class="pagination-actions">
+          <label>
+            <span>每頁筆數</span>
+            <select id="pageSizeSelect">
+              <option value="50">50</option>
+              <option value="100" selected>100</option>
+              <option value="250">250</option>
+              <option value="500">500</option>
+            </select>
+          </label>
+          <button type="button" id="firstPageButton" class="secondary">第一頁</button>
+          <button type="button" id="prevPageButton" class="secondary">上一頁</button>
+          <button type="button" id="nextPageButton" class="secondary">下一頁</button>
+          <button type="button" id="lastPageButton" class="secondary">最後頁</button>
+        </div>
       </section>
     </main>
 

@@ -4,7 +4,8 @@ const state = {
   stats: {},
   search: "",
   filter: "all",
-  renderLimit: 500,
+  currentPage: 1,
+  pageSize: 100,
   sortField: "rowIndex",
   sortDirection: "asc",
 };
@@ -41,7 +42,7 @@ async function loadTerms() {
   const data = await api("/api/terms");
   state.terms = data.terms;
   state.stats = data.stats;
-  state.renderLimit = 500;
+  state.currentPage = 1;
   applyFilters();
   updateStats();
   renderTable();
@@ -72,6 +73,7 @@ function applyFilters() {
     return terms.every((part) => text.includes(part));
   });
   sortVisibleTerms();
+  clampCurrentPage();
 }
 
 function compareValues(first, second, direction) {
@@ -100,14 +102,41 @@ function updateStats() {
   $("totalCount").textContent = state.stats.total ?? 0;
   $("withChineseCount").textContent = state.stats.withChinese ?? 0;
   $("blankChineseCount").textContent = state.stats.blankChinese ?? 0;
-  $("visibleCount").textContent = Math.min(state.renderLimit, state.visible.length);
+  $("visibleCount").textContent = state.visible.length;
+}
+
+function getTotalPages() {
+  return Math.max(1, Math.ceil(state.visible.length / state.pageSize));
+}
+
+function clampCurrentPage() {
+  state.currentPage = Math.min(Math.max(1, state.currentPage), getTotalPages());
+}
+
+function getPageRows() {
+  clampCurrentPage();
+  const start = (state.currentPage - 1) * state.pageSize;
+  return state.visible.slice(start, start + state.pageSize);
+}
+
+function renderPagination() {
+  const totalPages = getTotalPages();
+  const start = state.visible.length === 0 ? 0 : (state.currentPage - 1) * state.pageSize + 1;
+  const end = Math.min(state.currentPage * state.pageSize, state.visible.length);
+  $("pageStatus").textContent = `第 ${state.currentPage} / ${totalPages} 頁，顯示 ${start}-${end} / ${state.visible.length} 筆`;
+  $("pageSizeSelect").value = String(state.pageSize);
+  $("firstPageButton").disabled = state.currentPage <= 1;
+  $("prevPageButton").disabled = state.currentPage <= 1;
+  $("nextPageButton").disabled = state.currentPage >= totalPages;
+  $("lastPageButton").disabled = state.currentPage >= totalPages;
 }
 
 function renderTable() {
   const body = $("termsBody");
   body.innerHTML = "";
   updateSortHeaders();
-  const rows = state.visible.slice(0, state.renderLimit);
+  renderPagination();
+  const rows = getPageRows();
   const fragment = document.createDocumentFragment();
   for (const term of rows) {
     const tr = document.createElement("tr");
@@ -131,16 +160,20 @@ function renderTable() {
     fragment.appendChild(tr);
   }
   body.appendChild(fragment);
-  if (state.visible.length > state.renderLimit) {
+  if (!rows.length) {
     const tr = document.createElement("tr");
     tr.innerHTML = `
-      <td colspan="7" class="more-row">
-        已顯示 ${state.renderLimit} / ${state.visible.length} 筆
-        <button type="button" class="secondary" id="showMoreButton">顯示更多</button>
-      </td>
+      <td colspan="7" class="empty-row">沒有符合條件的資料</td>
     `;
     body.appendChild(tr);
   }
+}
+
+function setPage(page) {
+  state.currentPage = page;
+  clampCurrentPage();
+  renderTable();
+  $("tableWrap").scrollTop = 0;
 }
 
 function updateSortHeaders() {
@@ -307,14 +340,14 @@ function bindEvents() {
   $("cancelEditButton").addEventListener("click", () => $("editDialog").close());
   $("searchInput").addEventListener("input", (event) => {
     state.search = event.target.value;
-    state.renderLimit = 500;
+    state.currentPage = 1;
     applyFilters();
     updateStats();
     renderTable();
   });
   $("filterSelect").addEventListener("change", (event) => {
     state.filter = event.target.value;
-    state.renderLimit = 500;
+    state.currentPage = 1;
     applyFilters();
     updateStats();
     renderTable();
@@ -328,7 +361,7 @@ function bindEvents() {
         state.sortField = nextField;
         state.sortDirection = "asc";
       }
-      state.renderLimit = 500;
+      state.currentPage = 1;
       sortVisibleTerms();
       updateStats();
       renderTable();
@@ -337,16 +370,19 @@ function bindEvents() {
   $("termsBody").addEventListener("click", (event) => {
     const button = event.target.closest("button");
     if (!button) return;
-    if (button.id === "showMoreButton") {
-      state.renderLimit += 500;
-      renderTable();
-      updateStats();
-      return;
-    }
     const row = Number(button.dataset.row);
     if (button.dataset.action === "edit") openEdit(row);
     if (button.dataset.action === "clear") clearChinese(row).catch((error) => toast(error.message));
   });
+  $("pageSizeSelect").addEventListener("change", (event) => {
+    state.pageSize = Number(event.target.value);
+    state.currentPage = 1;
+    renderTable();
+  });
+  $("firstPageButton").addEventListener("click", () => setPage(1));
+  $("prevPageButton").addEventListener("click", () => setPage(state.currentPage - 1));
+  $("nextPageButton").addEventListener("click", () => setPage(state.currentPage + 1));
+  $("lastPageButton").addEventListener("click", () => setPage(getTotalPages()));
   $("refreshButton").addEventListener("click", () => loadTerms().then(() => toast("已重新載入")).catch((error) => toast(error.message)));
   $("generateButton").addEventListener("click", () => generateYaml().catch((error) => toast(error.message)));
   $("verifyButton").addEventListener("click", () => verifyProject().catch((error) => toast(error.message)));
