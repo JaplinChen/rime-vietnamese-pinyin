@@ -151,6 +151,12 @@ GitHub Actions 也會在 Windows 與 Ubuntu 透過 `npm test` 執行同一套完
 python make_dict\web_ui.py --port 8765
 ```
 
+Windows 也可以直接雙擊根目錄的 `start_web_ui.bat`，或在命令列指定 port：
+
+```powershell
+.\start_web_ui.bat 8765
+```
+
 開啟 `http://127.0.0.1:8765` 後可進行：
 
 - 搜尋、篩選、編輯、新增詞彙。
